@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.32",
+  "source_path": "corpus/diaries/v49_058_058_1881_10_05.md",
+  "source_sha256": "fcb9d8ddfd567c3db0f0a545040c51cf0a1c7d972538c2175a48bd035557972f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The p. 58 marker, full internal date, inserted Moscow location, five diary paragraphs, and terminal fragment are represented; the exact source SHA-256 matched the mounted audited Russian snapshot and the direct P003 boundary result was CLEAR.",
+    "The source has the grammatically anomalous «Всё устраиваются» and archaic/nonstandard «начнуть». The printed volume confirms both readings, so no source erratum is opened. 'Everyone is getting settled. When will they begin to live?' renders the evident sense without altering the Russian witness.",
+    "«Всё не для того, чтобы жить, а для того, что так люди» is rendered 'Everything is done not in order to live, but because that's how people do it.' The supplied English verb 'is done' makes the ellipsis intelligible without replacing Tolstoy's compressed complaint with a freer social explanation.",
+    "The sequence «Вонь, камни, роскошь, нищета. Разврат.» remains equally abrupt: 'Stench, stones, luxury, poverty. Vice.' «оргия» is retained as 'orgy' rather than weakened.",
+    "«выманивать у них назад награбленное» is 'wheedle back from them what was stolen', preserving both the sense of coaxing/luring money out and the fact that Tolstoy calls it stolen property. «Мужики» and «бабы» are represented as peasant men/men and women rather than generalized into an abstract social class.",
+    "The familiar contracted patronymic «Николай Федорыч» is preserved as 'Nikolai Fedorych' rather than silently expanded to Nikolai Fyodorovich Fedorov in Tolstoy's body. External context identifies him as Fedorov, but the surname is not inserted.",
+    "The fragment «Исполнять! — Это само собой разумеется» is rendered 'To put it into practice!—That goes without saying.' Contemporary evidence explains the implicit object as Christian teaching, but the English still leaves the object unnamed.",
+    "«Нет белья, нет постели» remains 'No linen, no bed.' Poor Solovyov's failure «не разобрав христианство» is rendered 'without understanding Christianity' without adding doctrinal characterization. The repeated «Болтовня, болтовня» remains 'Chatter, chatter'.",
+    "The final «Был в Торжке у Сютаева, утешенье» retains its diary compression as 'Was in Torzhok at Syutaev's—a consolation.' The reverse target-to-source audit found no substantive omission or unsupported explanatory addition."
+  ],
+  "result": "PASS"
+}

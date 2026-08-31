@@ -12,3 +12,4 @@ Record recurring transliteration, conventional English names, titles, diminutive
 | Афанасий Афанасьич | Afanasy Afanasich | Familiar form of address to A. A. Fet | Preserve the contracted patronymic when Tolstoy writes it; do not silently regularize it to Afanasyevich. |
 | Николай Михайлович Нагорнов | Nikolai Mikhailovich Nagornov | Tolstoy relative and publishing/business agent | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
 | Илья Львович Толстой | Ilya Lvovich Tolstoy | Tolstoy’s son | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
+| Николай Федорыч | Nikolai Fedorych | Familiar form used for N. F. Fedorov in the 5 October 1881 diary | Preserve the contracted patronymic in Tolstoy’s body; do not silently expand it to Fyodorovich or add the surname. |
