@@ -1,0 +1,16 @@
+{
+  "batch": "P003",
+  "unit": "P003.04",
+  "source_path": "corpus/works/v34_343_344_Konspekt_Vospominanij.md",
+  "source_sha256": "1cc5b793219f6425ce9c3ed1e58c4b2021f6a841993b1d5cda7739244ccec97e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [],
+  "result": "PASS"
+}
