@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.06",
+  "source_path": "corpus/letters/v59_024_T_A_Ergolskoj.md",
+  "source_sha256": "00192dfd711e9eac68526aaf66221c6559d2e921b86168cdcafef25143bb3df4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's letter body is in French; it was translated directly from the French. Editorial note 1 gives the edition's Russian translation and is translated separately as apparatus."
+  ],
+  "result": "PASS"
+}
