@@ -12,9 +12,9 @@ The audit found:
 - **0 wrong speakers, subjects, names, numbers, or dates**
 - **0 lost headings, page markers, or footnote structures** in the sample
 - **1 minor source-precision correction** in an imperial-era form of address
-- **4 minor contemporary-English clarity edits**, none changing substantive meaning
+- **4 style-only clarity edits were proposed**, none changing substantive meaning; all four were later reverted after editorial review in favor of a more conservative translation posture (Decision D0001)
 
-No sampled unit needed to be demoted from `reviewed` status.
+No sampled unit needed to be demoted from `reviewed` status. The one genuine precision correction remains; the four style-only changes were subsequently rejected as unnecessary smoothing and restored to the more source-shaped wording.
 
 ## What “cold” means here
 
@@ -57,7 +57,7 @@ The translation does not reconstruct words lost with the torn sheet. Partial wor
 
 ### 4. Diary, 16 June 1847 — PASS
 
-All of Tolstoy's claims, including the misogynistic content, remain present without euphemism or intensification. The deleted/source-error notes are retained. The opening question received a purely syntactic contemporary-English smoothing (`reach the point where I depend...`); its meaning is unchanged.
+All of Tolstoy's claims, including the misogynistic content, remain present without euphemism or intensification. The deleted/source-error notes are retained. The opening question was initially given a purely syntactic contemporary-English smoothing, but that smoothing was later reverted under Decision D0001 because the closer English remained intelligible. No fidelity defect was present.
 
 ### 5. Note No. 1, 1863 — PASS
 
@@ -73,11 +73,11 @@ The audit specifically checked for contamination from the familiar Western versi
 
 ### 8. Circle of Reading, 2 January — PASS
 
-All five numbered sections, attributions, Tolstoy framing sentences, and page divisions are represented. No quotation was silently replaced with a familiar external English original. `so-called learned men` was changed to `so-called scholars` for contemporary English; this is a style clarification, not a substantive correction.
+All five numbered sections, attributions, Tolstoy framing sentences, and page divisions are represented. No quotation was silently replaced with a familiar external English original. A proposed change from `so-called learned men` to `so-called scholars` was later reverted under Decision D0001. The closer wording remains intelligible and better preserves the source construction.
 
 ### 9. Circle of Reading, 4 January — PASS
 
-Tolstoy's opening and closing reflections and all six attributed selections are present. No source quotation has been restored from an external standard edition. Two awkward calques were clarified: `the whole world of people` became `all humanity`, and `grow completely and tightly into` became `become completely fused with`. The source claims are unchanged.
+Tolstoy's opening and closing reflections and all six attributed selections are present. No source quotation has been restored from an external standard edition. Two style-only changes were proposed during the cold audit (`the whole world of people` → `all humanity`; `grow completely and tightly into` → `become completely fused with`). Both were later reverted under Decision D0001 because the source-shaped English is intelligible and preserves Tolstoy’s concrete phrasing more closely.
 
 ### 10. Why Do People Write? — PASS
 
@@ -98,7 +98,7 @@ Mechanical agreement is not semantic proof, but in combination with the direct b
 
 The important result is not that every English phrase is uniquely optimal. Several could legitimately be phrased another way. The important result for corpus reliability is that this difficult 40% sample contained no evidence of the failure mode the project is primarily designed to prevent: material silently disappearing, new meaning being supplied, or Tolstoy's thought being substantially changed during smoothing.
 
-The cold pass did still find a real small error and several unnecessary calques, which is evidence that the extra layer is useful rather than ceremonial.
+The cold pass did still find a real small precision error and several places where freer smoothing was conceivable. Subsequent editorial review established that conceivable smoothing should not itself be treated as improvement when the closer English is already intelligible.
 
 ## Recommendation
 

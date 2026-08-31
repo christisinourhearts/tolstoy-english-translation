@@ -16,7 +16,7 @@ P001 and P002 are complete. P002 has now also received a 10-unit cold fidelity s
 - P002 structured bilingual coverage records: 25 / 25 PASS.
 - P002 cold-audit sample: 10 / 10 PASS.
 - Cold-audit hard fidelity defects: 0.
-- Cold-audit minor local revisions: 5 edits across 4 files (1 precision correction, 4 contemporary-English clarity edits).
+- Cold-audit lasting local revision: 1 precision correction. Four style-only smoothings were later reverted under Decision D0001 in favor of conservative fidelity.
 - Mechanical validation after cold-audit revisions: 32 English files checked, 0 errors, 2 intentional Cyrillic warnings.
 - Source-integrity postflight after cold audit: 15,766 records checked, 0 missing, 0 changed by hash; source files remain unmodified.
 - Confirmed source errata: 2, both *New Azbuka* files truncated at page boundaries and quarantined before translation.
@@ -36,4 +36,4 @@ P002 is closed. No P003 files have been started.
 
 ## NEXT ACTION
 
-Add the planned automatic boundary-suspicion preflight for small source files, then select P003 at approximately 50 short units / 7,000–10,000 source words. Keep a post-P003 cold-audit sample as a quality gate.
+Run `tools/preflight_boundaries.py` against the authoritative Russian source tree/ZIP, then process the selected P003 batch in `qa/batches/P003.md`. Keep a post-P003 cold-audit sample as a quality gate.

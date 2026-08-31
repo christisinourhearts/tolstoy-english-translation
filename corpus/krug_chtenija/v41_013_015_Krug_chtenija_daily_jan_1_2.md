@@ -25,7 +25,7 @@ translation_status: "reviewed"
 
 2 January
 
-One of the crudest superstitions is the belief held by most of the so-called scholars of our time that a person can live without faith.
+One of the crudest superstitions is the superstition of most of the so-called learned men of our time that a person can live without faith.
 
 1
 

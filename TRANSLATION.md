@@ -50,6 +50,8 @@ Preserve heading hierarchy, block quotes, verse lineation, tables, deletion/addi
 
 ## 5. English style
 
+The default posture is conservative fidelity. When a close rendering is clear and intelligible in English, preserve the source's concrete wording, imagery, repetitions, and unusual turns rather than replacing them with a smoother abstraction. “Contemporary English” means avoiding needless archaism and accidental Russian stiffness; it does not mean rewriting Tolstoy into more idiomatic or elegant English than the source warrants. See `metadata/DECISIONS.md` for consequential examples and standing editorial decisions.
+
 - Use normal contemporary English syntax when Russian syntax carries no special force.
 - Prefer ordinary English words when Tolstoy uses ordinary Russian words.
 - Avoid decorative synonyms introduced only to prevent repetition.
