@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.31",
+  "source_path": "corpus/diaries/v57_011_012_1909_01_15.md",
+  "source_sha256": "fbb3cc057b68bf58e22b21744b21a50456bc45b657a51450323ea6f938f6b8da",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The subtitle, pp. 11–12 markers, abbreviated internal date/location heading, and complete diary body are represented; the exact source SHA-256 matched the mounted audited Russian snapshot and the direct P003 boundary result was CLEAR.",
+    "«Я. П.» is retained as 'Y. P.' rather than expanded to Yasnaya Polyana inside Tolstoy's abbreviated heading.",
+    "Wanda Landowska's surname is rendered in its established Latin spelling 'Landowska'. «Впечатление слабое» remains the clipped 'Weak impression' rather than being expanded into a full explanatory sentence.",
+    "The repetition «стыдно, стыдно, всё стыдно» is preserved as 'ashamed, ashamed, ashamed of everything' rather than compressed to a single statement of embarrassment.",
+    "«Божьего Полка» is rendered literally as 'God's Regiment'. External editorial context identifies this as the Vaisov Muslim religious group, but that explanation is not inserted into Tolstoy's diary body.",
+    "The heading-like fragment «Ивану Ивановичу» remains 'To Ivan Ivanovich'. The three birth/death analogies retain Tolstoy's repeated oppositions of falling asleep and awakening without doctrinal explanation.",
+    "The unusual «засыпание к этой нашей телесной жизни» is rendered 'a falling asleep into this bodily life of ours'. The English supplies only the directional preposition needed for intelligibility and does not replace the source's strange image with an explanatory paraphrase.",
+    "«И то, и другое, и третие верно» is rendered 'The first, the second, and the third are all true', preserving the explicit threefold enumeration while regularizing only the English grammar. The closing singular construction remains singular: 'Awakening and sleep, sleep and awakening, is the truest conception of our life in time.'",
+    "The reverse target-to-source audit found no omitted substantive thought, unsupported addition, or stylistic smoothing that changes the philosophical structure."
+  ],
+  "result": "PASS"
+}
