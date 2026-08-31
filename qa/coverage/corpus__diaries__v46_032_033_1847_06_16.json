@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.11",
+  "source_path": "corpus/diaries/v46_032_033_1847_06_16.md",
+  "source_sha256": "b6aa184bf7d68a2d69281f27ccfd1a0d68782c5022b0bca95e10f0977d0fe343",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's misogynistic argument is translated without softening. The editorial note preserves the source's misspelling 'жуже' exactly rather than silently repairing it."
+  ],
+  "result": "PASS"
+}
