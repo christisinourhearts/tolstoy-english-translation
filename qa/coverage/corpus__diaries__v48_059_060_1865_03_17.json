@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.27",
+  "source_path": "corpus/diaries/v48_059_060_1865_03_17.md",
+  "source_sha256": "524dec4d5e730d29f90c4d84d9b372d2ca6adeb672a310368e012a2649defbbd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The title/subtitle metadata, pp. 59–60 markers, date heading, complete diary body, and French bibliographic switch are represented; the unit's exact SHA-256 matched the mounted audited Russian source and its direct boundary result was CLEAR.",
+    "«На похоронах у Сережи» is rendered ‘At the funeral at Seryozha’s,’ avoiding the false implication that Seryozha himself had died. The official volume commentary identifies the deceased as Nikolai, the young son of Tolstoy's brother Sergei Nikolaevich, but that identification is not inserted into the diary body.",
+    "The concrete rail image and ritual examples remain intact: «иметь проложенные рельсы, по которым идти — вой, панихида» is ‘have rails laid down along which to go—wailing, a memorial service.’",
+    "The two overlapping snow impressions are distinguished as a person's footprint that had not sunk in and a dog's footprint that had. Grammatical feminine «собака / у ней / она» does not establish the animal's sex, so English uses gender-neutral ‘its/it.’ «точка опоры» remains the concrete ‘point of support.’",
+    "The deliberately paradoxical sequence preserves every repetition and distinction: «премудрость Бога» is ‘the wisdom of God’; «не премудрость, не ум» is ‘not wisdom, not intelligence’; «инстинкт Божества» is ‘the instinct of the Deity’; and human «ум» remains ‘intelligence,’ the ability to deviate from instinct and comprehend those deviations.",
+    "«С страшной ясностью, силой и наслаждением» remains ‘with terrible clarity, force, and delight,’ without weakening the intensity or omitting the pleasure with which the thoughts came.",
+    "The audited and official body texts read «у Пашковых». The official commentary calls this a probable authorial slip for «Пашковских», the priest Pashkovsky's family. Because the printed/audited reading is verified rather than digitally corrupt, the English preserves the surname as ‘Pashkovs’ and records the uncertainty here instead of silently emending Tolstoy.",
+    "The approximate inversion «Дня 4» is represented as ‘about four days.’ The clipped diary rhythm remains in ‘Had not written ... Wrote today.’ The official commentary's probable identification of «немца» as the German gardener is not added to the body.",
+    "Mixed French/Russian shorthand «Mémoire Ragus’a» refers, according to the official volume commentary and the 19 March continuation, to Marmont, Duke of Ragusa's nine-volume memoirs. It is rendered conservatively as the English title shorthand *Ragusa’s Memoirs*, with the original French switch recorded in front matter. The closing «Очень мне полезно» remains the fragment ‘Very useful to me.’"
+  ],
+  "result": "PASS"
+}
