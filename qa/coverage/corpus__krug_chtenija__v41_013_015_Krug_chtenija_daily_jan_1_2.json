@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.23",
+  "source_path": "corpus/krug_chtenija/v41_013_015_Krug_chtenija_daily_jan_1_2.md",
+  "source_sha256": "a76bdaf3bce630a9b07658e15f58f39ad38c406b6f94ec50be9a0eb320c3e94d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Attributed passages were translated from Tolstoy's compiled Russian wording rather than restored from external originals. This preserves Tolstoy's selection, adaptation, and wording as the source object."
+  ],
+  "result": "PASS"
+}
