@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.22. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.23. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 21 / 50 accepted
-- Last accepted unit: P003.21 — letter to S. V. Danilevich, 17 May 1907
-- Next unit: P003.22 — letter to G. A. Novichkov, 26 September 1907
-- Total reviewed translations: 53
-- Approximate reviewed source-body words: 10,299
-- Structured bilingual coverage records: 46
+- P003: in progress, 22 / 50 accepted
+- Last accepted unit: P003.22 — letter to G. A. Novichkov, 26 September 1907
+- Next unit: P003.23 — letter to T. A. Kuzminskaya, 4 August 1908
+- Total reviewed translations: 54
+- Approximate reviewed source-body words: 10,439
+- Structured bilingual coverage records: 47
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–21.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–22.
 
 ## P003.11 translation note
 
@@ -76,6 +76,10 @@ The Fyodor Alexeyevich Strakhov letter headed 28 January 1905 was accepted in co
 ## P003.21 translation/source-QA note
 
 The Samuil Vulfovich Danilevich letter of 17 May 1907 was accepted in commit `fd665d8`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The body preserves the standalone dative address `Данилевичу.` as “To Danilevich.” rather than inventing a warmer salutation; `намерениях чистоты жизни` remains the broad “intentions toward purity of life” rather than being narrowed to “chastity”; the repeated `успешной ... успеха` remains “a successful struggle ... the possibility of success”; and `постоянства и вследствие постоянства преуспеяния` remains “constancy and, as a result of constancy, progress.” During apparatus audit, the audited Markdown was found to contain a bare list item `3.` immediately before the p. 106 page marker. The official 90-volume edition, volume 77, pp. 105–106, confirms that the apparatus ends after note 2 and page 106 begins directly with letter 117; there is no third note or numeral. This is recorded as a confirmed non-substantive source erratum in `metadata/source_errata.yml` and `qa/source_suspected/v77_116_S_V_Danilevichu.json`. The Russian repository remains unchanged; the English omits only that spurious numeral and preserves the page marker and original source hash.
+
+## P003.22 translation note
+
+The Gavriil Alexandrovich Novichkov letter of 26 September 1907 was accepted in commit `9eb3bda`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. Tolstoy's salutation uses the variant/familiar first-name form `Гаврило Александрович`, preserved in the body as “Gavrilo Alexandrovich,” while the metadata retains the catalogued full form “Gavriil Alexandrovich Novichkov.” `моему хорошему знакомому` remains “my good acquaintance,” not “friend”; `похлопотать о вашем деле у губернатора` is rendered “intercede in your case with the governor”; and the compact `что нужно и можно` remains “what is necessary and possible.” `От всей души соболезную вам` is rendered “With all my heart I sympathize with you,” and the final `мужественно и безропотно по-христиански переносите вашу невзгоду` remains close as “bearing your misfortune courageously and without complaint, in a Christian way.” All three editorial notes were translated and checked; no source erratum was found.
 
 ## Repository maintenance note
 
