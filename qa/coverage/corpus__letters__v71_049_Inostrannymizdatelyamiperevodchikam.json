@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.18",
+  "source_path": "corpus/letters/v71_049_Inostrannymizdatelyamiperevodchikam.md",
+  "source_sha256": "bedeea06c7094ef30b8b95817b8815844f31fa2caf1fb00ab1b886d3d128cc69",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's document body is already in English in the authoritative source and is preserved verbatim rather than retranslated from the editors' Russian rendering; this retains the historical spellings 'Vladimir Tchertkoff' and 'Moscou' and the source punctuation.",
+    "The editorial heading dates the item 25 February 1898, while Tolstoy's English document is signed 8 March 1898 and editorial note 5 identifies that date as New Style. The electronic 90-volume edition confirms this exact combination, so both dates are preserved without normalization.",
+    "Editorial notes 1–4 are Russian renderings of the English document's contents and are translated as editorial apparatus rather than substituted for Tolstoy's original English wording.",
+    "In editorial note 1, «все соглашения и связи с первым изданием» is rendered conservatively as 'all agreements and connections concerning the first publication'; the awkward pairing is retained rather than collapsed into the smoother source-English 'all arrangements in connection with'.",
+    "Editorial note 5's «Дата нового стиля» is rendered 'The date is New Style', preserving the editors' explicit calendrical designation."
+  ],
+  "result": "PASS"
+}
