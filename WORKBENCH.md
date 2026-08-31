@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **73**.
+- Reviewed English translations: **74**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **41 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **12,933**.
+- P003: **42 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **13,022**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **66**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **67**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -108,10 +108,11 @@ Completed and accepted:
 39. `corpus/azbuka/v21_342_343_Rasskaz.md`
 40. `corpus/azbuka/v22_050_050_U_odnoj_baryni_byla_sobachenka.md`
 41. `corpus/azbuka/v22_209_210_Telenok_na_ldu.md`
+42. `corpus/azbuka/v22_562_563_Volk_i_jagnenok.md`
 
-Last completed unit: **P003.41 — The Calf on the Ice (Primer version).**
+Last completed unit: **P003.42 — The Wolf and the Lamb (Primer version).**
 
-Next planned unit: **P003.42 — `corpus/azbuka/v22_562_563_Volk_i_jagnenok.md`**.
+Next planned unit: **P003.43 — `corpus/azbuka/v21_207_207_Olen.md`**.
 
 ## Exact source verification completed
 

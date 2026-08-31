@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.42",
+  "source_path": "corpus/azbuka/v22_562_563_Volk_i_jagnenok.md",
+  "source_sha256": "f5c0fc93528b8e245c08906c7943a149eb771b80b4aeb8f32a65f2101c41a170",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, title, internal printed page number 3, and the complete fable text are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "This Primer text parallels P003.38 but is independently audited. It lacks the explicit fable label, uses different punctuation around the wolf's first speech, and has a semicolon after «натощак»; those source-version differences are not silently collapsed.",
+    "The compact opening «Волк увидал, — ягненок пьет у реки» remains 'A wolf saw—a lamb was drinking at the river,' preserving Tolstoy's abrupt narrative construction.",
+    "The source appears to omit a closing quotation mark after the lamb's first reply before «А волк говорит». English supplies the syntactically necessary closing quote without changing or adding any words; this is punctuation normalization only.",
+    "«Тебя не переговоришь» remains the slightly unusual 'There's no outarguing you,' following P003.38 and preserving the concrete verbal contest rather than smoothing it to a generic complaint. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
