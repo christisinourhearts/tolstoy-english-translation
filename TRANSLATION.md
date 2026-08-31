@@ -134,7 +134,15 @@ When `SOURCE_SUSPECTED` is triggered:
 
 The system must prefer an explicit unresolved source problem over an ingenious invented interpretation.
 
-## 12. Bilingual coverage proof
+For corpus families made of many small independently segmented files (especially *New Azbuka* material), perform a boundary sanity check before translation. A file that begins or ends in the middle of an ordinary sentence, has an obviously unfinished final clause, or conflicts with its stated page range should trigger `SOURCE_SUSPECTED`. Check the neighboring page/file and the full volume before assuming that the fragment is intentional. A valid source hash proves identity, not completeness of segmentation.
+
+## 12. Compilations, adapted quotations, and wordplay
+
+In compilations such as *Krug chteniya*, the Russian text selected, translated, shortened, or adapted by Tolstoy is itself the source object for this English corpus. Do not silently replace it with a familiar published English translation of the attributed author, Bible passage, or proverb. External originals may be consulted to resolve meaning or attribution, but the English should represent Tolstoy's compiled wording unless a separate editorial policy explicitly says otherwise.
+
+When a passage depends on sound-play, punning, or deliberate mishearing that cannot survive literally in English, preserve the semantic action and record the untranslatable correspondence in the coverage record. Do not invent a substantially different English joke merely to recreate an effect.
+
+## 13. Bilingual coverage proof
 
 A translation cannot be accepted merely because it reads well or passes structural validation. Its final audit must make an exhaustive source-to-English pass whose primary question is: **is every substantive source element represented, and is every substantive English element supported by the source?**
 
@@ -155,7 +163,7 @@ A mechanical paragraph or sentence count is useful only as a warning signal. Rus
 
 Any omission, unsupported addition, reversed relation, wrong subject/speaker, lost negation, altered modality, wrong name/number/date, or other hard fidelity error blocks acceptance until corrected. Legitimate interpretive alternatives may be recorded without blocking acceptance when the chosen English is defensible and does not conceal uncertainty in the source.
 
-## 13. Gauntlet workflow
+## 14. Gauntlet workflow
 
 Each translation unit passes through finite stages. The creator of a translation should not be its only critic.
 
@@ -171,7 +179,7 @@ Critics must cite a specific source passage and a specific problem. “Could be 
 
 Do not loop indefinitely. A unit passes when no substantive fidelity defects remain, the English is intelligible and natural at the source's register, and mechanical validation passes.
 
-## 14. Batch sizing and persistence
+## 15. Batch sizing and persistence
 
 Assume the active AI context can disappear at any time.
 
@@ -182,7 +190,7 @@ Assume the active AI context can disappear at any time.
 - For long works, process chapter/section chunks internally, but keep the final repository's one-to-one file identity unless there is a compelling technical reason otherwise.
 - A resumed session should be able to determine the next action from the repository alone.
 
-## 15. Acceptance checklist
+## 16. Acceptance checklist
 
 A completed unit should satisfy all applicable items:
 
@@ -203,6 +211,6 @@ A completed unit should satisfy all applicable items:
 - [ ] Workbench updated.
 - [ ] Changes committed/checkpointed.
 
-## 16. Changing these rules
+## 17. Changing these rules
 
 Improve this constitution when repeated real examples show that a rule is inadequate. Record consequential changes in Git. Do not casually rewrite the rules in the middle of a batch merely to justify a local translation choice.
