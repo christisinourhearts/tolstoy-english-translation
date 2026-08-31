@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.37",
+  "source_path": "corpus/azbuka/v21_171_171_Telenok_na_ldu.md",
+  "source_sha256": "80843c54d091f0b83b33c60bd9d70b324d292444e7009b9590eb6c3307d3b70c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, title, fable label, narrative, calf's complaint, and old cow's reply are all represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "«закута» is rendered 'pen' and «скотиною» 'livestock', keeping the farm setting plain rather than specifying a structure or species not supplied by the source.",
+    "«нога его раскатилась» is rendered 'his leg slid out from under him', conveying the concrete slipping action without embellishment.",
+    "The final «труднее держаться» is 'harder to keep your footing', preserving the physical sense and the fable's contrast between easy jumping and difficult balance.",
+    "Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}

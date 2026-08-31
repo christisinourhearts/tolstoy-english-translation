@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **68**.
+- Reviewed English translations: **69**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **36 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **12,482**.
+- P003: **37 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **12,573**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **61**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **62**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -103,10 +103,11 @@ Completed and accepted:
 34. `corpus/notes/v51_158_159_Zapisi_na_listah_1890.md`
 35. `corpus/notes/v57_252_253_Zapisnaja_knizhka_1909_g_No_2.md`
 36. `corpus/notes/v48_349_350_Zapis_No_7_1878.md`
+37. `corpus/azbuka/v21_171_171_Telenok_na_ldu.md`
 
-Last completed unit: **P003.36 — Note No. 7, 1878.**
+Last completed unit: **P003.37 — The Calf on the Ice.**
 
-Next planned unit: **P003.37 — `corpus/azbuka/v21_171_171_Telenok_na_ldu.md`**.
+Next planned unit: **P003.38 — `corpus/azbuka/v21_274_274_Volk_i_jagnenok.md`**.
 
 ## Exact source verification completed
 
