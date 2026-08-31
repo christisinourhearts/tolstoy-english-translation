@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.41",
+  "source_path": "corpus/azbuka/v22_209_210_Telenok_na_ldu.md",
+  "source_sha256": "2d8fd74df143926843598480fbcd9ce1013744ec537bdad3eacdba9c2790819a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, title, complete narrative, internal printed page number 8, calf's complaint, and old cow's reply are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "This Primer version closely parallels P003.37 but is translated from its own source rather than copied as an assumed duplicate. It lacks the earlier version's explicit fable label and contains several punctuation and wording differences, all respected here.",
+    "The unusual source sequence «к; водопою» is not silently emended in the Russian witness; official volume 22 reproduces the same punctuation. Its unambiguous semantic reading is translated as 'to the watering place'.",
+    "«стал кружить» is rendered 'began circling'; «нога его раскатилась» remains 'his leg slid out from under him', matching the concrete physical sense used in P003.37.",
+    "The source's unusual punctuation after «Старая корова сказала.» and its lack of terminal punctuation in the final quotation are preserved rather than regularized. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
