@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **84**.
+- Reviewed English translations: **85**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **15,051**.
-- Confirmed source errata: **8**.
-- Existing structured coverage records: **77**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Approximate reviewed source-body words: **15,320**.
+- Confirmed source errata: **9**.
+- Existing structured coverage records: **78**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **2 / 50 accepted.**
-- Last completed unit: **P004.02 — To Dear Auntie (Congratulatory Verses).**
-- Next unit: **P004.03 — A Temporary Method for the Study of Music.**
+- **3 / 50 accepted.**
+- Last completed unit: **P004.03 — A Temporary Method for the Study of Music.**
+- Next unit: **P004.04 — To the Trap.**
 
 ## P003 status
 
@@ -160,6 +160,9 @@ P003.33 triggered `SOURCE_SUSPECTED` because the audited entry has `Овеянн
 
 P003.50 triggered `SOURCE_SUSPECTED` because the audited Markdown misplaces the p. 155/item 3 boundary after the Lucy Mallory attribution, effectively merging the two Mallory selections under item 2 and leaving a stranded `3` before item 4. Official volume 42 shows p. 155 beginning with item 3 before the second Mallory passage. English restores only that verified structure, retains the original source hash, and leaves the Russian repository unchanged.
 
+
+P004.03 triggered `SOURCE_SUSPECTED`: the audited Markdown and the upstream Tolstoy Digital TEI omit the main-text continuation after `сыграв` in item 5 of *A Temporary Method for the Study of Music*. Official volume 1 pp. 241–242 restores `раза два неизвестныя ноты, стараться сыграть наизусть` and textual note 169 `Написано: сыграть.` English restores only that verified material under an exact manifest-declared footnote exception; the Russian snapshot remains unchanged.
+
 ## Public-domain provenance pilot
 
 A contained pilot has been completed for `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md` (Volume 48, printed pp. 342–346). The pilot lives under `provenance/pd_core_pilot/` and uses the printed 90-volume scan as the primary textual authority, with the existing Tolstoy Digital-derived Russian Markdown retained only as a comparison witness.
@@ -172,7 +175,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 2/50 accepted units; resume with **P004.03**.
+1. P004 is in production at 3/50 accepted units; resume with **P004.04**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.

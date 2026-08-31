@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.03",
+  "source_path": "corpus/works/v01_241_242_Vremennaja_metoda_dlja_izuchenija_muzyki.md",
+  "source_sha256": "830c6c2bf5b68bf73b0afe76d766f40cf9d539f2087fb7b93bd2e5d18073bb31",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Confirmed source-layer omission: the audited Markdown and Tolstoy Digital TEI stop item 5 after ‘сыграв’ and an added ‘сыграть.’, whereas the official 90-volume electronic text on pp. 241–242 reads ‘сыграв[169] раза два неизвестныя ноты, стараться сыграть наизусть.’",
+    "Official textual note 169 reads ‘Написано: сыграть.’ The English restores the verified main-text continuation and represents note 169 as footnote [^1], while the Russian repository and its SHA-256 remain unchanged.",
+    "Tolstoy’s repeated conceptual triad ‘space, time, and force’ and rough labels such as ‘to hear from writing’ / ‘to write from playing’ are preserved rather than normalized into later music-theory terminology."
+  ],
+  "result": "PASS"
+}

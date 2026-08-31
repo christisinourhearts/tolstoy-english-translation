@@ -87,3 +87,14 @@ errata:
     verified_reading: "The official volume has item 2 as the first Mallory sentence on p. 154; p. 155 begins with item 3 before the second Mallory passage and its attribution, followed by item 4."
     witness: "https://tolstoy.ru/online/90/42/"
     action: "Keep the Russian repository immutable and retain its original SHA-256. In English, restore only the verified p. 155/item-3 position before the second Lucy Mallory passage and document the structural override in QA."
+
+  - source_path: corpus/works/v01_241_242_Vremennaja_metoda_dlja_izuchenija_muzyki.md
+    type: missing_main_text_and_textual_note
+    status: confirmed
+    volume: 1
+    declared_pages: "241–242"
+    verified_print_pages: "241–242"
+    digital_reading: "The audited Markdown/Tolstoy Digital TEI stop item 5 after «сыграв» and an added «сыграть.», then jump directly to item 6."
+    verified_reading: "The official volume reads «сыграв[169] раза два неизвестныя ноты, стараться сыграть наизусть»; textual note 169 reads «Написано: сыграть.»"
+    witness: "https://tolstoy.ru/online/90/01/"
+    action: "Keep the Russian repository immutable. Restore the verified main-text continuation and textual note in English while retaining the original Russian Markdown SHA-256."

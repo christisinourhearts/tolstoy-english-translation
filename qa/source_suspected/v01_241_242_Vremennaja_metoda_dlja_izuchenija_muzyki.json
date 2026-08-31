@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/works/v01_241_242_Vremennaja_metoda_dlja_izuchenija_muzyki.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_main_text_and_textual_note",
+  "digital_reading": "The audited Markdown (matching the Tolstoy Digital TEI) reads item 5 through «...на инструменте: сыграв <ins><sup></sup> сыграть.</ins>» and then jumps directly to item 6.",
+  "verified_print_reading": "The official 90-volume electronic edition, vol. 1 pp. 241–242, reads «...на инструментѣ: сыгравъ[169] раза два неизвѣстныя ноты, стараться сыграть наизусть.» Textual note 169 reads «Написано: сыграть.»",
+  "verified_print_pages": "241–242",
+  "verification": "Official tolstoy.ru volume 1 electronic text confirms the missing substantive continuation and note 169. The raw Tolstoy Digital TEI confirms that this loss exists upstream of the audited Markdown rather than being introduced by the Markdown converter.",
+  "witness": "https://tolstoy.ru/online/90/01/",
+  "p004_disposition": "retain the original audited Russian SHA-256 and leave the Russian repository unchanged; restore the verified main-text continuation and textual note in English under an exact manifest-declared extra-footnote exception"
+}
