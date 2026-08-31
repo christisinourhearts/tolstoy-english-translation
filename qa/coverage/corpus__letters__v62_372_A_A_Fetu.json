@@ -1,0 +1,21 @@
+{
+  "batch": "P003",
+  "unit": "P003.11",
+  "source_path": "corpus/letters/v62_372_A_A_Fetu.md",
+  "source_sha256": "53d1ebb0d43cb94980df67b0c5f01727c110110198d52705c3b802e7a7e5b9f6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy addresses Fet with the familiar contracted patronymic «Афанасьич»; the body preserves this as “Afanasich” rather than silently regularizing it to “Afanasyevich.”",
+    "The mixed Russian/German book title «Критика der reinen Vernunft» is rendered by its standard English title, “Critique of Pure Reason”; body_source_languages records the original German code-switch.",
+    "Tolstoy's slightly awkward New Year superstition sentence is kept structurally close: Fet's failure to come would mean being 'terribly disappointed by something' at the end of 1878, while his coming corresponds to being 'very glad.'",
+    "Footnote 1's «выслать за ним лошадей» is rendered as sending horses to fetch Fet at Kozlovka, preserving the purpose of the horses rather than merely saying they were sent there."
+  ],
+  "result": "PASS"
+}

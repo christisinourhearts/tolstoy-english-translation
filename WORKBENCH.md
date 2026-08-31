@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. The exact Russian ZI
 
 ## Current corpus state
 
-- Reviewed English translations: **42**.
+- Reviewed English translations: **43**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **10 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **8,759**.
+- P003: **11 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **8,899**.
 - Confirmed source errata: **2**.
-- Existing structured coverage records: **35**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **36**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -77,10 +77,11 @@ Completed and accepted:
 8. `corpus/works/v40_435_435_Zhizn_i_izrechenija_Krishny_Predislovie.md`
 9. `corpus/letters/v60_095_N_A_Nekrasovu.md`
 10. `corpus/letters/v61_151_M_N_Longinovu.md`
+11. `corpus/letters/v62_372_A_A_Fetu.md`
 
-Last completed unit: **P003.10 — Letter to M. N. Longinov, 19 November 1865.**
+Last completed unit: **P003.11 — Letter to A. A. Fet, 24 December 1877.**
 
-Next planned unit: **P003.11 — `corpus/letters/v62_372_A_A_Fetu.md`**.
+Next planned unit: **P003.12 — `corpus/letters/v62_507_N_M_Nagornovu.md`**.
 
 ## Exact source verification completed
 
@@ -90,9 +91,9 @@ The P003 boundary preflight scanned the exact snapshot. Only P003.39 and P003.45
 
 ## NEXT ACTION
 
-1. Resume at **P003.10** and continue the existing finite workflow:
+1. Resume at **P003.12** and continue the existing finite workflow:
    translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-2. Preserve the completed exact-source verification; do not reopen P003.01–09 without a concrete fidelity or source reason.
+2. Preserve the completed exact-source verification; do not reopen P003.01–11 without a concrete fidelity or source reason.
 3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
 4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
 
