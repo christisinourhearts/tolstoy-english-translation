@@ -1,6 +1,6 @@
 # Workbench
 
-This is the persistent handoff ledger. A new session should read `TRANSLATION.md`, this file, and `translation_manifest.jsonl` before doing corpus work.
+This is the persistent handoff ledger. A new session should read `TRANSLATION.md`, this file, `qa/batches/P001.md`, `qa/reports/P001_REVIEW.md`, and `translation_manifest.jsonl` before doing corpus work.
 
 ## Source snapshot
 
@@ -9,24 +9,30 @@ Source repository: `tolstoy-russian-md-audited`
 
 ## Current state
 
-Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records checked, 0 missing, 0 changed.
+Pilot batch P001 is complete.
+
+- Units: 7 / 7 accepted.
+- Fidelity audits: 7 / 7 PASS.
+- Mechanical validation: 7 English files checked, 0 errors.
+- Source-integrity postflight: 15,766 records checked, 0 missing, 0 changed.
+- English corpus status after P001: 7 reviewed translations; 1 source-already-English record; 15,758 untranslated records.
+
+See `qa/reports/P001_REVIEW.md` for findings and recommended changes before P002.
 
 ## Last completed unit
 
-P001.6 — `corpus/azbuka/v21_109_110_Pozharnye_sobaki.md`
+P001.7 — `corpus/krug_chtenija/v41_011_013_Krug_chtenija_daily_jan_1_1.md`
 
-Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; apparatus translated; mechanical validation PASS.
+Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; mechanical validation PASS.
 
 ## Active batch
 
-P001 — see `qa/batches/P001.md`.
+None. P001 is closed.
 
 ## Current unit
 
-`corpus/krug_chtenija/v41_011_013_Krug_chtenija_daily_jan_1_1.md`
+None.
 
-Stage: not started.
+## NEXT ACTION
 
-## Next action
-
-Translate the 1 January `Krug chteniya` entry from the Russian compiled text, preserving attribution and the compiled/adapted wording rather than silently substituting canonical English originals. Then audit the result against the source, validate, update the manifest/report/workbench, and commit. After that, perform the post-pilot review and STOP.
+Human review of P001 before corpus-scale translation.
