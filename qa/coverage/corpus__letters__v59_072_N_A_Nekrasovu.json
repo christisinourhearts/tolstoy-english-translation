@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.12",
+  "source_path": "corpus/letters/v59_072_N_A_Nekrasovu.md",
+  "source_sha256": "44c44b7ba4a7ac9775c84aec24ab873c04eba04aef3459171966078d805b738f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "не выпускайте, не прибавляйте, и главное, не переменяйте is kept as the emphatic sequence 'do not omit anything, do not add anything, and above all, do not change anything'.",
+    "изувеченном виде is translated literally as 'mutilated form,' preserving Tolstoy's strong objection to censorship.",
+    "деления, означенные мною черточкой is rendered as divisions marked with a dash; no typographical scheme is inferred beyond what Tolstoy states."
+  ],
+  "result": "PASS"
+}

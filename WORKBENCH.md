@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **93**.
+- Reviewed English translations: **94**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **16,931**.
+- Approximate reviewed source-body words: **17,165**.
 - Confirmed source errata: **10**.
-- Existing structured coverage records: **86**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **87**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **11 / 50 accepted.**
-- Last completed unit: **P004.11 — Letter to T. A. Yergolskaya, 20 April 1850.**
-- Next unit: **P004.12 — Letter to N. A. Nekrasov, 26 December 1852.**
+- **12 / 50 accepted.**
+- Last completed unit: **P004.12 — Letter to N. A. Nekrasov, 26 December 1852.**
+- Next unit: **P004.13 — Letter to N. A. Nekrasov, 17 September 1853.**
 
 ## P003 status
 
@@ -177,7 +177,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 11/50 accepted units; resume with **P004.12**.
+1. P004 is in production at 12/50 accepted units; resume with **P004.13**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.
