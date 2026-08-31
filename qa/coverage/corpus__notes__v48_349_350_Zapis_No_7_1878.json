@@ -1,0 +1,28 @@
+{
+  "batch": "P003",
+  "unit": "P003.36",
+  "source_path": "corpus/notes/v48_349_350_Zapis_No_7_1878.md",
+  "source_sha256": "0c3b3ea6a87c5059b816de88a344dcd688e76612b939cfb4f367968172be5866",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, the numbered heading, date, all philosophical and reading-note fragments, all page references, the damaged alchemical fragment, and all three footnotes are represented. The exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The opening keeps Tolstoy's equation of evil with departure from law and freedom with life. «Зло есть (форма) видимость жизни» is 'Evil is the (form) appearance of life', preserving both the parenthesis and «видимость» rather than interpreting it as illusion or unreality.",
+    "«зачем жизнь?» remains the compressed 'why life?' rather than being expanded to 'why does life exist?'. The subsequent claims about life, freedom, law, and good are kept sentence by sentence.",
+    "«В временной форме нельзя иначе выразить зло, как началом зла, дьяволом, захотевшим зло» is rendered close to its difficult syntax as 'In temporal form one cannot express evil otherwise than as a beginning of evil—a devil who desired evil.'",
+    "The reading reference «о Заблуждениях и Истине» was verified as Louis-Claude de Saint-Martin's *Des erreurs et de la vérité*, which Tolstoy read in a Russian edition. The body uses the concise English title *Of Errors and Truth*; no explanatory author attribution is inserted into Tolstoy's note.",
+    "The source's damaged line beginning at footnote 2 remains structurally damaged: '[^2] belly—Mercury / — sulfur, head—salt.' The missing initial words are not reconstructed.",
+    "«Четвертая прогрессия» is translated literally as 'Fourth progression.' Although Saint-Martin discusses a 'progression quaternaire', Tolstoy's wording is not silently regularized to the source book's terminology.",
+    "The abbreviations «твор. матер.» are deliberately left comparably abbreviated as 'creat. mater.' because expanding them to 'creation', 'creator', 'matter', or 'material' would resolve more than Tolstoy's surviving note securely permits.",
+    "The long final paragraph preserves the sequence from bodily laws (eat, sleep) to reason, freedom of will, choice, and moral law. The syntactic order around suffering is adjusted only enough to avoid the false English reading 'does not suffer only when' = 'suffers at other times'; the proposition remains that obedience to the laws of one's being is the condition of not suffering.",
+    "Footnote 1 describes bracketed reconstructions in the printed manuscript edition. The normalized Russian Markdown witness has silently expanded such bracketed word-parts under its regularization mode, but this does not alter the recoverable English meaning of the present passage; the footnote itself is nevertheless translated in full.",
+    "Footnote 3 preserves the deletion of 'and tradition'. Reverse target-to-source audit found no substantive omission, unsupported addition, or loss of the fragmentary reading-note character."
+  ],
+  "result": "PASS"
+}
