@@ -10,23 +10,27 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `qa/batches/P003.md`, `provenance/pd_core_pilot/README.md`, and `provenance/pd_core_pilot/AUDIT.md`. Treat the Russian repository as read-only and as a comparison witness while provenance is unresolved; do not mass-delete its CC BY-SA metadata. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, review the completed public-domain-source pilot before deciding whether to resume at P003.30. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `qa/batches/P004.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at the exact P004 next unit recorded below. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
-- P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 29 / 50 accepted
-- Last accepted unit: P003.29 — diary entry, 22 February 1889
-- Next unit: P003.30 — diary entry, 27 January 1890
-- Total reviewed translations: 61
-- Approximate reviewed source-body words: 11,299
-- Structured bilingual coverage records: 54
-- Git working tree at handoff: clean after this handoff commit
+- P002 cold audit: complete
+- P003: complete (50 / 50), with cold audit PASS AFTER REVISION
+- P004: in progress, **27 / 50 accepted**
+- Last accepted unit: **P004.27 — diary entry, 15 June 1847**
+- Next unit: **P004.28 — diary entry, 14 June 1850**
+- Total reviewed translations: **109**
+- Approximate reviewed source-body words: **19,900**
+- Structured bilingual coverage records: **102** (plus 7 P001 legacy unstructured passes)
+- Confirmed source errata: **11**; source-verified anomalies: **2**
+- Latest translation commit: `864ebfa` — Translate P004.27 June 1847 diary
+- Git working tree at this handoff refresh: clean before the handoff commit
 
-- Public-domain provenance pilot completed for Volume 48, printed pp. 342–346; accepted `corpus/` files and the source manifest were not modified.
-- Bulk translation is paused before P003.30 pending a source-provenance decision.
+- The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`; do not infer ShareAlike status for the translation text merely from the witness metadata.
+- P004.19 confirmed two character-level transcription defects in the digital witness (`{ ... )` for a parenthesis and `л` for `я`) from independent Tolstoy textual witnesses; the Russian source was not changed.
+- P004.26 checked the malformed bracket presentation of the 14 June 1847 diary header against official volume 46 and records the verified bracketed form in English QA.
 
 
 ## Source provenance development
