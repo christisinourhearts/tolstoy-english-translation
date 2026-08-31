@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.20. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.21. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 19 / 50 accepted
-- Last accepted unit: P003.19 — letter to A. N. Dunaev, 7–8 November 1898
-- Next unit: P003.20 — letter to F. A. Strakhov, 28 January 1905
-- Total reviewed translations: 51
-- Approximate reviewed source-body words: 10,019
-- Structured bilingual coverage records: 44
+- P003: in progress, 20 / 50 accepted
+- Last accepted unit: P003.20 — letter to F. A. Strakhov, 28 January 1905
+- Next unit: P003.21 — letter to S. V. Danilevich, 17 May 1907
+- Total reviewed translations: 52
+- Approximate reviewed source-body words: 10,159
+- Structured bilingual coverage records: 45
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–19.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–20.
 
 ## P003.11 translation note
 
@@ -68,6 +68,10 @@ The open statement to foreign publishers and translators, dated 25 February 1898
 ## P003.19 translation note
 
 The Alexander Nikiforovich Dunaev letter of 7–8 November 1898 was accepted in commit `209069c`. Tolstoy's slightly awkward `Слышу всё, что ваше здоровье физическое нехорошо` is kept closely as “I keep hearing that your physical health is not good,” preserving the explicit bodily/physical qualifier rather than smoothing it to generic “health.” `Мне хочется, чтобы он сам снес Коншину письмо` remains “I want him to take the letter to Konshin himself,” retaining both physical delivery and the emphasis that Archer should do it personally. The repetition `часто, часто` remains “often, often,” and `всей милой, дорогой семье` retains both adjectives as “the whole dear, beloved family.” The footnote marker remains attached to “these two letters.” P003.19 raised no MEDIUM/HIGH boundary flag, its source hash matched exactly, and the electronic 90-volume edition was checked and agrees with the mounted source and apparatus.
+
+## P003.20 translation/source-QA note
+
+The Fyodor Alexeyevich Strakhov letter headed 28 January 1905 was accepted in commit `8341552`. Its source SHA-256 matches the mounted audited Russian snapshot exactly and it raised no MEDIUM/HIGH boundary flag. During the apparatus audit, however, the audited Markdown was found to contain a bare numeral `3` after `карандашом` while defining only footnotes `[^1]` and `[^2]`. The official 90-volume electronic edition, volume 75, pp. 209–210, confirms that the numeral is footnote marker 3 and supplies the omitted third note: Strakhov recorded that Tolstoy conveyed through M. V. Syaskova that the marked passages should be included in *Circle of Reading*. This is now a confirmed source erratum in `metadata/source_errata.yml` and `qa/source_suspected/v75_298_F_A_Straxovu.json`. The Russian repository was not modified; the English restores only the verified marker/note while retaining the original Russian Markdown hash. `tools/validate_translation.py` now supports an exact manifest-declared `source_qa_extra_footnote_ids` exception only when `source_qa_status` is `confirmed_erratum`, so this recovery does not weaken footnote equality for ordinary units. The body keeps `отчеркнул карандашом` as “marked off in pencil” and `баллы` as “scores.” The heading's `January 28?` and the editorial unknown-hand note `Feb. 1905` are both preserved without reconciliation.
 
 ## Repository maintenance note
 
