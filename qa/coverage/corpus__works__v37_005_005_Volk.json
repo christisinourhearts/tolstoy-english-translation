@@ -1,0 +1,16 @@
+{
+  "batch": "P003",
+  "unit": "P003.07",
+  "source_path": "corpus/works/v37_005_005_Volk.md",
+  "source_sha256": "d1b7a633a464d54aaa1e36e47860d67aa084e0197dbf016e0219f714a50e5d26",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [],
+  "result": "PASS"
+}
