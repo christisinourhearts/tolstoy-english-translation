@@ -13,7 +13,7 @@ Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records ch
 
 ## Last completed unit
 
-P001.4 — `corpus/diaries/v48_033_034_1861_04_04.md`
+P001.5 — `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md`
 
 Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; apparatus translated; mechanical validation PASS.
 
@@ -23,10 +23,10 @@ P001 — see `qa/batches/P001.md`.
 
 ## Current unit
 
-`corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md`
+`corpus/azbuka/v21_109_110_Pozharnye_sobaki.md`
 
 Stage: not started.
 
 ## Next action
 
-Translate Notes Nos. 2 and 3 (1870), preserving fragmentary planning notes, dated sections, deletions/footnotes, quotations, and abrupt transitions. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
+Translate “Fire Dogs” in deliberately simple English appropriate to the First Russian Reader, preserving the one explanatory source footnote and page markers. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
