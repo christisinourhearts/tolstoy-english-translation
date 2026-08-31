@@ -1,0 +1,24 @@
+{
+  "batch": "P003",
+  "unit": "P003.22",
+  "source_path": "corpus/letters/v77_240_G_A_Novichkovu.md",
+  "source_sha256": "c9234bb8fdae3d49bf96a68fe133e87b54edb2e35c8b5675d6b77495cf61aa0b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The salutation «Гаврило Александрович» is preserved as 'Gavrilo Alexandrovich', while the metadata uses the recipient's full catalogued form 'Gavriil Alexandrovich Novichkov'; the source's familiar/variant first-name form is not silently regularized in Tolstoy's body.",
+    "«моему хорошему знакомому» is rendered 'my good acquaintance', retaining Tolstoy's actual relationship word rather than upgrading Olsufyev to 'friend'.",
+    "«похлопотать о вашем деле у губернатора» is rendered 'intercede in your case with the governor', preserving the practical appeal to Olsufyev's influence without adding a more specific legal action than Tolstoy states.",
+    "The compact parallel «что нужно и можно» remains 'what is necessary and possible' rather than being idiomatically expanded or collapsed.",
+    "«От всей души соболезную вам» is rendered 'With all my heart I sympathize with you'; the following «не унывать» remains 'not to lose heart'.",
+    "«мужественно и безропотно по-христиански переносите вашу невзгоду» is rendered 'bearing your misfortune courageously and without complaint, in a Christian way', preserving courage, absence of complaint, the explicitly Christian manner, and the concrete 'misfortune'.",
+    "All three editorial notes are translated; names, dates, three-month imprisonment, quoted May 1 charge, copying-book folio 450, and the governor's release of Novichkov were checked against the mounted source. The unit raised no MEDIUM/HIGH P003 boundary flag."
+  ],
+  "result": "PASS"
+}
