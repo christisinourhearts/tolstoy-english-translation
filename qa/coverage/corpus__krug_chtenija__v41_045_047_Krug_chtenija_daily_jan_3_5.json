@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.47",
+  "source_path": "corpus/krug_chtenija/v41_045_047_Krug_chtenija_daily_jan_3_5.md",
+  "source_sha256": "09c2c23e8d780620cd33f89dd246dcfc1b6162c83f49fb9ff44a500cde1b0627",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All three page markers, the 19 January theme sentence, numbered items 1-5, both attributed quotations, the italic aphorism, and the concluding two sentences are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "As elsewhere in the Circle of Reading corpus, the Lao-Tzu and Lamennais passages are translated from Tolstoy's compiled Russian wording rather than replaced by modern published translations of their presumed originals.",
+    "The swallow passage preserves Tolstoy's shift into first-person feminine imagery in «первая ли я, или тысячная ласточка» as 'whether I am the first or the thousandth swallow' rather than flattening it into an impersonal maxim.",
+    "«В частной и общей жизни» is kept as 'In private and common life'; «будь готов отдать ее» remains the compact 'be ready to give it', with 'it' referring to life as in the source.",
+    "In the Lamennais passage, the long accumulation and repeated battle/liberation vocabulary are retained rather than broken into a freer paraphrase. «личность» in item 5 is kept conservatively as 'personality', preserving Tolstoy's distinction between the individual personality and liberation from it. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
