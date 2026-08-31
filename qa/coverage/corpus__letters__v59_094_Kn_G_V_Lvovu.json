@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.15",
+  "source_path": "corpus/letters/v59_094_Kn_G_V_Lvovu.md",
+  "source_sha256": "6fb404b2dca1b15cb6c67763cd50d7809d8b7379ad8e815f7f0f8afc136625da",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The sentence about Tolstoy's Sevastopol address is kept in its compressed form: 'my address in Sevastopol is—to a Second Lieutenant of the 12th Artillery Brigade.'",
+    "искренне любящего тебя is translated 'one who sincerely loves you'; textual note 2 records that the word was corrected from the adjectival искренняго.",
+    "кантонисты is rendered 'cantonists' rather than paraphrased, since the editorial note is historical apparatus and the term names the institution directly."
+  ],
+  "result": "PASS"
+}
