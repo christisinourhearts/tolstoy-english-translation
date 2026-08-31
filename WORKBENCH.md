@@ -37,3 +37,11 @@ P002 is closed. P003 has been selected (50 units, ~8,136 rough source-body words
 ## NEXT ACTION
 
 Run `tools/preflight_boundaries.py` against the authoritative Russian source tree/ZIP for the selected P003 paths. Resolve/replace any MEDIUM/HIGH boundary flags. Then begin P003 unit 1 from `qa/batches/P003.md`. Keep a post-P003 cold-audit sample as a quality gate.
+
+## P003 production status
+
+P003 is in production. Completed and accepted: **1/50**.
+
+Last completed unit: `P003.01` — `corpus/works/v90_122_122_Obschestvo_nezavisimyh.md`.
+
+NEXT ACTION: translate and audit `P003.02`.

@@ -1,0 +1,16 @@
+{
+  "batch": "P003",
+  "unit": "P003.01",
+  "source_path": "corpus/works/v90_122_122_Obschestvo_nezavisimyh.md",
+  "source_sha256": "acf15738e89dca8bf4776e93cc9e5ad2b4771a1289cfbbc6e5fae91445e10d2e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [],
+  "result": "PASS"
+}
