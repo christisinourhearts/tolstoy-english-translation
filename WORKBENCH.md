@@ -9,15 +9,17 @@ Source repository: `tolstoy-russian-md-audited`
 
 ## Current state
 
-Pilot batch P001 is complete.
+Pilot batch P001 is complete. A post-P001 Russian source-integrity stress test is also complete.
 
 - Units: 7 / 7 accepted.
 - Fidelity audits: 7 / 7 PASS.
 - Mechanical validation: 7 English files checked, 0 errors.
 - Source-integrity postflight: 15,766 records checked, 0 missing, 0 changed.
 - English corpus status after P001: 7 reviewed translations; 1 source-already-English record; 15,758 untranslated records.
+- Source stress test: 31 volumes sampled across the 90-volume edition; 0 substantive mismatches; 0 confirmed source errata.
+- Source-integrity disposition: PASS, with a `SOURCE_SUSPECTED` verification protocol recommended before scaling.
 
-See `qa/reports/P001_REVIEW.md` for findings and recommended changes before P002.
+See `qa/reports/P001_REVIEW.md` for pilot findings and `qa/reports/SOURCE_STRESS_TEST.md` for the Russian-source stress test.
 
 ## Last completed unit
 
@@ -35,4 +37,4 @@ None.
 
 ## NEXT ACTION
 
-Human review of P001 before corpus-scale translation.
+Human review of P001 and the source stress test; then incorporate approved P001/source-integrity rule changes before P002.
