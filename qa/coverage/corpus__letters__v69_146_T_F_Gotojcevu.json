@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.17",
+  "source_path": "corpus/letters/v69_146_T_F_Gotojcevu.md",
+  "source_sha256": "d684a2fb1f6c32e236a6ca787a36651acf66d9d52d183a0fb495395307d85299",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's paired wording «Владимир Григорьевич Чертков мой близкий друг, такой же друг мой и Иван Михайлович Трегубов» is preserved as 'Vladimir Grigoryevich Chertkov is a close friend of mine, and Ivan Mikhailovich Tregubov is just as much a friend of mine' rather than stylistically collapsing the repeated 'friend of mine'.",
+    "«то, что они спрашивают у вас, нужно им для доброго дела» is rendered 'what they are asking you for they need for a good cause'; the English preserves the unspecified object rather than inserting 'materials' into Tolstoy's body from the editorial explanation.",
+    "The editorial biographical note's «Готойцев (р. 1874) — крестьянин Черниговской губ. Новозыбковского уезда» is rendered 'Gotoitsev (b. 1874) — a peasant of Novozybkov district, Chernigov province'; the geographic hierarchy is preserved without modernizing the historical place names.",
+    "In footnote [1], «религиозным движением среди кавказских духоборов» is rendered 'the religious movement among the Caucasian Doukhobors'; «преследовании правительством сектантов» remains the historical editorial wording 'the government's persecution of sectarians'.",
+    "«с целью предать их гласности» is rendered conservatively as 'with the aim of making them public', with 'them' referring to the collected materials as in the Russian context."
+  ],
+  "result": "PASS"
+}
