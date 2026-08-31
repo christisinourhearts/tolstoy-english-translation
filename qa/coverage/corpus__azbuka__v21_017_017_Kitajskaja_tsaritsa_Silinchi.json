@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.15",
+  "source_path": "corpus/azbuka/v21_017_017_Kitajskaja_tsaritsa_Silinchi.md",
+  "source_sha256": "cf139e6d390b94ddc57ad3f116f0f578c6c5c075567008f0b2b16732e414393c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The child-reader register is kept deliberately simple. 'Быль' is rendered 'A True Story' and the silk-production sequence is preserved without modernization or added explanation."
+  ],
+  "result": "PASS"
+}
