@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.12",
+  "source_path": "corpus/diaries/v46_040_041_1850_12_13.md",
+  "source_sha256": "1c0ca447a32cdec72f206a57c77e0bde599187343216639e86f631b36b2d1930",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The gambling sense of 'играть' is explicit from context; the source's telegraphic task list is kept compact rather than expanded into polished prose."
+  ],
+  "result": "PASS"
+}
