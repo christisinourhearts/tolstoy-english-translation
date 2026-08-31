@@ -1,0 +1,18 @@
+{
+  "batch": "P003",
+  "unit": "P003.05",
+  "source_path": "corpus/works/v90_093_094_Detskie_zabavy.md",
+  "source_sha256": "fa2f9daba430da061029da3490a8033dbf73ccccad1d326c8597195a44ee7941",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Child-authored text retains rough syntax and factual confusions; obvious Russian child spelling is not imitated by invented English misspellings."
+  ],
+  "result": "PASS"
+}
