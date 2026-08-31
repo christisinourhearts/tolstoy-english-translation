@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.16",
+  "source_path": "corpus/letters/v59_096_Gr_V_P_Tolstomu.md",
+  "source_sha256": "bd1d2965995334c727624e8ee60ec871144ba3faafaf56b49dd357228b3f8bd4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "хлеба то число, которое недостает is rendered as selling enough grain 'to make up what is lacking'; хлеб here refers to estate grain available for sale, not baked bread.",
+    "Опекунский совет follows the established project rendering 'Guardianship Council'.",
+    "проиграл ... в долг is translated 'lost ... on credit,' preserving that the 575 rubles were a gambling debt rather than cash already lost.",
+    "The diary-note sequence and all quoted amounts/dates were checked individually."
+  ],
+  "result": "PASS"
+}
