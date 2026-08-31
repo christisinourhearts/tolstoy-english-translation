@@ -1,0 +1,13 @@
+{
+  "audit_id": "P002_CA01",
+  "source_path": "corpus/works/v01_246_246_Dlja_chego_pishut_ljudi.md",
+  "method": "fresh_direct_source_to_target_then_target_to_source",
+  "consulted_prior_unit_reasoning_before_verdict": false,
+  "substantive_omissions": 0,
+  "unsupported_substantive_additions": 0,
+  "reversed_relations_or_lost_negation": 0,
+  "wrong_speaker_subject_referent": 0,
+  "structural_loss": 0,
+  "result": "PASS",
+  "minor_revision": ""
+}

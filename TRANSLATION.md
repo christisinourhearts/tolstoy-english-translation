@@ -163,7 +163,17 @@ A mechanical paragraph or sentence count is useful only as a warning signal. Rus
 
 Any omission, unsupported addition, reversed relation, wrong subject/speaker, lost negation, altered modality, wrong name/number/date, or other hard fidelity error blocks acceptance until corrected. Legitimate interpretive alternatives may be recorded without blocking acceptance when the chosen English is defensible and does not conceal uncertainty in the source.
 
-## 14. Gauntlet workflow
+## 14. Periodic cold audits
+
+Batch acceptance does not eliminate the need for fresh-pass checking. At regular intervals, select a deliberately difficult sample of accepted translations and compare the final English directly against the source without first reading the unit's earlier translation reasoning or coverage notes.
+
+The cold audit must distinguish **hard fidelity defects** from **non-blocking wording alternatives**. Hard defects include omissions, unsupported additions, reversed relations, lost negation or modality, wrong subjects/speakers/referents, incorrect names/numbers/dates, or structural loss. A merely conceivable alternative translation is not a defect.
+
+Record cold audits under `qa/reports/` and, where useful, per-unit structured records under `qa/cold_audit/`. If a hard defect is found, correct the translation, update its QA/manifest state, and consider widening the sample to determine whether the problem is local or systemic.
+
+A cold pass performed by the same model in a later/fresh reading context is useful but should not be mislabeled as independent-model or human verification. At publication scale, periodically use a genuinely separate model/context or human reader when available.
+
+## 15. Gauntlet workflow
 
 Each translation unit passes through finite stages. The creator of a translation should not be its only critic.
 
@@ -179,7 +189,7 @@ Critics must cite a specific source passage and a specific problem. “Could be 
 
 Do not loop indefinitely. A unit passes when no substantive fidelity defects remain, the English is intelligible and natural at the source's register, and mechanical validation passes.
 
-## 15. Batch sizing and persistence
+## 16. Batch sizing and persistence
 
 Assume the active AI context can disappear at any time.
 
@@ -190,7 +200,7 @@ Assume the active AI context can disappear at any time.
 - For long works, process chapter/section chunks internally, but keep the final repository's one-to-one file identity unless there is a compelling technical reason otherwise.
 - A resumed session should be able to determine the next action from the repository alone.
 
-## 16. Acceptance checklist
+## 17. Acceptance checklist
 
 A completed unit should satisfy all applicable items:
 
@@ -211,6 +221,6 @@ A completed unit should satisfy all applicable items:
 - [ ] Workbench updated.
 - [ ] Changes committed/checkpointed.
 
-## 17. Changing these rules
+## 18. Changing these rules
 
 Improve this constitution when repeated real examples show that a rule is inadequate. Record consequential changes in Git. Do not casually rewrite the rules in the middle of a batch merely to justify a local translation choice.

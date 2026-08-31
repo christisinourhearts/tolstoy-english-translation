@@ -25,7 +25,7 @@ translation_status: "reviewed"
 
 4 January
 
-Even if we did not want it, we cannot help feeling our connection with the whole world of people: we are connected by industry, trade, art, knowledge, and, above all, by the unity of our condition, the unity of our relation to the world.
+Even if we did not want it, we cannot help feeling our connection with all humanity: we are connected by industry, trade, art, knowledge, and, above all, by the unity of our condition, the unity of our relation to the world.
 
 1
 
@@ -61,7 +61,7 @@ Even if we did not want it, we cannot help feeling our connection with the whole
 
 6
 
-> The life of an individual must grow completely and tightly into the common life of humanity, for all creation is permeated by harmony and unity. In outward nature as well as in the spiritual realm, all the phenomena of life are closely connected with one another.
+> The life of an individual must become completely fused with the common life of humanity, for all creation is permeated by harmony and unity. In outward nature as well as in the spiritual realm, all the phenomena of life are closely connected with one another.
 
 > *Marcus Aurelius.*
 

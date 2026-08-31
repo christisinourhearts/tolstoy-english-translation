@@ -27,7 +27,7 @@ translation_status: "reviewed"
 
 What are you doing, dear Aunt? I am enjoying myself. Goodbye, I kiss your hands. — This note is for André.
 
-On the reverse: To Her Well-Born Tatyana Alexandrovna Yergolskaya. At Yasnaya Polyana.
+On the reverse: To Her High Born Tatyana Alexandrovna Yergolskaya. At Yasnaya Polyana.
 
 ### Editorial notes
 

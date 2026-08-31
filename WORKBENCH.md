@@ -9,17 +9,20 @@ Source repository: `tolstoy-russian-md-audited`
 
 ## Current state
 
-P001 and P002 are complete. The post-P001 Russian source stress test remains in force, now supplemented by two confirmed small-file segmentation errata found during P002.
+P001 and P002 are complete. P002 has now also received a 10-unit cold fidelity sample covering 40% of the batch and about 1,766 rough source-body words.
 
 - Reviewed English translations: 32.
 - P002 accepted units: 25 / 25.
 - P002 structured bilingual coverage records: 25 / 25 PASS.
-- Mechanical validation after P002: 32 English files checked, 0 errors.
-- Source-integrity postflight: 15,766 records checked, 0 missing, 0 changed by hash.
+- P002 cold-audit sample: 10 / 10 PASS.
+- Cold-audit hard fidelity defects: 0.
+- Cold-audit minor local revisions: 5 edits across 4 files (1 precision correction, 4 contemporary-English clarity edits).
+- Mechanical validation after cold-audit revisions: 32 English files checked, 0 errors, 2 intentional Cyrillic warnings.
+- Source-integrity postflight after cold audit: 15,766 records checked, 0 missing, 0 changed by hash; source files remain unmodified.
 - Confirmed source errata: 2, both *New Azbuka* files truncated at page boundaries and quarantined before translation.
 - Approximate reviewed source-body words: 6,752.
 
-See `qa/reports/P001_REVIEW.md`, `qa/reports/SOURCE_STRESS_TEST.md`, and `qa/reports/P002_REVIEW.md`.
+See `qa/reports/P002_COLD_AUDIT.md` in addition to the earlier P001/P002 reports.
 
 ## Last completed unit
 
@@ -33,4 +36,4 @@ P002 is closed. No P003 files have been started.
 
 ## NEXT ACTION
 
-Review `qa/reports/P002_REVIEW.md`. Before P003, optionally run a cold/fresh-context fidelity sample and add a preflight detector for suspicious source-file boundaries. Then select a P003 batch of approximately 50 short units / 7,000–10,000 source words.
+Add the planned automatic boundary-suspicion preflight for small source files, then select P003 at approximately 50 short units / 7,000–10,000 source words. Keep a post-P003 cold-audit sample as a quality gate.
