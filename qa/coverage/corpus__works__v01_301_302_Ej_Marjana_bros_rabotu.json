@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.07",
+  "source_path": "corpus/works/v01_301_302_Ej_Marjana_bros_rabotu.md",
+  "source_sha256": "fd9357b70027661c439fe3f24dddda12d93c7bdd6a608a246388d704939f4faa",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The same independently checked Greben Cossack vocabulary decisions as P004.06 are retained so the two variants remain directly comparable.",
+    "Канаусовый is rendered ‘kanaus-silk’ because канаус is a silk fabric; the culturally specific beshmet is retained rather than generalized to ‘coat.’",
+    "The official 90-volume electronic edition confirms the source's unusual line division ‘Вот уж видно, слава / Богу, Показалися значки.’ English therefore preserves the split as ‘thank / God’ rather than silently regularizing the verse.",
+    "Variant-specific readings are preserved: Ionka Grunin and Daddy Rodion replace the first variant's Vanka Grunin and Rodion Malashkin; ‘my sweetheart Kupriyan,’ the old sotnik's reply, movement of the cart toward them, and Kupriyashka's narrow belt are likewise kept distinct."
+  ],
+  "result": "PASS"
+}
