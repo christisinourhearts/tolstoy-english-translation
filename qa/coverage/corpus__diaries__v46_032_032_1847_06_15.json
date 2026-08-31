@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.27",
+  "source_path": "corpus/diaries/v46_032_032_1847_06_15.md",
+  "source_sha256": "00fccf1c162c41c99eb12a7948626b41409c243f7f1783902ffeceea97e5d9fb",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "остался бы верно к вечеру доволен собою is rendered ‘by evening would probably have remained satisfied with myself,’ preserving the source's self-assessment rather than smoothing it away.",
+    "The repeated я сам лишил себя ... довольным собою remains ‘I myself deprived myself ... of being satisfied with myself.’",
+    "The deleted fragment прие is represented as the corresponding English fragment ‘arri’ rather than expanded silently to a complete word."
+  ],
+  "result": "PASS"
+}
