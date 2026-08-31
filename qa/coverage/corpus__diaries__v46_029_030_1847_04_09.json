@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.24",
+  "source_path": "corpus/diaries/v46_029_030_1847_04_09.md",
+  "source_sha256": "2911a5d2c9df80891d1386974fc6363524ef7eee9c4871c1dbd1923f8fb0f507",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "волю телесную is deliberately kept as ‘bodily will,’ with умственная understood elliptically as ‘the mental [will]’; the odd distinction belongs to Tolstoy's early self-discipline vocabulary.",
+    "за вчерашний день is rendered ‘for yesterday,’ preserving the retrospective self-assessment.",
+    "The source page break falls inside the bodily/mental contrast and is retained."
+  ],
+  "result": "PASS"
+}
