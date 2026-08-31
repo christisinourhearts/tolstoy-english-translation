@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.07",
+  "source_path": "corpus/letters/v59_035_Gr_S_N_Tolstomu.md",
+  "source_sha256": "04ea33b2484749b8c09122835c55fbf1d2161db6633a53ed5789a69e65f5f964",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The surviving autograph is physically torn. Fragmentary words and lines are left visibly incomplete in English; missing text was not reconstructed."
+  ],
+  "result": "PASS"
+}
