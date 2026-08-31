@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.19",
+  "source_path": "corpus/azbuka/v21_053_054_Krasnaja_shapochka.md",
+  "source_sha256": "e8fb4b3c49d9996485b89730ccc9d274275fb643a255d9038e293549ad183039",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's version ends with both grandmother and child devoured and no rescue; no familiar later ending is supplied. Page transition and the source's abrupt dialogue are preserved."
+  ],
+  "result": "PASS"
+}
