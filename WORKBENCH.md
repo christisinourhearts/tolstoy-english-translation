@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **60**.
+- Reviewed English translations: **61**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **28 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **11,178**.
-- Confirmed source errata: **6**.
-- Existing structured coverage records: **53**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- P003: **29 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **11,299**.
+- Confirmed source errata: **7**.
+- Existing structured coverage records: **54**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -95,10 +95,11 @@ Completed and accepted:
 26. `corpus/diaries/v48_042_043_1862_09_03.md`
 27. `corpus/diaries/v48_059_060_1865_03_17.md`
 28. `corpus/diaries/v49_094_095_1883_05_17.md`
+29. `corpus/diaries/v50_040_040_1889_02_22.md`
 
-Last completed unit: **P003.28 — Diary entry, 17 May 1884.**
+Last completed unit: **P003.29 — Diary entry, 22 February 1889.**
 
-Next planned unit: **P003.29 — `corpus/diaries/v50_040_040_1889_02_22.md`**.
+Next planned unit: **P003.30 — `corpus/diaries/v51_014_015_1890_01_27.md`**.
 
 ## Exact source verification completed
 
@@ -114,11 +115,13 @@ P003.26 triggered `SOURCE_SUSPECTED` because the audited Markdown preserves mark
 
 P003.28 triggered `SOURCE_SUSPECTED` because the audited filename, subtitle, creation field, and manifest metadata say 1883 while the file's source-edition citation says `Дневник 1884 г.` Volume 49 places the 17/29 May entry on pp. 94–95 inside the 1884 diary, and its manuscript description and commentary independently cite the 1884 agenda and correspondence. The stable source path and original hash are retained, English metadata uses verified 1884, both readings are recorded in `metadata/source_errata.yml`, and the Russian snapshot remains unchanged.
 
+P003.29 triggered `SOURCE_SUSPECTED` because the audited Markdown retains footnote [^1], «Можно прочесть: истопил», after `потом` but omits the printed `[?]` uncertainty marker that belongs immediately after that reference. Official volume 50 p. 40 reads `потом[34] [?] пришел Желтов`, with note 34 `Можно прочесть: истоп[ил]`. The English restores only the verified uncertainty marker, translates the existing note, retains the original source hash, and leaves the Russian snapshot unchanged.
+
 ## NEXT ACTION
 
-1. Resume at **P003.29** and continue the existing finite workflow:
+1. Resume at **P003.30** and continue the existing finite workflow:
    translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-2. Preserve the completed exact-source verification; do not reopen P003.01–28 without a concrete fidelity or source reason.
+2. Preserve the completed exact-source verification; do not reopen P003.01–29 without a concrete fidelity or source reason.
 3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
 4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
 

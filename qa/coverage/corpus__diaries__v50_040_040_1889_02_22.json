@@ -1,0 +1,27 @@
+{
+  "batch": "P003",
+  "unit": "P003.29",
+  "source_path": "corpus/diaries/v50_040_040_1889_02_22.md",
+  "source_sha256": "b1117e687e7b3533a04c13f558a9662c852c899cf0f93a804418516ba5560ab8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The subtitle metadata, abbreviated date heading, p. 40 marker, complete diary body, and footnote [^1] are represented; the exact SHA-256 matched the mounted audited Russian source and the direct P003 boundary result was CLEAR.",
+    "The audited Markdown reads «потом [^1] пришел Желтов» and retains the alternative-reading note, but the official volume 50 text reads «потом[34] [?] пришел Желтов»; note 34 says «Можно прочесть: истоп[ил]». The missing [?] is therefore a confirmed source-layer omission. English restores only that verified marker immediately after [^1], translates the existing note, retains the original source hash, and leaves the Russian repository unchanged.",
+    "The internal heading «22. 89. М.» remains '22. 89. M.' rather than being expanded or reconciled with the full subtitle. The opening sequence stays clipped: 'Got up later. Worked a great deal. Lay down'.",
+    "Singular «написал письмо Семенову и Rod’y» remains 'wrote a letter to Semenov and to Rod' rather than being normalized to plural letters. Official volume 50 identifies Rod as Édouard Rod and confirms that Tolstoy answered him that day, but the body preserves the source's Latin-script surname and singular construction.",
+    "«предисловие поправлял» is 'made corrections to the preface', retaining the imperfective work-in-progress sense. Official commentary identifies it as the third redaction of Tolstoy's preface to A. I. Ershov's *Sevastopol Recollections of an Artillery Officer*, but that title is not inserted into the diary body.",
+    "The bookshop sequence preserves the source's author-as-book shorthand: 'Took Robertson from Gautier's'. Official commentary identifies Frederick William Robertson and notes that two editions of his sermons survive in the Yasnaya Polyana library; the English does not choose an unsupported title. «учение 12 Апостолов» is treated as the book title *The Teaching of the Twelve Apostles*, which the commentary identifies as K. Popov's 1884 work returned by Marakuev.",
+    "«Какой чистый человек Желтов!» remains the slightly unusual 'What a pure man Zheltov is!' The next diary fragments remain subjectless in English: 'At home read, talked with Lyova.'",
+    "The grammatically singular «Мудрость, знание у нас распалось на два» remains 'Wisdom, knowledge, among us has split into two'. The comma and singular verb preserve the unresolved appositional or coordinate relation rather than silently regularizing it to two plural subjects.",
+    "Theology both 'settles' all questions and has 'settled' everything, preserving «решает ... решено». The full sequence of existential questions is retained separately as 'What is this world? What am I? What for? What will be? What is to be done?' without replacing Tolstoy's abrupt distinctions with a summary.",
+    "The final contrast retains both repetitions of «только не»: 'only not about this, only not about what is necessary and important.' The reverse target-to-source audit found no explanatory claim imported from the official commentary into Tolstoy's body and no unsupported intensification or smoothing."
+  ],
+  "result": "PASS"
+}

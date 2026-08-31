@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/diaries/v50_040_040_1889_02_22.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_editorial_uncertainty_marker",
+  "digital_reading": "The audited Markdown reads «..., потом [^1] пришел Желтов, ...» and retains footnote [^1], «Можно прочесть: истопил», but contains no uncertainty marker after the footnote reference.",
+  "verified_print_reading": "The official volume 50 text reads «..., потом[34] [?] пришел Желтов, ...»; textual note 34 reads «Можно прочесть: истоп[ил]».",
+  "verified_print_pages": "40",
+  "verification": "Official 90-volume electronic edition, volume 50, confirms both the bracketed question mark in the diary body and the alternative-reading note.",
+  "witness": "https://tolstoy.ru/online/90/50/",
+  "p003_disposition": "retain the original audited Russian SHA-256 and leave the Russian repository unchanged; restore the verified [?] after English footnote marker [^1] and translate the existing alternative-reading note"
+}

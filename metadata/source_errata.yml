@@ -65,3 +65,14 @@ errata:
     verified_reading: "The official volume places the 17/29 May entry on pp. 94–95 inside «Дневник 1884 г.»; its manuscript description and commentary independently confirm the 1884 agenda and correspondence."
     witness: "https://tolstoy.ru/online/90/49/"
     action: "Keep the Russian repository immutable and retain the stable source path and original SHA-256. Use 17 May 1884 in English subtitle/creation metadata and the translation manifest, with both readings documented in QA."
+
+  - source_path: corpus/diaries/v50_040_040_1889_02_22.md
+    type: missing_editorial_uncertainty_marker
+    status: confirmed
+    volume: 50
+    declared_pages: "40"
+    verified_print_pages: "40"
+    digital_reading: "The Markdown reads ‘потом [^1] пришел Желтов’ and retains footnote [^1], ‘Можно прочесть: истопил’, but omits the editorial uncertainty marker after the footnote reference."
+    verified_reading: "The official volume reads ‘потом[34] [?] пришел Желтов’; textual note 34 reads ‘Можно прочесть: истоп[ил]’."
+    witness: "https://tolstoy.ru/online/90/50/"
+    action: "Keep the Russian repository immutable and retain its original SHA-256. Restore only the verified [?] immediately after English footnote marker [^1], translate the existing alternative-reading note, and document the structural difference in the translation manifest and QA."
