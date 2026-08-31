@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.08",
+  "source_path": "corpus/works/v01_302_302_Kogda_zhe_kogda_nakonets_perestanu.md",
+  "source_sha256": "fa42bb3a734b31b418c170eb86ac87beef195af28990fccc33c68bd676d763d1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Грядущей ничтожности is kept close as ‘coming insignificance’ rather than strengthened into ‘worthlessness’ or generalized into fear of failure.",
+    "Горький залог is rendered literally as ‘bitter pledge’; the unusual abstraction is Tolstoy's and is not smoothed away.",
+    "Томящая грусть is rendered ‘tormenting sadness,’ preserving the repeated tormenting force of мучит / томящая."
+  ],
+  "result": "PASS"
+}
