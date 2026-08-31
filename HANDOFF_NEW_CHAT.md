@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.27. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.28. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 26 / 50 accepted
-- Last accepted unit: P003.26 — diary entry, 3 September 1862
-- Next unit: P003.27 — diary entry, 17 March 1865
-- Total reviewed translations: 58
-- Approximate reviewed source-body words: 10,938
-- Structured bilingual coverage records: 51
+- P003: in progress, 27 / 50 accepted
+- Last accepted unit: P003.27 — diary entry, 17 March 1865
+- Next unit: P003.28 — diary entry, 17 May 1883
+- Total reviewed translations: 59
+- Approximate reviewed source-body words: 11,059
+- Structured bilingual coverage records: 52
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–26.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–27.
 
 ## P003.11 translation note
 
@@ -96,6 +96,10 @@ The diary entry of 15 July 1909 was accepted in commit `bce9c55`. Its exact sour
 ## P003.26 translation/source-QA note
 
 The diary entry of 3 September 1862 was accepted in commit `7cdd907`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The official volume 48 text agrees with the diary body but confirms that the audited Markdown's empty definition for footnote `[^1]` is a source-layer defect: the missing gloss after Latin `Memento` is `Помни,` (“Remember,”). The erratum is recorded in `metadata/source_errata.yml` and `qa/source_suspected/v48_042_043_1862_09_03.json`; the English restores only the verified gloss, retains the original source hash, and leaves the Russian repository unchanged. The opening reported phrases and isolated `лорнет` remain deliberately unexpanded. The four alternatives in `либо... либо...` and the masculine forms in `нынче один, завтра другой` and `к чему отъезжающий` are preserved. `будущее с женой` remains the concrete “the future with a wife,” and `тихое обманывание друг друга — счеты` is kept as “the quiet deceiving of one another—keeping accounts,” preserving its unresolved accounting/score-keeping image. The source form `Дублицкой` is transliterated “Dublitskoy,” while the volume commentary's identification with the character Dublitsky is recorded only in coverage QA rather than inserted into Tolstoy's text. Latin `Memento` and German `mein schönes Herz` remain visible as language switches, with translated footnote glosses.
+
+## P003.27 translation note
+
+The diary entry of 17 March 1865 was accepted in commit `0f7af91`. Its exact source SHA-256, `524dec4d5e730d29f90c4d84d9b372d2ca6adeb672a310368e012a2649defbbd`, matched the mounted audited Russian snapshot, and its direct boundary result was CLEAR. The official volume 48 commentary identifies the funeral as that of Nikolai, the young son of Tolstoy's brother Sergei Nikolaevich, but the body remains the source's restrained “At the funeral at Seryozha's” rather than inserting that identity. In the overlapping-track image, grammatical feminine `собака` does not establish the dog's sex, so English uses gender-neutral “it/its,” while `точка опоры` remains “point of support.” The paradoxical repetitions in `премудрость Бога ... не премудрость, не ум ... инстинкт Божества` are preserved as “the wisdom of God ... not wisdom, not intelligence ... the instinct of the Deity,” and the following `ум` remains “intelligence.” The printed and audited body reads `Пашковых`; although the official commentary calls this a probable authorial slip for `Пашковских`, English preserves “Pashkovs” and records the uncertainty in coverage QA rather than emending Tolstoy. Mixed `Mémoire Ragus’a` is rendered *Ragusa's Memoirs* and recorded as a French switch. No Russian-source defect was found, and the Russian repository was not changed.
 
 ## Repository maintenance note
 
