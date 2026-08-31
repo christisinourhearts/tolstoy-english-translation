@@ -1,0 +1,18 @@
+{
+  "batch": "P003",
+  "unit": "P003.03",
+  "source_path": "corpus/works/v26_457_458_Pechatnye_varianty_pervogo_izdanija_stati_Pora_opomnitsja_k_osnovnomu_tekstu.md",
+  "source_sha256": "af612338e3887911086a355b639a2d7da6f57794c8dcd61c51550ea062913635",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "This unit is variant apparatus; variant relations and deliberately awkward first-edition readings were preserved rather than normalized."
+  ],
+  "result": "PASS"
+}
