@@ -40,8 +40,8 @@ Run `tools/preflight_boundaries.py` against the authoritative Russian source tre
 
 ## P003 production status
 
-P003 is in production. Completed and accepted: **1/50**.
+P003 is in production. Completed and accepted: **2/50**.
 
-Last completed unit: `P003.01` — `corpus/works/v90_122_122_Obschestvo_nezavisimyh.md`.
+Last completed unit: `P003.02` — `corpus/works/v34_143_143_Predislovie_k_The_Anatomy_of_Misery_Dzhona_Kenvorti.md`.
 
-NEXT ACTION: translate and audit `P003.02`.
+NEXT ACTION: translate and audit `P003.03`.

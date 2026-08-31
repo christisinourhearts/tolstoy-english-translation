@@ -1,0 +1,18 @@
+{
+  "batch": "P003",
+  "unit": "P003.02",
+  "source_path": "corpus/works/v34_143_143_Predislovie_k_The_Anatomy_of_Misery_Dzhona_Kenvorti.md",
+  "source_sha256": "aef88a288aaea4a5a392aa83eedf8bb4c9dbbbc89d3c60e7bcdd66f0fb8f6531",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Opening French quotation translated into English; language switch recorded in metadata. Editorial footnote not included in body milestone."
+  ],
+  "result": "PASS"
+}
