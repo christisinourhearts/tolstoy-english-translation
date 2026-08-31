@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.38",
+  "source_path": "corpus/azbuka/v21_274_274_Volk_i_jagnenok.md",
+  "source_sha256": "99e38ade422f486d496986b740c3199b9218f55b2a0f6d4ee817683c55412527",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, title, fable label, opening sighting, three successive accusations/replies, and final threat are all represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The opening dash construction «Волк увидал, — ягненок пьет» is kept compact as 'A wolf saw—a lamb was drinking', rather than expanded into explanatory narration.",
+    "«ниже по воде» is rendered 'downstream from you', the concrete spatial sense needed for the lamb's defense.",
+    "«Тебя не переговоришь» is 'There's no outarguing you', retaining the wolf's irritated concession that the lamb defeats each verbal pretext.",
+    "«натощак» is kept concretely as 'on an empty stomach' rather than softened to merely 'hungry'. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
