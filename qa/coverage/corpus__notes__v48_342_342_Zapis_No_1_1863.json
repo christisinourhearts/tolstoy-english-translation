@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.13",
+  "source_path": "corpus/notes/v48_342_342_Zapis_No_1_1863.md",
+  "source_sha256": "e2e88affe168b5110c422c706e0e4d326012a36eff9fdbfcf3cf740dbaaed267",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Two illegible source spans remain explicitly marked illegible. The syntactically broken sentence surrounding the first illegible span is not reconstructed."
+  ],
+  "result": "PASS"
+}
