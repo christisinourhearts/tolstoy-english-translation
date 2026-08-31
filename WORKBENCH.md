@@ -13,11 +13,11 @@ Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records ch
 
 ## Last completed unit
 
-P001.2 — `corpus/works/v01_097_099_Detstvo_Varianty_teksta_Sovremennika_1852_g_No_9.md`
+P001.3 — `corpus/letters/v59_008_T_A_Ergolskojigr_E_A_Tolstoj.md`
 
-Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; mechanical validation PASS.
+Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; apparatus translated; mechanical validation PASS.
 
-Important pilot finding: some files categorized as `works` consist primarily or entirely of scholarly variant apparatus; current manifest body/apparatus statuses do not model this cleanly. See `qa/batches/P001.md`.
+Pilot finding: source front matter may declare Russian while Tolstoy's body is entirely French. A distinct body-language field is needed.
 
 ## Active batch
 
@@ -25,10 +25,10 @@ P001 — see `qa/batches/P001.md`.
 
 ## Current unit
 
-`corpus/letters/v59_008_T_A_Ergolskojigr_E_A_Tolstoj.md`
+`corpus/diaries/v48_033_034_1861_04_04.md`
 
 Stage: not started.
 
 ## Next action
 
-Translate the 27 October 1848 letter. Detect its actual body language (French), translate the letter body into English, preserve the fact that the source letter is French, and separately translate the Russian editorial notes. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
+Translate the 4/16 April 1861 diary entry while retaining its telegraphic character and German code-switches/footnotes. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
