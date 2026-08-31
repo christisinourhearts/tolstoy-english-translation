@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.10",
+  "source_path": "corpus/letters/v59_016_A_I_Sobolevuchernovoe.md",
+  "source_sha256": "80b4b0c18a048815c5adc02b934122da35c70cd23ce857199a51582cfa64ee59",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "огулом is rendered 'in a lump' and по десятинам 'by the desyatina,' preserving the contrast between a wholesale timber sale and sale by measured land area.",
+    "The telegraphic manuscript jottings in editorial notes 7–9 are intentionally not expanded into grammatical prose; unclear Гирганзан [?] is transliterated as 'Girganzen [?]'.",
+    "The source's struck Latin fragment remains struck through in English. Its bracketed Russian editorial gloss is translated separately rather than silently substituted for the fragment.",
+    "The French sentence in note 5 is translated directly; the bracketed Russian editorial rendering is retained as a second English rendering because both layers are present in the audited source."
+  ],
+  "result": "PASS"
+}
