@@ -9,29 +9,26 @@ Source repository: `tolstoy-russian-md-audited`
 
 ## Current state
 
-No translation batch has been started in this scaffold.
+Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records checked, 0 missing, 0 changed.
 
-## Last completed batch
+## Last completed unit
 
-None.
+P001.1 — `corpus/works/v25_028_030_Dva_brata_i_zoloto.md`
+
+Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; mechanical validation PASS.
+
+Upstream QA note: possible Russian source-layer discrepancy `в горè` / `на горе` recorded in `qa/batches/P001.md`.
 
 ## Active batch
 
-None.
+P001 — see `qa/batches/P001.md`.
+
+## Current unit
+
+`corpus/works/v01_097_099_Detstvo_Varianty_teksta_Sovremennika_1852_g_No_9.md`
+
+Stage: not started.
 
 ## Next action
 
-Choose a representative pilot batch and translate it under `TRANSLATION.md`. Recommended pilot: a short finished work, a short letter with editorial notes, a diary entry, an Azbuka item, a Krug chteniya day, and one variant/draft. Do not scale until the pilot reveals whether the metadata and audit rules need adjustment.
-
-## Handoff format
-
-When ending a work session, replace the sections above with enough information for a fresh session to continue without chat history:
-
-- batch ID
-- exact source paths
-- completed stages
-- unresolved source questions
-- files changed
-- validation result
-- commit/checkpoint identifier if available
-- exact next action
+Translate the *Childhood* Sovremennik variant apparatus exactly as represented, preserving its editorial nature, foreign-language epigraphs, footnotes, page markers, and distinctions among the 1852, 1856, and manuscript readings. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
