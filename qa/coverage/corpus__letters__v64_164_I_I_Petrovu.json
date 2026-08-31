@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.14",
+  "source_path": "corpus/letters/v64_164_I_I_Petrovu.md",
+  "source_sha256": "d12585b74b7884d9dfd55e042414d6485e6257187106a55414caa09a9b0b6f1f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The body names only «Иван Дмитриевич». Contemporary context strongly points to Ivan Dmitrievich Sytin, but the selected source does not supply the surname here, so the English deliberately leaves the addressee of the enclosed note as 'Ivan Dmitrievich' rather than silently identifying him.",
+    "The recurrent closing «Дружески жму вам руку» is rendered 'I shake your hand in friendship', matching the already accepted corpus treatment of the same formula.",
+    "In editorial note 2, «фонд» is the holdings/collection of the proposed library, not a monetary fund; 'their collection' avoids a false financial reading while preserving the concrete institutional sense.",
+    "The embedded page marker between «существует» and «несколько кружков» is preserved in the corresponding position in the English editorial note.",
+    "The quotation «доставку народу недорогого и хорошего материала для чтения» is rendered closely as 'supplying the people with inexpensive and good reading material'; no broader educational purpose is added."
+  ],
+  "result": "PASS"
+}
