@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.18",
+  "source_path": "corpus/azbuka/v21_049_049_Lisitsa_pozvala_zhuravlja.md",
+  "source_sha256": "6d5b2a82dede473da69b4979f5a3e045a2118c7eaca73807536bc53db21877e8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The animal-body terms are rendered naturally for English ('beak', 'muzzle') without changing the actions or moral structure."
+  ],
+  "result": "PASS"
+}

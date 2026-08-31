@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.17 — `corpus/azbuka/v21_052_052_Dikij_i_ruchnoj_osel.md` accepted.
+P002.18 — `corpus/azbuka/v21_049_049_Lisitsa_pozvala_zhuravlja.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.18 — `corpus/azbuka/v21_049_049_Lisitsa_pozvala_zhuravlja.md`.
+Translate and audit P002.19 — `corpus/azbuka/v21_053_054_Krasnaja_shapochka.md`.
