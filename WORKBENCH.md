@@ -14,7 +14,7 @@ This is the persistent handoff ledger. A fresh session should read, in this orde
 Russian source release: 2026-08-18  
 Source repository: `tolstoy-russian-md-audited`
 
-The authoritative Russian repository must remain read-only. The exact Russian ZIP was not available to the final runtime of the previous chat because of a file-mount failure. Therefore the first task in a new runtime is to verify that the newly uploaded Russian ZIP is actually accessible and run the source/hash and P003 boundary preflight against that exact snapshot.
+The authoritative Russian repository must remain read-only. In the current resumed runtime, the exact uploaded Russian snapshot is mounted and has passed the full source/hash check (15,766 checked; 0 missing; 0 changed) and the P003 boundary preflight. A future runtime should repeat those checks against whatever Russian ZIP is actually mounted before resuming translation.
 
 ## Completed work
 
