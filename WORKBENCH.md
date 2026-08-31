@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **83**.
+- Reviewed English translations: **84**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **14,947**.
+- Approximate reviewed source-body words: **15,051**.
 - Confirmed source errata: **8**.
-- Existing structured coverage records: **76**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **77**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **1 / 50 accepted.**
-- Last completed unit: **P004.01 — From a School Exercise Book, 1835.**
-- Next unit: **P004.02 — To Dear Auntie (Congratulatory Verses).**
+- **2 / 50 accepted.**
+- Last completed unit: **P004.02 — To Dear Auntie (Congratulatory Verses).**
+- Next unit: **P004.03 — A Temporary Method for the Study of Music.**
 
 ## P003 status
 
@@ -172,7 +172,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 1/50 accepted units; resume with **P004.02**.
+1. P004 is in production at 2/50 accepted units; resume with **P004.03**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.

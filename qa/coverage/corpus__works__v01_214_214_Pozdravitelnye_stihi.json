@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.02",
+  "source_path": "corpus/works/v01_214_214_Pozdravitelnye_stihi.md",
+  "source_sha256": "351aabd78dd21458e27ef0fc1c47390d519a76b32d27c9187c5234839d4fb1b6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Verse lineation is preserved, but rhyme is not mechanically recreated because doing so would require freer paraphrase.",
+    "The childlike ellipses in 'Что не дитя я молчаливый / Когда меня ласкала мать' and 'Которым день сей подарил' are rendered with the minimum English supplementation needed to make the relations intelligible.",
+    "The repeated 'еще раз ... опять' remains 'once again ... again' rather than being stylistically deduplicated."
+  ],
+  "result": "PASS"
+}
