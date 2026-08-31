@@ -1,0 +1,578 @@
+[
+  {
+    "source_path": "corpus/works/v01_213_213_Iz_uchenicheskoj_tetradi_1835_g.md",
+    "category": "works",
+    "words": 59,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "I. [ИЗ УЧЕНИЧЕСКОЙ ТЕТРАДИ 1835 г.]",
+    "last_text": "Сокол есть очень полезная птица она ловит газелей. Газель есть животное которое бегает очень скоро, что собаки не могут его поймать, то сокол спускаеться и убивает.",
+    "unit": 1
+  },
+  {
+    "source_path": "corpus/works/v01_214_214_Pozdravitelnye_stihi.md",
+    "category": "works",
+    "words": 104,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\*II. [ПОЗДРАВИТЕЛЬНЫЕ СТИХИ.]",
+    "last_text": "Лев Толстой.",
+    "unit": 2
+  },
+  {
+    "source_path": "corpus/works/v01_241_242_Vremennaja_metoda_dlja_izuchenija_muzyki.md",
+    "category": "works",
+    "words": 269,
+    "score": 3,
+    "severity": "LOW",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation"
+    ],
+    "first_text": "[\\*ОТРЫВОК I.] ВРЕМЕННАЯ МЕТОДА ДЛЯ ИЗУЧЕНІЯ МУЗЫКИ.",
+    "last_text": "рать.* Это приобретается;  терпеливым отыскиванием известных мотивов на инструменте: сыграв <ins><sup></sup> сыграть.</ins> *6) С уха писать.* Для этого нужно делать тоже самое, что и для 5), только вместо игры писать. —",
+    "unit": 3
+  },
+  {
+    "source_path": "corpus/works/v01_298_298_K_zapadne.md",
+    "category": "works",
+    "words": 113,
+    "score": 3,
+    "severity": "LOW",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation"
+    ],
+    "first_text": "К КЪ",
+    "last_text": "В жизни будущей и днесь». —",
+    "unit": 4
+  },
+  {
+    "source_path": "corpus/works/v01_299_299_Davno_pozabyl_ja_o_schasti.md",
+    "category": "works",
+    "words": 156,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Давно позабыл я о счастьи, —",
+    "last_text": "30 Декабря 1852. <br> Старогладовская.",
+    "unit": 5
+  },
+  {
+    "source_path": "corpus/works/v01_299_300_Ej_Marjana_bros_rabotu.md",
+    "category": "works",
+    "words": 200,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Эй, Марьяна, брось работу!",
+    "last_text": "(Гадко). 1853, 16 апреля <br> Червленная.",
+    "unit": 6
+  },
+  {
+    "source_path": "corpus/works/v01_301_302_Ej_Marjana_bros_rabotu.md",
+    "category": "works",
+    "words": 194,
+    "score": 3,
+    "severity": "LOW",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation"
+    ],
+    "first_text": "Ей, Марьяна, брось работу!",
+    "last_text": "Его шашка и кинжал. —",
+    "unit": 7
+  },
+  {
+    "source_path": "corpus/works/v01_302_302_Kogda_zhe_kogda_nakonets_perestanu.md",
+    "category": "works",
+    "words": 46,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Когда же, когда наконец перестану",
+    "last_text": "Томящая грусть и сомненья.",
+    "unit": 8
+  },
+  {
+    "source_path": "corpus/letters/v59_002_RektoruKazanskogouniversiteta.md",
+    "category": "letters",
+    "words": 225,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Ректору Казанского университета Н. И. Лобачевскому.1844 г. Августа 3. Казань.",
+    "last_text": "копии 4 с постановления Тульского дворянского депутатского собрания. Августа 3 дня 1844 г. К сему прошению означенный выше проситель граф Лев Николаев Толстой руку приложил.",
+    "unit": 9
+  },
+  {
+    "source_path": "corpus/letters/v59_016_A_I_Sobolevuchernovoe.md",
+    "category": "letters",
+    "words": 334,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 16. А. И. Соболеву (черновое).1849 г. Марта 15... 31? Петербург.",
+    "last_text": "— Скажи на милость, с какой стати буду я продавать Копылову лес огулом, когда вдвое выгоднее продать его по десятинам. Как ты там не клянись, что нибудь да не то. — посылку при сем приложенную доставь Сергею Николаевичу.",
+    "unit": 10
+  },
+  {
+    "source_path": "corpus/letters/v59_027_T_A_Ergolskoj.md",
+    "category": "letters",
+    "words": 343,
+    "score": 4,
+    "severity": "MEDIUM",
+    "reasons": [
+      "body ends without terminal punctuation"
+    ],
+    "first_text": "\\* 27. Т. А. Ергольской.1850 г. Апреля 20. Пирогово.",
+    "last_text": "20 April",
+    "unit": 11
+  },
+  {
+    "source_path": "corpus/letters/v59_072_N_A_Nekrasovu.md",
+    "category": "letters",
+    "words": 234,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Н. А. Некрасову.1852 г. Декабря 26. Станица Старогладковская.",
+    "last_text": "Г. Л. Толстой.",
+    "unit": 12
+  },
+  {
+    "source_path": "corpus/letters/v59_080_N_A_Nekrasovu.md",
+    "category": "letters",
+    "words": 299,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "H. A. Некрасову.1853 г. Сентября 17. Пятигорск.",
+    "last_text": "В С. Петербург, В редакцию Ж. Современника.",
+    "unit": 13
+  },
+  {
+    "source_path": "corpus/letters/v59_085_Gr_V_P_Tolstomu.md",
+    "category": "letters",
+    "words": 249,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 85. Гр. В. П. Толстому.1854 г.? Апреля 30? Бухарест.",
+    "last_text": ". Son plus grand bonheur c’est de se devouer pour les autres, comme à present son voyage et son sejour à K. Je suis sur qu’elle m’a ecrit et cependant je n’ai pas une seule lettre d’elle, même pas de reponse à la mienne.",
+    "unit": 14
+  },
+  {
+    "source_path": "corpus/letters/v59_094_Kn_G_V_Lvovu.md",
+    "category": "letters",
+    "words": 266,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Кн. Г. В. Львову.1855 г. Января 15. Симферополь.",
+    "last_text": "Князю Георгию Владимировичу Львову.",
+    "unit": 15
+  },
+  {
+    "source_path": "corpus/letters/v59_096_Gr_V_P_Tolstomu.md",
+    "category": "letters",
+    "words": 318,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 96. Гр. В. П. Толстому.1855г. Февраля 24. Позиция на р. Белъбек.",
+    "last_text": "Бельбек.",
+    "unit": 16
+  },
+  {
+    "source_path": "corpus/letters/v59_099_Gr_S_N_Tolstomu.md",
+    "category": "letters",
+    "words": 218,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 99. Гр. С. Н. Толстому.1855 г. Апреля 15... 30? Севастополь.",
+    "last_text": "Его Сиятельству Графу Сергею Николаевичу Толстому.",
+    "unit": 17
+  },
+  {
+    "source_path": "corpus/letters/v59_106_Gr_S_N_Tolstomu.md",
+    "category": "letters",
+    "words": 249,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 106. Гр. С. Н. Толстому.1855 г. Августа 7. Бахчисарай.",
+    "last_text": "7 Августа.",
+    "unit": 18
+  },
+  {
+    "source_path": "corpus/letters/v59_108_N_A_Kryzhanovskomu.md",
+    "category": "letters",
+    "words": 341,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 108. Н. А. Крыжановскому (черновое).1855 г. Сентября 3. Севастополь.",
+    "last_text": "С истинным уважением и преданностью имею честь быть Вашего Превосходительства покорнейший слуга Гр. Л. Толстой.",
+    "unit": 19
+  },
+  {
+    "source_path": "corpus/letters/v59_111_A_A_Kraevskomu.md",
+    "category": "letters",
+    "words": 207,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "1855 г. Декабря 31. Петербург.",
+    "last_text": "Я пишу Вам потому, что завтра на 28 дней еду в Москву.",
+    "unit": 20
+  },
+  {
+    "source_path": "corpus/letters/v60_002_gr_Anast_Iv_Tolstoj.md",
+    "category": "letters",
+    "words": 157,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "\\* 2. Гр. А. И. Толстой.1856 г. Февраля 7. Петербург.",
+    "last_text": "Ее Сиятельству Графине Толстой. В Академию Художеств.",
+    "unit": 21
+  },
+  {
+    "source_path": "corpus/letters/v60_003_N_A_Nekrasovu.md",
+    "category": "letters",
+    "words": 172,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Н. А. Некрасову.1856 г. Февраля конец. Петербург.",
+    "last_text": "Николаю Алексеевичу Некрасову.",
+    "unit": 22
+  },
+  {
+    "source_path": "corpus/letters/v60_006_N_A_Nekrasovu.md",
+    "category": "letters",
+    "words": 80,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "H. А. Некрасову.1856 г. Марта 29—30. Петербург.",
+    "last_text": "Не можете ли вы дать мне деньги за Метель теперь, а чтоб долг 400 р. оставался до следующего писанья. — Вы бы меня очень обязали. До свиданья. Ваш Толстой.",
+    "unit": 23
+  },
+  {
+    "source_path": "corpus/diaries/v46_029_030_1847_04_09.md",
+    "category": "diaries",
+    "words": 35,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "9 Апреля",
+    "last_text": "(6 часов утра). Я совершенно доволен собою зa вчерашний день. Я начинаю приобретать волю телесную; но  умственная еще очень слаба. — Терпение и прилежание, и я уверен, что я достигну всего, что я хочу. —",
+    "unit": 24
+  },
+  {
+    "source_path": "corpus/diaries/v46_032_032_1847_04_19.md",
+    "category": "diaries",
+    "words": 16,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "19 Апреля.",
+    "last_text": "Встал чрезвычайно поздно, и только в 2 часа определил, что делать в продолжении дня. —",
+    "unit": 25
+  },
+  {
+    "source_path": "corpus/diaries/v46_032_032_1847_06_14.md",
+    "category": "diaries",
+    "words": 83,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "<ins>14 июня</ins>. Я. П.",
+    "last_text": "ществе дух взял бы верх над материей; но дух развивается различно. Или развитие его в каждом существе отдельно составляет часть всеобщего развития. Или упадок его в отдельных существах усиливает его развитие во всеобщем.",
+    "unit": 26
+  },
+  {
+    "source_path": "corpus/diaries/v46_032_032_1847_06_15.md",
+    "category": "diaries",
+    "words": 45,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "15 Іюня.",
+    "last_text": "Вчера я был в хорошем расположении духа и остался бы верно к вечеру доволен собою; ежели бы [^1] приезд Дунички с мужем не сделал бы на меня такового большего влияния, что я сам лишил себя счастия быть довольным собою. —",
+    "unit": 27
+  },
+  {
+    "source_path": "corpus/diaries/v46_034_035_1850_06_14.md",
+    "category": "diaries",
+    "words": 300,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "[14 июня 1850 г. Я. П.",
+    "last_text": "ода, проведенные мною так беспутно, иногда кажутся мне очень занимательными, поэтическими и частью полезными; постараюсь пооткровеннее и поподробнее вспомнить и написать их. Вот еще [^6] третье назначение для дневника. —",
+    "unit": 28
+  },
+  {
+    "source_path": "corpus/diaries/v46_035_035_1850_06_15.md",
+    "category": "diaries",
+    "words": 67,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "15 Іюня.",
+    "last_text": ", хозяйство, купаться. — От 6 до 8 продолжать дневник. От 8 до 10 писать методу музыки. — От 10 до 12 играть на фортепиано. От 12 до 6 завтрак, отдых и обед. От 6 до 8 чтение и правила, от 8 до 10 купаться и хозяйство. —",
+    "unit": 29
+  },
+  {
+    "source_path": "corpus/diaries/v46_035_035_1850_06_16.md",
+    "category": "diaries",
+    "words": 53,
+    "score": 1,
+    "severity": "CLEAR",
+    "reasons": [
+      "body ends on punctuation that normally expects continuation",
+      "confidence reduced: category often contains intentional fragments"
+    ],
+    "first_text": "16 Іюня.",
+    "last_text": "значенное, а почему — объясню после. На 16 Іюня. От 5 [^1] <sup>1</sup> / <sub>2</sub> до 7 купаться и быть в поле — 7—10 — дневник — 10—12 играть — 12—6 завтрак, отдых и обед — 6—8 писать о музыке. 8—10 — хозяйство. — —",
+    "unit": 30
+  },
+  {
+    "source_path": "corpus/diaries/v46_037_037_1850_06_18.md",
+    "category": "diaries",
+    "words": 36,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "18 Іюня.",
+    "last_text": "Встал в 7 <sup>1</sup> / <sub>2</sub>, до 11 ничего, 11—12 музыка, 2—5 хозяйство, — 6—8 о музыке, — 8—11 [^1] <sup></sup> наряд, музыка и чтение.",
+    "unit": 31
+  },
+  {
+    "source_path": "corpus/diaries/v46_037_038_1850_06_19.md",
+    "category": "diaries",
+    "words": 156,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "19 Іюня.",
+    "last_text": "— во первых, не может ли она иметь следствий; [^6] ежели может иметь, то  как отвратить их. — Ежели же нельзя отвратить, и обстоятельство такое уже прошло, то, обдумав хорошенько, стараться забыть или привыкнуть к оному.",
+    "unit": 32
+  },
+  {
+    "source_path": "corpus/diaries/v46_040_040_1850_12_11.md",
+    "category": "diaries",
+    "words": 55,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Занятия на нынешний день. 11. Сидеть дома, читать, вечером написать правила для общества и конспект повести. Занятия на 8 Декабря. С утра читать, потом до обеда дневник и росписание на воскресение дел и визитов. После об",
+    "last_text": "ря. С утра читать, потом до обеда дневник и росписание на воскресение дел и визитов. После обеда читать и баня, вечером, ежели не устану очень, повесть. — Утром, тотчас после кофе, письма в контору, тетушке и Перфильеву.",
+    "unit": 33
+  },
+  {
+    "source_path": "corpus/notes/v48_166_166_Zapisnaja_knizhka_No_6_1871.md",
+    "category": "notes",
+    "words": 26,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "[ЗАПИСНАЯ КНИЖКА № 6, 1871 г.]",
+    "last_text": "Елагин.",
+    "unit": 34
+  },
+  {
+    "source_path": "corpus/notes/v48_331_331_Zapisnaja_knizhka_No_11_1878_1880.md",
+    "category": "notes",
+    "words": 71,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "[ЗАПИСНАЯ КНИЖКА № 11, 1878—1880 гг.?]",
+    "last_text": "Как Никита будил Сережу и не добудился в Дрездене.",
+    "unit": 35
+  },
+  {
+    "source_path": "corpus/notes/v48_346_346_Zapis_No_4_1871_1872.md",
+    "category": "notes",
+    "words": 127,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "№ 4 1871 или 1872 г.",
+    "last_text": "Вода стальная и тихая, густая.",
+    "unit": 36
+  },
+  {
+    "source_path": "corpus/azbuka/v21_012_012_Zhili_kury_i_gusi_u_doma.md",
+    "category": "azbuka",
+    "words": 25,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Жили куры и гуси у дома и жила лиса у рощи. У лисы были ноги вялы и зубы были тупы, куры и гуси были рады.",
+    "last_text": "Жили куры и гуси у дома и жила лиса у рощи. У лисы были ноги вялы и зубы были тупы, куры и гуси были рады.",
+    "unit": 37
+  },
+  {
+    "source_path": "corpus/azbuka/v21_016_016_Tane_dali_busy.md",
+    "category": "azbuka",
+    "words": 5,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Тане дали бусы на шею.",
+    "last_text": "Тане дали бусы на шею.",
+    "unit": 38
+  },
+  {
+    "source_path": "corpus/azbuka/v21_016_016_U_Sashi_na_litse.md",
+    "category": "azbuka",
+    "words": 6,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "У Саши на лице была сажа.",
+    "last_text": "У Саши на лице была сажа.",
+    "unit": 39
+  },
+  {
+    "source_path": "corpus/azbuka/v21_016_016_U_mamy_bylo_nemalo_dela.md",
+    "category": "azbuka",
+    "words": 6,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "У мамы было не мало дела.",
+    "last_text": "У мамы было не мало дела.",
+    "unit": 40
+  },
+  {
+    "source_path": "corpus/azbuka/v21_016_016_Vanja_i_Dunja.md",
+    "category": "azbuka",
+    "words": 11,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Ваня и Дуня сели на сене и рыли на сене дыру.",
+    "last_text": "Ваня и Дуня сели на сене и рыли на сене дыру.",
+    "unit": 41
+  },
+  {
+    "source_path": "corpus/azbuka/v21_016_017_My_byli_na_reke.md",
+    "category": "azbuka",
+    "words": 19,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Мы были на реке.",
+    "last_text": "Сушу ноги на печи.",
+    "unit": 42
+  },
+  {
+    "source_path": "corpus/azbuka/v21_017_017_Kate_dali_myla.md",
+    "category": "azbuka",
+    "words": 17,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Кате дали мыла.",
+    "last_text": "И лицё и шея и руки Кати были белы.",
+    "unit": 43
+  },
+  {
+    "source_path": "corpus/azbuka/v21_017_017_Mama_byla_na_reke.md",
+    "category": "azbuka",
+    "words": 5,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Мама была на реке, мыла.",
+    "last_text": "Мама была на реке, мыла.",
+    "unit": 44
+  },
+  {
+    "source_path": "corpus/azbuka/v21_017_017_Tanja_sela_na_seno.md",
+    "category": "azbuka",
+    "words": 10,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "Таня села на сено и пела: люли люли, дули дули!",
+    "last_text": "Таня села на сено и пела: люли люли, дули дули!",
+    "unit": 45
+  },
+  {
+    "source_path": "corpus/krug_chtenija/v41_009_009_Krug_chtenija_Predislovie.md",
+    "category": "krug_chtenija",
+    "words": 212,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "ПРЕДИСЛОВИЕ",
+    "last_text": "Март 1908 г. Ясная Поляна.",
+    "unit": 46
+  },
+  {
+    "source_path": "corpus/krug_chtenija/v41_017_019_Krug_chtenija_daily_jan_1_5.md",
+    "category": "krug_chtenija",
+    "words": 306,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "5-е января",
+    "last_text": "Бойся быть нарушителем единения людей*, *вызвав в них словами недобрые чувства друг против друга.",
+    "unit": 47
+  },
+  {
+    "source_path": "corpus/krug_chtenija/v41_019_020_Krug_chtenija_daily_jan_1_6.md",
+    "category": "krug_chtenija",
+    "words": 294,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "6-е января",
+    "last_text": "Сколько бы раз ни пришлось тебе падать, не достигнув победы над своими страстями, не унывай. Всякое усилие борьбы уменьшает силу страсти и облегчает победу над ней.",
+    "unit": 48
+  },
+  {
+    "source_path": "corpus/krug_chtenija/v41_028_030_Krug_chtenija_daily_jan_2_3.md",
+    "category": "krug_chtenija",
+    "words": 256,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "10-е января",
+    "last_text": "Религиозное учение — основа воспитания, а между тем в нашем христианском мире учат тому, во что никто не верит. Дети проницательны и видят это и не верят не только тому, чему их учат, но и тем, которые их учат.",
+    "unit": 49
+  },
+  {
+    "source_path": "corpus/krug_chtenija/v41_039_040_Krug_chtenija_daily_jan_3_1.md",
+    "category": "krug_chtenija",
+    "words": 308,
+    "score": 0,
+    "severity": "CLEAR",
+    "reasons": [],
+    "first_text": "15-е января",
+    "last_text": "Бойтесь всего, что становится между вами и богом — духом, живущим в вашей душе.",
+    "unit": 50
+  }
+]
