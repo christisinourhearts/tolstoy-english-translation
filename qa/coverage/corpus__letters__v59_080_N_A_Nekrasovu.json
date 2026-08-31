@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.13",
+  "source_path": "corpus/letters/v59_080_N_A_Nekrasovu.md",
+  "source_sha256": "cd08460e21a6bb9787912f107127e369d7eb8ec06080849fdd2876f7c1ec8f42",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "оставление ее в совершенно том виде, в котором она есть is rendered 'that it be left exactly as it is,' preserving Tolstoy's third repeated demand for textual noninterference.",
+    "The alternative-title sentence is construed as leaving the choice between the notebook's existing title and 'A Suicide. A Marker's Story' entirely to Nekrasov; no preferred title is inferred.",
+    "(Н. С.) is translated as (N. L.) because the source explicitly explains it as новая строка, 'new line'.",
+    "The editorial note's 1883 is retained as an explicitly identified autograph error rather than silently corrected."
+  ],
+  "result": "PASS"
+}
