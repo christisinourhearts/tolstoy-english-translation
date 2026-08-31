@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.29. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.30. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 28 / 50 accepted
-- Last accepted unit: P003.28 — diary entry, 17 May 1884
-- Next unit: P003.29 — diary entry, 22 February 1889
-- Total reviewed translations: 60
-- Approximate reviewed source-body words: 11,178
-- Structured bilingual coverage records: 53
+- P003: in progress, 29 / 50 accepted
+- Last accepted unit: P003.29 — diary entry, 22 February 1889
+- Next unit: P003.30 — diary entry, 27 January 1890
+- Total reviewed translations: 61
+- Approximate reviewed source-body words: 11,299
+- Structured bilingual coverage records: 54
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–28.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–29.
 
 ## P003.11 translation note
 
@@ -104,6 +104,10 @@ The diary entry of 17 March 1865 was accepted in commit `0f7af91`. Its exact sou
 ## P003.28 translation/source-QA note
 
 The diary entry on volume 49, pp. 94–95 was accepted in commit `246227b`. Its exact source SHA-256, `1583173e53b515bed2265a72925ca850d4ea92ebc3295bf14e3e4ace6122a2da`, matched the mounted audited Russian snapshot, and its direct boundary result was CLEAR. The unit exposed a confirmed source-metadata defect: the audited filename, subtitle, `creation` field, and manifest row say 17 May 1883, while the file's own source-edition citation says `Дневник 1884 г.` The official volume places the entry inside the 1884 diary, and its manuscript description and commentary independently cite the 1884 agenda and contemporary correspondence. The stable source path and original hash remain unchanged, but English subtitle/creation metadata uses 17 May 1884. Both readings are recorded in `metadata/source_errata.yml` and `qa/source_suspected/v49_094_095_1883_05_17.json`; the Russian repository was not changed. French `pas de géants` remains visible with the translated gloss “giant steps.” The substantivized `Красное, заманчивое, похотливое` is “Beautiful, enticing, lustful,” continuing to describe the pagan element. Dialectal `Телятенской` is rendered “a man from Telyatinki,” `прогульную лошадь` is “a stray horse,” and `становой` is “district police officer.” The official commentary identifies Seryozha as Tolstoy's brother Sergei Nikolaevich, while the body preserves Bibikov's abrupt disruption: “Bibikov threw me off by saying that Seryozha would come.” Both `обратил` and `поворотить` remain forms of “turn,” preserving the link between Tolstoy's prayer and his realization that he himself had remained silent beside his wife.
+
+## P003.29 translation/source-QA note
+
+The diary entry of 22 February 1889 was accepted in commit `a0b27f7`. Its exact source SHA-256, `b1117e687e7b3533a04c13f558a9662c852c899cf0f93a804418516ba5560ab8`, matched the mounted audited Russian snapshot, and its direct boundary result was CLEAR. The apparatus audit found a confirmed source-layer omission: the audited Markdown retains footnote `[^1]`, `Можно прочесть: истопил`, after `потом`, but the official volume 50 p. 40 body reads `потом[34] [?] пришел Желтов`; note 34 gives the alternative as `Можно прочесть: истоп[ил]`. English restores only the verified `[?]` after the existing footnote marker, translates the note as “May be read: *lit the stove*,” retains the original hash, and leaves the Russian repository unchanged. Singular `написал письмо Семенову и Rod’y` remains “wrote a letter to Semenov and to Rod.” The author-as-book shorthand remains “Took Robertson from Gautier's,” while `учение 12 Апостолов` is *The Teaching of the Twelve Apostles*. The singular agreement and comma in `Мудрость, знание у нас распалось на два` remain “Wisdom, knowledge, among us has split into two,” and the five existential questions and repeated `только не` contrast are preserved separately.
 
 ## Repository maintenance note
 
