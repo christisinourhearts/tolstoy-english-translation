@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.09",
+  "source_path": "corpus/diaries/v46_028_028_1847_04_07.md",
+  "source_sha256": "791857c113ca470bf0677f540394e52172ba9111bc6d52d80562f034b5c883b3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The identity of 'Lilya' in the chess sentence is not resolved in the source; the name is retained without speculative identification. The source line break before '1-ую часть' is preserved as a paragraph break."
+  ],
+  "result": "PASS"
+}
