@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **90**.
+- Reviewed English translations: **91**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **16,029**.
-- Confirmed source errata: **9**.
-- Existing structured coverage records: **83**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Approximate reviewed source-body words: **16,254**.
+- Confirmed source errata: **10**.
+- Existing structured coverage records: **84**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **8 / 50 accepted.**
-- Last completed unit: **P004.08 — “When, When at Last Shall I Cease…”**
-- Next unit: **P004.09 — Letter to the Rector of Kazan University, August 3, 1844.**
+- **9 / 50 accepted.**
+- Last completed unit: **P004.09 — Letter to the Rector of Kazan University, 3 August 1844.**
+- Next unit: **P004.10 — Letter to A. I. Sobolev (draft), March 1849.**
 
 ## P003 status
 
@@ -161,6 +161,8 @@ P003.33 triggered `SOURCE_SUSPECTED` because the audited entry has `Овеянн
 P003.50 triggered `SOURCE_SUSPECTED` because the audited Markdown misplaces the p. 155/item 3 boundary after the Lucy Mallory attribution, effectively merging the two Mallory selections under item 2 and leaving a stranded `3` before item 4. Official volume 42 shows p. 155 beginning with item 3 before the second Mallory passage. English restores only that verified structure, retains the original source hash, and leaves the Russian repository unchanged.
 
 
+P004.09 triggered `SOURCE_SUSPECTED`: the audited Markdown retains reference numerals 3 and 4 in Tolstoy's 3 August 1844 petition but omits the official edition's long Soviet editorial notes 3 and 4. Volume 59 confirms that Tolstoy's petition itself is complete. The Russian witness remains unchanged; English translates all material present in the audited Markdown but does not import the omitted later editorial apparatus, and the defect is recorded in `metadata/source_errata.yml`.
+
 P004.03 triggered `SOURCE_SUSPECTED`: the audited Markdown and the upstream Tolstoy Digital TEI omit the main-text continuation after `сыграв` in item 5 of *A Temporary Method for the Study of Music*. Official volume 1 pp. 241–242 restores `раза два неизвестныя ноты, стараться сыграть наизусть` and textual note 169 `Написано: сыграть.` English restores only that verified material under an exact manifest-declared footnote exception; the Russian snapshot remains unchanged.
 
 ## Public-domain provenance pilot
@@ -175,7 +177,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 8/50 accepted units; resume with **P004.09**.
+1. P004 is in production at 9/50 accepted units; resume with **P004.10**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.

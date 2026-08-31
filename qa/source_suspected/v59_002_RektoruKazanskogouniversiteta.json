@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_002_RektoruKazanskogouniversiteta.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_editorial_footnote_definitions_3_and_4",
+  "digital_reading": "The audited Markdown preserves bare reference numerals 3 and 4 in Tolstoy's petition but contains only editorial notes 1 and 2.",
+  "verified_print_reading": "Official volume 59 pp. 5–8 supplies long editorial notes 3 and 4 after the petition; Tolstoy's petition itself is complete in the audited Markdown.",
+  "verified_print_pages": "5–8",
+  "verification": "Official 90-volume electronic edition, volume 59, letter 2.",
+  "witness": "https://tolstoy.ru/online/90/59/",
+  "p004_disposition": "Keep the Russian repository immutable and retain the four reference numerals. Translate all Tolstoy-authored text and all editorial apparatus actually present in the audited Markdown. Do not import the omitted long Soviet editorial notes 3 and 4 into the English corpus; record their absence as a witness-level apparatus defect."
+}

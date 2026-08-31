@@ -98,3 +98,14 @@ errata:
     verified_reading: "The official volume reads «сыграв[169] раза два неизвестныя ноты, стараться сыграть наизусть»; textual note 169 reads «Написано: сыграть.»"
     witness: "https://tolstoy.ru/online/90/01/"
     action: "Keep the Russian repository immutable. Restore the verified main-text continuation and textual note in English while retaining the original Russian Markdown SHA-256."
+
+  - source_path: corpus/letters/v59_002_RektoruKazanskogouniversiteta.md
+    type: missing_editorial_footnote_definitions_3_and_4
+    status: confirmed
+    volume: 59
+    declared_pages: "5–8"
+    verified_print_pages: "5–8"
+    digital_reading: "The audited Markdown retains bare reference numerals 3 and 4 but defines only editorial notes 1 and 2."
+    verified_reading: "The official volume supplies long Soviet editorial notes 3 and 4; Tolstoy's petition itself is complete."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve the reference numerals and translate all apparatus present in the audited Markdown, but do not import the omitted later editorial notes into the English corpus; document the witness-level apparatus defect."

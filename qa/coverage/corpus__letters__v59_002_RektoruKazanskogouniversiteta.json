@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.09",
+  "source_path": "corpus/letters/v59_002_RektoruKazanskogouniversiteta.md",
+  "source_sha256": "d1bc8ea542599aab0975bf1cf6af4aa4b3faa7fd45e267ac0efb34ef761879cf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The petition's four bare editorial-reference numerals are preserved. The audited Markdown defines only editorial notes 1 and 2; official volume 59 confirms that long notes 3 and 4 exist in the Soviet edition but were dropped upstream.",
+    "Because the missing material is later editorial apparatus rather than Tolstoy-authored text, it is documented in source QA but not imported into the English translation; all substantive content present in the audited Russian Markdown is translated.",
+    "своекоштного содержания is rendered 'supporting himself at his own expense,' preserving the administrative meaning rather than the opaque loanword 'self-financed'."
+  ],
+  "result": "PASS"
+}
