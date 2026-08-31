@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v75_298_F_A_Straxovu.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_footnote_marker_and_note",
+  "digital_reading": "The audited Markdown reads ‘...я отчеркнул карандашом. 3 Проставляю...’ and defines only [^1] and [^2].",
+  "verified_print_reading": "The 90-volume edition has a footnote marker 3 after ‘карандашом’ and a third note on p. 210 recording Strakhov's annotation about passages for «Круг чтения».",
+  "verified_print_pages": "209–210",
+  "verification": "Official 90-volume electronic edition, volume 75, confirms the missing footnote marker and full note 3.",
+  "witness": "https://tolstoy.ru/online/90/75/",
+  "p003_disposition": "translate using the audited Markdown for all unaffected text and the verified 90-volume reading for footnote marker/note [^3]; retain original source hash and leave Russian repository unchanged"
+}

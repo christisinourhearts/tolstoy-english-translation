@@ -133,6 +133,7 @@ When `SOURCE_SUSPECTED` is triggered:
 6. If the digital reading is confirmed, translate it and close the flag as `source_verified`.
 7. If a source error is confirmed, record both readings in `metadata/source_errata.yml`, state which reading governs the English translation, and retain the original source hash.
 8. If the reading cannot be resolved, keep the translation unit out of `reviewed` status and mark it `needs_source_review`.
+9. If a confirmed source erratum requires the English structure to differ from the audited Markdown (for example, restoring a verified missing footnote), declare the exact structural exception in the translation manifest so mechanical validation remains narrow and auditable.
 
 The system must prefer an explicit unresolved source problem over an ingenious invented interpretation.
 

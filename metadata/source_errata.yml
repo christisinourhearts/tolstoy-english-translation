@@ -21,3 +21,14 @@ errata:
     finding: "The individual Markdown document stops mid-sentence; the 90-volume edition identifies this story as spanning pp. 59-60 and continues the text."
     witness: "https://tolstoy.ru/online/90/21/"
     action: "Do not translate this individual document as complete until the source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/letters/v75_298_F_A_Straxovu.md
+    type: missing_footnote_marker_and_note
+    status: confirmed
+    volume: 75
+    declared_pages: "209–210"
+    verified_print_pages: "209–210"
+    digital_reading: "The body contains a bare numeral 3 after ‘карандашом’, but the Markdown defines only footnotes [^1] and [^2]."
+    verified_reading: "The numeral is footnote marker 3; the 90-volume edition supplies note 3 on p. 210, recording Strakhov's annotation that Tolstoy wanted the marked passages included in ‘Круг чтения’."
+    witness: "https://tolstoy.ru/online/90/75/"
+    action: "Keep the Russian repository immutable. The English translation restores marker [^3] and translates the verified printed/electronic note while retaining the original Russian Markdown SHA-256."

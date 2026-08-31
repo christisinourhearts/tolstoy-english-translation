@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.20",
+  "source_path": "corpus/letters/v75_298_F_A_Straxovu.md",
+  "source_sha256": "35791b989efadb2d54cb29b8c5ed164cd1bcb8866ad2b41cbb17a8663cb7c96d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The audited Russian Markdown has a source-layer defect after «карандашом»: a bare numeral ‘3’ appears in the body and footnote [^3] is absent. The official 90-volume electronic edition at vol. 75, pp. 209–210 confirms that this is a footnote marker and supplies the omitted note. The English restores marker [^3] and translates that verified note without modifying the Russian repository.",
+    "The editorial heading retains the uncertain date ‘January 28?’; editorial note 1 separately records an unknown-hand pencil notation ‘Feb. 1905.’ Neither date is normalized or reconciled.",
+    "«Лучшее, по моему мнению, я отчеркнул карандашом» is kept concretely as ‘What I think is best I marked off in pencil,’ preserving Tolstoy's physical marking rather than abstracting it to selection or approval.",
+    "«Проставляю еще в оглавлении баллы» is rendered ‘I am also putting scores in the table of contents,’ retaining the literal idea of numerical/graded marks rather than replacing it with a freer editorial paraphrase.",
+    "The recovered footnote's title «Круг чтения» follows the repository's established English title *Circle of Reading*."
+  ],
+  "result": "PASS"
+}

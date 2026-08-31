@@ -47,8 +47,15 @@ for r in rows:
     sdefs=set(fn_def_re.findall(rt)); edefs=set(fn_def_re.findall(et)); erefs=set(fn_ref_re.findall(et))
     dangling=sorted(erefs-edefs)
     if dangling: errors.append((r['output_path'],f'dangling footnote refs: {dangling[:10]}'))
-    if r.get('apparatus_translation_status') in ('translated','complete','not_applicable') and sdefs!=edefs:
-        errors.append((r['output_path'],f'footnote definition ids differ source={sorted(sdefs)} target={sorted(edefs)}'))
+    # A confirmed source erratum may require the English to restore a footnote that is
+    # missing from the audited Markdown. Such exceptions must be declared exactly in
+    # the manifest; they do not weaken footnote equality for any other unit.
+    extra_defs=set(str(x) for x in (r.get('source_qa_extra_footnote_ids') or []))
+    if extra_defs and r.get('source_qa_status')!='confirmed_erratum':
+        errors.append((r['output_path'],'source_qa_extra_footnote_ids requires source_qa_status=confirmed_erratum'))
+    expected_defs=sdefs|extra_defs
+    if r.get('apparatus_translation_status') in ('translated','complete','not_applicable') and expected_defs!=edefs:
+        errors.append((r['output_path'],f'footnote definition ids differ expected={sorted(expected_defs)} target={sorted(edefs)}'))
     # Cyrillic in English is a warning, not an error: some sources intentionally retain Russian tokens/quotes.
     body=front_re.sub('',et,count=1)
     if re.search(r'[А-Яа-яЁё]',body): warnings.append((r['output_path'],'Cyrillic remains in English body; verify intentional'))
