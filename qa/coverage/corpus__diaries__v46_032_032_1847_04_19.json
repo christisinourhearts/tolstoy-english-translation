@@ -1,0 +1,19 @@
+{
+  "batch": "P004",
+  "unit": "P004.25",
+  "source_path": "corpus/diaries/v46_032_032_1847_04_19.md",
+  "source_sha256": "02aeab70a8063048f66f3533326b7a049f0fb3672fc74b094663adfc0743fb74",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "определил, что делать is rendered ‘decided what to do,’ without expanding Tolstoy's terse scheduling vocabulary.",
+    "в продолжении дня is rendered ‘during the day.’"
+  ],
+  "result": "PASS"
+}
