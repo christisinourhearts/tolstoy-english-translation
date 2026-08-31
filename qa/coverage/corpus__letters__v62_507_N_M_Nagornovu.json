@@ -1,0 +1,21 @@
+{
+  "batch": "P003",
+  "unit": "P003.12",
+  "source_path": "corpus/letters/v62_507_N_M_Nagornovu.md",
+  "source_sha256": "6f4797fe7f69dd0e2ef1ade16f92bf19dfed74f518d18ca8b68eeecca90e7712",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source has plural «векселей» ('promissory notes') followed immediately by singular «его» ('it') in «Пожалуйста устройте и учтите его». The English preserves that number mismatch rather than silently changing the pronoun to 'them'.",
+    "In nineteenth-century financial usage «учесть [вексель]» means to discount a bill/promissory note; it is rendered 'discount it'. The preceding «устройте» remains conservatively 'arrange it' rather than being expanded into an unsupported explanation of the transaction.",
+    "The horse is referred to by grammatically feminine Russian «она», but «лошадь» does not by itself establish biological sex; English therefore uses 'it' rather than inventing 'mare' or 'she'.",
+    "Footnote 1 contains anomalous source punctuation «Николай Михайлович: Нагорнов». Because the grammar and identity clearly form the single name Nikolai Mikhailovich Nagornov, the English normalizes the colon as nonsemantic punctuation; no content is added or omitted."
+  ],
+  "result": "PASS"
+}
