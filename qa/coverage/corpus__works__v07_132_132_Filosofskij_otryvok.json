@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.03",
+  "source_path": "corpus/works/v07_132_132_Filosofskij_otryvok.md",
+  "source_sha256": "31287be68943a4ff57cad4bb8f6f63ddc3b654e658cfe05a4916f85a7a02952d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The fragment is deliberately rough and compressed. 'Wundt's—Hegel's philosophy' and the geometry/personality passages remain fragmentary rather than being reconstructed into a systematic argument."
+  ],
+  "result": "PASS"
+}
