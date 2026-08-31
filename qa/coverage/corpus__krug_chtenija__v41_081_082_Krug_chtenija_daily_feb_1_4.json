@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.48",
+  "source_path": "corpus/krug_chtenija/v41_081_082_Krug_chtenija_daily_feb_1_4.md",
+  "source_sha256": "3e52e89fa120689818a5074c26b8e840663804e979578c13e593f6c016345959",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, the 4 February theme sentence, numbered items 1-3, both Epictetus passages, the Marcus Aurelius passage, and the concluding statement are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "Attributed passages are translated from Tolstoy's Russian compilation rather than replaced by standard modern translations of Marcus Aurelius or Epictetus.",
+    "«свободное подчинение своей судьбе» is kept closely as 'free submission to his fate'; the source deliberately joins freedom and submission, and that tension is not smoothed away.",
+    "The long second passage preserves the repeated contrast between what happens outside our will and the one thing placed within our power—reason; parents, brothers, wealth, body, and death remain explicitly enumerated.",
+    "In the nuts-and-shells image, the source's repeated physical actions—picking up, fighting, kissing hands, bending down, knocking someone over, falling oneself—are retained rather than summarized. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
