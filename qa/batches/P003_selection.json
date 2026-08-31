@@ -1,0 +1,466 @@
+{
+  "batch": "P003",
+  "status": "selected_preflight_pending",
+  "unit_count": 50,
+  "rough_source_words": 8136,
+  "composition": {
+    "works": 8,
+    "letters": 15,
+    "diaries": 10,
+    "notes": 3,
+    "azbuka": 9,
+    "krug_chtenija": 5
+  },
+  "units": [
+    {
+      "source_ru_path": "corpus/works/v90_122_122_Obschestvo_nezavisimyh.md",
+      "source_ru_sha256": "acf15738e89dca8bf4776e93cc9e5ad2b4771a1289cfbbc6e5fae91445e10d2e",
+      "category": "works",
+      "title_ru": "Общество независимых",
+      "volume": "90",
+      "source_pages": "122-122",
+      "body_word_count_rough": 223
+    },
+    {
+      "source_ru_path": "corpus/works/v34_143_143_Predislovie_k_The_Anatomy_of_Misery_Dzhona_Kenvorti.md",
+      "source_ru_sha256": "aef88a288aaea4a5a392aa83eedf8bb4c9dbbbc89d3c60e7bcdd66f0fb8f6531",
+      "category": "works",
+      "title_ru": "Предисловие к «The Anatomy of Misery» Джона Кенворти",
+      "volume": "34",
+      "source_pages": "143-143",
+      "body_word_count_rough": 224
+    },
+    {
+      "source_ru_path": "corpus/works/v26_457_458_Pechatnye_varianty_pervogo_izdanija_stati_Pora_opomnitsja_k_osnovnomu_tekstu.md",
+      "source_ru_sha256": "af612338e3887911086a355b639a2d7da6f57794c8dcd61c51550ea062913635",
+      "category": "works",
+      "title_ru": "Пора опомниться!",
+      "volume": "26",
+      "source_pages": "457-458",
+      "body_word_count_rough": 215
+    },
+    {
+      "source_ru_path": "corpus/works/v34_343_344_Konspekt_Vospominanij.md",
+      "source_ru_sha256": "1cc5b793219f6425ce9c3ed1e58c4b2021f6a841993b1d5cda7739244ccec97e",
+      "category": "works",
+      "title_ru": "Воспоминания.",
+      "volume": "34",
+      "source_pages": "343-344",
+      "body_word_count_rough": 214
+    },
+    {
+      "source_ru_path": "corpus/works/v90_093_094_Detskie_zabavy.md",
+      "source_ru_sha256": "fa2f9daba430da061029da3490a8033dbf73ccccad1d326c8597195a44ee7941",
+      "category": "works",
+      "title_ru": "Детские забавы",
+      "volume": "90",
+      "source_pages": "93-94",
+      "body_word_count_rough": 203
+    },
+    {
+      "source_ru_path": "corpus/works/v29_363_363_Kto_prav_Varianty.md",
+      "source_ru_sha256": "befdb0b3cdb6f10792faa49308b7daa574104e4dbef494012003c066c2b82194",
+      "category": "works",
+      "title_ru": "Кто прав?",
+      "volume": "29",
+      "source_pages": "363-363",
+      "body_word_count_rough": 202
+    },
+    {
+      "source_ru_path": "corpus/works/v37_005_005_Volk.md",
+      "source_ru_sha256": "d1b7a633a464d54aaa1e36e47860d67aa084e0197dbf016e0219f714a50e5d26",
+      "category": "works",
+      "title_ru": "Волк",
+      "volume": "37",
+      "source_pages": "5-5",
+      "body_word_count_rough": 202
+    },
+    {
+      "source_ru_path": "corpus/works/v40_435_435_Zhizn_i_izrechenija_Krishny_Predislovie.md",
+      "source_ru_sha256": "75e43ad8e5b4d6f7dc14b576a52aeda9e289b9a9ba3e2b7afdad3905eac87b67",
+      "category": "works",
+      "title_ru": "Предисловие к книжке «Жизнь и изречения Кришны»",
+      "volume": "40",
+      "source_pages": "435-435",
+      "body_word_count_rough": 244
+    },
+    {
+      "source_ru_path": "corpus/letters/v60_095_N_A_Nekrasovu.md",
+      "source_ru_sha256": "fc881c8eee21964fbc2c46d108afcbd17cb5c8434ec1d2752affede3b30806dd",
+      "category": "letters",
+      "title_ru": "Письмо Н. А. Некрасову от 11 ноября 1857 г.",
+      "volume": "60",
+      "source_pages": "237",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v61_151_M_N_Longinovu.md",
+      "source_ru_sha256": "a4ad61e01c84b2b3e7853786a414cfd01efc4c8e0aee67d621c39f14e8877dd8",
+      "category": "letters",
+      "title_ru": "Письмо М. Н. Лонгинову от 19 ноября 1865 г.",
+      "volume": "61",
+      "source_pages": "119–120",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v62_372_A_A_Fetu.md",
+      "source_ru_sha256": "53d1ebb0d43cb94980df67b0c5f01727c110110198d52705c3b802e7a7e5b9f6",
+      "category": "letters",
+      "title_ru": "Письмо А. А. Фету от 24 декабря 1877 г.",
+      "volume": "62",
+      "source_pages": "362–363",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v62_507_N_M_Nagornovu.md",
+      "source_ru_sha256": "6f4797fe7f69dd0e2ef1ade16f92bf19dfed74f518d18ca8b68eeecca90e7712",
+      "category": "letters",
+      "title_ru": "Письмо Н. М. Нагорнову с 1 мая 1879 г. по 31 мая 1879 г.",
+      "volume": "62",
+      "source_pages": "486–487",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v64_152_I_L_Tolstomu.md",
+      "source_ru_sha256": "d7f5cfb37c3b02b213253e993eca279a53ae4e1c0ed4dc190bf5168b2bb92c17",
+      "category": "letters",
+      "title_ru": "Письмо И. Л. Толстому с 1 октября 1887 г. по 31 октября 1887 г.",
+      "volume": "64",
+      "source_pages": "119–120",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v64_164_I_I_Petrovu.md",
+      "source_ru_sha256": "d12585b74b7884d9dfd55e042414d6485e6257187106a55414caa09a9b0b6f1f",
+      "category": "letters",
+      "title_ru": "Письмо И. И. Петрову с 1 сентября 1887 г. по 30 ноября 1887 г.",
+      "volume": "64",
+      "source_pages": "126–127",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v65_295_V_A_Golcevu.md",
+      "source_ru_sha256": "a641c15742971b836c61fcc633f12c2510faf01199ed0ea333c25cbab1f721b1",
+      "category": "letters",
+      "title_ru": "Письмо В. А. Гольцеву с 24 апреля 1891 г. по 28 апреля 1891 г.",
+      "volume": "65",
+      "source_pages": "290–291",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v66_165_G_A_Ermolaevu.md",
+      "source_ru_sha256": "b236df3efce593a7c64a850d014d0ca97ba83943d9eb0757671262b88f6337a2",
+      "category": "letters",
+      "title_ru": "Письмо Г. А. Ермолаеву от 6 февраля 1892 г.",
+      "volume": "66",
+      "source_pages": "154",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v69_146_T_F_Gotojcevu.md",
+      "source_ru_sha256": "d684a2fb1f6c32e236a6ca787a36651acf66d9d52d183a0fb495395307d85299",
+      "category": "letters",
+      "title_ru": "Письмо Т. Ф. Готойцеву от 19 октября 1896 г.",
+      "volume": "69",
+      "source_pages": "180–181",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v71_049_Inostrannymizdatelyamiperevodchikam.md",
+      "source_ru_sha256": "bedeea06c7094ef30b8b95817b8815844f31fa2caf1fb00ab1b886d3d128cc69",
+      "category": "letters",
+      "title_ru": "Письмо Иностранным издателям и переводчикам от 25 февраля 1898 г.",
+      "volume": "71",
+      "source_pages": "287",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v71_307_A_N_Dunaevu.md",
+      "source_ru_sha256": "0285266610ad358d90647a60f249b940d6b02c56874f496c2a978c9cf2859e31",
+      "category": "letters",
+      "title_ru": "Письмо А. Н. Дунаеву с 7 ноября 1898 г. по 8 ноября 1898 г.",
+      "volume": "71",
+      "source_pages": "482",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v75_298_F_A_Straxovu.md",
+      "source_ru_sha256": "35791b989efadb2d54cb29b8c5ed164cd1bcb8866ad2b41cbb17a8663cb7c96d",
+      "category": "letters",
+      "title_ru": "Письмо Ф. А. Страхову от 28 января 1905 г.",
+      "volume": "75",
+      "source_pages": "209–210",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v77_116_S_V_Danilevichu.md",
+      "source_ru_sha256": "a9105123f404a5d6017dd4670821c243f1ca942c7e812527b1724a119994f042",
+      "category": "letters",
+      "title_ru": "Письмо С. В. Данилевичу от 17 мая 1907 г.",
+      "volume": "77",
+      "source_pages": "105–106",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v77_240_G_A_Novichkovu.md",
+      "source_ru_sha256": "c9234bb8fdae3d49bf96a68fe133e87b54edb2e35c8b5675d6b77495cf61aa0b",
+      "category": "letters",
+      "title_ru": "Письмо Г. А. Новичкову от 26 сентября 1907 г.",
+      "volume": "77",
+      "source_pages": "207–208",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/letters/v78_215_T_A_Kuzminskoj.md",
+      "source_ru_sha256": "93d79b2f2b9a2d5ffd8dcf16c2b88b2b5b35d44d587ca5df1f5ebed6646899cb",
+      "category": "letters",
+      "title_ru": "Письмо Т. А. Кузминской от 4 августа 1908 г.",
+      "volume": "78",
+      "source_pages": "192",
+      "body_word_count_rough": 140
+    },
+    {
+      "source_ru_path": "corpus/diaries/v50_022_022_1889_01_14.md",
+      "source_ru_sha256": "6d9cf5e515f0572b3c5bde555f0cd7f9fbadaefc21332d3878c7d37120956d4d",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "50",
+      "source_pages": "22",
+      "body_word_count_rough": 120
+    },
+    {
+      "source_ru_path": "corpus/diaries/v57_096_096_1909_07_15.md",
+      "source_ru_sha256": "0f1e728455eaf56c09a5a9762f554f98347002f6a8d971737832d8426b18e108",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "57",
+      "source_pages": "96",
+      "body_word_count_rough": 120
+    },
+    {
+      "source_ru_path": "corpus/diaries/v48_042_043_1862_09_03.md",
+      "source_ru_sha256": "da3be4a7d39f3fc6867de1e4e3898cf1b82809bbec5c0dcccd1090d902e36534",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "48",
+      "source_pages": "42–43",
+      "body_word_count_rough": 119
+    },
+    {
+      "source_ru_path": "corpus/diaries/v48_059_060_1865_03_17.md",
+      "source_ru_sha256": "524dec4d5e730d29f90c4d84d9b372d2ca6adeb672a310368e012a2649defbbd",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "48",
+      "source_pages": "59–60",
+      "body_word_count_rough": 121
+    },
+    {
+      "source_ru_path": "corpus/diaries/v49_094_095_1883_05_17.md",
+      "source_ru_sha256": "1583173e53b515bed2265a72925ca850d4ea92ebc3295bf14e3e4ace6122a2da",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "49",
+      "source_pages": "94–95",
+      "body_word_count_rough": 119
+    },
+    {
+      "source_ru_path": "corpus/diaries/v50_040_040_1889_02_22.md",
+      "source_ru_sha256": "b1117e687e7b3533a04c13f558a9662c852c899cf0f93a804418516ba5560ab8",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "50",
+      "source_pages": "40",
+      "body_word_count_rough": 121
+    },
+    {
+      "source_ru_path": "corpus/diaries/v51_014_015_1890_01_27.md",
+      "source_ru_sha256": "c8a69a9af8e60b500a486f79dcf6321744021a4aaaaf71e479cbe85b0a08f741",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "51",
+      "source_pages": "14–15",
+      "body_word_count_rough": 121
+    },
+    {
+      "source_ru_path": "corpus/diaries/v57_011_012_1909_01_15.md",
+      "source_ru_sha256": "fbb3cc057b68bf58e22b21744b21a50456bc45b657a51450323ea6f938f6b8da",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "57",
+      "source_pages": "11–12",
+      "body_word_count_rough": 119
+    },
+    {
+      "source_ru_path": "corpus/diaries/v49_058_058_1881_10_05.md",
+      "source_ru_sha256": "fcb9d8ddfd567c3db0f0a545040c51cf0a1c7d972538c2175a48bd035557972f",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "49",
+      "source_pages": "58",
+      "body_word_count_rough": 122
+    },
+    {
+      "source_ru_path": "corpus/diaries/v52_138_138_1894_09_08.md",
+      "source_ru_sha256": "46efb86475f614fdf954892301d62d49299405fd236d268269652e9ca8e1c1f5",
+      "category": "diaries",
+      "title_ru": "Дневник,",
+      "volume": "52",
+      "source_pages": "138",
+      "body_word_count_rough": 122
+    },
+    {
+      "source_ru_path": "corpus/notes/v51_158_159_Zapisi_na_listah_1890.md",
+      "source_ru_sha256": "67ab7f46a4a8084348609c9bc20c4a7c9a8bf33580d07f214344a7a87e2fcb65",
+      "category": "notes",
+      "title_ru": "Записи на листах, 1890 г.",
+      "volume": "51",
+      "source_pages": "158-159",
+      "body_word_count_rough": 204
+    },
+    {
+      "source_ru_path": "corpus/notes/v57_252_253_Zapisnaja_knizhka_1909_g_No_2.md",
+      "source_ru_sha256": "ea40e0433705080d0f662268ebce3e0fb2eaab04b65e34db348e7cc351b38ef6",
+      "category": "notes",
+      "title_ru": "Записная книжка № 2, 1909 г.",
+      "volume": "57",
+      "source_pages": "252-253",
+      "body_word_count_rough": 240
+    },
+    {
+      "source_ru_path": "corpus/notes/v48_349_350_Zapis_No_7_1878.md",
+      "source_ru_sha256": "0c3b3ea6a87c5059b816de88a344dcd688e76612b939cfb4f367968172be5866",
+      "category": "notes",
+      "title_ru": "Запись № 7, 1878 г.",
+      "volume": "48",
+      "source_pages": "349-350",
+      "body_word_count_rough": 255
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_171_171_Telenok_na_ldu.md",
+      "source_ru_sha256": "80843c54d091f0b83b33c60bd9d70b324d292444e7009b9590eb6c3307d3b70c",
+      "category": "azbuka",
+      "title_ru": "Теленок на льду",
+      "volume": "21",
+      "source_pages": "171-171",
+      "body_word_count_rough": 91
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_274_274_Volk_i_jagnenok.md",
+      "source_ru_sha256": "99e38ade422f486d496986b740c3199b9218f55b2a0f6d4ee817683c55412527",
+      "category": "azbuka",
+      "title_ru": "Волк и ягненок",
+      "volume": "21",
+      "source_pages": "274-274",
+      "body_word_count_rough": 89
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_342_343_Rasskaz.md",
+      "source_ru_sha256": "e5de88a584f666d3f7d94298ec399daf68fd370f899fb6b12f963826c9beee54",
+      "category": "azbuka",
+      "title_ru": "Рассказ",
+      "volume": "21",
+      "source_pages": "342-343",
+      "body_word_count_rough": 89
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v22_050_050_U_odnoj_baryni_byla_sobachenka.md",
+      "source_ru_sha256": "388906847f795f2f7c7e74ff5648a32421a4d6a9008902435cb1b3e923f6045c",
+      "category": "azbuka",
+      "title_ru": "«У одной барыни была собаченка...»",
+      "volume": "22",
+      "source_pages": "50-50",
+      "body_word_count_rough": 91
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v22_209_210_Telenok_na_ldu.md",
+      "source_ru_sha256": "2d8fd74df143926843598480fbcd9ce1013744ec537bdad3eacdba9c2790819a",
+      "category": "azbuka",
+      "title_ru": "Теленок на льду",
+      "volume": "22",
+      "source_pages": "209-210",
+      "body_word_count_rough": 91
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v22_562_563_Volk_i_jagnenok.md",
+      "source_ru_sha256": "f5c0fc93528b8e245c08906c7943a149eb771b80b4aeb8f32a65f2101c41a170",
+      "category": "azbuka",
+      "title_ru": "Волк и ягненок",
+      "volume": "22",
+      "source_pages": "562-563",
+      "body_word_count_rough": 89
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_207_207_Olen.md",
+      "source_ru_sha256": "09eb61ca27b2a6c3e640fd3be95dbff3b9f50bb2f8479ea59fe4888c300cfc8a",
+      "category": "azbuka",
+      "title_ru": "Олень",
+      "volume": "21",
+      "source_pages": "207-207",
+      "body_word_count_rough": 88
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_243_243_Ptitsy_v_seti.md",
+      "source_ru_sha256": "b50dea9c22e92b78009ee1080ef6700010f1e361400b6c0075740a5fa6544889",
+      "category": "azbuka",
+      "title_ru": "Птицы в сети",
+      "volume": "21",
+      "source_pages": "243-243",
+      "body_word_count_rough": 88
+    },
+    {
+      "source_ru_path": "corpus/azbuka/v21_348_348_Odin_malchik_uvidal_nischego.md",
+      "source_ru_sha256": "402e4bbd05ec79203f8fb39a0d7fe9225a27eb584fb17d2c99b529bab91ebb69",
+      "category": "azbuka",
+      "title_ru": "«Один мальчик увидал нищего...»",
+      "volume": "21",
+      "source_pages": "348-348",
+      "body_word_count_rough": 92
+    },
+    {
+      "source_ru_path": "corpus/krug_chtenija/v41_536_537_Krug_chtenija_weekly_jul_4_Kamni.md",
+      "source_ru_sha256": "0d478e9f64ab10186a569f4ee596c38efc631328737298ebc3c7c77fab4085cd",
+      "category": "krug_chtenija",
+      "title_ru": "Круг чтения. Июль",
+      "volume": "41",
+      "source_pages": "536-537",
+      "body_word_count_rough": 320
+    },
+    {
+      "source_ru_path": "corpus/krug_chtenija/v41_045_047_Krug_chtenija_daily_jan_3_5.md",
+      "source_ru_sha256": "09c2c23e8d780620cd33f89dd246dcfc1b6162c83f49fb9ff44a500cde1b0627",
+      "category": "krug_chtenija",
+      "title_ru": "Круг чтения",
+      "volume": "41",
+      "source_pages": "45-47",
+      "body_word_count_rough": 321
+    },
+    {
+      "source_ru_path": "corpus/krug_chtenija/v41_081_082_Krug_chtenija_daily_feb_1_4.md",
+      "source_ru_sha256": "3e52e89fa120689818a5074c26b8e840663804e979578c13e593f6c016345959",
+      "category": "krug_chtenija",
+      "title_ru": "Круг чтения",
+      "volume": "41",
+      "source_pages": "81-82",
+      "body_word_count_rough": 319
+    },
+    {
+      "source_ru_path": "corpus/krug_chtenija/v41_183_185_Krug_chtenija_daily_mar_4_2.md",
+      "source_ru_sha256": "44ae58f7cd0adbb3925551ecb0baaad4c4ba098222f0d52e8265639bb90eb100",
+      "category": "krug_chtenija",
+      "title_ru": "Круг чтения",
+      "volume": "41",
+      "source_pages": "183-185",
+      "body_word_count_rough": 319
+    },
+    {
+      "source_ru_path": "corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md",
+      "source_ru_sha256": "446f95c3dbffd5d9aae93cb3e733f8bbf4fe8d3da4e4b13680fce4b06cd2106f",
+      "category": "krug_chtenija",
+      "title_ru": "Круг чтения",
+      "volume": "42",
+      "source_pages": "154-155",
+      "body_word_count_rough": 319
+    }
+  ]
+}

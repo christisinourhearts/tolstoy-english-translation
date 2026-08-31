@@ -71,3 +71,8 @@ git log --oneline --decorate -30
 ```
 
 Every accepted P001/P002 unit has its own commit, followed by batch-review commits. A later session can therefore resume from the files and history without relying on the previous chat context.
+
+## Editorial memory and source preflight
+
+- `metadata/DECISIONS.md` records consequential translation/editorial choices so later audits do not silently undo settled policy.
+- `tools/preflight_boundaries.py` flags suspicious beginnings/endings in small Russian source files before translation. It supports either an unpacked source repository (`--source-root`) or the source ZIP directly (`--source-zip`). Findings are warnings for review, not automatic declarations of corruption.

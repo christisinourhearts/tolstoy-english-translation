@@ -32,8 +32,8 @@ Stages: translation complete; fidelity audit PASS; English edit complete; final 
 
 ## Batch status
 
-P002 is closed. No P003 files have been started.
+P002 is closed. P003 has been selected (50 units, ~8,136 rough source-body words) but no P003 translation has been started. The full source-boundary preflight remains the gate before the first P003 unit.
 
 ## NEXT ACTION
 
-Run `tools/preflight_boundaries.py` against the authoritative Russian source tree/ZIP, then process the selected P003 batch in `qa/batches/P003.md`. Keep a post-P003 cold-audit sample as a quality gate.
+Run `tools/preflight_boundaries.py` against the authoritative Russian source tree/ZIP for the selected P003 paths. Resolve/replace any MEDIUM/HIGH boundary flags. Then begin P003 unit 1 from `qa/batches/P003.md`. Keep a post-P003 cold-audit sample as a quality gate.
