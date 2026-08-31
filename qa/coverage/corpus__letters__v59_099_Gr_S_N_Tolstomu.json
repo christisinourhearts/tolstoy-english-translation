@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.17",
+  "source_path": "corpus/letters/v59_099_Gr_S_N_Tolstomu.md",
+  "source_sha256": "5c1d6c7507482af605088bd0c5e3cbe45c3ceef35b341043f6299ec291127bdf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source heading dates the letter 'April 15...30?' and English preserves that uncertainty despite simplified front-matter correspondence_date metadata.",
+    "The apparently contradictory wording 'поступить не в военную службу, а в стрелковый полк' is translated closely as 'entering not military service but the Rifle Regiment'; official volume 59 confirms this is the printed reading, so no silent emendation is made.",
+    "юнкер is retained as 'junker,' the military rank/status intended in context, rather than modernized to a broader 'cadet'."
+  ],
+  "result": "PASS"
+}
