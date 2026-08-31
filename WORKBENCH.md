@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **61**.
+- Reviewed English translations: **62**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **29 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **11,299**.
+- P003: **30 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **11,420**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **54**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **55**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -96,10 +96,11 @@ Completed and accepted:
 27. `corpus/diaries/v48_059_060_1865_03_17.md`
 28. `corpus/diaries/v49_094_095_1883_05_17.md`
 29. `corpus/diaries/v50_040_040_1889_02_22.md`
+30. `corpus/diaries/v51_014_015_1890_01_27.md`
 
-Last completed unit: **P003.29 — Diary entry, 22 February 1889.**
+Last completed unit: **P003.30 — Diary entry, 27 January 1890.**
 
-Next planned unit: **P003.30 — `corpus/diaries/v51_014_015_1890_01_27.md`**.
+Next planned unit: **P003.31 — `corpus/diaries/v57_011_012_1909_01_15.md`**.
 
 ## Exact source verification completed
 

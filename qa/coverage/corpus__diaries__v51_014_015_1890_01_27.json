@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.30",
+  "source_path": "corpus/diaries/v51_014_015_1890_01_27.md",
+  "source_sha256": "c8a69a9af8e60b500a486f79dcf6321744021a4aaaaf71e479cbe85b0a08f741",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The subtitle, pp. 14–15 markers, inserted heading, and complete diary body are represented; the exact source SHA-256 matched the mounted audited Russian snapshot and the direct P003 boundary result was CLEAR.",
+    "The diary reconstructs four preceding days in reverse order. «Третьего дня 25» is rendered 'The day before yesterday, the 25th'; «Четвертого дня 24» is rendered 'Three days ago, the 24th', preserving the actual dates rather than the literal Russian counting idiom.",
+    "«поехал сам кучером в Тулу» remains close as 'I went to Tula myself as coachman' rather than smoothing away Tolstoy's explicit self-description as the driver.",
+    "The elliptical «Сделал поручение с Чертковым» is kept as 'Carried out an errand with Chertkov'. No object or purpose is supplied because the diary does not state one.",
+    "The clipped diary syntax is retained in 'Talked a great deal', 'Went into the school', and 'In the morning corrected the whole comedy from the beginning'. Subjects are not inserted where English remains intelligible without them.",
+    "«Всё тщеславие» remains the abrupt 'All vanity.' The difficult «Чертков так же, еще более близок мне» is rendered conservatively as 'Chertkov is the same, even closer to me', preserving rather than resolving the source's compressed relation between 'the same' and 'even closer'.",
+    "«До самого обеда не кончил» is 'Did not finish by dinner', avoiding the stronger implication of 'didn't finish until dinner', which would assert that he did finish then. «разъехался с ними» is rendered 'missed them on the road', the ordinary travel sense of passing one another while going in opposite directions.",
+    "«Коневскую повесть» is rendered 'the Koni story', reflecting the working name derived from Anatoly Koni while not importing the later title *Resurrection* into Tolstoy's diary body. The source's final dash and unfinished diary cadence are preserved.",
+    "The reverse target-to-source audit found no imported explanation, no omitted substantive phrase, no unsupported intensification, and no smoothing that changes Tolstoy's compressed diary register."
+  ],
+  "result": "PASS"
+}
