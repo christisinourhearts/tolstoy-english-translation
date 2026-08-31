@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v77_116_S_V_Danilevichu.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "spurious_editorial_list_item",
+  "digital_reading": "After editorial note 2, the audited Markdown contains a bare '3.' immediately before the vol. 77, p. 106 page marker.",
+  "verified_print_reading": "The official 90-volume edition ends the apparatus after the second note; page 106 begins with letter 117, with no third note or standalone numeral.",
+  "verified_print_pages": "105–106",
+  "verification": "Official 90-volume electronic edition, volume 77, confirms that the bare numeral is a Markdown/source-conversion artifact rather than substantive apparatus.",
+  "witness": "https://tolstoy.ru/online/90/77/",
+  "p003_disposition": "translate all substantive audited-Markdown content; omit only the confirmed spurious numeral; preserve the page-106 marker; retain the original source hash and leave the Russian repository unchanged"
+}

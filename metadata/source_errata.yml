@@ -32,3 +32,14 @@ errata:
     verified_reading: "The numeral is footnote marker 3; the 90-volume edition supplies note 3 on p. 210, recording Strakhov's annotation that Tolstoy wanted the marked passages included in ‘Круг чтения’."
     witness: "https://tolstoy.ru/online/90/75/"
     action: "Keep the Russian repository immutable. The English translation restores marker [^3] and translates the verified printed/electronic note while retaining the original Russian Markdown SHA-256."
+
+  - source_path: corpus/letters/v77_116_S_V_Danilevichu.md
+    type: spurious_editorial_list_item
+    status: confirmed
+    volume: 77
+    declared_pages: "105–106"
+    verified_print_pages: "105–106"
+    digital_reading: "After editorial note 2, the Markdown contains a bare list item ‘3.’ immediately before the p. 106 page marker."
+    verified_reading: "The 90-volume edition ends the apparatus after note 2; p. 106 begins directly with letter 117 and contains no third note or standalone numeral."
+    witness: "https://tolstoy.ru/online/90/77/"
+    action: "Keep the Russian repository immutable. Omit only the confirmed spurious numeral in English, preserve the p. 106 marker, and retain the original Russian Markdown SHA-256."

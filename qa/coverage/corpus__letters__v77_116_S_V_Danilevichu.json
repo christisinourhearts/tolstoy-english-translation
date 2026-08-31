@@ -1,0 +1,23 @@
+{
+  "batch": "P003",
+  "unit": "P003.21",
+  "source_path": "corpus/letters/v77_116_S_V_Danilevichu.md",
+  "source_sha256": "a9105123f404a5d6017dd4670821c243f1ca942c7e812527b1724a119994f042",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The standalone dative address «Данилевичу.» is preserved explicitly as 'To Danilevich.' rather than silently converted into a warmer salutation that Tolstoy did not write.",
+    "«намерениях чистоты жизни» is rendered 'intentions toward purity of life', retaining Tolstoy's abstract 'purity of life' rather than narrowing it to an explicit term such as 'chastity'.",
+    "The repetition «успешной ... успеха» is retained as 'a successful struggle ... the possibility of success' rather than stylistically varied.",
+    "«постоянства и вследствие постоянства преуспеяния» is rendered 'constancy and, as a result of constancy, progress', preserving the repeated noun and the causal relation; the final modifier is reordered only enough for clear English: 'the one true path of strengthening spiritual life that you have chosen.'",
+    "The vague pronoun in «В вашем возрасте это один из сильнейших соблазнов» remains 'this'; the English does not insert an explicit noun such as 'sexual desire' that Tolstoy did not write.",
+    "The audited Markdown contains a bare list item '3.' immediately before the vol. 77 p. 106 page marker. The official 90-volume edition shows that after the second note the page turns directly to letter 117; there is no third note or numeral. This non-substantive spurious numeral is therefore omitted under the SOURCE_SUSPECTED protocol while the page marker is preserved."
+  ],
+  "result": "PASS"
+}

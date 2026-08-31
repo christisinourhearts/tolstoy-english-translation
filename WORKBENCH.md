@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **52**.
+- Reviewed English translations: **53**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **20 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **10,159**.
-- Confirmed source errata: **3**.
-- Existing structured coverage records: **45**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- P003: **21 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **10,299**.
+- Confirmed source errata: **4**.
+- Existing structured coverage records: **46**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -87,10 +87,11 @@ Completed and accepted:
 18. `corpus/letters/v71_049_Inostrannymizdatelyamiperevodchikam.md`
 19. `corpus/letters/v71_307_A_N_Dunaevu.md`
 20. `corpus/letters/v75_298_F_A_Straxovu.md`
+21. `corpus/letters/v77_116_S_V_Danilevichu.md`
 
-Last completed unit: **P003.20 — Letter to F. A. Strakhov, 28 January 1905.**
+Last completed unit: **P003.21 — Letter to S. V. Danilevich, 17 May 1907.**
 
-Next planned unit: **P003.21 — `corpus/letters/v77_116_S_V_Danilevichu.md`**.
+Next planned unit: **P003.22 — `corpus/letters/v77_240_G_A_Novichkovu.md`**.
 
 ## Exact source verification completed
 
@@ -100,11 +101,13 @@ The P003 boundary preflight scanned the exact snapshot. Only P003.39 and P003.45
 
 P003.20 triggered `SOURCE_SUSPECTED` for a different reason: the audited Markdown has a bare numeral `3` after `карандашом` but no `[^3]` definition. Volume 75 pp. 209–210 confirms that this is a footnote marker and supplies the omitted note. The Russian snapshot remains unchanged; the English restores the verified footnote under the manifest-declared structural override documented in `metadata/source_errata.yml`.
 
+P003.21 also triggered `SOURCE_SUSPECTED`: its Markdown apparatus contains a spurious bare `3.` immediately before the p. 106 marker. Volume 77 pp. 105–106 confirms that the apparatus ends after note 2 and p. 106 begins with letter 117. The English omits only that non-substantive numeral, preserves the page marker, and records the erratum explicitly.
+
 ## NEXT ACTION
 
-1. Resume at **P003.21** and continue the existing finite workflow:
+1. Resume at **P003.22** and continue the existing finite workflow:
    translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-2. Preserve the completed exact-source verification; do not reopen P003.01–20 without a concrete fidelity or source reason.
+2. Preserve the completed exact-source verification; do not reopen P003.01–21 without a concrete fidelity or source reason.
 3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
 4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
 
