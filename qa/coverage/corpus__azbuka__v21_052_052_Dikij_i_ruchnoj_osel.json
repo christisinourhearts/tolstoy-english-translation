@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.17",
+  "source_path": "corpus/azbuka/v21_052_052_Dikij_i_ruchnoj_osel.md",
+  "source_sha256": "709227bfe57e5ad2b6e91d3c6caa2d9b39e559fac5cb35e559ebc0ec687b9ed8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The unusual source phrase 'твое житье тебе соком достается' is not treated as corruption; it is rendered from context as 'you pay dearly for your good life.'"
+  ],
+  "result": "PASS"
+}
