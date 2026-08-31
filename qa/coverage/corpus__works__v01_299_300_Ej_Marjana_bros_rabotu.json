@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.06",
+  "source_path": "corpus/works/v01_299_300_Ej_Marjana_bros_rabotu.md",
+  "source_sha256": "500eee5f589b94b123ba524c7f09de667dffba89a78fed8958933b67dba2e0bf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Greben Cossack usage confirms побочин as ‘lover’; the poem's later prose context likewise uses the term for a lover rather than a generic companion.",
+    "The costume context supports сорочка here as the red silk kerchief covering/tied around a woman's braid, not the ordinary Russian sense ‘shirt’; чувяки is rendered ‘slippers’ and монисто ‘coin necklace.’",
+    "Игреневый denotes a chestnut horse with a light/white mane and tail and is rendered ‘flaxen-chestnut.’ Cultural terms beshmet, zipun, sotnik, chikhir, burka, and shashka are retained or lightly glossed rather than replaced by loose modern approximations.",
+    "Tolstoy's parenthetical self-judgment ‘(Гадко)’ is substantive and preserved as ‘(Disgusting).’"
+  ],
+  "result": "PASS"
+}
