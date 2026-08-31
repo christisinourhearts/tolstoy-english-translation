@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.12. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.13. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 11 / 50 accepted
-- Last accepted unit: P003.11 — letter to A. A. Fet, 24 December 1877
-- Next unit: P003.12 — letter to N. M. Nagornov, May 1879
-- Total reviewed translations: 43
-- Approximate reviewed source-body words: 8,899
-- Structured bilingual coverage records: 36
+- P003: in progress, 12 / 50 accepted
+- Last accepted unit: P003.12 — letter to N. M. Nagornov, May 1879
+- Next unit: P003.13 — letter to I. L. Tolstoy, October 1887
+- Total reviewed translations: 44
+- Approximate reviewed source-body words: 9,039
+- Structured bilingual coverage records: 37
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,11 +31,15 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–11.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–12.
 
 ## P003.11 translation note
 
 The Fet letter of 24 December 1877 was accepted in commit `6a0b316`. Tolstoy's familiar contracted patronymic `Афанасьич` is preserved as “Afanasich”; the full scholarly metadata form remains “Afanasy Afanasyevich Fet (Shenshin).” The mixed Russian/German title `Критика der reinen Vernunft` is rendered by the standard English title *Critique of Pure Reason*, with the original German code-switch recorded in `body_source_languages` and the coverage record.
+
+## P003.12 translation note
+
+The Nagornov letter from mid-May 1879 was accepted in commit `0750a40`. The source has plural `векселей` (“promissory notes”) followed immediately by singular `его` (“it”) in the instruction to arrange and discount the paper; the English deliberately preserves that mismatch rather than silently changing it to “them.” Neighboring 1879 Nagornov correspondence confirms that `учесть [вексель]` here is the financial sense “discount [a promissory note].” The horse remains gender-neutral in English because grammatical feminine `лошадь` does not establish biological sex. An anomalous colon splitting `Николай Михайлович: Нагорнов` in footnote 1 was normalized as nonsemantic punctuation and documented in the coverage record.
 
 ## Repository maintenance note
 
