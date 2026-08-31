@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.16",
+  "source_path": "corpus/letters/v66_165_G_A_Ermolaevu.md",
+  "source_sha256": "b236df3efce593a7c64a850d014d0ca97ba83943d9eb0757671262b88f6337a2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "«привести в ясность количество дров и их распределение, равно и все другие дела» is rendered closely as 'clarify the quantity of firewood and its distribution, as well as all the other matters'; no more specific administrative meaning is supplied than the source gives.",
+    "The repetition in «расскажите и разъясните ему всё» is preserved as 'tell him everything and explain everything to him' rather than compressed into one English verb.",
+    "«все его распоряжения исполняйте» is rendered 'carry out all his instructions'; Strakhov is explicitly acting on Tolstoy's behalf, but the English does not intensify «распоряжения» into a stronger military or official 'orders'.",
+    "«а другое он сам решит как лучше, с вашим советом» is kept as 'he himself will decide the rest as he thinks best, with your advice,' preserving both Strakhov's discretion and Ermolaev's advisory role.",
+    "In editorial note [1], famine-relief «столовые» is rendered contextually as 'soup kitchens'; this identifies the relief institutions rather than ordinary commercial dining rooms and does not alter Tolstoy's body text."
+  ],
+  "result": "PASS"
+}
