@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.14. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.15. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 13 / 50 accepted
-- Last accepted unit: P003.13 — letter to I. L. Tolstoy, October 1887
-- Next unit: P003.14 — letter to I. I. Petrov, September–November 1887
-- Total reviewed translations: 45
-- Approximate reviewed source-body words: 9,179
-- Structured bilingual coverage records: 38
+- P003: in progress, 14 / 50 accepted
+- Last accepted unit: P003.14 — letter to I. I. Petrov, September–November 1887
+- Next unit: P003.15 — letter to V. A. Goltsev, 24–28 April 1891
+- Total reviewed translations: 46
+- Approximate reviewed source-body words: 9,319
+- Structured bilingual coverage records: 39
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–13.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–14.
 
 ## P003.11 translation note
 
@@ -44,6 +44,10 @@ The Nagornov letter from mid-May 1879 was accepted in commit `0750a40`. The sour
 ## P003.13 translation note
 
 The Ilya Lvovich Tolstoy letter fragment from October 1887 was accepted in commit `8ff458d`. Tolstoy distinguishes human/Christian `любовь` from `влюбленье`; the English deliberately keeps the slightly unusual phrase “love—being in love” rather than flattening both into one generic “love” or introducing a freer psychological label. The authoritative 90-volume text shares the source's irregular `Если будет любовь одна — влюбленья`, so that construction was not silently regularized. The French `prétexte`, editorially glossed as `вид`, is rendered “appearance,” with the code-switch recorded in metadata. The closing `во имя чего ты действуешь` remains close as “what you are acting in the name of.”
+
+## P003.14 translation note
+
+The Ivan Ivanovich Petrov letter from September–November 1887 was accepted in commit `bbcf8bd`. Tolstoy names only `Иван Дмитриевич` in the body; surrounding correspondence strongly points to Ivan Dmitrievich Sytin, but the selected source does not supply the surname, so the English deliberately leaves him as “Ivan Dmitrievich” rather than silently identifying him. The recurrent closing `Дружески жму вам руку` follows the established corpus rendering “I shake your hand in friendship.” In editorial note 2, library-context `фонд` is rendered “collection” rather than the misleading financial “fund.” P003.14 raised no MEDIUM/HIGH boundary flag.
 
 ## Repository maintenance note
 
