@@ -1,0 +1,27 @@
+{
+  "batch": "P003",
+  "unit": "P003.34",
+  "source_path": "corpus/notes/v51_158_159_Zapisi_na_listah_1890.md",
+  "source_sha256": "67ab7f46a4a8084348609c9bc20c4a7c9a8bf33580d07f214344a7a87e2fcb65",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, the bracketed title, dated mail lists for 1–6 August, all four Markdown tables/grouping marks, visitor lists, and all three footnotes are represented. The exact source SHA-256 matched the mounted audited Russian snapshot. Boundary preflight was LOW only because this intentionally list-like note ends without terminal punctuation.",
+    "Periodical and venue titles already present in foreign languages remain titles: *Nedelya*, *War Cry*, *Temps*, and *Freie Bühne*. The established Tolstoy title «Власть тьмы» is rendered *The Power of Darkness*.",
+    "«Письмо бранное анонимное» is 'An abusive anonymous letter'; «переписаны статьи Temps» is 'articles from *Temps* copied out', preserving the passive/list-note character rather than inventing who copied them.",
+    "The source's table brackets `]` and `>` are retained as grouping marks. «светские люди» is 'society people', appropriate to Priselkov and Sverbeev without expanding the note into social commentary.",
+    "«Письмо шекера Holister’а» is 'Letter from the Shaker Hollister'. The surrounding diary/editorial context confirms Hollister as a Shaker correspondent, but no further biographical explanation is inserted into Tolstoy's list.",
+    "The Bulygin fragment «Отвозил брата, рассказывал про Бибикова» remains clipped as 'Took his brother away, told about Bibikov.' The source does not explicitly restate Bulygin as grammatical subject, so the English does not elaborate the circumstances.",
+    "Established author spellings are used for Löwenfeld, Bjørnson, and Ibsen. «Коректуры» is rendered by function as 'Proofs'; the work title is *Why Do People Stupefy Themselves?*, following the corpus's established English title.",
+    "The three-letter table preserves every sender and object: Urusov/article, Vas. Iv. Alexeev/letter from Kogan, Khilkov/description of Ioan, together with the grouped instruction that all three require answers.",
+    "The American's thought about *The Kreutzer Sonata* stays close: sexual relations 'acquire exaggerated importance because people do not look at them simply.' No interpretation of what 'simply' means is added.",
+    "The 5–6 August fragments, five final correspondents, response instructions, and editorial cross-references are all translated. Reverse target-to-source audit found no substantive omission, unsupported addition, or loss of the source's inventory-like structure."
+  ],
+  "result": "PASS"
+}
