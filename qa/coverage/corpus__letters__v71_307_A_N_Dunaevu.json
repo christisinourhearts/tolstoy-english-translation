@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.19",
+  "source_path": "corpus/letters/v71_307_A_N_Dunaevu.md",
+  "source_sha256": "0285266610ad358d90647a60f249b940d6b02c56874f496c2a978c9cf2859e31",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's slightly awkward «Слышу всё, что ваше здоровье физическое нехорошо» is preserved as 'I keep hearing that your physical health is not good'; 'physical' is retained rather than silently collapsed into generic 'health'.",
+    "«Мне хочется, чтобы он сам снес Коншину письмо» is rendered 'I want him to take the letter to Konshin himself', preserving the physical delivery and Tolstoy's emphasis that Archer should do it personally.",
+    "The repetition «часто, часто» is retained as 'often, often' rather than stylistically reduced to a single adverb.",
+    "«всей милой, дорогой семье» is kept concretely as 'the whole dear, beloved family', retaining both source adjectives rather than smoothing them into a single conventional expression.",
+    "The footnote marker after «эти два письма» remains attached to “these two letters,” and the electronic 90-volume edition was checked and agrees with the mounted audited source, including the uncertain heading date 7–8 November 1898 and the note about the two unknown forwarded letters."
+  ],
+  "result": "PASS"
+}
