@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.18",
+  "source_path": "corpus/letters/v59_106_Gr_S_N_Tolstomu.md",
+  "source_sha256": "b0c8227fb6daa7a296f559e123ce9ba84635112b1137ebcbb11975e33283eb58",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "по случаю сражения 4-го is translated 'after the battle of the 4th'; the editorial note identifies it as the battle at the Chernaya River on 4 August 1855.",
+    "Горная артилерия is kept as 'Mountain Artillery,' matching the military branch rather than generalized to artillery.",
+    "Дюссо is rendered 'Dussot'; external historical sources also attest Dussot as the name of the well-known Petersburg restaurant, while the source note itself identifies it as a restaurant.",
+    "The afterthought about literary matters is kept after the signature as in the source."
+  ],
+  "result": "PASS"
+}
