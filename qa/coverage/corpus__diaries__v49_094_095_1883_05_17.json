@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.28",
+  "source_path": "corpus/diaries/v49_094_095_1883_05_17.md",
+  "source_sha256": "1583173e53b515bed2265a72925ca850d4ea92ebc3295bf14e3e4ace6122a2da",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The complete body, pp. 94–95 markers, inserted dual-date heading, French switch, and footnote [^1] are represented; the exact SHA-256 matched the mounted audited Russian source and the direct boundary result was CLEAR.",
+    "The audited filename, subtitle, creation field, and manifest row identify the entry as 17 May 1883, while the same front matter's source-edition citation calls it «Дневник 1884 г.». Official volume 49 places pp. 94–95 inside «Дневник 1884 г.»; its manuscript description, surrounding commentary, and cited 1884 correspondence independently confirm that year. English therefore uses 17 May 1884 while retaining the stable 1883 source path and original source hash. The Russian repository remains unchanged, and the correction is recorded in metadata/source_errata.yml and qa/source_suspected/.",
+    "French «pas de géants» remains visible as Tolstoy's code-switch, with the Russian editorial gloss «гигантские шаги» translated in footnote [^1] as ‘giant steps.’",
+    "The elliptical contrast «Языческое, как в них, как и в наших, борется с христианским» remains ‘The pagan element, in them as in our own, struggles with the Christian.’ ‘Our own’ retains the unstated noun rather than deciding whether Tolstoy means his daughters or his household's girls.",
+    "The following neuter fragments «Красное, заманчивое, похотливое» continue to characterize the pagan element as ‘Beautiful, enticing, lustful.’ Nineteenth-century «красное» can mean beautiful or fine; this sense fits the parallel qualities and avoids introducing an unsupported red object or garment.",
+    "The two petitioners remain distinct. «Солдат пособие» is represented as a soldier asking for assistance. Dialectal/adjectival «Телятенской» is rendered ‘a man from Telyatinki,’ consistent with Bibikov's identified location there; «прогульная лошадь» is a stray horse, and «становой» is rendered by the functional historical term ‘district police officer.’",
+    "Official volume 49 confirms the abrupt «Бибиков сбил, что Сережа приедет» and identifies Seryozha here as Tolstoy's brother Sergei Nikolaevich. ‘Bibikov threw me off by saying that Seryozha would come’ preserves the verb's disruptive force without specifying how Tolstoy's plans changed; the following fragment remains ‘Went after dinner.’",
+    "The clipped domestic sequence is preserved: ‘At home dozed off ... At least without malice.’ «чтобы Бог ее обратил» and «поворотить ее, куда мне нужно» are both rendered with ‘turn’ so Tolstoy's concrete connection between praying for God to change his wife and failing to speak to her himself remains visible.",
+    "The page break remains inside «подле нее» as ‘beside [p. 95] her.’ «Бог должен за меня с нею разговаривать» remains ‘God is supposed to talk with her for me,’ and the final rhetorical question retains the repeated idea of knowing how rather than replacing it with a smoother moral explanation."
+  ],
+  "result": "PASS"
+}

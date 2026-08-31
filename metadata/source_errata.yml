@@ -54,3 +54,14 @@ errata:
     verified_reading: "The 90-volume edition supplies the footnote gloss «Помни,» (‘Remember,’) for Latin ‘Memento’."
     witness: "https://tolstoy.ru/online/90/48/"
     action: "Keep the Russian repository immutable. Preserve the existing marker/identifier and restore only the verified gloss as ‘Remember,’ in the English footnote while retaining the original Russian Markdown SHA-256."
+
+  - source_path: corpus/diaries/v49_094_095_1883_05_17.md
+    type: incorrect_year_in_filename_front_matter_and_manifest_metadata
+    status: confirmed
+    volume: 49
+    declared_pages: "94–95"
+    verified_print_pages: "94–95"
+    digital_reading: "The Markdown filename, subtitle, and creation field identify the entry as 17 May 1883, although its source-edition citation says «Дневник 1884 г.»."
+    verified_reading: "The official volume places the 17/29 May entry on pp. 94–95 inside «Дневник 1884 г.»; its manuscript description and commentary independently confirm the 1884 agenda and correspondence."
+    witness: "https://tolstoy.ru/online/90/49/"
+    action: "Keep the Russian repository immutable and retain the stable source path and original SHA-256. Use 17 May 1884 in English subtitle/creation metadata and the translation manifest, with both readings documented in QA."

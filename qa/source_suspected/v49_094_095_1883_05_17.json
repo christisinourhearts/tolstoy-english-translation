@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/diaries/v49_094_095_1883_05_17.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "incorrect_year_in_filename_front_matter_and_manifest_metadata",
+  "digital_reading": "The audited Markdown filename, subtitle, and creation field identify the entry as 17 May 1883, although its own source-edition citation calls it an entry from «Дневник 1884 г.»",
+  "verified_print_reading": "Official volume 49 places the 17/29 May entry on pp. 94–95 inside «Дневник 1884 г.». Its manuscript description and commentary cite the 1884 agenda and contemporary 1884 correspondence.",
+  "verified_print_pages": "94–95",
+  "verification": "Official 90-volume electronic edition, volume 49, confirms 1884 as the entry's year; the surrounding dated entries and commentary agree.",
+  "witness": "https://tolstoy.ru/online/90/49/",
+  "p003_disposition": "retain the stable audited source path and original Russian SHA-256; use 17 May 1884 in English subtitle/creation metadata and the translation manifest; record both readings; leave the Russian repository unchanged"
+}
