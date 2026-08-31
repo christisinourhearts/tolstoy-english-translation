@@ -1,0 +1,52 @@
+{
+  "english_repo_scaffold_created": "2026-08-30",
+  "russian_release": {
+    "name": "tolstoy-russian-md-audited",
+    "release_date": "2026-08-18",
+    "source_archive": "TEI-master.zip",
+    "source_sha256": "9262b562d88c3ab155bc18d31cd568562ab49bef8fef0cb9507e8c2ca8b30700",
+    "documents": 16573,
+    "category_counts": {
+      "azbuka": 784,
+      "comments": 807,
+      "diaries": 4584,
+      "krug_chtenija": 444,
+      "letters": 9087,
+      "notes": 100,
+      "works": 767
+    },
+    "orthography_mode": "reg",
+    "audit": {
+      "main_body_source_words_checked": 10721002,
+      "main_body_failures": 0,
+      "page_breaks_source": 51162,
+      "page_markers_markdown": 51162,
+      "footnotes": 59205,
+      "footnote_source_words_checked": 945529,
+      "direct_editorial_notes": 17812,
+      "direct_editorial_note_words_checked": 750664,
+      "documented_source_anomalies": 1
+    }
+  },
+  "tolstoy_corpus_documents": 15766,
+  "excluded_editorial_comments_documents": 807,
+  "rough_body_word_count": 10604496,
+  "category_counts": {
+    "azbuka": 784,
+    "diaries": 4584,
+    "krug_chtenija": 444,
+    "letters": 9087,
+    "notes": 100,
+    "works": 767
+  },
+  "size_buckets": {
+    "0000-0100": 4180,
+    "0101-0300": 5884,
+    "0301-1000": 4557,
+    "1001-3000": 795,
+    "3001-10000": 225,
+    "10001-30000": 91,
+    "30001-100000": 21,
+    "100001+": 13
+  }
+}
