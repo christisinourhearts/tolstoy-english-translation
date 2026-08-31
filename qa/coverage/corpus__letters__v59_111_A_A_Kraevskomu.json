@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.20",
+  "source_path": "corpus/letters/v59_111_A_A_Kraevskomu.md",
+  "source_sha256": "6f6de3772bdea47ea35350ea2b8c502c89a45a005364674c6fb238ddc1d7b260",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The awkward source address construction around ‘Милостивый Государь Андрей Александрович’ is normalized only enough to read as direct address in English.",
+    "поминать меня is rendered ‘mention me’ rather than the more literary ‘name me,’ preserving the practical publication context.",
+    "статья is rendered ‘piece’ because Tolstoy has just withdrawn the specific promise of The Novel of a Russian Landowner and now promises an unspecified contribution.",
+    "The postscript about leaving for Moscow for 28 days remains after the signature as in the source; all three editorial-note items are retained, including the final dash-only item."
+  ],
+  "result": "PASS"
+}
