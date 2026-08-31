@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.26",
+  "source_path": "corpus/diaries/v46_032_032_1847_06_14.md",
+  "source_sha256": "89869c121b7831a08282fc203432f7fcd47cccac04999adf2a4a8b821850a356",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The Markdown's opening header is structurally awkward (‘<ins>14 июня</ins>. Я. П.’ followed by a closing bracket). Official volume 46 prints the complete editorial header ‘[14 июня. Я. П.]’; English therefore represents it as ‘[14 June. Y. P.]’ without changing the Russian source.",
+    "развить из самого себя хорошее is rendered ‘develop the good out of himself,’ preserving Tolstoy's concrete formulation rather than abstracting it to self-improvement.",
+    "дух взял бы верх над материей remains ‘spirit would gain the upper hand over matter.’",
+    "во всеобщем is elliptic after всеобщего развития; English uses ‘in the universal whole’ without supplying a more specific philosophical system."
+  ],
+  "result": "PASS"
+}
