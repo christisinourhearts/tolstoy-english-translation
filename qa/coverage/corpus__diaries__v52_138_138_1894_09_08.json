@@ -1,0 +1,26 @@
+{
+  "batch": "P003",
+  "unit": "P003.33",
+  "source_path": "corpus/diaries/v52_138_138_1894_09_08.md",
+  "source_sha256": "46efb86475f614fdf954892301d62d49299405fd236d268269652e9ca8e1c1f5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The p. 138 marker, inserted 8 September heading, abbreviated internal date/location/time line, and both diary paragraphs are represented; the exact source SHA-256 matched the mounted audited Russian snapshot and the direct P003 boundary result was CLEAR.",
+    "The source reads «Овеянниково», while nearby 1894 diary entries generally read «Овсянниково». Because a place-name anomaly can signal transcription damage, this triggered SOURCE_SUSPECTED. The official volume 52 text independently confirms «Овеянниково» in this 8 September entry, so the source is verified rather than corrected; English preserves it as 'Oveyannikovo'.",
+    "«Всё начал с начала» remains 'Started everything from the beginning.' «рубил с Давыдовым» remains objectless as 'chopped with Davydov' rather than supplying 'wood' from context.",
+    "«Всё хорошо, но она скучная» is rendered 'Everything is good, but she is boring.' The adjective is not softened to 'bored' or an explanation of Masha's mood.",
+    "«Нынче утро всё только читал и не садился за стол» is 'This morning did nothing but read and did not sit down at the table', preserving Tolstoy's explicit writing-table image rather than replacing it with 'did not work'. «условие» is rendered 'agreement' and «кое-как» remains the abrupt 'somehow'.",
+    "«жить можно только дурно — похотями» is rendered 'one can live badly only through lusts'. 'Lusts' preserves the morally charged plural «похотями» without narrowing the sentence by explaining which appetites Tolstoy means.",
+    "The positive sequence retains all three nouns: 'kindness, the desire, the effort to be kinder and kinder.' The repetition of the добр- idea is preserved rather than compressed into a generic phrase about moral improvement.",
+    "The final analogy remains close: only people with strong ideal aspirations can 'fall morally low'; only a winged bird can 'plunge headlong down'; the last fragment remains 'Consciousness of the power of spiritual ascent—wings.' rather than being completed into an explanatory sentence.",
+    "The reverse target-to-source audit found no omitted substantive phrase, no unsupported explanation, and no alteration of Tolstoy's contrast between moral height and the possibility of a correspondingly deep fall."
+  ],
+  "result": "PASS"
+}

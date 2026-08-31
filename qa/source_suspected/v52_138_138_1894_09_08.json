@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/diaries/v52_138_138_1894_09_08.md",
+  "status": "SOURCE_VERIFIED",
+  "type": "place_name_variant",
+  "digital_reading": "The audited Markdown reads «ездил с девочками верхом в Овеянниково».",
+  "comparison_issue": "Neighboring 1894 diary entries usually name the same place «Овсянниково», making this isolated form worth checking rather than silently normalizing.",
+  "verified_print_reading": "The official volume 52 text for the 8 September 1894 entry also reads «Овеянниково».",
+  "verified_print_pages": "138",
+  "verification": "Official 90-volume electronic edition, volume 52, confirms the anomalous form in this exact entry while neighboring entries use the more usual form.",
+  "witness": "https://tolstoy.ru/online/90/52/",
+  "p003_disposition": "retain the audited Russian source and SHA-256 unchanged; transliterate the verified unit-specific reading as Oveyannikovo; do not normalize it to Ovsyannikovo in the English body"
+}

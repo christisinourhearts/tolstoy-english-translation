@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **64**.
+- Reviewed English translations: **65**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **32 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **11,661**.
+- P003: **33 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **11,783**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **57**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **58**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -99,10 +99,11 @@ Completed and accepted:
 30. `corpus/diaries/v51_014_015_1890_01_27.md`
 31. `corpus/diaries/v57_011_012_1909_01_15.md`
 32. `corpus/diaries/v49_058_058_1881_10_05.md`
+33. `corpus/diaries/v52_138_138_1894_09_08.md`
 
-Last completed unit: **P003.32 — Diary entry, 5 October 1881.**
+Last completed unit: **P003.33 — Diary entry, 8 September 1894.**
 
-Next planned unit: **P003.33 — `corpus/diaries/v52_138_138_1894_09_08.md`**.
+Next planned unit: **P003.34 — `corpus/notes/v51_158_159_Zapisi_na_listah_1890.md`**.
 
 ## Exact source verification completed
 
@@ -119,6 +120,8 @@ P003.26 triggered `SOURCE_SUSPECTED` because the audited Markdown preserves mark
 P003.28 triggered `SOURCE_SUSPECTED` because the audited filename, subtitle, creation field, and manifest metadata say 1883 while the file's source-edition citation says `Дневник 1884 г.` Volume 49 places the 17/29 May entry on pp. 94–95 inside the 1884 diary, and its manuscript description and commentary independently cite the 1884 agenda and correspondence. The stable source path and original hash are retained, English metadata uses verified 1884, both readings are recorded in `metadata/source_errata.yml`, and the Russian snapshot remains unchanged.
 
 P003.29 triggered `SOURCE_SUSPECTED` because the audited Markdown retains footnote [^1], «Можно прочесть: истопил», after `потом` but omits the printed `[?]` uncertainty marker that belongs immediately after that reference. Official volume 50 p. 40 reads `потом[34] [?] пришел Желтов`, with note 34 `Можно прочесть: истоп[ил]`. The English restores only the verified uncertainty marker, translates the existing note, retains the original source hash, and leaves the Russian snapshot unchanged.
+
+P003.33 triggered `SOURCE_SUSPECTED` because the audited entry has `Овеянниково` while neighboring 1894 entries usually use `Овсянниково`. Official volume 52 confirms `Овеянниково` on p. 138 in this exact entry. The reading is therefore source-verified, not corrected; English preserves it as “Oveyannikovo,” retains the original source hash, and leaves the Russian repository unchanged.
 
 ## Public-domain provenance pilot
 
