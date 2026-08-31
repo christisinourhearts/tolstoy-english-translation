@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.04",
+  "source_path": "corpus/works/v01_298_298_K_zapadne.md",
+  "source_sha256": "56e53eae08137a5d24fbc89c3f7ceba832a845b3b713a1b3cdac06d83962baab",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source's comic high diction is kept in phrases such as ‘spoke thus’ and ‘the life to come and this day’; no new rhyme scheme is imposed.",
+    "‘Сокрушенъ ея тоскою’ is translated closely as ‘Crushed by her sorrow’ rather than inferred as the mouse's own longing.",
+    "The duplicated prereform/regularized title tokens in the Markdown body are treated as witness-layer orthographic duplication; the substantive heading is translated once as ‘To the Trap.’"
+  ],
+  "result": "PASS"
+}
