@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.21. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.22. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 20 / 50 accepted
-- Last accepted unit: P003.20 — letter to F. A. Strakhov, 28 January 1905
-- Next unit: P003.21 — letter to S. V. Danilevich, 17 May 1907
-- Total reviewed translations: 52
-- Approximate reviewed source-body words: 10,159
-- Structured bilingual coverage records: 45
+- P003: in progress, 21 / 50 accepted
+- Last accepted unit: P003.21 — letter to S. V. Danilevich, 17 May 1907
+- Next unit: P003.22 — letter to G. A. Novichkov, 26 September 1907
+- Total reviewed translations: 53
+- Approximate reviewed source-body words: 10,299
+- Structured bilingual coverage records: 46
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–20.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–21.
 
 ## P003.11 translation note
 
@@ -72,6 +72,10 @@ The Alexander Nikiforovich Dunaev letter of 7–8 November 1898 was accepted in 
 ## P003.20 translation/source-QA note
 
 The Fyodor Alexeyevich Strakhov letter headed 28 January 1905 was accepted in commit `8341552`. Its source SHA-256 matches the mounted audited Russian snapshot exactly and it raised no MEDIUM/HIGH boundary flag. During the apparatus audit, however, the audited Markdown was found to contain a bare numeral `3` after `карандашом` while defining only footnotes `[^1]` and `[^2]`. The official 90-volume electronic edition, volume 75, pp. 209–210, confirms that the numeral is footnote marker 3 and supplies the omitted third note: Strakhov recorded that Tolstoy conveyed through M. V. Syaskova that the marked passages should be included in *Circle of Reading*. This is now a confirmed source erratum in `metadata/source_errata.yml` and `qa/source_suspected/v75_298_F_A_Straxovu.json`. The Russian repository was not modified; the English restores only the verified marker/note while retaining the original Russian Markdown hash. `tools/validate_translation.py` now supports an exact manifest-declared `source_qa_extra_footnote_ids` exception only when `source_qa_status` is `confirmed_erratum`, so this recovery does not weaken footnote equality for ordinary units. The body keeps `отчеркнул карандашом` as “marked off in pencil” and `баллы` as “scores.” The heading's `January 28?` and the editorial unknown-hand note `Feb. 1905` are both preserved without reconciliation.
+
+## P003.21 translation/source-QA note
+
+The Samuil Vulfovich Danilevich letter of 17 May 1907 was accepted in commit `fd665d8`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The body preserves the standalone dative address `Данилевичу.` as “To Danilevich.” rather than inventing a warmer salutation; `намерениях чистоты жизни` remains the broad “intentions toward purity of life” rather than being narrowed to “chastity”; the repeated `успешной ... успеха` remains “a successful struggle ... the possibility of success”; and `постоянства и вследствие постоянства преуспеяния` remains “constancy and, as a result of constancy, progress.” During apparatus audit, the audited Markdown was found to contain a bare list item `3.` immediately before the p. 106 page marker. The official 90-volume edition, volume 77, pp. 105–106, confirms that the apparatus ends after note 2 and page 106 begins directly with letter 117; there is no third note or numeral. This is recorded as a confirmed non-substantive source erratum in `metadata/source_errata.yml` and `qa/source_suspected/v77_116_S_V_Danilevichu.json`. The Russian repository remains unchanged; the English omits only that spurious numeral and preserves the page marker and original source hash.
 
 ## Repository maintenance note
 
