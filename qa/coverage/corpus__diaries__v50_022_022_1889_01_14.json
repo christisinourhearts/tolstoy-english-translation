@@ -1,0 +1,27 @@
+{
+  "batch": "P003",
+  "unit": "P003.24",
+  "source_path": "corpus/diaries/v50_022_022_1889_01_14.md",
+  "source_sha256": "6d9cf5e515f0572b3c5bde555f0cd7f9fbadaefc21332d3878c7d37120956d4d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The title/subtitle metadata, p. 22 marker, inserted date, internal abbreviated date line, and entire diary body are represented; the unit raised no MEDIUM/HIGH P003 boundary flag and its recorded SHA-256 matched the mounted audited Russian source exactly.",
+    "The source itself has the unusual sequence <ins>14 January</ins> followed by '12 Я. М. 89.' The authoritative 90-volume electronic edition confirms the same reading. The English therefore preserves both as '<ins>14 January</ins> 12 Jan. M. 89.' rather than reconciling the dates.",
+    "The clipped diary syntax of «Письма сочувственные и посещения. Ершов с книгой.» is retained as 'Letters of sympathy and visits. Ershov with a book.' rather than expanded into full narrative sentences.",
+    "«о двух партиях: интернациональной и социалистической» is rendered 'about two parties: the International and the Socialist', preserving Tolstoy's two labels without importing a fuller historical party name into the body.",
+    "«Анархисты совсем правы, только не в насилии. Удивительное затмение.» is rendered 'The anarchists are entirely right, except about violence. Astonishing blindness.' The second phrase uses the contextual sense of «затмение» as moral/intellectual blindness rather than the literal astronomical 'eclipse'.",
+    "«представляется необходимым и возможным решить, но решения еще нет» is rendered 'it seems necessary and possible to resolve it, but there is no solution yet', keeping the source's unresolved state and avoiding an invented conclusion.",
+    "«Пошел ходить к Сытину, не дошел, а зашел к Воейкову» is rendered 'Went walking to Sytin's, did not get there, but stopped in at Voeikov's', preserving both the failed destination and the unplanned visit.",
+    "«Хорошее стремление, но весь изуродован наркотическим» is rendered closely as 'A good aspiration, but he is entirely disfigured by narcotics.' The source does not specify a particular substance or diagnosis, so none is supplied in English.",
+    "The familiar household names Sonya, Masha, and Posha and the surname Fet are preserved as forms used in the diary rather than expanded to full identities in the body.",
+    "The closing sequence preserves the source's terseness and repetition: 'In the evening finished reading about the socialists. A letter from Posha. In the evening the police appeared to protect me. — Yes, Stakhovich was here. Thank God, he was not unpleasant.'"
+  ],
+  "result": "PASS"
+}
