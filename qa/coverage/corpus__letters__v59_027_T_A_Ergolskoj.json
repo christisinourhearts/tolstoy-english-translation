@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.11",
+  "source_path": "corpus/letters/v59_027_T_A_Ergolskoj.md",
+  "source_sha256": "36e8484756e897b70e2a42e605c4ee60f7d758b3cf6a42f2e8f078fc7841b575",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's letter body is French and is translated directly from French; the Soviet edition's Russian translation is translated separately under Editorial notes rather than used as the English base text.",
+    "The malformed/unclear French sequence 'si nulement' is not silently repaired; English marks the uncertain element as '[unclear]'.",
+    "The manuscript's illegible word in 'à la [1 нрзбр.] souvent' remains '[1 illegible]' in the direct translation even though the Russian editorial rendering interprets the sense as seeing her often.",
+    "The final autograph lines '20 April' and bare '18' are preserved. Official volume 59 reproduces them exactly, confirming that the unit is not truncated."
+  ],
+  "result": "PASS"
+}
