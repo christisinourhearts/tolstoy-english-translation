@@ -13,11 +13,11 @@ Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records ch
 
 ## Last completed unit
 
-P001.1 — `corpus/works/v25_028_030_Dva_brata_i_zoloto.md`
+P001.2 — `corpus/works/v01_097_099_Detstvo_Varianty_teksta_Sovremennika_1852_g_No_9.md`
 
 Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; mechanical validation PASS.
 
-Upstream QA note: possible Russian source-layer discrepancy `в горè` / `на горе` recorded in `qa/batches/P001.md`.
+Important pilot finding: some files categorized as `works` consist primarily or entirely of scholarly variant apparatus; current manifest body/apparatus statuses do not model this cleanly. See `qa/batches/P001.md`.
 
 ## Active batch
 
@@ -25,10 +25,10 @@ P001 — see `qa/batches/P001.md`.
 
 ## Current unit
 
-`corpus/works/v01_097_099_Detstvo_Varianty_teksta_Sovremennika_1852_g_No_9.md`
+`corpus/letters/v59_008_T_A_Ergolskojigr_E_A_Tolstoj.md`
 
 Stage: not started.
 
 ## Next action
 
-Translate the *Childhood* Sovremennik variant apparatus exactly as represented, preserving its editorial nature, foreign-language epigraphs, footnotes, page markers, and distinctions among the 1852, 1856, and manuscript readings. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
+Translate the 27 October 1848 letter. Detect its actual body language (French), translate the letter body into English, preserve the fact that the source letter is French, and separately translate the Russian editorial notes. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
