@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.23. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.24. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 22 / 50 accepted
-- Last accepted unit: P003.22 — letter to G. A. Novichkov, 26 September 1907
-- Next unit: P003.23 — letter to T. A. Kuzminskaya, 4 August 1908
-- Total reviewed translations: 54
-- Approximate reviewed source-body words: 10,439
-- Structured bilingual coverage records: 47
+- P003: in progress, 23 / 50 accepted
+- Last accepted unit: P003.23 — letter to T. A. Kuzminskaya, 4 August 1908
+- Next unit: P003.24 — diary entry, 14 January 1889
+- Total reviewed translations: 55
+- Approximate reviewed source-body words: 10,579
+- Structured bilingual coverage records: 48
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–22.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–23.
 
 ## P003.11 translation note
 
@@ -80,6 +80,10 @@ The Samuil Vulfovich Danilevich letter of 17 May 1907 was accepted in commit `fd
 ## P003.22 translation note
 
 The Gavriil Alexandrovich Novichkov letter of 26 September 1907 was accepted in commit `9eb3bda`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. Tolstoy's salutation uses the variant/familiar first-name form `Гаврило Александрович`, preserved in the body as “Gavrilo Alexandrovich,” while the metadata retains the catalogued full form “Gavriil Alexandrovich Novichkov.” `моему хорошему знакомому` remains “my good acquaintance,” not “friend”; `похлопотать о вашем деле у губернатора` is rendered “intercede in your case with the governor”; and the compact `что нужно и можно` remains “what is necessary and possible.” `От всей души соболезную вам` is rendered “With all my heart I sympathize with you,” and the final `мужественно и безропотно по-христиански переносите вашу невзгоду` remains close as “bearing your misfortune courageously and without complaint, in a Christian way.” All three editorial notes were translated and checked; no source erratum was found.
+
+## P003.23 translation note
+
+The Tatyana Andreevna Kuzminskaya letter of 4 August 1908 was accepted in commit `ea67984`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag; the official 90-volume electronic edition was also checked and agrees with the letter and apparatus. Tolstoy's `Только, наверное, не лейб-гусар` is kept as “Only, probably, not a Life Guards Hussar,” preserving the uncertainty rather than strengthening it. His mildly reproachful wish that Vasya would ask him about `вещи более нужные для жизни` remains “things more necessary for life,” without editorial expansion. `Братски целую тебя, Сашу и Васю` is rendered “I kiss you, Sasha, and Vasya as a brother.” In footnote 1, the historical unit `гвардейский экипаж` is rendered by its established English proper name “Guards Equipage.” All two editorial notes and three footnotes are translated; no source erratum was found.
 
 ## Repository maintenance note
 
