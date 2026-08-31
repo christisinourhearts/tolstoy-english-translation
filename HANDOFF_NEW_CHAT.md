@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.25. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.26. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 24 / 50 accepted
-- Last accepted unit: P003.24 — diary entry, 14 January 1889
-- Next unit: P003.25 — diary entry, 15 July 1909
-- Total reviewed translations: 56
-- Approximate reviewed source-body words: 10,699
-- Structured bilingual coverage records: 49
+- P003: in progress, 25 / 50 accepted
+- Last accepted unit: P003.25 — diary entry, 15 July 1909
+- Next unit: P003.26 — diary entry, 3 September 1862
+- Total reviewed translations: 57
+- Approximate reviewed source-body words: 10,819
+- Structured bilingual coverage records: 50
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–24.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–25.
 
 ## P003.11 translation note
 
@@ -88,6 +88,10 @@ The Tatyana Andreevna Kuzminskaya letter of 4 August 1908 was accepted in commit
 ## P003.24 translation note
 
 The diary unit headed 14 January 1889 was accepted in commit `5b7dc01`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The source has the unusual sequence `<ins>14 января</ins> 12 Я. М. 89.`; the official 90-volume electronic edition confirms the same reading, so the English preserves both as `<ins>14 January</ins> 12 Jan. M. 89.` rather than reconciling the dates or opening a source erratum. The clipped diary phrases `Письма сочувственные и посещения. Ершов с книгой.` remain “Letters of sympathy and visits. Ershov with a book.” `Анархисты совсем правы, только не в насилии. Удивительное затмение.` is rendered “The anarchists are entirely right, except about violence. Astonishing blindness.” The obscure `весь изуродован наркотическим` is kept close as “he is entirely disfigured by narcotics,” without supplying a particular substance or diagnosis. The familiar names Sonya, Masha, and Posha are preserved as written. No apparatus or footnotes occur in this unit.
+
+## P003.25 translation note
+
+The diary entry of 15 July 1909 was accepted in commit `bce9c55`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The surrounding June 1909 diary and the volume 57 commentary identify `молитве Соничке` as the prayer Tolstoy was composing for his granddaughter Sonichka; the body therefore uses the restrained “a prayer for Sonichka” without adding the granddaughter identification to Tolstoy's text. `Написал и послал, но нехорошо` remains clipped as “Wrote it and sent it, but it is not good.” `живу не перед людьми, а перед Богом` is preserved as “I live not before people but before God,” and both occurrences of `забота о суде людском` remain “concern about people's judgment.” The concrete path image in `стоит на моем пути к Богу` is retained, as is the paired `Буду учиться и приучаться` → “I will learn and train myself.” `письмецо об устройстве общин` is rendered “a little letter about the organization of communities,” consistent with the nearby Abramov correspondence about a religious community rather than importing a narrower political meaning. No source erratum was found.
 
 ## Repository maintenance note
 
