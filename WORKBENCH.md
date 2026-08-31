@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.15 — `corpus/azbuka/v21_017_017_Kitajskaja_tsaritsa_Silinchi.md` accepted.
+P002.16 — `corpus/azbuka/v21_026_026_Slepoj_i_gluhoj.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.16 — `corpus/azbuka/v21_026_026_Slepoj_i_gluhoj.md`.
+Translate and audit P002.17 — `corpus/azbuka/v21_052_052_Dikij_i_ruchnoj_osel.md`.

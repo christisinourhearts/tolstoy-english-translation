@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.16",
+  "source_path": "corpus/azbuka/v21_026_026_Slepoj_i_gluhoj.md",
+  "source_sha256": "0940a7e66b2fdba759c2f19c2859fad456076af9725e4286cb75f4be77ab3a63",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The story depends on Russian sound-confusions: 'стручист' / 'стучит' and 'межа' / 'бежать'. English preserves the literal meanings and the deaf man's mistaken responses rather than inventing unrelated English puns."
+  ],
+  "result": "PASS"
+}
