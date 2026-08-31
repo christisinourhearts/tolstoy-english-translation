@@ -76,3 +76,14 @@ errata:
     verified_reading: "The official volume reads ‘потом[34] [?] пришел Желтов’; textual note 34 reads ‘Можно прочесть: истоп[ил]’."
     witness: "https://tolstoy.ru/online/90/50/"
     action: "Keep the Russian repository immutable and retain its original SHA-256. Restore only the verified [?] immediately after English footnote marker [^1], translate the existing alternative-reading note, and document the structural difference in the translation manifest and QA."
+
+  - source_path: corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md
+    type: misplaced_item_number_and_page_boundary
+    status: confirmed
+    volume: 42
+    declared_pages: "154-155"
+    verified_print_pages: "154-155"
+    digital_reading: "The Markdown keeps both Lucy Mallory passages under item 2, places her attribution after the second passage, then places the p. 155 marker and a bare numeral 3 immediately before item 4."
+    verified_reading: "The official volume has item 2 as the first Mallory sentence on p. 154; p. 155 begins with item 3 before the second Mallory passage and its attribution, followed by item 4."
+    witness: "https://tolstoy.ru/online/90/42/"
+    action: "Keep the Russian repository immutable and retain its original SHA-256. In English, restore only the verified p. 155/item-3 position before the second Lucy Mallory passage and document the structural override in QA."

@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "misplaced_item_number_and_page_boundary",
+  "digital_reading": "The audited Markdown keeps both Lucy Mallory passages under item 2, places the attribution after the second passage, then emits the p. 155 marker followed by a bare numeral 3 immediately before item 4.",
+  "verified_print_reading": "Official volume 42 p. 154 has item 2 containing only the first Mallory sentence; p. 155 begins with item 3, followed by the second Mallory passage and attribution, then item 4.",
+  "verified_print_pages": "154-155",
+  "verification": "Official 90-volume electronic edition, volume 42, confirms the item numbering and page boundary around the two Lucy Mallory selections.",
+  "witness": "https://tolstoy.ru/online/90/42/",
+  "p003_disposition": "retain the original audited Russian SHA-256 and leave the Russian repository unchanged; move only the English p. 155 marker and item 3 to the verified position before the second Lucy Mallory passage"
+}

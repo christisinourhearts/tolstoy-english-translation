@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **81**.
+- Reviewed English translations: **82**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **49 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **14,569**.
-- Confirmed source errata: **7**.
-- Existing structured coverage records: **74**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- P003: **50 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **14,888**.
+- Confirmed source errata: **8**.
+- Existing structured coverage records: **75**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -116,10 +116,11 @@ Completed and accepted:
 47. `corpus/krug_chtenija/v41_045_047_Krug_chtenija_daily_jan_3_5.md`
 48. `corpus/krug_chtenija/v41_081_082_Krug_chtenija_daily_feb_1_4.md`
 49. `corpus/krug_chtenija/v41_183_185_Krug_chtenija_daily_mar_4_2.md`
+50. `corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md`
 
-Last completed unit: **P003.49 — 23 March.**
+Last completed unit: **P003.50 — 17 October.**
 
-Next planned unit: **P003.50 — `corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md`**.
+P003 translation production is complete. Per `qa/batches/P003.md`, the next required step is a deliberately difficult cold fidelity audit before selecting P004.
 
 ## Exact source verification completed
 
@@ -139,6 +140,8 @@ P003.29 triggered `SOURCE_SUSPECTED` because the audited Markdown retains footno
 
 P003.33 triggered `SOURCE_SUSPECTED` because the audited entry has `Овеянниково` while neighboring 1894 entries usually use `Овсянниково`. Official volume 52 confirms `Овеянниково` on p. 138 in this exact entry. The reading is therefore source-verified, not corrected; English preserves it as “Oveyannikovo,” retains the original source hash, and leaves the Russian repository unchanged.
 
+P003.50 triggered `SOURCE_SUSPECTED` because the audited Markdown misplaces the p. 155/item 3 boundary after the Lucy Mallory attribution, effectively merging the two Mallory selections under item 2 and leaving a stranded `3` before item 4. Official volume 42 shows p. 155 beginning with item 3 before the second Mallory passage. English restores only that verified structure, retains the original source hash, and leaves the Russian repository unchanged.
+
 ## Public-domain provenance pilot
 
 A contained pilot has been completed for `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md` (Volume 48, printed pp. 342–346). The pilot lives under `provenance/pd_core_pilot/` and uses the printed 90-volume scan as the primary textual authority, with the existing Tolstoy Digital-derived Russian Markdown retained only as a comparison witness.
@@ -151,8 +154,8 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. Review `provenance/pd_core_pilot/` before resuming bulk translation.
-2. If the scan-authoritative rebase strategy is adopted, run a second pilot on an already-reviewed published literary work before attempting a corpus-wide conversion.
-3. Do **not** mass-delete `CC BY-SA` metadata from the existing Russian repository. Preserve that repository as a comparison witness until each source is independently rebased.
-4. P003.30 (`corpus/diaries/v51_014_015_1890_01_27.md`) remains the next translation unit. Resume it only after the provenance strategy is settled.
-5. Once translation resumes, continue the normal translate → audit → validate → commit workflow recorded in this workbench.
+1. P003 translation production is complete at 50/50 accepted units.
+2. Before selecting P004, perform the deliberately difficult P003 cold fidelity audit required by `qa/batches/P003.md` and record it under `qa/reports/` (with per-unit records under `qa/cold_audit/` where useful).
+3. Preserve Decision D0001: distinguish hard fidelity defects from merely conceivable style alternatives, and do not smooth unusual but intelligible source-shaped English.
+4. Continue treating the audited Russian repository as a read-only CC BY-SA comparison witness; English translation rights remain separately declared as `PROJECT-TBD`.
+5. After the P003 cold audit passes (and any hard defects are corrected), select and document P004 before resuming translation production.

@@ -1,0 +1,24 @@
+{
+  "batch": "P003",
+  "unit": "P003.50",
+  "source_path": "corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md",
+  "source_sha256": "446f95c3dbffd5d9aae93cb3e733f8bbf4fe8d3da4e4b13680fce4b06cd2106f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Both page markers, the 17 October theme paragraph, numbered items 1-4, the Thoreau and Lucy Mallory attributions, and Tolstoy's concluding creator-God discussion are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The audited Markdown has a confirmed structural defect around the p. 155 boundary: it keeps both Lucy Mallory passages under item 2, places her attribution after the second passage, then emits the p. 155 marker followed by a stranded numeral 3 immediately before item 4. Official volume 42 shows item 2 ending with the first sentence on p. 154, p. 155 beginning with item 3 before the second Mallory passage, then the Mallory attribution and item 4. English restores only that verified numbering/page structure while retaining the original source hash and leaving the Russian repository unchanged.",
+    "Attributed passages are translated from Tolstoy's Russian compilation rather than replaced by independently sourced English versions of Thoreau or Lucy Mallory.",
+    "«нынешнее отношение» is kept as 'the present relation' and the repeated contrast with the ancient relation is preserved rather than smoothed into a generalized claim about modern religion.",
+    "In item 3, the concrete image of attaching oneself to an idea and tying oneself to a post so as not to lose one's way is retained. «желанная истина» remains 'a desirable truth' and the contrast between stages of spiritual growth is explicit.",
+    "Tolstoy's distinction between God the creator and God the Spirit is preserved throughout, including the difficult source-shaped phrase about 'a particle' of God living in him and constituting his life. «богом любовью» is rendered 'God as love' rather than expanded into an explanatory theological paraphrase.",
+    "«Есть я» is rendered 'I exist' to preserve the existential claim without the unidiomatic English 'There is I'. The closing list retains the Koran, Buddhist and Confucian books, Stoic writings, Bible, Upanishads, Gospel, and the final preference for religious thinkers nearest to us. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
