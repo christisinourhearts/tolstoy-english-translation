@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **54**.
+- Reviewed English translations: **55**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **22 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **10,439**.
+- P003: **23 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **10,579**.
 - Confirmed source errata: **4**.
-- Existing structured coverage records: **47**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **48**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -89,10 +89,11 @@ Completed and accepted:
 20. `corpus/letters/v75_298_F_A_Straxovu.md`
 21. `corpus/letters/v77_116_S_V_Danilevichu.md`
 22. `corpus/letters/v77_240_G_A_Novichkovu.md`
+23. `corpus/letters/v78_215_T_A_Kuzminskoj.md`
 
-Last completed unit: **P003.22 — Letter to G. A. Novichkov, 26 September 1907.**
+Last completed unit: **P003.23 — Letter to T. A. Kuzminskaya, 4 August 1908.**
 
-Next planned unit: **P003.23 — `corpus/letters/v78_215_T_A_Kuzminskoj.md`**.
+Next planned unit: **P003.24 — `corpus/diaries/v50_022_022_1889_01_14.md`**.
 
 ## Exact source verification completed
 

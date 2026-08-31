@@ -1,0 +1,25 @@
+{
+  "batch": "P003",
+  "unit": "P003.23",
+  "source_path": "corpus/letters/v78_215_T_A_Kuzminskoj.md",
+  "source_sha256": "93d79b2f2b9a2d5ffd8dcf16c2b88b2b5b35d44d587ca5df1f5ebed6646899cb",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The heading, 4 August 1908 date line, Yasnaya Polyana location, page marker, body, two editorial notes, and all three footnotes are represented; the unit raised no MEDIUM/HIGH P003 boundary flag.",
+    "«какого именно полка был Вронский» is rendered 'exactly which regiment Vronsky was in', retaining the concrete military question rather than paraphrasing it as a broader question about the character.",
+    "«Только, наверное, не лейб-гусар» is rendered 'Only, probably, not a Life Guards Hussar.' The source's uncertainty is preserved rather than strengthened to certainty; «лейб-гусар» is kept as the individual military designation rather than silently expanding Tolstoy's phrase to a regiment name.",
+    "«Желал бы, чтобы твой милый Вася интересовался бы узнать от меня вещи более нужные для жизни» is rendered 'I wish your dear Vasya were interested in learning from me things more necessary for life', preserving Tolstoy's comparison and mild reproach without adding an explanation of what those more necessary things are.",
+    "«Братски целую тебя, Сашу и Васю» is rendered 'I kiss you, Sasha, and Vasya as a brother', keeping the familial force of «братски» and the affectionate literal verb rather than replacing the closing with a conventional English formula.",
+    "The editorial hand attribution «H. Н. Гусева» is rendered as N. N. Gusev, consistent with the source manifest's identification of Николай Николаевич Гусев; this is transliteration of Cyrillic initials, not a substantive emendation.",
+    "Footnote 1's «лейтенант гвардейского экипажа» is rendered 'lieutenant in the Guards Equipage'; footnote 2's quoted remark about 'the Petersburg youth' and the source abbreviation YaZ are preserved without explanatory expansion.",
+    "The authoritative 90-volume electronic edition was checked independently and agrees with the mounted audited source for the letter and apparatus."
+  ],
+  "result": "PASS"
+}
