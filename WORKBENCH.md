@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.20 — `corpus/azbuka/v21_057_057_Poshel_raz_lev_na_ohotu.md` accepted.
+P002.21 — `corpus/azbuka/v21_058_058_Starik_sazhal_jabloni.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.21 — `corpus/azbuka/v21_058_058_Starik_sazhal_jabloni.md`.
+Translate and audit P002.22 — `corpus/azbuka/v21_058_058_Volk_sel_ovtsu.md`.
