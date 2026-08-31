@@ -1,0 +1,20 @@
+{
+  "batch": "P003",
+  "unit": "P003.09",
+  "source_path": "corpus/letters/v60_095_N_A_Nekrasovu.md",
+  "source_sha256": "fc881c8eee21964fbc2c46d108afcbd17cb5c8434ec1d2752affede3b30806dd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The working title «Погибший» is rendered as “The Lost Man”; the source title is translated rather than replaced or transliterated.",
+    "The publishing measure «листа в 3» is rendered as “about three printer's sheets.”",
+    "In context, «положительный ответ» is rendered as “a definite answer,” avoiding the unsupported implication that Tolstoy specifically asks for a favorable answer."
+  ],
+  "result": "PASS"
+}

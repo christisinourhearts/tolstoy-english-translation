@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. The exact Russian ZI
 
 ## Current corpus state
 
-- Reviewed English translations: **40**.
+- Reviewed English translations: **41**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **8 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **8,479**.
+- P003: **9 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **8,619**.
 - Confirmed source errata: **2**.
-- Existing structured coverage records: **33**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **34**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,24 +75,24 @@ Completed and accepted:
 6. `corpus/works/v29_363_363_Kto_prav_Varianty.md`
 7. `corpus/works/v37_005_005_Volk.md`
 8. `corpus/works/v40_435_435_Zhizn_i_izrechenija_Krishny_Predislovie.md`
+9. `corpus/letters/v60_095_N_A_Nekrasovu.md`
 
-Last completed unit: **P003.08 — Preface to the Book “Life and Sayings of Krishna.”**
+Last completed unit: **P003.09 — Letter to N. A. Nekrasov, 11 November 1857.**
 
-Next planned unit: **P003.09 — `corpus/letters/v60_095_N_A_Nekrasovu.md`**.
+Next planned unit: **P003.10 — `corpus/letters/v61_151_M_N_Longinovu.md`**.
 
-## Important source-verification caveat for P003.01–08
+## Exact source verification completed
 
-During the previous chat, the exact Russian ZIP failed to mount in the runtime immediately before P003 production. The eight P003 translations were checked against authoritative 90-volume source text, but the new runtime should still run the exact repository hash/source check against the uploaded Russian ZIP before continuing. If the P003.01–08 source hashes match `metadata/source_manifest.jsonl` / `translation_manifest.jsonl`, no reopening is necessary. If any differ, reopen only the affected units.
+The uploaded Russian snapshot was successfully mounted and checked in the resumed runtime. `tools/check_source.py` checked all **15,766** manifest sources with **0 missing** and **0 changed**. P003.01–08 were also confirmed individually against their recorded SHA-256 hashes; all eight matched exactly, so none was reopened.
+
+The P003 boundary preflight scanned the exact snapshot. Only P003.39 and P003.45 were MEDIUM; inspection showed that both apparent nonterminal endings are caused by deletion markup with punctuation inside the deleted span, with neighboring page units independently segmented. They are retained as intentional draft boundaries, not `SOURCE_SUSPECTED`.
 
 ## NEXT ACTION
 
-1. Confirm both the English handoff ZIP and Russian source ZIP are physically accessible in the new runtime.
-2. Run `tools/check_source.py` against the exact Russian repository snapshot.
-3. Run `tools/preflight_boundaries.py` for the selected P003 paths.
-4. Inspect any MEDIUM/HIGH boundary flags rather than automatically rejecting them.
-5. Confirm source hashes for P003.01–08.
-6. If clean, resume at **P003.09** and continue the existing finite workflow:
+1. Resume at **P003.10** and continue the existing finite workflow:
    translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-7. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
+2. Preserve the completed exact-source verification; do not reopen P003.01–09 without a concrete fidelity or source reason.
+3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
+4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
 
 Do not begin a new batch or retranslate completed units merely for stylistic variety. `metadata/DECISIONS.md` governs settled editorial choices.
