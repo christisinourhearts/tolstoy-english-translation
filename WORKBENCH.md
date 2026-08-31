@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **75**.
+- Reviewed English translations: **76**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **43 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **13,110**.
+- P003: **44 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **13,198**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **68**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **69**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -110,10 +110,11 @@ Completed and accepted:
 41. `corpus/azbuka/v22_209_210_Telenok_na_ldu.md`
 42. `corpus/azbuka/v22_562_563_Volk_i_jagnenok.md`
 43. `corpus/azbuka/v21_207_207_Olen.md`
+44. `corpus/azbuka/v21_243_243_Ptitsy_v_seti.md`
 
-Last completed unit: **P003.43 — The Deer.**
+Last completed unit: **P003.44 — The Birds and the Nets.**
 
-Next planned unit: **P003.44 — `corpus/azbuka/v21_243_243_Ptitsy_v_seti.md`**.
+Next planned unit: **P003.45 — `corpus/azbuka/v21_348_348_Odin_malchik_uvidal_nischego.md`**.
 
 ## Exact source verification completed
 

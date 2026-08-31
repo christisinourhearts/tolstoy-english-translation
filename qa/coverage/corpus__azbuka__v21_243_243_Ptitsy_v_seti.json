@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.44",
+  "source_path": "corpus/azbuka/v21_243_243_Ptitsy_v_seti.md",
+  "source_sha256": "b50dea9c22e92b78009ee1080ef6700010f1e361400b6c0075740a5fa6544889",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, printed heading, fable label, and complete two-paragraph narrative are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The Russian file metadata calls the work «Птицы в сети», while its body heading is «ПТИЦЫ И СЕТИ». Official volume 21 likewise prints «ПТИЦЫ И СЕТИ» as the heading and table-of-contents title, while its later commentary uses «Птицы в сети». The English publication heading therefore follows the body as 'The Birds and the Nets'; the stable Russian metadata/path is left untouched.",
+    "«накрыл много птиц» is rendered plainly as 'caught many birds' rather than importing a particular trapping mechanism beyond the nets already named.",
+    "«птицы потянули на ночлег, каждая в свою сторону» is kept physically as 'the birds began pulling toward their roosts, each in its own direction', because their contrary pulling is the mechanism of the fable's ending.",
+    "The final sequence—forest, swamp, field, fall to the ground, hunter takes them—is complete and in source order. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
