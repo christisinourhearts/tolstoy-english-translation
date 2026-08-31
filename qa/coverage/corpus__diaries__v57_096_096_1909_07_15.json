@@ -1,0 +1,27 @@
+{
+  "batch": "P003",
+  "unit": "P003.25",
+  "source_path": "corpus/diaries/v57_096_096_1909_07_15.md",
+  "source_sha256": "0f1e728455eaf56c09a5a9762f554f98347002f6a8d971737832d8426b18e108",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The title/subtitle metadata, p. 96 marker, date heading, all three diary paragraphs, names, and parenthetical aside are represented; the unit raised no MEDIUM/HIGH P003 boundary flag and its recorded SHA-256 matched the mounted audited Russian source exactly.",
+    "«о молитве Соничке» is rendered 'about a prayer for Sonichka.' The surrounding June 1909 diary and the volume commentary identify this as the prayer Tolstoy was composing for his granddaughter Sonichka; that context resolves the dative without adding the granddaughter identification to Tolstoy's diary body.",
+    "«Написал и послал, но нехорошо» remains clipped as 'Wrote it and sent it, but it is not good.' The supplied object 'it' is only the grammatically understood prayer; no explanation of what was unsatisfactory is added.",
+    "«Занимался письмом о Науке» is kept close as 'Worked on the letter about Science.' The surrounding 1909 material shows that this was the response to F. A. Abramov that developed into the work «О науке», but the diary's own generic phrase is not silently converted into a formal title.",
+    "«живу не перед людьми, а перед Богом» is preserved as 'I live not before people but before God,' retaining Tolstoy's repeated spatial/moral image rather than smoothing it to 'I seek God's approval rather than people's.'",
+    "The recurrent «забота о суде людском» is rendered consistently as 'concern about people's judgment'; the English preserves both occurrences and does not replace the second with a stylistic synonym.",
+    "«Она теперь больше всего стоит на моем пути к Богу» remains 'It now stands more than anything else in my way to God,' keeping the concrete image of an obstacle on a path.",
+    "«письмецо об устройстве общин» is rendered 'a little letter about the organization of communities.' The diminutive force of «письмецо» is retained as 'little letter'; «общин» is kept broad as 'communities' in light of the nearby correspondence about Abramov's religious community, rather than importing a narrower political sense of 'communes.'",
+    "«сознанием жизни перед Богом» is rendered 'through the awareness of living before God,' preserving the same 'before God' formulation used earlier in the paragraph.",
+    "«Буду учиться и приучаться» retains the paired verbs as 'I will learn and train myself,' rather than collapsing the repetition to a single English verb. The final «Иду обедать» remains the diary-like fragment 'Going to dinner.'"
+  ],
+  "result": "PASS"
+}

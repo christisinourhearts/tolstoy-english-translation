@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **56**.
+- Reviewed English translations: **57**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **24 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **10,699**.
+- P003: **25 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **10,819**.
 - Confirmed source errata: **4**.
-- Existing structured coverage records: **49**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **50**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -91,10 +91,11 @@ Completed and accepted:
 22. `corpus/letters/v77_240_G_A_Novichkovu.md`
 23. `corpus/letters/v78_215_T_A_Kuzminskoj.md`
 24. `corpus/diaries/v50_022_022_1889_01_14.md`
+25. `corpus/diaries/v57_096_096_1909_07_15.md`
 
-Last completed unit: **P003.24 — Diary entry, 14 January 1889.**
+Last completed unit: **P003.25 — Diary entry, 15 July 1909.**
 
-Next planned unit: **P003.25 — `corpus/diaries/v57_096_096_1909_07_15.md`**.
+Next planned unit: **P003.26 — `corpus/diaries/v48_042_043_1862_09_03.md`**.
 
 ## Exact source verification completed
 
@@ -108,9 +109,9 @@ P003.21 also triggered `SOURCE_SUSPECTED`: its Markdown apparatus contains a spu
 
 ## NEXT ACTION
 
-1. Resume at **P003.25** and continue the existing finite workflow:
+1. Resume at **P003.26** and continue the existing finite workflow:
    translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-2. Preserve the completed exact-source verification; do not reopen P003.01–24 without a concrete fidelity or source reason.
+2. Preserve the completed exact-source verification; do not reopen P003.01–25 without a concrete fidelity or source reason.
 3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
 4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
 
