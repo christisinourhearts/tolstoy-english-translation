@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.24. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.25. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 23 / 50 accepted
-- Last accepted unit: P003.23 — letter to T. A. Kuzminskaya, 4 August 1908
-- Next unit: P003.24 — diary entry, 14 January 1889
-- Total reviewed translations: 55
-- Approximate reviewed source-body words: 10,579
-- Structured bilingual coverage records: 48
+- P003: in progress, 24 / 50 accepted
+- Last accepted unit: P003.24 — diary entry, 14 January 1889
+- Next unit: P003.25 — diary entry, 15 July 1909
+- Total reviewed translations: 56
+- Approximate reviewed source-body words: 10,699
+- Structured bilingual coverage records: 49
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–23.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–24.
 
 ## P003.11 translation note
 
@@ -84,6 +84,10 @@ The Gavriil Alexandrovich Novichkov letter of 26 September 1907 was accepted in 
 ## P003.23 translation note
 
 The Tatyana Andreevna Kuzminskaya letter of 4 August 1908 was accepted in commit `ea67984`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag; the official 90-volume electronic edition was also checked and agrees with the letter and apparatus. Tolstoy's `Только, наверное, не лейб-гусар` is kept as “Only, probably, not a Life Guards Hussar,” preserving the uncertainty rather than strengthening it. His mildly reproachful wish that Vasya would ask him about `вещи более нужные для жизни` remains “things more necessary for life,” without editorial expansion. `Братски целую тебя, Сашу и Васю` is rendered “I kiss you, Sasha, and Vasya as a brother.” In footnote 1, the historical unit `гвардейский экипаж` is rendered by its established English proper name “Guards Equipage.” All two editorial notes and three footnotes are translated; no source erratum was found.
+
+## P003.24 translation note
+
+The diary unit headed 14 January 1889 was accepted in commit `5b7dc01`. Its exact source SHA-256 matched the mounted audited Russian snapshot and it raised no MEDIUM/HIGH boundary flag. The source has the unusual sequence `<ins>14 января</ins> 12 Я. М. 89.`; the official 90-volume electronic edition confirms the same reading, so the English preserves both as `<ins>14 January</ins> 12 Jan. M. 89.` rather than reconciling the dates or opening a source erratum. The clipped diary phrases `Письма сочувственные и посещения. Ершов с книгой.` remain “Letters of sympathy and visits. Ershov with a book.” `Анархисты совсем правы, только не в насилии. Удивительное затмение.` is rendered “The anarchists are entirely right, except about violence. Astonishing blindness.” The obscure `весь изуродован наркотическим` is kept close as “he is entirely disfigured by narcotics,” without supplying a particular substance or diagnosis. The familiar names Sonya, Masha, and Posha are preserved as written. No apparatus or footnotes occur in this unit.
 
 ## Repository maintenance note
 
