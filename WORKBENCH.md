@@ -13,11 +13,9 @@ Pilot batch P001 is active. Source-integrity preflight passed: 15,766 records ch
 
 ## Last completed unit
 
-P001.3 — `corpus/letters/v59_008_T_A_Ergolskojigr_E_A_Tolstoj.md`
+P001.4 — `corpus/diaries/v48_033_034_1861_04_04.md`
 
 Stages: translation complete; fidelity audit PASS; English edit complete; final source audit PASS; apparatus translated; mechanical validation PASS.
-
-Pilot finding: source front matter may declare Russian while Tolstoy's body is entirely French. A distinct body-language field is needed.
 
 ## Active batch
 
@@ -25,10 +23,10 @@ P001 — see `qa/batches/P001.md`.
 
 ## Current unit
 
-`corpus/diaries/v48_033_034_1861_04_04.md`
+`corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md`
 
 Stage: not started.
 
 ## Next action
 
-Translate the 4/16 April 1861 diary entry while retaining its telegraphic character and German code-switches/footnotes. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
+Translate Notes Nos. 2 and 3 (1870), preserving fragmentary planning notes, dated sections, deletions/footnotes, quotations, and abrupt transitions. Then audit, validate, update the manifest/report/workbench, and commit before advancing.
