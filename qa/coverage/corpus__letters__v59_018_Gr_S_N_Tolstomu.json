@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.04",
+  "source_path": "corpus/letters/v59_018_Gr_S_N_Tolstomu.md",
+  "source_sha256": "4b80e3d547f3452c539f70ffdc8eff13037e121c4aa296fd64e0515156fb9364",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Kopylov is used consistently with the editorial identification; the colloquial anxiety of 'Совет вот где сидит' is rendered as the Council 'hanging over me' without adding factual content."
+  ],
+  "result": "PASS"
+}
