@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.01 — `corpus/works/v01_246_246_Dlja_chego_pishut_ljudi.md` accepted.
+P002.02 — `corpus/works/v07_120_120_O_haraktere_myshlenija_v_molodosti_i_v_starosti.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.02 — `corpus/works/v07_120_120_O_haraktere_myshlenija_v_molodosti_i_v_starosti.md`.
+Translate and audit P002.03 — `corpus/works/v07_132_132_Filosofskij_otryvok.md`.

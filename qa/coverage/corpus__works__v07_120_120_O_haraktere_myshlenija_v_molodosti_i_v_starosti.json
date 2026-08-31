@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.02",
+  "source_path": "corpus/works/v07_120_120_O_haraktere_myshlenija_v_molodosti_i_v_starosti.md",
+  "source_sha256": "a8f587333687727d670e604697a3f3171cbe82d7c13d4604225dc2dbe982881b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The manuscript insertion <ins>всякой</ins> is retained as an insertion even though the resulting phrase is awkward; no smoothing was used to hide the manuscript state."
+  ],
+  "result": "PASS"
+}
