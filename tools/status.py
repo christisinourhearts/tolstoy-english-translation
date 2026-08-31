@@ -3,7 +3,7 @@ import json, collections, pathlib
 root=pathlib.Path(__file__).resolve().parents[1]
 rows=[json.loads(x) for x in (root/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
 print(f'Documents: {len(rows):,}')
-for field in ['category','translation_status','fidelity_audit_status','english_edit_status','final_source_audit_status','apparatus_translation_status']:
+for field in ['category','translation_status','fidelity_audit_status','english_edit_status','final_source_audit_status','coverage_audit_status','source_qa_status','apparatus_translation_status']:
     print(f'\n{field}:')
     for k,v in collections.Counter(str(r.get(field,'')) for r in rows).most_common():
         print(f'  {k or "(blank)":28} {v:>6,}')

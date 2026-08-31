@@ -115,7 +115,47 @@ Variants and drafts are not duplicates to discard. The 90-volume corpus intentio
 
 Translate their actual textual state. Do not reconstruct a hypothetical finished version. Preserve deletions, fragmentary passages, alternative formulations, and uncertainty where represented by the source.
 
-## 11. Gauntlet workflow
+## 11. Source-suspicion protocol
+
+The audited Russian corpus is the normal translation authority, but no digital corpus should be treated as infallible. A translator must distinguish **difficulty in Tolstoy** from a **possibly damaged source reading**.
+
+Mark a passage `SOURCE_SUSPECTED` when the source contains a reading that is unexpectedly ungrammatical, semantically incoherent, internally contradictory, anomalous in a name/number/date, or otherwise looks more like transcription/OCR/encoding damage than deliberate roughness. Do not use this flag merely because Tolstoy is difficult, archaic, fragmentary, or stylistically unusual.
+
+When `SOURCE_SUSPECTED` is triggered:
+
+1. Stop finalizing the affected passage.
+2. Identify the volume and printed page from the preserved page marker/front matter.
+3. Check the 90-volume printed/electronic page and, where useful, an independent witness.
+4. Record the issue under `qa/source_suspected/` and in the manifest `source_qa_flags`.
+5. Never silently repair the Russian repository.
+6. If the digital reading is confirmed, translate it and close the flag as `source_verified`.
+7. If a source error is confirmed, record both readings in `metadata/source_errata.yml`, state which reading governs the English translation, and retain the original source hash.
+8. If the reading cannot be resolved, keep the translation unit out of `reviewed` status and mark it `needs_source_review`.
+
+The system must prefer an explicit unresolved source problem over an ingenious invented interpretation.
+
+## 12. Bilingual coverage proof
+
+A translation cannot be accepted merely because it reads well or passes structural validation. Its final audit must make an exhaustive source-to-English pass whose primary question is: **is every substantive source element represented, and is every substantive English element supported by the source?**
+
+For every P002-and-later accepted unit, create a structured record under `qa/coverage/`. The record must identify the source path and SHA-256 and state at minimum:
+
+- coverage method (`exhaustive_source_to_target_pass`);
+- whether every substantive source passage was checked;
+- known omissions (normally zero);
+- known unsupported additions (normally zero);
+- names/numbers/dates checked;
+- headings/page markers/footnote structure checked where applicable;
+- ambiguities or source-suspected readings encountered;
+- final result (`PASS`, `NEEDS_REVIEW`, or `SOURCE_SUSPECTED`).
+
+The bilingual audit should proceed from the source forward, not merely by rereading the English. Every source sentence or fragment must be deliberately accounted for. Then perform a reverse English-to-source scan looking for explanatory material, intensification, or meaning with no source support.
+
+A mechanical paragraph or sentence count is useful only as a warning signal. Russian and English may legitimately divide sentences or paragraphs differently. Counts do not constitute semantic proof.
+
+Any omission, unsupported addition, reversed relation, wrong subject/speaker, lost negation, altered modality, wrong name/number/date, or other hard fidelity error blocks acceptance until corrected. Legitimate interpretive alternatives may be recorded without blocking acceptance when the chosen English is defensible and does not conceal uncertainty in the source.
+
+## 13. Gauntlet workflow
 
 Each translation unit passes through finite stages. The creator of a translation should not be its only critic.
 
@@ -123,7 +163,7 @@ Each translation unit passes through finite stages. The creator of a translation
 2. **Fidelity audit** — compare Russian/source text against English and identify concrete omissions, additions, misread syntax, incorrect referents, tone shifts, factual errors, or structural loss.
 3. **Revision** — correct substantiated fidelity issues.
 4. **English edit** — read the English as English; remove calques, stiffness, and accidental obscurity without taking new liberties.
-5. **Final source audit** — compare the finished English against the source again after stylistic editing.
+5. **Final source audit / coverage proof** — compare the finished English against the source again after stylistic editing, source-to-target and then target-to-source; write the structured coverage record.
 6. **Mechanical validation** — verify file identity, page markers, footnote IDs, Markdown structure, and source hash.
 7. **Checkpoint/commit** — update the manifest and workbench before beginning the next unit.
 
@@ -131,7 +171,7 @@ Critics must cite a specific source passage and a specific problem. “Could be 
 
 Do not loop indefinitely. A unit passes when no substantive fidelity defects remain, the English is intelligible and natural at the source's register, and mechanical validation passes.
 
-## 12. Batch sizing and persistence
+## 14. Batch sizing and persistence
 
 Assume the active AI context can disappear at any time.
 
@@ -142,16 +182,18 @@ Assume the active AI context can disappear at any time.
 - For long works, process chapter/section chunks internally, but keep the final repository's one-to-one file identity unless there is a compelling technical reason otherwise.
 - A resumed session should be able to determine the next action from the repository alone.
 
-## 13. Acceptance checklist
+## 15. Acceptance checklist
 
 A completed unit should satisfy all applicable items:
 
 - [ ] Correct Russian/source file and SHA-256 recorded.
 - [ ] Every substantive source passage represented.
+- [ ] Structured bilingual coverage record exists and passes (P002+).
 - [ ] No substantive additions.
 - [ ] Names, dates, numbers, quotations and references verified.
 - [ ] Meaningful repetitions preserved.
 - [ ] Ambiguities not silently resolved.
+- [ ] Any suspicious source reading handled through the `SOURCE_SUSPECTED` protocol.
 - [ ] Tone/register not inflated or flattened.
 - [ ] English edited for genuine readability.
 - [ ] Finished English rechecked against source after editing.
@@ -161,6 +203,6 @@ A completed unit should satisfy all applicable items:
 - [ ] Workbench updated.
 - [ ] Changes committed/checkpointed.
 
-## 14. Changing these rules
+## 16. Changing these rules
 
 Improve this constitution when repeated real examples show that a rule is inadequate. Record consequential changes in Git. Do not casually rewrite the rules in the middle of a batch merely to justify a local translation choice.
