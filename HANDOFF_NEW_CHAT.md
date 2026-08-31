@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.18. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.19. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 17 / 50 accepted
-- Last accepted unit: P003.17 — letter to T. F. Gotoitsev, 19 October 1896
-- Next unit: P003.18 — letter to foreign publishers and translators, 25 February 1898
-- Total reviewed translations: 49
-- Approximate reviewed source-body words: 9,739
-- Structured bilingual coverage records: 42
+- P003: in progress, 18 / 50 accepted
+- Last accepted unit: P003.18 — letter to foreign publishers and translators, 25 February 1898
+- Next unit: P003.19 — letter to A. N. Dunaev, 7–8 November 1898
+- Total reviewed translations: 50
+- Approximate reviewed source-body words: 9,879
+- Structured bilingual coverage records: 43
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–17.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–18.
 
 ## P003.11 translation note
 
@@ -60,6 +60,10 @@ The Grigory Alexeyevich Ermolaev letter of 6 February 1892 was accepted in commi
 ## P003.17 translation note
 
 The Trofim Fyodorovich Gotoitsev letter of 19 October 1896 was accepted in commit `1fe75ff`. Tolstoy's repeated friendship formula `Владимир Григорьевич Чертков мой близкий друг, такой же друг мой и Иван Михайлович Трегубов` is kept closely as “Vladimir Grigoryevich Chertkov is a close friend of mine, and Ivan Mikhailovich Tregubov is just as much a friend of mine,” rather than stylistically collapsing the repetition. `то, что они спрашивают у вас` remains the unspecified “what they are asking you for”; the English does not import “materials” into Tolstoy's body merely because the editorial apparatus explains what Chertkov and Tregubov sought. The scholarly note retains the historical terms “Caucasian Doukhobors” and “sectarians.” P003.17 raised no MEDIUM/HIGH boundary flag, its source hash matched exactly, and the electronic 90-volume text was checked and agrees with the mounted source.
+
+## P003.18 translation note
+
+The open statement to foreign publishers and translators, dated 25 February 1898 in the editorial heading, was accepted in commit `0c6e17f`. Tolstoy's document body is already in English in the authoritative source, so it is preserved verbatim rather than retranslated from the editors' Russian rendering; this includes the historical spellings “Vladimir Tchertkoff” and “Moscou.” The document itself is signed “8 March 1898,” and editorial note 5 says that this is a New Style date. The printed/electronic 90-volume edition confirms the exact coexistence of the 25 February heading and 8 March signature, so neither date was normalized or treated as a source error. Russian editorial notes 1–5 were translated separately as apparatus. P003.18 raised no MEDIUM/HIGH boundary flag and its source hash matched exactly.
 
 ## Repository maintenance note
 
