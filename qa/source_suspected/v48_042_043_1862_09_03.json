@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/diaries/v48_042_043_1862_09_03.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "empty_footnote_definition_missing_gloss",
+  "digital_reading": "The audited Markdown places marker [^1] after ‘Memento,’ but its footnote definition is empty.",
+  "verified_print_reading": "The official 90-volume edition gives the footnote gloss «Помни,» (‘Remember,’) for Latin ‘Memento’ on volume 48, p. 42.",
+  "verified_print_pages": "42–43",
+  "verification": "Official 90-volume electronic edition, volume 48, confirms the complete body reading and the missing content of footnote [^1].",
+  "witness": "https://tolstoy.ru/online/90/48/",
+  "p003_disposition": "translate the audited Markdown exactly for the body and footnote structure; restore only the verified gloss of existing footnote [^1] in English; retain the original source hash and leave the Russian repository unchanged"
+}

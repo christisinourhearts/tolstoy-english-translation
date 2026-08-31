@@ -1,0 +1,25 @@
+{
+  "batch": "P003",
+  "unit": "P003.26",
+  "source_path": "corpus/diaries/v48_042_043_1862_09_03.md",
+  "source_sha256": "da3be4a7d39f3fc6867de1e4e3898cf1b82809bbec5c0dcccd1090d902e36534",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The title/subtitle metadata, pp. 42–43 markers, date heading, complete diary body, Latin and German switches, and both footnote identifiers are represented; the unit raised no MEDIUM/HIGH P003 boundary flag and its recorded SHA-256 matched the mounted audited Russian source exactly.",
+    "The audited Markdown defines footnote [^1] after Latin «Memento» but leaves its content empty. The official 90-volume electronic edition, volume 48, p. 42, supplies the missing Russian gloss «Помни,». The English restores only its verified translation, ‘Remember,’ while retaining the original source hash and leaving the Russian repository unchanged.",
+    "The opening remains deliberately telegraphic: «У них» is ‘At their place,’ the isolated reported phrases remain isolated, and standalone «лорнет» remains ‘a lorgnette’ rather than being expanded into an invented action or explanation.",
+    "The four-part speculation after «Ехал и думал» preserves every alternative: accident, extraordinarily subtle feeling, vulgar coquetry, and their coexistence. The masculine forms in «нынче один, завтра другой» and «к чему отъезжающий» are retained as ‘one man today, another tomorrow’ and the unresolved ‘what use is a man who is leaving,’ without adding to whom or for what purpose.",
+    "«ничего, ничего, молчание» remains ‘nothing, nothing, silence,’ and «будущее с женой» retains the concrete and definite ‘the future with a wife’ rather than being recast as a generalized desire for marriage.",
+    "The familiar «Васюк» is transliterated Vasyuk. In «тихое обманывание друг друга — счеты», ‘the quiet deceiving of one another—keeping accounts’ preserves both the reciprocal deception and the source's accounting/score-keeping image without deciding whether «счеты» means calculation or accumulated scores.",
+    "The source form «Дублицкой» is transliterated Dublitskoy. The volume commentary identifies him as Dublitsky, a character in S. A. Bers's story in whom Tolstoy recognized himself, but that explanation and normalized form are not inserted into Tolstoy's body. «старый чорт, дядя Лявон» remains the abrupt self-address ‘old devil, Uncle Lyavon.’",
+    "Latin «Memento» and German «mein schönes Herz» remain in their source languages; their two editorial glosses are translated as ‘Remember,’ and ‘my beautiful heart.’ The closing preserves the clipped series «так бы просто, в пору, ни страсти, ни страху, ни секунды раскаянья» as ‘it would be so simple, just right, no passion, no fear, not a second of remorse.’"
+  ],
+  "result": "PASS"
+}

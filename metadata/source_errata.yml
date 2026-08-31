@@ -43,3 +43,14 @@ errata:
     verified_reading: "The 90-volume edition ends the apparatus after note 2; p. 106 begins directly with letter 117 and contains no third note or standalone numeral."
     witness: "https://tolstoy.ru/online/90/77/"
     action: "Keep the Russian repository immutable. Omit only the confirmed spurious numeral in English, preserve the p. 106 marker, and retain the original Russian Markdown SHA-256."
+
+  - source_path: corpus/diaries/v48_042_043_1862_09_03.md
+    type: empty_footnote_definition_missing_gloss
+    status: confirmed
+    volume: 48
+    declared_pages: "42–43"
+    verified_print_pages: "42–43"
+    digital_reading: "The Markdown places marker [^1] after ‘Memento,’ but the corresponding footnote definition is empty."
+    verified_reading: "The 90-volume edition supplies the footnote gloss «Помни,» (‘Remember,’) for Latin ‘Memento’."
+    witness: "https://tolstoy.ru/online/90/48/"
+    action: "Keep the Russian repository immutable. Preserve the existing marker/identifier and restore only the verified gloss as ‘Remember,’ in the English footnote while retaining the original Russian Markdown SHA-256."
