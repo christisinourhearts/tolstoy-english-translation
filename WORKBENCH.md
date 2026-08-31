@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **80**.
+- Reviewed English translations: **81**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **48 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **14,250**.
+- P003: **49 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **14,569**.
 - Confirmed source errata: **7**.
-- Existing structured coverage records: **73**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **74**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -115,10 +115,11 @@ Completed and accepted:
 46. `corpus/krug_chtenija/v41_536_537_Krug_chtenija_weekly_jul_4_Kamni.md`
 47. `corpus/krug_chtenija/v41_045_047_Krug_chtenija_daily_jan_3_5.md`
 48. `corpus/krug_chtenija/v41_081_082_Krug_chtenija_daily_feb_1_4.md`
+49. `corpus/krug_chtenija/v41_183_185_Krug_chtenija_daily_mar_4_2.md`
 
-Last completed unit: **P003.48 — 4 February.**
+Last completed unit: **P003.49 — 23 March.**
 
-Next planned unit: **P003.49 — `corpus/krug_chtenija/v41_183_185_Krug_chtenija_daily_mar_4_2.md`**.
+Next planned unit: **P003.50 — `corpus/krug_chtenija/v42_154_155_Krug_chtenija_daily_oct_3_3.md`**.
 
 ## Exact source verification completed
 

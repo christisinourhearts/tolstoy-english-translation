@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.49",
+  "source_path": "corpus/krug_chtenija/v41_183_185_Krug_chtenija_daily_mar_4_2.md",
+  "source_sha256": "44ae58f7cd0adbb3925551ecb0baaad4c4ba098222f0d52e8265639bb90eb100",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All three page markers, the 23 March theme sentence, numbered items 1-6, all five named attributed authors, and Tolstoy's concluding paragraph are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "Attributed passages are translated from Tolstoy's Russian compilation rather than replaced by modern English editions of Lamennais, Henry George, Thomas Paine, Winstanley, or Manning.",
+    "The Lamennais passage preserves the sequence of expulsion, wandering through every country, childbirth, cultivation, and burial; the source's shifts in grammatical number are naturally unobtrusive in English 'you' and no content is regularized away.",
+    "«земельная собственность» is rendered consistently as 'property in land' or 'landed property' according to sentence structure, preserving the repeated target of the day's argument rather than broadening it to property in general.",
+    "The Manning passage retains the full catalogue of concrete consequences, including wasted labor, seizure of its products, destruction of homes, family deaths, despair, and brutalization. Tolstoy's final «не только участник, но и виновник» remains 'not only a participant in, but a cause of'. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
