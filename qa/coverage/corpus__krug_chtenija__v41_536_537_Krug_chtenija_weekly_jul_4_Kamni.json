@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.46",
+  "source_path": "corpus/krug_chtenija/v41_536_537_Krug_chtenija_weekly_jul_4_Kamni.md",
+  "source_sha256": "0d478e9f64ab10186a569f4ee596c38efc631328737298ebc3c7c77fab4085cd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, section number and title, the complete stones parable, every turn of the elder's explanation, and the concluding sentence are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "«старец» is 'elder' and «раба божья» 'servant of God', retaining the spiritual setting without adding a denominational title not present in the source.",
+    "The two instructions preserve the physical contrast: one stone as large as the first woman can lift, versus as many stones as the second can manage, all of them small.",
+    "«несла за него укоры людей и своей совести» is kept as 'bore for it the reproaches of people and of your own conscience'; the source's causal sequence through remembrance, reproach, humility, and release from consequences remains intact.",
+    "The unusual official reading «всё глубже и глубже завязала в своих» is also present in the printed/electronic volume 41 witness. In context it is rendered 'became more and more entangled in your own', without altering the immutable Russian source. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
