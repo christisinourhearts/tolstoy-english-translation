@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.23",
+  "source_path": "corpus/letters/v60_006_N_A_Nekrasovu.md",
+  "source_sha256": "864617163ac90a6c1725ed1fa0c64ec63766e9a86df4c2777e975d8bdb8603ce",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "долг 400 р. оставался до следующего писанья is rendered ‘let the debt of 400 rubles remain until my next piece of writing,’ preserving the sense that the existing advance/debt is carried forward rather than paid from the Snowstorm fee.",
+    "Ваш Толстой is kept simply as ‘Yours, Tolstoy.’",
+    "The editorial notation's за Толстым осталось is rendered ‘Tolstoy still owed,’ and the source's [неразобр.] remains [illegible] rather than being reconstructed."
+  ],
+  "result": "PASS"
+}
