@@ -24,7 +24,7 @@ translation_status: "reviewed"
 1. Grandmother. The blind man.
 2. Hunting. Dogs.
 3. Petrovna.
-4. Marya Gerasimovna. Yevdokimushka.
+4. Marya Gerasimovna. Yevdokimushka.[^1]
 5. Poems.
 6. Foka.
 7. Tikhon.
@@ -33,18 +33,18 @@ translation_status: "reviewed"
 10. The hare.
 11. Fanfaronov Hill.
 12. Nikolenka.
-13. Aunt Alexandra Ilyinishna.
-14. Aunt Tatyana Alexandrovna.
+13. Aunt Alexandra Ilyinishna.[^2]
+14. Aunt Tatyana Alexandrovna.[^3]
 15. The Temyashev affair.
 16. Death.
 17. Waiting for a meeting.
 18. Perovskaya's inheritance.
-19. Waiting for a meeting.
+19. Waiting for a meeting.[^4]
 20. First experience of life. Christmas tree at the Shipovs'.
 21. Second experience of life. Astashov Garden.
 22. Yazykov.
 23. St. Thomas.
-24. Brother's student years.
+24. Brother's student years.[^5]
 25. His comrades.
 26. The news that there is no God.
 27. Grandmother's death.
@@ -53,7 +53,7 @@ translation_status: "reviewed"
 <!-- vol. 34, p. 344 -->
 
 29. Nurse's death.
-30. Kuzma the Crooked.
+30. Kuzma the Crooked.[^6]
 31. Adam Fyodorovich.
 32. Little horses.
 33. The famine year.
@@ -62,4 +62,14 @@ translation_status: "reviewed"
 36. Yushkov.
 37. Professors.
 
-In military service: relations with the Gorchakovs.
+In military service: relations with the Gorchakovs.[^7]
+
+## Notes
+
+[^1]: *The word:* Yevdokimushka *is absent from S. L. Tolstoy's list.*
+[^2]: *In S. L. Tolstoy's list, the contents of §§ 10–13 are not given.*
+[^3]: *This paragraph is absent from S. L. Tolstoy's list.*
+[^4]: *§§ 18 and 19 are absent from S. L. Tolstoy's list.*
+[^5]: *In P. I. Biryukov's list, incorrectly:* Student years. Brothers.
+[^6]: *In S. L. Tolstoy's list, §§ 29 and 30 are entered under a single number* 26.
+[^7]: *This paragraph is absent from S. L. Tolstoy's list.*

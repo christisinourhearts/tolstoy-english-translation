@@ -12,7 +12,8 @@
   "structure_checked": true,
   "source_suspected": false,
   "ambiguities_or_notes": [
-    "Opening French quotation translated into English; language switch recorded in metadata. Editorial footnote not included in body milestone."
+    "Opening French quotation translated into English; language switch recorded in metadata. Editorial footnote not included in body milestone.",
+    "P003 cold audit restored source footnote [^1] and its Russian gloss of the French Maistre quotation; the main prose translation was unchanged."
   ],
   "result": "PASS"
 }

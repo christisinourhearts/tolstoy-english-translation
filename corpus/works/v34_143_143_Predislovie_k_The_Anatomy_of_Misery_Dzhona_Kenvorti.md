@@ -22,7 +22,7 @@ source_language_note: "The opening quotation is in French in the source and is r
 
 ## PREFACE TO JOHN KENWORTHY'S *THE ANATOMY OF MISERY*
 
-“Excuse the length of this letter. I did not have time to make it shorter,” Maistre wrote to his king.
+“Excuse the length of this letter. I did not have time to make it shorter,”[^1] Maistre wrote to his king.
 
 Nothing requires such prolonged labor as brevity in presenting significant content, whether it is a diplomatic letter, a work of art, or a scholarly work. And yet in the scholarly world, and consequently in society, the opinion has become established that only thick volumes can be authoritative works.
 
@@ -37,3 +37,7 @@ It is this simple truth, which we always forget, that this book proves with comp
 L. Tolstoy.
 
 1 June. Yasnaya Polyana.
+
+## Notes
+
+[^1]: “Excuse the length of this letter. I did not have time to make it shorter,”

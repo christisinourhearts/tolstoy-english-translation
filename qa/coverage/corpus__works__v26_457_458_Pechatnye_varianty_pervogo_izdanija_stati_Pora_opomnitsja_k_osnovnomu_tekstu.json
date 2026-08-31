@@ -12,7 +12,8 @@
   "structure_checked": true,
   "source_suspected": false,
   "ambiguities_or_notes": [
-    "This unit is variant apparatus; variant relations and deliberately awkward first-edition readings were preserved rather than normalized."
+    "This unit is variant apparatus; variant relations and deliberately awkward first-edition readings were preserved rather than normalized.",
+    "P003 cold audit restored the repeated page references and “in the first edition” apparatus labels and moved the p. 458 marker to its source position before the line-34 variant; no Tolstoy reading was omitted after revision."
   ],
   "result": "PASS"
 }

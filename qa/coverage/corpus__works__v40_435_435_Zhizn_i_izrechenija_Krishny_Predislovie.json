@@ -11,6 +11,8 @@
   "names_numbers_dates_checked": true,
   "structure_checked": true,
   "source_suspected": false,
-  "ambiguities_or_notes": [],
+  "ambiguities_or_notes": [
+    "P003 cold audit restored all six source footnote markers and deleted-text notes, including the long deleted cosmological passage and two deleted descriptions of Krishna; the accepted running prose remains otherwise unchanged."
+  ],
   "result": "PASS"
 }

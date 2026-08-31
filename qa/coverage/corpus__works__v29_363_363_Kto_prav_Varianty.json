@@ -12,7 +12,8 @@
   "structure_checked": true,
   "source_suspected": false,
   "ambiguities_or_notes": [
-    "Bracketed supplied word retained; draft status preserved."
+    "Bracketed supplied word retained; draft status preserved.",
+    "P003 cold audit restored the omitted clause «которыми был уставлен весь боковой стол» as “and the whole side table was covered with them”; the unsupported ellipsis that had concealed the omission was removed."
   ],
   "result": "PASS"
 }

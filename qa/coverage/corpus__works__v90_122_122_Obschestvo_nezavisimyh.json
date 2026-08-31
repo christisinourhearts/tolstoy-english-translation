@@ -11,6 +11,8 @@
   "names_numbers_dates_checked": true,
   "structure_checked": true,
   "source_suspected": false,
-  "ambiguities_or_notes": [],
+  "ambiguities_or_notes": [
+    "P003 cold audit restored the meaningful deletion in «из членов ~~общества~~» as “excluded from membership ~~in the society~~”; the prior English silently normalized away the manuscript deletion."
+  ],
   "result": "PASS"
 }

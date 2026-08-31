@@ -40,6 +40,16 @@ The authoritative Russian repository must remain read-only. In the current resum
 - Four style-only smoothings from the cold audit were subsequently reverted under Decision D0001 in favor of more conservative fidelity.
 - Reports: `qa/reports/P002_REVIEW.md` and `qa/reports/P002_COLD_AUDIT.md`.
 
+
+### P003 cold fidelity audit
+
+- Completed on **16 deliberately difficult units** (32% of P003; ~3,219 source words).
+- Result: **PASS AFTER REVISION**.
+- Because defects clustered in the works category, all 8 P003 works were audited. Six required correction: one omitted running-prose clause, 14 omitted footnote/deleted-apparatus passages, one flattened deletion state, and one compressed/mispositioned variant-apparatus structure.
+- Eight difficult non-works units (letters, diaries, notes, *Azbuka*, and *Circle of Reading*) required no translation correction.
+- `tools/validate_translation.py` was hardened to reject reviewed footnoted units whose apparatus is still `not_started` and reviewed units that lose source `~~` deletion markup.
+- Full report: `qa/reports/P003_COLD_AUDIT.md`.
+
 ### Translation policy hardening
 
 - Decision D0001 adopted: conservative fidelity before stylistic smoothing.
@@ -154,8 +164,8 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P003 translation production is complete at 50/50 accepted units.
-2. Before selecting P004, perform the deliberately difficult P003 cold fidelity audit required by `qa/batches/P003.md` and record it under `qa/reports/` (with per-unit records under `qa/cold_audit/` where useful).
-3. Preserve Decision D0001: distinguish hard fidelity defects from merely conceivable style alternatives, and do not smooth unusual but intelligible source-shaped English.
-4. Continue treating the audited Russian repository as a read-only CC BY-SA comparison witness; English translation rights remain separately declared as `PROJECT-TBD`.
-5. After the P003 cold audit passes (and any hard defects are corrected), select and document P004 before resuming translation production.
+1. P003 is complete at 50/50 accepted units and has passed its required cold fidelity audit after documented corrections.
+2. Select and document P004 before resuming production; retain the hardened validator and Decision D0001 conservative-fidelity rule.
+3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
+4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.
+5. Include difficult/source-structure material in periodic cold audits rather than relying only on per-unit production QA.

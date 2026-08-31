@@ -1,0 +1,15 @@
+{
+  "audit_id": "P003_CA01",
+  "unit": "P003.35",
+  "source_path": "corpus/notes/v57_252_253_Zapisnaja_knizhka_1909_g_No_2.md",
+  "method": "fresh_direct_source_to_target_then_target_to_source_same_working_context",
+  "consulted_prior_unit_reasoning_before_verdict": false,
+  "independence_note": "Same model/runtime as production; this is a fresh direct pass, not independent-model or human verification.",
+  "substantive_omissions_found_before_revision": 0,
+  "unsupported_substantive_additions": 0,
+  "reversed_relations_or_lost_negation": 0,
+  "wrong_speaker_subject_referent": 0,
+  "structural_loss_found_before_revision": 0,
+  "result": "PASS",
+  "revision_note": "No change required. Telegraphic notebook fragments, deletions, illegible spans, mixed English, footnotes, and page break are preserved. The ambiguous «Сорока» remains rendered literally as “Magpie” rather than being silently reconstructed."
+}

@@ -24,6 +24,8 @@ for r in rows:
         if r.get('final_source_audit_status') not in ('pass','passed'): errors.append((r['output_path'],'reviewed but final source audit is not pass'))
         if r.get('coverage_audit_status') not in ('pass','p001_legacy_unstructured_pass'):
             errors.append((r['output_path'],'reviewed but coverage audit has not passed'))
+        if r.get('has_footnotes') and r.get('apparatus_translation_status')=='not_started':
+            errors.append((r['output_path'],'reviewed source has footnotes but apparatus translation is still not_started'))
     ep=en/r['output_path']
     if not ep.exists():
         if r.get('translation_status')=='reviewed': errors.append((r['output_path'],'reviewed row missing English file'))
@@ -34,6 +36,11 @@ for r in rows:
     if current!=r['source_ru_sha256']: errors.append((r['output_path'],'Russian source checksum changed'))
     rt=rp.read_text(encoding='utf-8'); et=ep.read_text(encoding='utf-8')
     if page_re.findall(rt)!=page_re.findall(et): errors.append((r['output_path'],'page-marker sequence differs'))
+    # Meaningful manuscript deletion markup must survive translation. This count check is
+    # deliberately simple: it catches silently flattened ~~deleted~~ spans without trying
+    # to judge their translated wording.
+    if r.get('translation_status')=='reviewed' and rt.count('~~')!=et.count('~~'):
+        errors.append((r['output_path'],f'deletion-markup delimiter count differs source={rt.count("~~")} target={et.count("~~")}'))
     # Source and target should carry the exact source identity in front matter.
     fm=front_re.match(et)
     if not fm: errors.append((r['output_path'],'missing YAML front matter'))

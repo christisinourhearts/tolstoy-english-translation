@@ -11,6 +11,8 @@
   "names_numbers_dates_checked": true,
   "structure_checked": true,
   "source_suspected": false,
-  "ambiguities_or_notes": [],
+  "ambiguities_or_notes": [
+    "P003 cold audit restored all seven source footnote markers and editorial notes attached to the outline; the numbered Tolstoy outline itself was unchanged."
+  ],
   "result": "PASS"
 }

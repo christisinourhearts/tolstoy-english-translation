@@ -25,7 +25,7 @@ The aims of the society are: 1) to bring independent people closer together; 2) 
 
 Every Russian person who receives nothing from the government—neither ranks, nor crosses, nor money—is a member of the society if he wishes to be.
 
-Every member of the society who receives crosses, ranks, or money from the government is excluded from the society.
+Every member of the society who receives crosses, ranks, or money from the government is excluded from membership ~~in the society~~.
 
 The activity of a member:
 
