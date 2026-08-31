@@ -1,0 +1,28 @@
+{
+  "batch": "P003",
+  "unit": "P003.35",
+  "source_path": "corpus/notes/v57_252_253_Zapisnaja_knizhka_1909_g_No_2.md",
+  "source_sha256": "ea40e0433705080d0f662268ebce3e0fb2eaab04b65e34db348e7cc351b38ef6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, the bracketed notebook title, the dated opening, all notebook fragments, both deletion spans, five uncertain/illegible markers, the source's English words, and all four footnotes are represented. The exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "«К Никто не виноват» is rendered 'For *Nobody Is to Blame*'. The phrase is a notebook pointer to Tolstoy's artistic project known under that working title; no later title is substituted into Tolstoy's note.",
+    "«о 1000-х повешенных» is rendered 'about the 1,000 people hanged', preserving the explicit numeral rather than generalizing it to 'thousands'.",
+    "«народную литературу» is 'literature for the people', preserving the intended popular/people-oriented sense without modernizing it to 'popular literature'.",
+    "The compressed fragment «Так хотел верить в самоотвержение для народа, что верит» remains deliberately compressed: 'So wanted to believe in self-sacrifice for the people that he believes.' No subject is supplied where Tolstoy supplied none.",
+    "The long faith paragraph preserves both deletions and Tolstoy's repeated constructions. «богопочитание» is consistently 'worship of God'; the source's awkward 'there can be neither faith, there can be no firm worship of God' is retained rather than smoothed away.",
+    "The difficult fragment «Казанская важнее Петрова дни. Сорока [illegible] копны.» is kept conservatively as 'Kazan is more important than Peter's days. Magpie [illegible: 1 word] haystack.' The surviving words are not expanded into an invented context or syntax.",
+    "The numerals in the 10 July note are preserved literally. *The One Commandment* is the established rendering of «Единая заповедь» in this unit and its cross-reference.",
+    "The English source phrase 'sayings of Ramakrishna' remains English in the body; its Russian footnote gloss is translated. Likewise 'Selfishness' and 'Apple' remain as Tolstoy wrote them, while their Russian glosses are translated in Notes.",
+    "«Советовал бы практическое как [unclear: соль]» is 'Would advise something practical like [unclear: salt]', preserving the editorial uncertainty marker rather than silently resolving it from a secondary witness.",
+    "The final surname/dream and passport fragments remain notebook-like. Reverse target-to-source audit found no substantive omission, unsupported addition, or loss of the source's fragmentary structure."
+  ],
+  "result": "PASS"
+}
