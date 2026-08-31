@@ -109,3 +109,14 @@ errata:
     verified_reading: "The official volume supplies long Soviet editorial notes 3 and 4; Tolstoy's petition itself is complete."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Preserve the reference numerals and translate all apparatus present in the audited Markdown, but do not import the omitted later editorial notes into the English corpus; document the witness-level apparatus defect."
+
+  - source_path: corpus/letters/v59_108_N_A_Kryzhanovskomu.md
+    type: character_level_transcription_errors
+    status: confirmed
+    volume: 59
+    declared_pages: "333–334"
+    verified_print_pages: "333–334"
+    digital_reading: "The audited Markdown reads ‘{ полевых же артилеристов)’ and later ‘мне кажется, что л не ошибаюсь’."
+    verified_reading: "Independent Tolstoy textual witnesses quote the same passage as ‘(полевых же артиллеристов)’ and ‘мне кажется, что я не ошибаюсь’."
+    witness: "https://tolstoy.ru/creativity/journalismguide/13.php ; https://ru.wikisource.org/wiki/Страница:L._N._Tolstoy._All_in_90_volumes._Volume_4.pdf/427"
+    action: "Keep the Russian repository immutable and retain its original SHA-256. In English, use the verified closing parenthesis and first-person pronoun only; document the override in coverage QA."

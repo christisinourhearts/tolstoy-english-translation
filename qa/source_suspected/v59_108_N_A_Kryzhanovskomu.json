@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_108_N_A_Kryzhanovskomu.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "character_level_transcription_errors",
+  "digital_reading": "The audited Markdown reads ‘{ полевых же артилеристов)’ and later ‘мне кажется, что л не ошибаюсь’.",
+  "verified_print_reading": "Independent Tolstoy textual witnesses give ‘(полевых же артиллеристов)’ and ‘мне кажется, что я не ошибаюсь’.",
+  "verified_print_pages": "333–334",
+  "verification": "Tolstoy.ru's guide to the Sevastopol report and the volume-4 textual commentary independently quote the letter with the intended parenthesis and first-person pronoun.",
+  "witness": "https://tolstoy.ru/creativity/journalismguide/13.php",
+  "p004_disposition": "translate the audited Markdown for all unaffected text; use only the independently verified character-level readings in the affected phrase; retain the original source hash and leave the Russian repository unchanged"
+}

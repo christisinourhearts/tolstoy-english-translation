@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.19",
+  "source_path": "corpus/letters/v59_108_N_A_Kryzhanovskomu.md",
+  "source_sha256": "6bf45ddf93105174a8f9a513b4b9d2b4a7a5e03c4e5f8a7d42c3adafc89c4642",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The audited witness reads ‘{ полевых же артилеристов)’ and later ‘что л не ошибаюсь’. Independent Tolstoy witnesses quote the passage as ‘(полевых же артиллеристов)’ and ‘что я не ошибаюсь’; English follows those verified character-level readings while retaining the original Russian source hash.",
+    "из рук вон плохим и недостаточным is rendered ‘extremely poor and inadequate’; the idiomatic force is preserved without reproducing the Russian idiom mechanically.",
+    "собственно на Малахов Курган is rendered ‘specifically on Malakhov Kurgan,’ preserving the focus on that particular assault.",
+    "All five editorial-note paragraphs and the Malakhov Kurgan footnote are translated; the page-334 break is retained in editorial note 3."
+  ],
+  "result": "PASS"
+}
