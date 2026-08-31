@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.10",
+  "source_path": "corpus/diaries/v46_028_028_1847_04_08.md",
+  "source_sha256": "22a5c006737eef238b89cc2d2199e39fc53b9f32ce95ff0cd207e9a2c19f5591",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source's odd opening parenthesis and repeated editorial note 'приобрел' are preserved rather than silently normalized away."
+  ],
+  "result": "PASS"
+}
