@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.16. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.17. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 15 / 50 accepted
-- Last accepted unit: P003.15 — letter to V. A. Goltsev, 24–28 April 1891
-- Next unit: P003.16 — letter to G. A. Ermolaev, 6 February 1892
-- Total reviewed translations: 47
-- Approximate reviewed source-body words: 9,459
-- Structured bilingual coverage records: 40
+- P003: in progress, 16 / 50 accepted
+- Last accepted unit: P003.16 — letter to G. A. Ermolaev, 6 February 1892
+- Next unit: P003.17 — letter to T. F. Gotoitsev, 19 October 1896
+- Total reviewed translations: 48
+- Approximate reviewed source-body words: 9,599
+- Structured bilingual coverage records: 41
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–15.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–16.
 
 ## P003.11 translation note
 
@@ -52,6 +52,10 @@ The Ivan Ivanovich Petrov letter from September–November 1887 was accepted in 
 ## P003.15 translation note
 
 The Viktor Alexandrovich Goltsev letter of 24–28 April 1891 was accepted in commit `1080d84`. Tolstoy first calls S. T. Semenov's piece `статья` and then `рассказ`; the English preserves the shift as “article” and “story.” The repeated `поместить` remains repeated as “publish” rather than being stylistically collapsed. The polite `не поместите ли его?` is rendered “wouldn't you publish it?” The publication names are retained as *Russkaya Mysl* and *Russkie Vedomosti*, while editorial note 3 makes explicit that the latter reference is to the newspaper's feuilleton section. The sign-off `Любящий вас Л. Толстой` is kept conservatively as “Loving you, L. Tolstoy.” The external 90-volume text at tolstoy.ru was also checked and agrees with the mounted audited source at this letter. P003.15 raised no MEDIUM/HIGH boundary flag.
+
+## P003.16 translation note
+
+The Grigory Alexeyevich Ermolaev letter of 6 February 1892 was accepted in commit `968dcd9`. Tolstoy sends Fyodor Alexeyevich Strakhov to Klekotki to clarify the quantity and distribution of firewood and other matters. The English preserves the repetition in `расскажите и разъясните ему всё` as “tell him everything and explain everything to him” rather than compressing it. `все его распоряжения исполняйте` is rendered “carry out all his instructions,” avoiding the stronger “orders.” The closing `Желаю вам всего хорошего` is the plain “I wish you all the best.” In the scholarly footnote, famine-relief `столовые` is rendered contextually as “soup kitchens.” The mounted source hash matched exactly, P003.16 raised no MEDIUM/HIGH boundary flag, and the electronic 90-volume text was checked and agrees with the audited source at the letter.
 
 ## Repository maintenance note
 
