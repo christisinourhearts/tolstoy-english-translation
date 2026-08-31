@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **103**.
+- Reviewed English translations: **104**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **19,469**.
+- Approximate reviewed source-body words: **19,641**.
 - Confirmed source errata: **11**.
-- Existing structured coverage records: **96**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **97**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **21 / 50 accepted.**
-- Last completed unit: **P004.21 — Letter to Countess A. I. Tolstaya, 7 February 1856.**
-- Next unit: **P004.22 — Letter to N. A. Nekrasov, late February 1856.**
+- **22 / 50 accepted.**
+- Last completed unit: **P004.22 — Letter to N. A. Nekrasov, late February 1856.**
+- Next unit: **P004.23 — Letter to N. A. Nekrasov, 29–30 March 1856.**
 
 ## P003 status
 
@@ -177,7 +177,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 21/50 accepted units; resume with **P004.22**.
+1. P004 is in production at 22/50 accepted units; resume with **P004.23**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.

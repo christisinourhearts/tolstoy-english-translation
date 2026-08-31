@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.22",
+  "source_path": "corpus/letters/v60_003_N_A_Nekrasovu.md",
+  "source_sha256": "050cd379f6732c35a8d5e6ce1c2e504f43953d2c007c04d3a115034c73594939",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "переделал, переписал и сократил is distinguished as ‘revised ... copied it out ... shortened it’; repeated переписывать remains ‘copy it out ... again,’ preserving the manuscript-copying sense.",
+    "Ежели не слишком дурно написано is kept close as ‘If it is not written too badly,’ since the reference to the last sheet may concern the physical manuscript as well as prose quality.",
+    "отдавайте в типографию is rendered ‘send it to the printer,’ preserving the practical production instruction.",
+    "The fourth-page address and all four editorial notes, including the quoted correspondence about The Snowstorm, are translated in full."
+  ],
+  "result": "PASS"
+}
