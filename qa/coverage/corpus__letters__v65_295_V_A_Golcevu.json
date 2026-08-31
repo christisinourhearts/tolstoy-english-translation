@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.15",
+  "source_path": "corpus/letters/v65_295_V_A_Golcevu.md",
+  "source_sha256": "a641c15742971b836c61fcc633f12c2510faf01199ed0ea333c25cbab1f721b1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy first calls Semenov's piece «статья» and immediately characterizes it as a «рассказ»; the English preserves the shift as 'article' and 'story' rather than normalizing both to one genre label.",
+    "The repeated «поместить» is retained by repeating 'publish' in the body; the repetition is meaningful to Tolstoy's emphatic request and is not smoothed away. The polite question «не поместите ли его?» is rendered 'wouldn't you publish it?' rather than strengthened into a command.",
+    "«в фельетон Русских Ведомостей» is rendered 'for the feuilleton of Russkie Vedomosti'; editorial note 3 makes explicit that this means the newspaper's feuilleton section.",
+    "The sign-off «Любящий вас Л. Толстой» is rendered conservatively as 'Loving you, L. Tolstoy.' rather than replaced with a more conventional English epistolary formula.",
+    "The source abbreviation «ДСАТ» is transliterated as 'DSAT' rather than expanded, because the selected source does not itself supply the expansion."
+  ],
+  "result": "PASS"
+}
