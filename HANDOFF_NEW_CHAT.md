@@ -10,19 +10,19 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.15. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.16. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
 - P001: complete (7 units)
 - P002: complete (25 units)
 - P002 cold audit: complete (10 sampled units; no hard fidelity defects)
-- P003: in progress, 14 / 50 accepted
-- Last accepted unit: P003.14 — letter to I. I. Petrov, September–November 1887
-- Next unit: P003.15 — letter to V. A. Goltsev, 24–28 April 1891
-- Total reviewed translations: 46
-- Approximate reviewed source-body words: 9,319
-- Structured bilingual coverage records: 39
+- P003: in progress, 15 / 50 accepted
+- Last accepted unit: P003.15 — letter to V. A. Goltsev, 24–28 April 1891
+- Next unit: P003.16 — letter to G. A. Ermolaev, 6 February 1892
+- Total reviewed translations: 47
+- Approximate reviewed source-body words: 9,459
+- Structured bilingual coverage records: 40
 - Git working tree at handoff: clean after this handoff commit
 
 ## Exact Russian source verification
@@ -31,7 +31,7 @@ The previously provisional P003.01–08 source check is now closed. In the resum
 
 The P003 boundary preflight on that exact snapshot produced only two MEDIUM flags among the 50 selected units: P003.39 and P003.45. Both were inspected. Their apparent nonterminal endings are caused by deletion markup with terminal punctuation inside the deleted span, and neighboring page units are independently segmented. They are intentional draft boundaries, not `SOURCE_SUSPECTED` cases.
 
-A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–14.
+A future runtime should still run the source check against whatever Russian ZIP is actually uploaded, because the repository's source identity is intentionally verified per runtime. If it is the same audited snapshot and the check is clean, do not reopen P003.01–15.
 
 ## P003.11 translation note
 
@@ -48,6 +48,10 @@ The Ilya Lvovich Tolstoy letter fragment from October 1887 was accepted in commi
 ## P003.14 translation note
 
 The Ivan Ivanovich Petrov letter from September–November 1887 was accepted in commit `bbcf8bd`. Tolstoy names only `Иван Дмитриевич` in the body; surrounding correspondence strongly points to Ivan Dmitrievich Sytin, but the selected source does not supply the surname, so the English deliberately leaves him as “Ivan Dmitrievich” rather than silently identifying him. The recurrent closing `Дружески жму вам руку` follows the established corpus rendering “I shake your hand in friendship.” In editorial note 2, library-context `фонд` is rendered “collection” rather than the misleading financial “fund.” P003.14 raised no MEDIUM/HIGH boundary flag.
+
+## P003.15 translation note
+
+The Viktor Alexandrovich Goltsev letter of 24–28 April 1891 was accepted in commit `1080d84`. Tolstoy first calls S. T. Semenov's piece `статья` and then `рассказ`; the English preserves the shift as “article” and “story.” The repeated `поместить` remains repeated as “publish” rather than being stylistically collapsed. The polite `не поместите ли его?` is rendered “wouldn't you publish it?” The publication names are retained as *Russkaya Mysl* and *Russkie Vedomosti*, while editorial note 3 makes explicit that the latter reference is to the newspaper's feuilleton section. The sign-off `Любящий вас Л. Толстой` is kept conservatively as “Loving you, L. Tolstoy.” The external 90-volume text at tolstoy.ru was also checked and agrees with the mounted audited source at this letter. P003.15 raised no MEDIUM/HIGH boundary flag.
 
 ## Repository maintenance note
 
