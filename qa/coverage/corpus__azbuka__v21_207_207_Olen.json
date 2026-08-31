@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.43",
+  "source_path": "corpus/azbuka/v21_207_207_Olen.md",
+  "source_sha256": "09eb61ca27b2a6c3e640fd3be95dbff3b9f50bb2f8479ea59fe4888c300cfc8a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, title, fable label, and complete narrative are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "«велики и развилисты» is rendered 'large and branching', keeping the visible shape of the antlers rather than substituting a more decorative adjective.",
+    "«ноги мои плохи и жидки» is kept conservatively as 'my legs are bad and thin'. The source's simple evaluative contrast matters to the fable and is not polished into 'frail' or another abstraction.",
+    "«Он уходил» is 'He was getting away', preserving the sense that the legs were in fact saving him before the forest reverses his advantage.",
+    "The closing contrast keeps Tolstoy's repeated concrete reference to the body parts: 'The ones I thought were bad and thin were saving me, and the ones I admired are what ruined me.' Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
