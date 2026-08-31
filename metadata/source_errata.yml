@@ -1,4 +1,23 @@
 # Confirmed source-level errata only.
-# Do not use this file for ordinary translation ambiguities.
-# Each entry should preserve the immutable Russian source reading and record the verified witness.
-errata: []
+# The Russian repository remains immutable; these records explain any source-QA exceptions.
+errata:
+  - source_path: corpus/azbuka/v21_056_056_Myshka_vyshla_guljat.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "56"
+    verified_print_pages: "56-57"
+    digital_tail: "...стал кричать так громко, что"
+    finding: "The individual Markdown document stops mid-sentence at the page boundary; the 90-volume edition continues the same story onto page 57."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete until the source segmentation is repaired or an explicit print-based override is approved."
+  - source_path: corpus/azbuka/v21_059_059_Odin_tsar_stroil.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "59"
+    verified_print_pages: "59-60"
+    digital_tail: "...Министр пошёл к мужику и сказал: ты счастлив. Царь"
+    finding: "The individual Markdown document stops mid-sentence; the 90-volume edition identifies this story as spanning pp. 59-60 and continues the text."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete until the source segmentation is repaired or an explicit print-based override is approved."

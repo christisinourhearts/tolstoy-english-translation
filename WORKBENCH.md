@@ -29,12 +29,14 @@ Stages: translation complete; fidelity audit PASS; English edit complete; final 
 
 ## Active batch
 
-None. P001 is closed.
+P002 — in progress. Target: 25 accepted short units.
+
+P002 introduced structured bilingual coverage records and the formal `SOURCE_SUSPECTED` gate. During candidate selection, two truncated *New Azbuka* source files were confirmed against volume 21 and excluded from translation; see `metadata/source_errata.yml` and `qa/source_suspected/`.
 
 ## Current unit
 
-None.
+P002.01 — `corpus/works/v01_246_246_Dlja_chego_pishut_ljudi.md`
 
 ## NEXT ACTION
 
-Human review of P001 and the source stress test; then incorporate approved P001/source-integrity rule changes before P002.
+Translate and audit P002.01 under the P002 coverage protocol.

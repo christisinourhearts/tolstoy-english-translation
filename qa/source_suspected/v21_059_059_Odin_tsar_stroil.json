@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/azbuka/v21_059_059_Odin_tsar_stroil.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "truncation_at_page_boundary",
+  "digital_tail": "Министр пошёл к мужику и сказал: ты счастлив. Царь",
+  "verified_print_pages": "59-60",
+  "verification": "Official 90-volume electronic edition identifies the story as pp. 59-60 and continues the text after the individual Markdown ends.",
+  "witness": "https://tolstoy.ru/online/90/21/",
+  "p002_disposition": "excluded_from_batch_and_left_untranslated"
+}
