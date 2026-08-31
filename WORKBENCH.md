@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.07 — `corpus/letters/v59_035_Gr_S_N_Tolstomu.md` accepted.
+P002.08 — `corpus/letters/v59_110_N_A_Nekrasovu.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.08 — `corpus/letters/v59_110_N_A_Nekrasovu.md`.
+Translate and audit P002.09 — `corpus/diaries/v46_028_028_1847_04_07.md`.

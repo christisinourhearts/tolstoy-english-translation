@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.08",
+  "source_path": "corpus/letters/v59_110_N_A_Nekrasovu.md",
+  "source_sha256": "99c0decbc641f2ebe128f4d2cb7de1d21201bfd3e2373d3c7468eb01565dc71a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The phrase 'за будущее' is rendered as an advance on future work in context; no source material is omitted."
+  ],
+  "result": "PASS"
+}
