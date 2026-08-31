@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.20",
+  "source_path": "corpus/azbuka/v21_057_057_Poshel_raz_lev_na_ohotu.md",
+  "source_sha256": "49905d9fa21743df90e6f4f71420e025c3db273afd3c50b98a526e9178555d0e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The New Primer's compact child-reader register and repetitive ending are preserved; no explanatory moral is added."
+  ],
+  "result": "PASS"
+}
