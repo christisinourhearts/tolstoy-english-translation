@@ -51,13 +51,13 @@ The authoritative Russian repository must remain read-only. The exact Russian ZI
 
 ## Current corpus state
 
-- Reviewed English translations: **41**.
+- Reviewed English translations: **42**.
 - P001: 7 complete.
 - P002: 25 complete.
-- P003: **9 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **8,619**.
+- P003: **10 / 50 complete and individually Git-committed**.
+- Approximate reviewed source-body words: **8,759**.
 - Confirmed source errata: **2**.
-- Existing structured coverage records: **34**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **35**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -76,10 +76,11 @@ Completed and accepted:
 7. `corpus/works/v37_005_005_Volk.md`
 8. `corpus/works/v40_435_435_Zhizn_i_izrechenija_Krishny_Predislovie.md`
 9. `corpus/letters/v60_095_N_A_Nekrasovu.md`
+10. `corpus/letters/v61_151_M_N_Longinovu.md`
 
-Last completed unit: **P003.09 — Letter to N. A. Nekrasov, 11 November 1857.**
+Last completed unit: **P003.10 — Letter to M. N. Longinov, 19 November 1865.**
 
-Next planned unit: **P003.10 — `corpus/letters/v61_151_M_N_Longinovu.md`**.
+Next planned unit: **P003.11 — `corpus/letters/v62_372_A_A_Fetu.md`**.
 
 ## Exact source verification completed
 

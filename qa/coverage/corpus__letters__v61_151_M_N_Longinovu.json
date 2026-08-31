@@ -1,0 +1,20 @@
+{
+  "batch": "P003",
+  "unit": "P003.10",
+  "source_path": "corpus/letters/v61_151_M_N_Longinovu.md",
+  "source_sha256": "a4ad61e01c84b2b3e7853786a414cfd01efc4c8e0aee67d621c39f14e8877dd8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The body heading's uncertain date, 18...20 November 1865, is preserved even though the catalog title gives 19 November 1865.",
+    "The post-emancipation land term «разверстание» is rendered as “land consolidation”: in this context it concerns the rearrangement/separation of intermingled landlord and peasant lands, not typographic page makeup or a generic financial apportionment.",
+    "Tolstoy's lowercase «архив» remains “the archive” in the body; the editorial note, rather than the translation, identifies it only probably as the journal Russian Archive."
+  ],
+  "result": "PASS"
+}
