@@ -19,9 +19,9 @@ for r in rows:
     if r['id'] in seen_ids: errors.append((r['output_path'],'duplicate stable id in manifest'))
     seen_ids.add(r['id'])
     if r.get('translation_status')=='reviewed':
-        if r.get('fidelity_audit_status')!='pass': errors.append((r['output_path'],'reviewed but fidelity audit is not pass'))
+        if r.get('fidelity_audit_status') not in ('pass','passed'): errors.append((r['output_path'],'reviewed but fidelity audit is not pass'))
         if r.get('english_edit_status')!='complete': errors.append((r['output_path'],'reviewed but English edit is not complete'))
-        if r.get('final_source_audit_status')!='pass': errors.append((r['output_path'],'reviewed but final source audit is not pass'))
+        if r.get('final_source_audit_status') not in ('pass','passed'): errors.append((r['output_path'],'reviewed but final source audit is not pass'))
         if r.get('coverage_audit_status') not in ('pass','p001_legacy_unstructured_pass'):
             errors.append((r['output_path'],'reviewed but coverage audit has not passed'))
     ep=en/r['output_path']
