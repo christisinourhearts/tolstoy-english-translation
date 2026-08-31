@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.14",
+  "source_path": "corpus/letters/v59_085_Gr_V_P_Tolstomu.md",
+  "source_sha256": "70926f378ea4416c91f9cc897d354f324d34f0cfd7142697c4485b74924ee969",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The French body is translated directly; the Russian editorial translation is separately translated as apparatus.",
+    "T. T-tte is identified as Tatyana Alexandrovna in the edition's own Russian rendering; K. remains 'K.' in the direct translation while the editorial rendering gives Kursk.",
+    "The editorial note expressly leaves the meaning of '30 Avril' uncertain, so the English heading preserves question marks rather than converting the conjecture into certainty."
+  ],
+  "result": "PASS"
+}
