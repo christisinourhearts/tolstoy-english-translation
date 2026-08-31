@@ -10,7 +10,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, and `qa/batches/P003.md`. Treat the Russian repository as read-only. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at P003.30. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `qa/batches/P003.md`, `provenance/pd_core_pilot/README.md`, and `provenance/pd_core_pilot/AUDIT.md`. Treat the Russian repository as read-only and as a comparison witness while provenance is unresolved; do not mass-delete its CC BY-SA metadata. Run `tools/check_source.py` and the P003 boundary preflight against the uploaded Russian snapshot. If the snapshot matches cleanly, review the completed public-domain-source pilot before deciding whether to resume at P003.30. Preserve the conservative-fidelity policy and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
@@ -24,6 +24,20 @@ Use this instruction:
 - Approximate reviewed source-body words: 11,299
 - Structured bilingual coverage records: 54
 - Git working tree at handoff: clean after this handoff commit
+
+- Public-domain provenance pilot completed for Volume 48, printed pp. 342–346; accepted `corpus/` files and the source manifest were not modified.
+- Bulk translation is paused before P003.30 pending a source-provenance decision.
+
+
+## Source provenance development
+
+The existing Russian snapshot remains byte-for-byte valid against its recorded source manifest, but it derives from Tolstoy Digital material distributed as CC BY-SA and contains normalized/editorial layers that should not simply be relabelled. A scan-led public-domain-core experiment is stored at `provenance/pd_core_pilot/`.
+
+For the Volume 48 pp. 342–346 pilot, comparison with the printed scan showed that normalized Russian silently expands several visible editorial bracket completions (`Андр[ей]`, `на[до]`, `кот[орого]`, `пролетар[иата]`). The pilot preserves these provenance distinctions and uses neutral apparatus labels.
+
+Crucially, the accepted English body survives the rebase unchanged: after removal of YAML, page comments, footnote markers, apparatus and whitespace variation, the accepted English and pilot English bodies match exactly. This supports retaining reviewed translations while progressively replacing their Russian textual authority with independently verified scan-led source files.
+
+Do not delete or rewrite the old Russian corpus in place. Keep it available as a comparison witness until the rebase method has been tested on at least one published literary work and then adopted deliberately.
 
 ## Exact Russian source verification
 

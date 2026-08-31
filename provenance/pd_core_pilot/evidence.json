@@ -1,0 +1,66 @@
+{
+  "pilot_id": "PDCORE-PILOT-001",
+  "date": "2026-08-31",
+  "work": "Записи № 2 и 3, 1870 г.",
+  "volume": 48,
+  "printed_pages": [
+    342,
+    343,
+    344,
+    345,
+    346
+  ],
+  "pdf_pages": [
+    372,
+    373,
+    374,
+    375,
+    376
+  ],
+  "scan_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/L._N._Tolstoy._All_in_90_volumes._Volume_48.pdf",
+  "scan_rights_evidence": "Wikimedia Commons file description marks source scan public domain.",
+  "old_ru_witness": {
+    "path": "corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md",
+    "sha256": "8849c8a0052527371a65546811f55371febca50bc494bce2bf17e298ffb3331f",
+    "role": "comparison witness only"
+  },
+  "old_en_reviewed": {
+    "path": "corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md",
+    "sha256": "03926dcbc45bb7695597383c28dd3eb7c96502ea5dc9faf80ff5e3d171c70ae6"
+  },
+  "scan_visible_normalizations": [
+    {
+      "page": 342,
+      "printed": "Андр[ей]",
+      "old_ru": "Андрей"
+    },
+    {
+      "page": 343,
+      "printed_apparatus": "ули[цу]",
+      "old_ru_apparatus": "улицу"
+    },
+    {
+      "page": 345,
+      "printed": "на[до]",
+      "old_ru": "надо"
+    },
+    {
+      "page": 345,
+      "printed": "кот[орого]",
+      "old_ru": "которого"
+    },
+    {
+      "page": 345,
+      "printed_apparatus": "сатирич[еского]",
+      "old_ru_apparatus": "сатирического"
+    },
+    {
+      "page": 346,
+      "printed": "пролетар[иата]",
+      "old_ru": "пролетариата"
+    }
+  ],
+  "english_body_normalized_match": true,
+  "corpus_files_modified": false,
+  "manifest_modified": false
+}

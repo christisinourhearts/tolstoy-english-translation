@@ -117,12 +117,20 @@ P003.28 triggered `SOURCE_SUSPECTED` because the audited filename, subtitle, cre
 
 P003.29 triggered `SOURCE_SUSPECTED` because the audited Markdown retains footnote [^1], «Можно прочесть: истопил», after `потом` but omits the printed `[?]` uncertainty marker that belongs immediately after that reference. Official volume 50 p. 40 reads `потом[34] [?] пришел Желтов`, with note 34 `Можно прочесть: истоп[ил]`. The English restores only the verified uncertainty marker, translates the existing note, retains the original source hash, and leaves the Russian snapshot unchanged.
 
+## Public-domain provenance pilot
+
+A contained pilot has been completed for `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md` (Volume 48, printed pp. 342–346). The pilot lives under `provenance/pd_core_pilot/` and uses the printed 90-volume scan as the primary textual authority, with the existing Tolstoy Digital-derived Russian Markdown retained only as a comparison witness.
+
+The scan comparison confirmed that the old source's `orthography_mode: reg` can erase editorial distinctions by silently expanding printed bracket completions: `Андр[ей]` → `Андрей`, `на[до]` → `надо`, `кот[орого]` → `которого`, and `пролетар[иата]` → `пролетариата`. The pilot also separates Tolstoy-authored manuscript material from later editorial apparatus instead of inheriting the upstream CC BY-SA package wholesale.
+
+The already accepted English body for this unit required no substantive wording changes. After YAML, page comments, footnote markers, apparatus, and whitespace are normalized away, the accepted English body and the provenance-rebased pilot body match exactly. The accepted `corpus/` file and source manifest remain untouched.
+
+This pilot supports a rebase strategy rather than discarding accepted English work: create a scan-authoritative public-domain Russian core, preserve the current Russian corpus as a licensed comparison witness, and revalidate English units against the clean core. Before scaling corpus-wide, run a second pilot on an already-reviewed published literary work.
+
 ## NEXT ACTION
 
-1. Resume at **P003.30** and continue the existing finite workflow:
-   translate → fidelity audit → conservative English edit → exhaustive bilingual coverage → mechanical validation → update manifest/workbench → Git commit.
-2. Preserve the completed exact-source verification; do not reopen P003.01–29 without a concrete fidelity or source reason.
-3. Inspect any future MEDIUM/HIGH boundary flag rather than automatically rejecting it.
-4. After P003.50, stop and perform a deliberately difficult cold-audit sample before selecting P004.
-
-Do not begin a new batch or retranslate completed units merely for stylistic variety. `metadata/DECISIONS.md` governs settled editorial choices.
+1. Review `provenance/pd_core_pilot/` before resuming bulk translation.
+2. If the scan-authoritative rebase strategy is adopted, run a second pilot on an already-reviewed published literary work before attempting a corpus-wide conversion.
+3. Do **not** mass-delete `CC BY-SA` metadata from the existing Russian repository. Preserve that repository as a comparison witness until each source is independently rebased.
+4. P003.30 (`corpus/diaries/v51_014_015_1890_01_27.md`) remains the next translation unit. Resume it only after the provenance strategy is settled.
+5. Once translation resumes, continue the normal translate → audit → validate → commit workflow recorded in this workbench.

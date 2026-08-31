@@ -7,15 +7,15 @@ It is designed so that translation progress survives individual AI sessions and 
 ## Current state
 
 - Russian corpus records: **15,766**
-- Reviewed English translations: **32**
+- Reviewed English translations: **61**
 - P001: **7 / 7 complete**
 - P002: **25 / 25 complete**
-- P002 structured bilingual coverage records: **25 PASS**
-- Confirmed source-QA errata: **2** quarantined *New Azbuka* segmentation truncations
+- Structured bilingual coverage records: **54 PASS**
+- Confirmed source-QA errata: **7** recorded source issues
 - Latest mechanical validation: **0 errors**
 - Latest Russian-source hash check: **15,766 checked; 0 missing; 0 changed**
 
-No P003 material has been started.
+P003 is in progress: 29 of 50 units are complete. The next translation unit is P003.30.
 
 ## Read these first
 
@@ -76,3 +76,12 @@ Every accepted P001/P002 unit has its own commit, followed by batch-review commi
 
 - `metadata/DECISIONS.md` records consequential translation/editorial choices so later audits do not silently undo settled policy.
 - `tools/preflight_boundaries.py` flags suspicious beginnings/endings in small Russian source files before translation. It supports either an unpacked source repository (`--source-root`) or the source ZIP directly (`--source-zip`). Findings are warnings for review, not automatic declarations of corruption.
+
+
+## Public-domain source provenance pilot
+
+A contained scan-led provenance experiment is stored in `provenance/pd_core_pilot/`. It rebases the already-reviewed Volume 48, pp. 342–346 manuscript-notes unit onto the printed 90-volume scan rather than treating the Tolstoy Digital-derived Markdown as the textual authority.
+
+The pilot found several places where the existing Russian repository's normalized (`reg`) text silently expands bracketed editorial completions such as `Андр[ей]`, `на[до]`, `кот[орого]`, and `пролетар[иата]`. The pilot preserves those distinctions and separates Tolstoy-authored text from later apparatus. After stripping metadata and apparatus, the accepted English body remains exactly equivalent after whitespace normalization, so no substantive retranslation was required.
+
+The pilot is intentionally outside `corpus/` and is not part of `metadata/source_manifest.jsonl`. No accepted translation or source-manifest record was changed. See `provenance/pd_core_pilot/README.md` and `AUDIT.md`.
