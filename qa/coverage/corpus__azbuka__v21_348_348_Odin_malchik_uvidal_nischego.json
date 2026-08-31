@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.45",
+  "source_path": "corpus/azbuka/v21_348_348_Odin_malchik_uvidal_nischego.md",
+  "source_sha256": "402e4bbd05ec79203f8fb39a0d7fe9225a27eb584fb17d2c99b529bab91ebb69",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, escaped draft marker, full deletion span, all example sentences, and final maxim are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The P003 boundary preflight MEDIUM flag was previously inspected. The apparent nonterminal boundary is caused by the entire surviving fragment being deletion-marked, with its terminal punctuation inside the deleted span; neighboring material is independently segmented. It is therefore intentional draft material, not truncation.",
+    "«лошадку» is rendered conservatively as 'little horse' rather than silently specifying a toy, though the child context makes a toy plausible.",
+    "«бабки» is rendered 'knucklebones' because the same objects are first lost by a boy in play and then given by a butcher to dogs; this preserves both the traditional game-piece and literal-bone senses needed by the contrast.",
+    "«золотой» is 'a gold coin' without imposing a denomination not stated in the selected text. The final «Вещь хороша только тому, кому она нужна» remains the plain 'A thing is good only for the person who needs it.' Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
