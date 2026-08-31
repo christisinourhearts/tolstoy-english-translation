@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.05",
+  "source_path": "corpus/works/v01_299_299_Davno_pozabyl_ja_o_schasti.md",
+  "source_sha256": "45b13d548ffa138a409abe45b0ef9b4d246e10722198ed52fbc57eadf2ee7476",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The syntactically unusual ‘мечте позабытой души’ is kept conservatively as ‘the dream of a forgotten soul’ rather than silently recast as a dream forgotten by the soul.",
+    "The repeated verb in ‘said ... to say what was said’ is preserved because the repetition belongs to the poem's thought, not treated as English redundancy.",
+    "The source's literal angle brackets surrounding the twelve-line passage are preserved as escaped angle brackets in English."
+  ],
+  "result": "PASS"
+}
