@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.24 — `corpus/krug_chtenija/v41_015_016_Krug_chtenija_daily_jan_1_3.md` accepted.
+P002.25 — `corpus/krug_chtenija/v41_016_017_Krug_chtenija_daily_jan_1_4.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.25 — `corpus/krug_chtenija/v41_016_017_Krug_chtenija_daily_jan_1_4.md`.
+Close and review P002.

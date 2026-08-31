@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.25",
+  "source_path": "corpus/krug_chtenija/v41_016_017_Krug_chtenija_daily_jan_1_4.md",
+  "source_sha256": "a2043eee55793c029293365268c9c90f371501fcd45aeb9c46d9b79529fdea0b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Attributed passages were translated from Tolstoy's compiled Russian wording. The strong Henry George, Lao-Tzu, Saadi, and Marcus Aurelius formulations were not softened or restored from external editions."
+  ],
+  "result": "PASS"
+}
