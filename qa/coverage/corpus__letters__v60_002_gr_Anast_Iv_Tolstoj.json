@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.21",
+  "source_path": "corpus/letters/v60_002_gr_Anast_Iv_Tolstoj.md",
+  "source_sha256": "af090d6baac688c0e88291b0bf0dea4b51bb1014cbb5a764867787e1965d102f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The main letter is one extended sentence in Russian and remains one sentence in English, preserving the ceremonious accumulation of apology, respect, and devotion.",
+    "вырваться на время обеда is rendered ‘get away for dinner,’ preserving the sense of briefly escaping duty rather than merely arriving late.",
+    "быть у Вас is rendered ‘being with you’ rather than mechanically ‘being at your place.’",
+    "The fourth-page address and both editorial notes are translated in full."
+  ],
+  "result": "PASS"
+}
