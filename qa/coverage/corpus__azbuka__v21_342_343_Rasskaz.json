@@ -1,0 +1,23 @@
+{
+  "batch": "P003",
+  "unit": "P003.39",
+  "source_path": "corpus/azbuka/v21_342_343_Rasskaz.md",
+  "source_sha256": "e5de88a584f666d3f7d94298ec399daf68fd370f899fb6b12f963826c9beee54",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both page markers, the source's escaped draft-heading markers, both deletion spans, the complete surviving narrative, and both footnotes are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The P003 boundary preflight MEDIUM flag was previously inspected against neighboring material and the official volume. The fragment is intentionally bounded draft material, not a truncated extraction, so it remains eligible without SOURCE_SUSPECTED status.",
+    "«по чугунке» is rendered plainly as 'by railway'; «машина» in this railway context is 'the engine' and «машинист» 'the engine driver'.",
+    "The deleted jackdaw sentence and deleted final mushroom phrase remain deleted in English rather than being silently restored or omitted.",
+    "«На дороге» is 'On the track' in the immediate railway setting. Footnote 1 retains its leading colon because it belongs to the source's rough alternative/additional draft material.",
+    "The driver's final speech remains unquoted after the colon because the source itself gives no quotation marks there; only the words are translated. Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
