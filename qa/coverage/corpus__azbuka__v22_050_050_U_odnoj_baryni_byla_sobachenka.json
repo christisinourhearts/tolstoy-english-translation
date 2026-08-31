@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.40",
+  "source_path": "corpus/azbuka/v22_050_050_U_odnoj_baryni_byla_sobachenka.md",
+  "source_sha256": "388906847f795f2f7c7e74ff5648a32421a4d6a9008902435cb1b3e923f6045c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The page marker, complete anecdote, and concluding italicized proverb are represented; the exact source SHA-256 matched the mounted audited Russian snapshot.",
+    "The source is a Primer reading/orthography layout that inserts `<br>` tags inside Russian words. Those breaks encode Russian-specific pedagogical segmentation rather than semantic phrase boundaries and cannot be transferred faithfully to different English spellings. They are therefore transposed to continuous English, with this exception recorded explicitly rather than imitated arbitrarily.",
+    "«собаченка небольше крысы» is kept plainly as 'a little dog no bigger than a rat'.",
+    "The two limits on the dog's attack remain distinct: it could not reach above a boot, and it could not bite through a boot.",
+    "The proverb «Бодливой корове Бог рог не даёт» is translated literally and compactly as 'God gives no horns to a butting cow.' Reverse target-to-source audit found no substantive omission or unsupported addition."
+  ],
+  "result": "PASS"
+}
