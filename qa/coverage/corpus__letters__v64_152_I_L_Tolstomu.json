@@ -1,0 +1,22 @@
+{
+  "batch": "P003",
+  "unit": "P003.13",
+  "source_path": "corpus/letters/v64_152_I_L_Tolstomu.md",
+  "source_sha256": "d7f5cfb37c3b02b213253e993eca279a53ae4e1c0ed4dc190bf5168b2bb92c17",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy distinguishes «любовь человеческая, христианская» from «влюбленье». The English deliberately preserves the unusual repeated construction as 'love—being in love' instead of flattening both into an undifferentiated 'love' or introducing a freer psychological label such as 'infatuation'.",
+    "The source phrase «Если будет любовь одна — влюбленья» is grammatically and typographically unusual in the authoritative 90-volume text as well as the audited Markdown. It is rendered conservatively as 'If there is only love—being in love—' without silently regularizing the source into a more explicit distinction.",
+    "Tolstoy's French «prétexte» is glossed by the editors as Russian «вид». It is therefore rendered 'appearance' rather than the modern English cognate 'pretext', and the French code-switch is recorded in front matter.",
+    "The opening «Ее связывает с тобой две вещи» has a singular Russian verb with the plural subject «две вещи». English necessarily uses normal plural agreement ('Two things bind her to you') without altering the semantic relation.",
+    "The closing «во имя чего ты действуешь» is kept close as 'what you are acting in the name of' rather than being abstracted to 'your motives' or 'why you are acting'."
+  ],
+  "result": "PASS"
+}

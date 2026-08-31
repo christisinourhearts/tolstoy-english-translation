@@ -11,3 +11,4 @@ Record recurring transliteration, conventional English names, titles, diminutive
 | Афанасий Афанасьевич Фет (Шеншин) | Afanasy Afanasyevich Fet (Shenshin) | Poet A. A. Fet | Use Fet as the displayed surname; retain Shenshin parenthetically in scholarly metadata when the source does. |
 | Афанасий Афанасьич | Afanasy Afanasich | Familiar form of address to A. A. Fet | Preserve the contracted patronymic when Tolstoy writes it; do not silently regularize it to Afanasyevich. |
 | Николай Михайлович Нагорнов | Nikolai Mikhailovich Nagornov | Tolstoy relative and publishing/business agent | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
+| Илья Львович Толстой | Ilya Lvovich Tolstoy | Tolstoy’s son | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
