@@ -35,8 +35,8 @@ P002 introduced structured bilingual coverage records and the formal `SOURCE_SUS
 
 ## Current unit
 
-P002.13 — `corpus/notes/v48_342_342_Zapis_No_1_1863.md` accepted.
+P002.14 — `corpus/notes/v52_275_275_Zapis_27_nojabrja_1891.md` accepted.
 
 ## NEXT ACTION
 
-Translate and audit P002.14 — `corpus/notes/v52_275_275_Zapis_27_nojabrja_1891.md`.
+Translate and audit P002.15 — `corpus/azbuka/v21_017_017_Kitajskaja_tsaritsa_Silinchi.md`.

@@ -1,0 +1,18 @@
+{
+  "batch": "P002",
+  "unit": "P002.14",
+  "source_path": "corpus/notes/v52_275_275_Zapis_27_nojabrja_1891.md",
+  "source_sha256": "682252b6b43901483e43acfcd1a3d16ad66c20855ad78ab32d62ef2e3f169ac4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The notebook's telegraphic fragments and table are preserved as fragments. 'Филиация столовых' is rendered literally as 'Filiation of dining rooms' rather than conjecturally explaining it. The English phrase 'Early rose' in the source is retained."
+  ],
+  "result": "PASS"
+}
