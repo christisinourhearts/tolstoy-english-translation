@@ -18,14 +18,14 @@ Use this instruction:
 - P002: complete (25 units)
 - P002 cold audit: complete
 - P003: complete (50 / 50), with cold audit PASS AFTER REVISION
-- P004: in progress, **27 / 50 accepted**
-- Last accepted unit: **P004.27 — diary entry, 15 June 1847**
-- Next unit: **P004.28 — diary entry, 14 June 1850**
-- Total reviewed translations: **109**
-- Approximate reviewed source-body words: **19,900**
-- Structured bilingual coverage records: **102** (plus 7 P001 legacy unstructured passes)
+- P004: in progress, **30 / 50 accepted**
+- Last accepted unit: **P004.30 — diary entry, 16 June 1850**
+- Next unit: **P004.31 — diary entry, 18 June 1850**
+- Total reviewed translations: **112**
+- Approximate reviewed source-body words: **20,320**
+- Structured bilingual coverage records: **105** (plus 7 P001 legacy unstructured passes)
 - Confirmed source errata: **11**; source-verified anomalies: **2**
-- Latest translation commit: `864ebfa` — Translate P004.27 June 1847 diary
+- Latest translation commit: `67ebddc` — Translate P004.30 June 1850 diary
 - Git working tree at this handoff refresh: clean before the handoff commit
 
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`; do not infer ShareAlike status for the translation text merely from the witness metadata.
