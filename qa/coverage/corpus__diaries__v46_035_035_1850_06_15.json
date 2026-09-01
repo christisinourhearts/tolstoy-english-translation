@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.29",
+  "source_path": "corpus/diaries/v46_035_035_1850_06_15.md",
+  "source_sha256": "c4ebae1c60f932ab125cd659e2ebaf872ca61759d06e0930a7b067ad48854e83",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "исполнил в точности все назначенное is rendered ‘carried out exactly everything I had planned,’ making the implied self-planning relation explicit without changing its substance.",
+    "хозяйство is rendered ‘estate management’ in the schedule; the activity sense is retained rather than treating it as a physical place.",
+    "писать методу музыки is rendered ‘write the music method’; the shorthand is not silently expanded into the formal title of Tolstoy's related music-method text.",
+    "The source's terse schedule syntax and 4 1/2 fraction markup are preserved."
+  ],
+  "result": "PASS"
+}

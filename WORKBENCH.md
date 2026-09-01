@@ -61,13 +61,13 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **110**.
+- Reviewed English translations: **111**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **20,200**.
+- Approximate reviewed source-body words: **20,267**.
 - Confirmed source errata: **11**.
-- Existing structured coverage records: **103**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **104**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -75,9 +75,9 @@ The authoritative Russian repository must remain read-only. In the current resum
 ### P004
 
 - Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **28 / 50 accepted.**
-- Last completed unit: **P004.28 — Diary, 14 June 1850.**
-- Next unit: **P004.29 — Diary, 15 June 1850.**
+- **29 / 50 accepted.**
+- Last completed unit: **P004.29 — Diary, 15 June 1850.**
+- Next unit: **P004.30 — Diary, 16 June 1850.**
 
 ## P003 status
 
@@ -177,7 +177,7 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 28/50 accepted units; resume with **P004.29**.
+1. P004 is in production at 29/50 accepted units; resume with **P004.30**.
 2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
 3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
 4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.
