@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.30",
+  "source_path": "corpus/diaries/v46_035_035_1850_06_16.md",
+  "source_sha256": "5abef31e5cc25005ec3cd7473d7642b96669d81bd1d8c3ae9f11e84670bca5a3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "плохо исполнил назначенное is rendered ‘carried out what I had planned poorly,’ keeping the same planned-task vocabulary as the preceding entry without inflating the self-criticism.",
+    "The schedule's bare ‘play’ is left without supplying ‘piano,’ because this entry itself does not state the instrument even though the neighboring diary does.",
+    "хозяйство continues as ‘estate management’ for consistency across these adjoining schedule entries.",
+    "The isolated apparatus reading 6 is translated literally and not assigned an editorial function absent from the Markdown witness."
+  ],
+  "result": "PASS"
+}
