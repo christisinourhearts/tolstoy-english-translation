@@ -1,0 +1,22 @@
+{
+  "batch": "P004",
+  "unit": "P004.28",
+  "source_path": "corpus/diaries/v46_034_035_1850_06_14.md",
+  "source_sha256": "25ce1c054343d6a4335d962417ea01d44e8c7a9396e4f9afa1fc580bebb0b358",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The repeated определять/определения sequence is rendered with determine/determinations throughout the planning passage so that Tolstoy's deliberate lexical repetition remains visible.",
+    "пустошь is rendered contextually as thoughts that ‘turn out to be empty,’ while дельные becomes ‘sound’; the contrast is kept without importing a more elaborate psychological interpretation.",
+    "The schedule preserves the source's unexplained jump from 10–12 to 6–8 rather than supplying missing hours.",
+    "беспутно is rendered ‘dissolutely,’ retaining Tolstoy's morally charged self-description rather than weakening it to a neutral ‘carelessly.’",
+    "The six textual notes preserve the witness's stated information. Bare note readings Еще, 15, and то are translated literally as ‘Also,’ ‘15,’ and ‘that’ without assigning an editorial function the Markdown does not state."
+  ],
+  "result": "PASS"
+}
