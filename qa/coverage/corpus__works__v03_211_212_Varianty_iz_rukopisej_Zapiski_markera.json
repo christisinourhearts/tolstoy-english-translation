@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.05",
+  "source_path": "corpus/works/v03_211_212_Varianty_iz_rukopisej_Zapiski_markera.md",
+  "source_sha256": "7dd8d36756f6fe09370980c8e5f14878f3fcdb7f6d4c30d0b55ca621988503c4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "All 30 apparatus entries, their page/line coordinates, boundary phrases, and Sovremennik relations are represented.",
+    "The source says page 194 for the duel passage amid page-103/104 entries. A separate transcription of the academic volume reproduces the same '194', confirming this as a source/printed-apparatus anomaly rather than a local Markdown mutation. It is preserved verbatim rather than silently corrected to 104.",
+    "любишь, не любишь is a nineteenth-century name for the banking card game also known as shtoss/faro; the source phrase is retained as italic 'love-me, love-me-not' rather than interpreted as romantic language.",
+    "предпочтение diminutive преферансик is rendered 'a little preference', referring to the card game preference, preserving the marker's diminutive tone.",
+    "The coarse colloquial boundaries в морду заехать, исколочу, дерет с мужика последнюю шкуру are rendered directly rather than sanitized.",
+    "No omitted span is reconstructed from the base story: where the apparatus supplies only opening and closing boundary words, only those boundaries are translated."
+  ],
+  "result": "PASS"
+}

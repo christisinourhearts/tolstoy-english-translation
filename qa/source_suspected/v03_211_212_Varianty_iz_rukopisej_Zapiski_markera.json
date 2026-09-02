@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/works/v03_211_212_Varianty_iz_rukopisej_Zapiski_markera.md",
+  "status": "SOURCE_VERIFIED",
+  "type": "printed_apparatus_page_reference_anomaly",
+  "digital_reading": "The audited Markdown gives «Стр. 194, строки 28—29» for the duel passage, between entries on pages 103 and 104.",
+  "comparison_issue": "Context strongly suggests page 104, but changing the source or silently normalizing the coordinate would falsify the witness.",
+  "verified_print_reading": "A separate transcription/PDF extraction of the same academic volume likewise prints «Стр. 194, строки 28—29», so the anomalous number belongs to the published apparatus rather than this Markdown conversion.",
+  "verified_print_pages": "211",
+  "verification": "Independent transcription of the 90-volume edition, volume 3, variant apparatus for «Записки маркера».",
+  "witness": "academic volume 3 transcription; exact mounted Russian source retained unchanged",
+  "p006_disposition": "preserve page 194 exactly in the English apparatus; document as a verified source anomaly; do not alter Russian source or pinned SHA-256"
+}
