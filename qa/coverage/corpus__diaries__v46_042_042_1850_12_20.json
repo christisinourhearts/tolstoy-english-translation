@@ -1,0 +1,21 @@
+{
+  "batch": "P006",
+  "unit": "P006.27",
+  "source_path": "corpus/diaries/v46_042_042_1850_12_20.md",
+  "source_sha256": "878e78400e5f38abc86bbe4f2c7f49d5dee0f93b56dd4372fdc968efba44be04",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The schedule, quarter-hour notation, Dyakov visit, 11 p.m. change of voice, and self-reproach are all represented.",
+    "конфузился is rendered becoming embarrassed rather than generalized as discomfort.",
+    "The sole deleted time reading is retained in the apparatus."
+  ],
+  "result": "PASS"
+}
