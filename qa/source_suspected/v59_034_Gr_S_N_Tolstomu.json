@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_034_Gr_S_N_Tolstomu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_footnotes_and_marker",
+  "digital_reading": "Bare 4 and 8 survive in the Markdown body; marker 7 after Gorchakov is absent. Markdown definitions [^1]–[^8] skip the printed edition’s notes 4, 7, and 8 and renumber later surviving notes structurally.",
+  "verified_print_reading": "Official volume 59 prints superscript 4 after the petition clause, 7 after Gorchakov, and 8 after pour lui faire la cour, and supplies all three definitions.",
+  "verification": "Official 90-volume edition, volume 59, pp. 77–79.",
+  "p006_disposition": "Keep Russian witness/hash unchanged; preserve surviving bare numerals; translate only apparatus present in audited Markdown; do not import omitted Soviet notes under the established Volume 59 witness policy."
+}

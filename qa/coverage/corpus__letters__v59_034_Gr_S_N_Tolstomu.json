@@ -1,0 +1,25 @@
+{
+  "batch": "P006",
+  "unit": "P006.11",
+  "source_path": "corpus/letters/v59_034_Gr_S_N_Tolstomu.md",
+  "source_sha256": "25d0f2e1898fc2a72169007d6028c811512148a97ef64e0f0c9af2d592eec45d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "All seven numbered business points, the postscript, fourth-page address/instruction, three source page markers, eleven embedded editorial-note list items, and eight Markdown footnote definitions are represented.",
+    "Official volume 59 confirms that the Markdown has lost printed notes 4, 7, and 8 and the marker for note 7. Consistent with the established Volume 59 policy used in P005.09, the English does not silently import omitted Soviet apparatus; bare numerals 4 and 8 remain visible and the missing marker 7 is documented only in QA.",
+    "запрещение on the estate is rendered restriction rather than a modern mortgage lien term that would narrow the imperial legal concept.",
+    "векселя are promissory notes; перезалог is remortgaging; ревизия is the numbered imperial Revision census and is capitalized accordingly.",
+    "прибавочные души is retained as additional souls, preserving the period fiscal/serf-count term rather than euphemizing it.",
+    "Ералаш is retained as the card game Yeralash; the French pour lui faire la cour is translated in italics as to pay court to him, while the absent printed gloss is not imported.",
+    "подписавшись под наши руки / подписаться под руки is rendered signing in our names, with the postscript preserving Petr’s warning that doing so is dangerous.",
+    "The embedded Sergei letter’s opaque Romani forms shukr, pashukr, trebitsy, na lovy are transliterated because the source editorial note explicitly says they could not be translated; opaque frizovaya is likewise left transliterated rather than guessed."
+  ],
+  "result": "PASS"
+}

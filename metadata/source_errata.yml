@@ -164,3 +164,14 @@ errata:
     verified_reading: "The official volume shows an illegible-word marker at that point without substantive note content attached there; the letter text itself is complete."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; preserve the source footnote identifier/definition structurally, render the illegible word conservatively, and document the conversion anomaly."
+
+  - source_path: corpus/letters/v59_034_Gr_S_N_Tolstomu.md
+    type: missing_printed_footnote_definitions_4_7_8_and_marker_7
+    status: confirmed
+    volume: 59
+    declared_pages: "76–80"
+    verified_print_pages: "76–80"
+    digital_reading: "The audited Markdown preserves bare printed note numerals 4 and 8, omits the printed marker 7 after Andrei Ivanovich Gorchakov, and defines only Markdown notes [^1]–[^8] corresponding unevenly to printed notes 1, 2, 3, 5, 6, 9, 10, and 11."
+    verified_reading: "The official volume prints note 4 after the petition clause, note 7 after Gorchakov, and note 8 after French ‘pour lui faire la cour’, with definitions identifying the 1851 approval of the estate division, Prince A. I. Gorchakov, and the Russian gloss ‘чтобы за ним поухаживать’."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Following the established Volume 59 witness policy, retain the surviving bare numerals and translate all apparatus actually present in the audited Markdown, but do not silently import the three omitted Soviet notes or invent the missing marker 7. Document the defect in coverage/source QA."
