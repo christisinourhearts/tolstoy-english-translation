@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.05",
+  "source_path": "corpus/works/v01_247_248_O_molitve.md",
+  "source_sha256": "e854d5bea91f5d50b2b596056a638ca7e66735518f4a4f03439e3cc201cdbfcb",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The fragment deliberately moves from the first class of unbelievers to the third and only then to the second; this order is preserved.",
+    "умствование / умствователи are kept as reasoning / reasoners rather than recast into a more sympathetic philosophical vocabulary.",
+    "The semicolon after unbelievers at the p. 247/248 break, Tolstoy's repeated vanity/weakness vocabulary, and the long dash-driven sentences are preserved closely.",
+    "The source ends mid-word as способ..... at the end of printed p. 248. The next printed page begins an unrelated work, so English preserves this as capab..... and supplies no conjectural completion."
+  ],
+  "result": "PASS"
+}
