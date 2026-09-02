@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/works/v02_297_297_Plan_Junosti.md",
+  "status": "SOURCE_VERIFIED",
+  "type": "damaged_character_sequence_contextually_recoverable",
+  "digital_reading": "The audited Markdown reads «добродетели и сч с ія, планы». The official volume 2 electronic transcription reproduces the same damaged-looking sequence.",
+  "comparison_issue": "The visible letters and syntax strongly indicate the word «счастия» ('happiness'), but the electronic string has dropped characters/spaces and should not be silently treated as clean Russian.",
+  "verified_print_reading": "The official electronic volume confirms that the anomaly belongs to the digitized academic witness at this location; no competing word is supported by the surrounding plan. English renders the contextually recoverable word as 'happiness' and documents the normalization.",
+  "verified_print_pages": "297",
+  "verification": "Official 90-volume electronic edition, volume 2, lines corresponding to printed p. 297; wording surrounding the damaged sequence matches the audited source exactly.",
+  "witness": "https://tolstoy.ru/online/90/02/",
+  "p006_disposition": "retain the audited Russian source and SHA-256 unchanged; translate the contextually recoverable word as happiness; preserve the anomaly in coverage/source-QA records"
+}

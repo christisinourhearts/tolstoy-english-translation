@@ -1,0 +1,24 @@
+{
+  "batch": "P006",
+  "unit": "P006.01",
+  "source_path": "corpus/works/v02_297_297_Plan_Junosti.md",
+  "source_sha256": "0f658e27d9f7825bea4c49361f2b47040c0b5fa38f32122050ebc13419b9562f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256; the single printed page marker and both editorial footnotes are preserved.",
+    "The source's chapter numbering is irregular (two chapter 2 entries, two chapter 12 entries, and a deleted <11)>); English preserves the sequence instead of renumbering it.",
+    "выставляют окна refers to the spring removal/opening of the double window frames in the Youth material; English uses 'The window frames are taken out' rather than the misleading literal 'windows are displayed'.",
+    "The audited Markdown and official volume 2 electronic transcription both show the damaged-looking sequence 'сч с ія' after 'добродетели и'. Context and the visible letter pattern strongly indicate счастия; English renders 'virtue and happiness' while recording the source anomaly rather than silently treating the digital string as clean.",
+    "The telegraphic 'Жестокость Володи, к кот. я сам не знаю, что делаю' is kept close as 'Volodya's cruelty; toward him I myself do not know what I am doing' without inventing the missing syntactic relation.",
+    "помещичества is rendered 'life as a landowner'; юнкер is retained as the historical military term 'junker'.",
+    "The manuscript's angle-bracket alternatives/deletions, [1 illegible] marker, and the pencil-note apparatus are represented."
+  ],
+  "result": "PASS"
+}
