@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.49",
+  "source_path": "corpus/krug_chtenija/v41_030_031_Krug_chtenija_daily_jan_2_4.md",
+  "source_sha256": "cc4112982176cccefca5143e9f9fd5dc60a860f5fd43d936bf5a0750171ec369",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "Both page markers, all eight numbered sections, both Matthew passages, all attributions, and Tolstoy’s closing counsel are represented.",
+    "низким / низкой доле are rendered lowly / low condition without importing later theological terminology not present in the compiled Russian.",
+    "отдать душу свою is retained as give his soul, rather than silently replacing Tolstoy’s wording with the familiar English biblical phrase give his life.",
+    "Attributed scriptural and wisdom passages are translated from Tolstoy’s Russian compilation rather than substituted from canonical English editions."
+  ],
+  "result": "PASS"
+}
