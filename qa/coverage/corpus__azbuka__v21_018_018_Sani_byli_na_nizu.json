@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.42",
+  "source_path": "corpus/azbuka/v21_018_018_Sani_byli_na_nizu.md",
+  "source_sha256": "a12397b90a7f385923c4c2055d6b50c75d1caa4b0a9eb0a0c3f541e3d755c926",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "на низу is kept as down below; no hill or other unstated setting is added."
+  ],
+  "result": "PASS"
+}
