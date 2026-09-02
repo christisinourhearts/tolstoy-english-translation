@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.50",
+  "source_path": "corpus/krug_chtenija/v41_032_033_Krug_chtenija_daily_jan_2_5.md",
+  "source_sha256": "5b79ee20da02c9ffd418de42041eb32e31a39798c9e6b4c73401df53e4165fb8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "Both printed page markers, all five numbered sections, all attributions, the unquoted continuation after Emerson, and the final italic Tolstoy sentence are represented.",
+    "Одинаково преступны is rendered equally guilty rather than the stronger modern legal criminal, preserving the moral sense in context without weakening the judgment.",
+    "сословия is rendered class in Channing’s social-political context; party remains party.",
+    "репейника is rendered burdock, preserving Tolstoy’s compiled Russian plant image rather than replacing it with a familiar English Bible wording such as thistles.",
+    "Attributed passages are translated from Tolstoy’s Russian compilation rather than substituted from standard English Bible or author editions."
+  ],
+  "result": "PASS"
+}
