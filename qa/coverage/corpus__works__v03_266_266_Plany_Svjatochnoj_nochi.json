@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.07",
+  "source_path": "corpus/works/v03_266_266_Plany_Svjatochnoj_nochi.md",
+  "source_sha256": "98c47a476d44010d9e82071581650bd014f6299a8b18f484c66f9501cf955bf6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both repeated Святочная ночь headings and both plan sequences are represented.",
+    "The first plan runs I through XI with deleted items; the second keeps a blank I, the source numbering, deleted VI Reality, restored VI Love, and XII made only of dashes.",
+    "увлечение is rendered Infatuation rather than the broader Enthusiasm because it occurs between the ball and innocence/love in a plot plan.",
+    "святочная is rendered Christmastide rather than silently narrowing the title to Christmas Day/Night.",
+    "The single note stating that VI was altered from VII is translated."
+  ],
+  "result": "PASS"
+}
