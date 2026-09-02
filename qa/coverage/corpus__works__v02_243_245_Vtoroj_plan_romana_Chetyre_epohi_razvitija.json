@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.08",
+  "source_path": "corpus/works/v02_243_245_Vtoroj_plan_romana_Chetyre_epohi_razvitija.md",
+  "source_sha256": "6c5adb5e5515b8693691b06fd8e56d8c1bf42bf6736070f305d9e472422c6b9c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The numbered seven principles, the source's internal page labels, the four life-stage headings, and both deletion spans are structurally preserved.",
+    "самолюбие is kept as self-love, distinct from pride and vanity, rather than normalized to self-esteem; сладострастие remains sensuality.",
+    "обращение in the four-spheres list is rendered social relations in context; no narrower etiquette theory is added.",
+    "волокитство зятя is rendered brother-in-law's philandering; брат отбивает is rendered brother wins her away, preserving the compressed plot-note action without expanding its circumstances.",
+    "The source remains a plan, not prose: run-on notes, missing conjunctions, bracketed U[niversity], and abrupt final death are retained."
+  ],
+  "result": "PASS"
+}
