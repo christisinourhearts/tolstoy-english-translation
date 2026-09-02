@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.04",
+  "source_path": "corpus/works/v03_201_203_Nabeg_Varianty_teksta_Sovremennika.md",
+  "source_sha256": "f08de976dd9d48e8e70b52ca9a5663446e1c488fffca2be6dd2ce6db7651bf93",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "This unit is editorial variant apparatus containing Tolstoy readings; all chapter/page/line coordinates and every Instead of / in Sovremennik / absent relation are represented.",
+    "The repeated Russian forms восемнадцать / осьмнадцать are orthographic variants that collapse to the same English word 'eighteen'; the apparatus relation is nevertheless retained explicitly.",
+    "кунак is retained as kunak rather than generalized to 'friend', because it denotes the Caucasian guest-friend relationship in the military setting.",
+    "The card-game boundary в дурачки is retained as durachki (a form of the Russian fool card game) rather than mistranslated as an insult.",
+    "The lexical contrasts портки / порты and подлецы / молодцы are rendered as 'breeches / trousers' and 'scoundrels / fine fellows' to preserve the fact and direction of the printed variation.",
+    "No missing passage has been reconstructed from the base text; where the apparatus identifies only the opening and closing words of an omitted span, the English likewise translates only those boundary words."
+  ],
+  "result": "PASS"
+}
