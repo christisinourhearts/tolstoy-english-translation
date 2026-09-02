@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.45",
+  "source_path": "corpus/azbuka/v21_023_023_Babka_dolgo_shla.md",
+  "source_sha256": "f8dd84d67ef627e44aaac88cf8ee62e13c02ad3aca1716d9248f667cf7817290",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "бабка is rendered the old woman rather than assuming a family relation not stated in the isolated exercise. The source’s final Она легла is retained without adding where or why she lay down."
+  ],
+  "result": "PASS"
+}
