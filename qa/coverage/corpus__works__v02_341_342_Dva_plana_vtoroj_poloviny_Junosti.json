@@ -1,0 +1,24 @@
+{
+  "batch": "P006",
+  "unit": "P006.03",
+  "source_path": "corpus/works/v02_341_342_Dva_plana_vtoroj_poloviny_Junosti.md",
+  "source_sha256": "eb715bca5e72f65f9678a85d5e1fc768e892d573d1ad5958ef443e517bca8623",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact mounted Russian source bytes match the pinned SHA-256; both volume page markers, all deletion spans, the figure marker, and all three notes are represented.",
+    "The manuscript verb кучу in Я кучу с музыкантами is opaque in context and is printed identically in the official volume 2 electronic transcription; it is rendered conservatively as 'I keep company with musicians'. The deleted recurrence я <кучу и> начинаю учиться музыке is rendered consistently as 'I <keep company and> begin to study music'.",
+    "волочится за is rendered 'chases after' rather than elevated courtship language, preserving the plan's blunt register.",
+    "ездит/выезжает в свет is rendered contextually as 'goes out into society' / 'goes out', not literally as travel.",
+    "The source says 'In youth 4 phases' but proceeds through numbered items 1–5, a deleted 6), and a final 6); this inconsistency is preserved exactly rather than corrected.",
+    "French Coq du village and coup de grace are retained in the body, with the source's Russian note glosses translated separately as 'Village cock' and 'final blow'.",
+    "The source's telegraphic fragments ('Lyubochka—meekness', 'I after a servant girl', 'Volodya—society', etc.) remain fragments rather than being completed into explanatory sentences."
+  ],
+  "result": "PASS"
+}
