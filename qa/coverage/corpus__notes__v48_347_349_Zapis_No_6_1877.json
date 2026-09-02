@@ -1,0 +1,24 @@
+{
+  "batch": "P005",
+  "unit": "P005.36",
+  "source_path": "corpus/notes/v48_347_349_Zapis_No_6_1877.md",
+  "source_sha256": "4b095d8f5fbca0668328935ba402fbeb93beaa078da4e27d53759508a68ae372",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "All three printed page markers, both dated sections, all Max Müller references, all four French passages, numbered lists, and all three apparatus notes are represented.",
+    "раскольник / раскольники is rendered schismatic(s), retaining Tolstoy's historical term rather than silently replacing it with the more specific modern label Old Believer.",
+    "The fragment На весах — осуждать не любить или подождать судить — не смотреть remains deliberately fragmentary in English; no syntactic reconstruction is imposed.",
+    "The source places footnote marker [^2] after the French sentence about metempsychosis/immortality, while note [^2] actually translates the much earlier St. Augustine quotation. This semantically displaced apparatus is preserved at the source position rather than silently reassigned.",
+    "Нашу лучше оцен. is kept as the visibly incomplete Ours better eval... rather than conjecturally completing the notebook shorthand.",
+    "The French quotations remain visible as Tolstoy's language switches; only the Russian apparatus gloss that actually exists in the source is translated."
+  ],
+  "result": "PASS"
+}
