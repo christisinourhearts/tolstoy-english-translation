@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.32",
+  "source_path": "corpus/diaries/v46_041_041_1850_12_15.md",
+  "source_sha256": "c8371825f0a82066e129dc9aa03d5c9be2d16f547e846626e9055a2f090ea270",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The page marker, complete dated entry, five named calls, abbreviated Rules for S[ociety] heading, and both social rules are represented.",
+    "названия / называть is interpreted in the etiquette context as form of address / address people, while preserving Tolstoy's insistence on using one consistent manner.",
+    "колкости is rendered barb and отплативши вдвое as repaying it twofold; the severity of the rule is not softened."
+  ],
+  "result": "PASS"
+}
