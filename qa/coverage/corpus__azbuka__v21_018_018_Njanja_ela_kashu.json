@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.41",
+  "source_path": "corpus/azbuka/v21_018_018_Njanja_ela_kashu.md",
+  "source_sha256": "4292a76e2320432ed333793d8478482261584271ac77c55ffae59a7526ec4d83",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "кашу is rendered porridge and на руки as in Nanny’s arms; the source’s two-sentence simplicity is retained."
+  ],
+  "result": "PASS"
+}
