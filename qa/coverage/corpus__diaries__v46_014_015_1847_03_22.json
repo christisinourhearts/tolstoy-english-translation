@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.27",
+  "source_path": "corpus/diaries/v46_014_015_1847_03_22.md",
+  "source_sha256": "f3839a34771c2309960277b328f87144aeafb50bd5148b37df13312b40c43fed",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "Both printed page markers, the complete 22 March diary body, Tolstoy's authorial footnote, and all eight notes are represented.",
+    "закон Юридический is kept as juridical law and закон положительный / положительное законодательство as positive law / positive legislation, preserving Tolstoy's own contrast with moral law rather than modernizing the terminology.",
+    "намерение ... подлежит влиянию его воли is rendered as intention being subject to the influence of a person's will; the source's rough pronoun reference is clarified only enough for grammatical English, without adding a new actor.",
+    "выгодою, приносимою преступлением is rendered benefit brought by the crime, even though the proposition is morally and doctrinally awkward; the translation does not substitute harm or gravity.",
+    "The isolated source note к is represented literally as the gloss to, and the truncated deleted Зам is conservatively represented as Rem... rather than silently completing the manuscript fragment."
+  ],
+  "result": "PASS"
+}
