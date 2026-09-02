@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.20",
+  "source_path": "corpus/letters/v59_021_T_A_Ergolskoj.md",
+  "source_sha256": "724c7b167bb39258847096e041c13603bef8b56b18bbd584062a1e4b14383cf2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The complete surviving French/Russian letter, separate four-part Russian editorial rendering, both page markers, and all five footnotes are represented.",
+    "misérable, vilain is kept as wretch, bad man; the editorial Russian презренный, дурной is separately rendered contemptible, bad, without harmonizing the two witnesses.",
+    "запишусь чего нибудь is conservatively I will enroll in something, preserving Tolstoy's vague plan rather than supplying an institution or service.",
+    "The editors' statement that the beginning of the letter has not survived is retained in the publication note; no beginning is reconstructed."
+  ],
+  "result": "PASS"
+}
