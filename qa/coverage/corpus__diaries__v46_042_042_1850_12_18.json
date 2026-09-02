@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.25",
+  "source_path": "corpus/diaries/v46_042_042_1850_12_18.md",
+  "source_sha256": "f33f7e0af3a4c9f009e93e5078f349fe9e76658eb4c001b88ee04f4b3df59c4e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The exact half-hour schedule, Volkonsky visit, repeated “write and write,” and home dinner are represented.",
+    "шляться is rendered loaf about to preserve the colloquial, slightly disreputable register."
+  ],
+  "result": "PASS"
+}
