@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.22",
+  "source_path": "corpus/letters/v59_025_T_A_Ergolskoj.md",
+  "source_sha256": "8b8e5a663da92685c03d9fd634a3390019a3f10ced667aef6aa46fcf644b407f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's opening letter to Yergolskaya is French and is translated directly from French; his separate postscript to Mashenka is Russian and is translated directly from Russian.",
+    "The Soviet editors' Russian rendering is translated separately as apparatus and is not substituted for Tolstoy's French wording.",
+    "The manuscript address reads masculine 'Его [sic] Высокоблагородию' before Tatyana Yergolskaya's name. The English preserves the anomaly as 'His [sic] High Born' rather than silently correcting it.",
+    "The repeated Russian postscript in the editorial rendering is preserved as a repeated apparatus item, as it is present in the audited witness.",
+    "Both source-page markers and all six source footnotes are represented."
+  ],
+  "result": "PASS"
+}
