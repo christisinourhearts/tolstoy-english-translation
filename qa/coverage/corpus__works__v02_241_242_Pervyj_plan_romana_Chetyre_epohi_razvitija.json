@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.07",
+  "source_path": "corpus/works/v02_241_242_Pervyj_plan_romana_Chetyre_epohi_razvitija.md",
+  "source_sha256": "1c16c1060c0ac3bd745a876510229f155ad6dff3f639ef83e6f7e4e82546f8ff",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The source is a telegraphic plan: sentence fragments, parenthetical alternatives, manuscript bracket completions, one illegible item, one uncertainty marker, and the deleted Russian-teacher note are all preserved.",
+    "French dépit, St. Jérôme, and maman remain visible as code-switches; the editorial gloss of dépit is translated as footnote 1.",
+    "отрочество / юность / молодость are rendered Boyhood / Youth / Young Manhood to preserve the four-stage developmental contrast with Childhood.",
+    "The source's stray bracket after кондитерская, compressed notation such as D[mitry] and K[atenka], and rough sequence around the Moscow/country notes are not silently repaired."
+  ],
+  "result": "PASS"
+}
