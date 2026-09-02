@@ -1,0 +1,19 @@
+{
+  "batch": "P004",
+  "unit": "P004.45",
+  "source_path": "corpus/azbuka/v21_017_017_Tanja_sela_na_seno.md",
+  "source_sha256": "90a8a88bfcc82e7e08311c8b1ea4a6140a04103d2e997bd6c00679e78a4b967a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The repeated refrain syllables are transliterated as “Lyuli, lyuli, duli, duli” rather than replaced with an English song.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

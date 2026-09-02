@@ -1,0 +1,24 @@
+{
+  "batch": "P004",
+  "unit": "P004.36",
+  "source_path": "corpus/notes/v48_346_346_Zapis_No_4_1871_1872.md",
+  "source_sha256": "a9cfbe8d188b97d2d60be2b596f6c19acf6a66532673d84238cf7388d7c90561",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The seasonal headings “First spring,” “Summer, June,” and “Beginning of August” are preserved.",
+    "The note remains a chain of image fragments; verbs and connective explanations are not supplied merely to smooth the English.",
+    "свергибуз is rendered “Turkish rocket,” the established common name for Bunias orientalis.",
+    "гречихи лопушатся is rendered conservatively as “Buckwheat is spreading broad leaves,” retaining the image of burdock-like broadening without introducing a botanical claim absent from the note.",
+    "духи болотные remains the sensory “marsh scents.”",
+    "Скирды is rendered “stacks,” and гумна as “threshing yards,” preserving the agricultural scene.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

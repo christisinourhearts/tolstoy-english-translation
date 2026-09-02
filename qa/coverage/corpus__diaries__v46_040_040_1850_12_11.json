@@ -1,0 +1,22 @@
+{
+  "batch": "P004",
+  "unit": "P004.33",
+  "source_path": "corpus/diaries/v46_040_040_1850_12_11.md",
+  "source_sha256": "4fa78dab97321a3766a173b9d7a0cab14b397c2e953ea8dac1571b8b64c5e4bf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The entire 55-word source unit is represented, including both “Tasks for today. 11.” and the subsequent “Tasks for 8 December.”",
+    "The apparently nonchronological ordering is source order and is not repaired editorially.",
+    "повесть is rendered “the tale,” preserving the generic project label rather than supplying an unidentified title.",
+    "контора is rendered “the office,” consistent with the estate/business context; no more specific institution is supplied.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

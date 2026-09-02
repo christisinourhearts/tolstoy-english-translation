@@ -1,0 +1,22 @@
+{
+  "batch": "P004",
+  "unit": "P004.34",
+  "source_path": "corpus/notes/v48_166_166_Zapisnaja_knizhka_No_6_1871.md",
+  "source_sha256": "2dcbe7a246474af2fd9e9af4318cad6d76dc20ac3686949e15acb620e49149a3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The notebook’s isolated list items and their order are preserved.",
+    "Киропедия is rendered by the established English title Cyropaedia.",
+    "В[ойна] и м[ир] деньги remains the clipped “War and Peace money,” without inventing a verb or financial transaction.",
+    "Клевер is translated literally as “Clover”; the source does not establish whether it is a common noun or a surname.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

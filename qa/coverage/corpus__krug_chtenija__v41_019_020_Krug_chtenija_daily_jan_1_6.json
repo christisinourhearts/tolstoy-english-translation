@@ -1,0 +1,22 @@
+{
+  "batch": "P004",
+  "unit": "P004.48",
+  "source_path": "corpus/krug_chtenija/v41_019_020_Krug_chtenija_daily_jan_1_6.md",
+  "source_sha256": "c39cb6f4e1a15743ccef51c62940b27451400321cf181ddf0f18ada2a1092a39",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening aphorism, five numbered readings, and closing aphorism are all represented.",
+    "The page 19→20 boundary is preserved before item 3.",
+    "After Epictetus, Lao-Tzu, Talmud, Dhammapada/Buddhist wisdom, and Marcus Aurelius attributions are retained as printed.",
+    "The repeated vocabulary of effort, restraint, passions, and victory is kept rather than stylistically varied.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.31",
+  "source_path": "corpus/diaries/v46_037_037_1850_06_18.md",
+  "source_sha256": "0e0af7cf26259c94aa92db4d202255a46424930a209262983af9af0249c7dddc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The schedule is preserved as a telegraphic sequence rather than expanded into full prose.",
+    "наряд is rendered “work assignments” in the estate-management sense supported by the surrounding schedule and nineteenth-century dictionary usage; no clothing or military context is supplied by the entry.",
+    "The isolated textual-note reading 10 is preserved literally.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

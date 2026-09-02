@@ -1,0 +1,23 @@
+{
+  "batch": "P004",
+  "unit": "P004.32",
+  "source_path": "corpus/diaries/v46_037_038_1850_06_19.md",
+  "source_sha256": "4aa876d1787fce31bb5c2d14435dee52dc463b4c873f6f2ba037edf59b2084cc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All three schedule blocks (19 June, 20 June, and the general rule) are preserved separately.",
+    "сладострастие is kept as “sensuality,” without narrowing it to a particular act.",
+    "юмор is rendered “mood,” reflecting the contemporary French-derived humeur sense in this diary context.",
+    "The six textual-note readings are represented separately; the incomplete обду is rendered as the visibly incomplete “think...” rather than completed silently.",
+    "The page-37/page-38 boundary is preserved inside the sentence before “how to avert them.”",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

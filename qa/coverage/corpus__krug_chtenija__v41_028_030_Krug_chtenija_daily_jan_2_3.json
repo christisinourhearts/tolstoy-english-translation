@@ -1,0 +1,23 @@
+{
+  "batch": "P004",
+  "unit": "P004.49",
+  "source_path": "corpus/krug_chtenija/v41_028_030_Krug_chtenija_daily_jan_2_3.md",
+  "source_sha256": "2613fdfb5643b7c0337cc07db73bd1bd56ef9c0f2ceeff6827352294a16ba461",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening thesis, five numbered readings, and closing Tolstoy paragraph are represented.",
+    "The page 28→29 boundary is preserved before item 1; the page 29→30 boundary is preserved before the closing paragraph.",
+    "соблазн is rendered “temptation” in the Matthew passage in keeping with Tolstoy’s printed wording, while the causal construction is not modernized into another Bible translation.",
+    "The repeated “future, better” phrasing in the Kant-derived passage is deliberately retained.",
+    "The unattributed item 3 remains unattributed.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

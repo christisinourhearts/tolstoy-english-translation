@@ -1,0 +1,21 @@
+{
+  "batch": "P004",
+  "unit": "P004.46",
+  "source_path": "corpus/krug_chtenija/v41_009_009_Krug_chtenija_Predislovie.md",
+  "source_sha256": "b7fd85f4aed6a721ac476defb2b72018ee1895c257e5e868eda50b402d80ffba",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All six prose paragraphs, signature, date, and place are represented.",
+    "словесные переводы is rendered “verbal translations,” preserving Tolstoy’s contrast with exact wording rather than recasting it as a modern theory of translation.",
+    "круг чтения is retained in the title as the established project title “Circle of Reading” and in the prose as “daily circle of reading.”",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

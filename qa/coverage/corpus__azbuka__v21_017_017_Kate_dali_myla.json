@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.43",
+  "source_path": "corpus/azbuka/v21_017_017_Kate_dali_myla.md",
+  "source_sha256": "2c10b40a33b78172b0bb70953ee647153ca40ad939cd9dd5a1e0fa3822a652f4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All three sentences and the repeated body-part nouns are preserved.",
+    "The sentence-initial “And” is retained to match the Primer’s elementary coordination.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

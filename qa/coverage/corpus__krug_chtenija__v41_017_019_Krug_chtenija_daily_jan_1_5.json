@@ -1,0 +1,23 @@
+{
+  "batch": "P004",
+  "unit": "P004.47",
+  "source_path": "corpus/krug_chtenija/v41_017_019_Krug_chtenija_daily_jan_1_5.md",
+  "source_sha256": "9ea11bdae728be0638cedd4218483e1bce6bd20b85c3f1115dc42d2cb9e63495",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening Tolstoy paragraph, five numbered readings, all attributions, and the closing Tolstoy sentence are represented.",
+    "The page 17→18 break is preserved after the opening paragraph; the page 18→19 break is preserved before item 5.",
+    "Biblical quotations are translated from the Russian wording printed by Tolstoy rather than silently substituted with a modern English Bible version.",
+    "прикраса неправды is retained closely as “an ornament of unrighteousness,” despite its unusual Englishness, because the Russian compilation itself is unusual.",
+    "С восточного remains the nonspecific attribution “From the East.”",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "P004",
+  "unit": "P004.44",
+  "source_path": "corpus/azbuka/v21_017_017_Mama_byla_na_reke.md",
+  "source_sha256": "93ae7d861f2850feaffc6779ec195bf6d5fcc28731f4cef0f66b7bd56f654c6a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Only the five-word source unit is translated; the subsequent printed sentences are not imported.",
+    "The bare мыла is rendered as the participial “washing,” without supplying an object.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

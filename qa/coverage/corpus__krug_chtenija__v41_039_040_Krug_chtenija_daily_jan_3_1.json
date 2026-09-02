@@ -1,0 +1,24 @@
+{
+  "batch": "P004",
+  "unit": "P004.50",
+  "source_path": "corpus/krug_chtenija/v41_039_040_Krug_chtenija_daily_jan_3_1.md",
+  "source_sha256": "fae435f340640e411290f4b5e0458003f16173dad2487a117b4e6984a829241a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening Tolstoy thesis, four numbered readings, all attributions, and the closing warning are represented.",
+    "The page 39→40 boundary is preserved before item 2.",
+    "The Channing passage retains the repeated “man/person,” “soul,” and developmental language rather than compressing it.",
+    "The Emerson passage preserves the chapel/temple image and the contrast between reading in a book and in one’s soul.",
+    "The Kant-derived distinction between intellectual and moral knowledge is preserved without importing Kantian terminology absent from Tolstoy’s Russian.",
+    "Thoreau’s unusual “above morality” formulation is kept literally.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

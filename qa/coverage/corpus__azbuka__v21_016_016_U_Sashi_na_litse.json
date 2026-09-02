@@ -1,0 +1,19 @@
+{
+  "batch": "P004",
+  "unit": "P004.39",
+  "source_path": "corpus/azbuka/v21_016_016_U_Sashi_na_litse.md",
+  "source_sha256": "9c2afd6ff7b1d408555a21557d2bf28bda294ac428c385c1529d37c08a33e25b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Only the six-word source unit is translated; the following printed sentence is not imported.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

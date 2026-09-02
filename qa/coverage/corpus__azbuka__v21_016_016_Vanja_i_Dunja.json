@@ -1,0 +1,19 @@
+{
+  "batch": "P004",
+  "unit": "P004.41",
+  "source_path": "corpus/azbuka/v21_016_016_Vanja_i_Dunja.md",
+  "source_sha256": "31874bcd7766a03689fcd03ff4616546867f151f5b73dfe5c74f9c67b98c42af",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The repeated noun “hay” is retained rather than stylistically compressed.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}

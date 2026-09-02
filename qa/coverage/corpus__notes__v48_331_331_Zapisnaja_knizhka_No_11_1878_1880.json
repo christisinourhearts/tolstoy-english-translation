@@ -1,0 +1,23 @@
+{
+  "batch": "P004",
+  "unit": "P004.35",
+  "source_path": "corpus/notes/v48_331_331_Zapisnaja_knizhka_No_11_1878_1880.md",
+  "source_sha256": "e37b44ee3ea3737a3805b22e635a32139ef127a8d557373f3a0a2e7b85e2bae4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source’s telegraphic sequence of biblical and Talmudic cross-references is preserved without reconciling citations to modern editions.",
+    "Горохол[ьский] is transliterated as “Gorokholsky,” retaining the source form rather than silently normalizing the street name.",
+    "The source phrase песок Израиля is rendered literally as “sand of Israel.”",
+    "The shorthand реке is represented as the biblical/Talmudic expression “raca” in the note about liability to the Sanhedrin; the surrounding reference makes the allusion identifiable, while the fragmentary syntax is retained.",
+    "Гомилетика. Патристика. Литургика. is preserved as three bare disciplinary labels.",
+    "Recovery provenance: reconstructed after the later workspace was lost, using the baseline-pinned source identity and the official 90-volume text as the readable witness."
+  ],
+  "result": "PASS"
+}
