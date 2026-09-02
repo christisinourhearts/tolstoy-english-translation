@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.10",
+  "source_path": "corpus/letters/v59_030_T_A_Ergolskoj.md",
+  "source_sha256": "9723bb230b1dc8737fcfaeb5da8d9000f65ac997bbfc3f17689238607ad26ca4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The French original is translated directly and the following editorial Russian rendering is translated independently; deliberate duplication is retained.",
+    "The French code-switch староста and Russian italic староста are both represented as italic starosta rather than silently substituting village elder.",
+    "600 р. асс. is rendered 600 rubles in assignats, preserving the historical paper-money denomination.",
+    "The direct French uses Basile and Pauline; the editorial Russian uses Vasenka and Polina. Those distinct source forms are kept rather than harmonized.",
+    "All ten footnotes are translated, including the duplicated explanatory notes attached separately to the French and Russian renderings.",
+    "The queried Tula location in the printed heading remains Tula? rather than being regularized to a certain location."
+  ],
+  "result": "PASS"
+}
