@@ -1,0 +1,25 @@
+{
+  "batch": "P005",
+  "unit": "P005.30",
+  "source_path": "corpus/diaries/v46_038_040_1850_12_08.md",
+  "source_sha256": "1814bcb7e1ebd83c1bb3c0f6ece7954b7b7d4b97005a8425bb0edc743402a278",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All three printed page markers, retrospective diary body, gambling rules, gambling-session notes, process-of-play rules, rules for society, and all sixteen apparatus notes are represented.",
+    "Испанские замки is retained by its historical idiom as castles in Spain rather than replaced by a modern paraphrase such as pipe dreams.",
+    "придерживать in денежные игры is rendered back another player's stake, following Dahl's contemporary dictionary definition: приставлять свою ставку ко ставке другого.",
+    "The gambling calculations are translated mechanically without correcting their arithmetic or reconciling body readings with manuscript variants, including body 3 versus note 1 1/2 and body 120 versus note 100.",
+    "The source literally has 9 тыс. сер. и 29 сер.; English preserves this as 9 thousand silver rubles and 29 silver rubles rather than silently supplying a second thousand. Eikhenbaum later printed/interpreted the second figure as 29 thousand, but that interpretation is not inserted into Tolstoy's translated body.",
+    "палки is kept as the historical card-game name palki; удар is rendered coup in the gambling context. The numerical notation following it is preserved unchanged.",
+    "Three uninterpretable truncated deletions (вост, стре, нахо) and one further deleted fragment (вдв) are transliterated in the apparatus rather than guessed into complete English words."
+  ],
+  "result": "PASS"
+}
