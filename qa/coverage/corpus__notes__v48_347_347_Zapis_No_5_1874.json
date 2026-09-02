@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.35",
+  "source_path": "corpus/notes/v48_347_347_Zapis_No_5_1874.md",
+  "source_sha256": "2ae6124c4e162c6745f5df8d438598c7caafa7ae16a68bcb7ac6b2d773c3d5d8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The sole page marker, heading, date/place line, Novum Organum reference, complete philosophical body, Hartmann and Schopenhauer names, and final What do we live by?—Religion sequence are represented.",
+    "Интерес философии is kept as the interest of philosophy rather than silently recast as subject matter or concern.",
+    "для философий is regularized minimally to for philosophy in grammatical English; no doctrinal content is added.",
+    "ради сумасшествия remains the jarring for the sake of madness rather than being softened into absurdity or meaninglessness.",
+    "The translation does not import later vocabulary or conclusions from A Confession into this 1874 note."
+  ],
+  "result": "PASS"
+}
