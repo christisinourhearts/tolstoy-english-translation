@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/works/v03_215_217_Zapiski_o_Kavkaze_Poezdka_v_Mamakaj_Jurt.md",
+  "status": "SOURCE_VERIFIED",
+  "type": "printed_witness_lexical_anomaly",
+  "digital_reading": "The audited Markdown and the 90-volume electronic transcription print «Чинаръ нѣтъ, есть бугъ, извѣстное Р[усское] дерево».",
+  "comparison_issue": "бугъ is not the expected tree name in this contrast and is opaque if treated literally.",
+  "verified_reading": "The later scholarly Tolstoy edition normalizes/corrects the phrase to «Чинар нет, есть бук, известное русским дерево», identifying the intended tree as beech.",
+  "witness": "mounted audited 90-volume Russian source retained unchanged; later scholarly Tolstoy edition used only to resolve the lexical reading",
+  "p006_disposition": "Translate бук contextually as beech; do not alter the Russian source, source path, or pinned SHA-256."
+}

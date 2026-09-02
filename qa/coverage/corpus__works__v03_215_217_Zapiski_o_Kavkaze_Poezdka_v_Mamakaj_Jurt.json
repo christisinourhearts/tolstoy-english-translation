@@ -1,0 +1,24 @@
+{
+  "batch": "P006",
+  "unit": "P006.06",
+  "source_path": "corpus/works/v03_215_217_Zapiski_o_Kavkaze_Poezdka_v_Mamakaj_Jurt.md",
+  "source_sha256": "63e54739b403ade325c9fbe684b620960e45aaa18ed5d751946d213712506bf0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "All three printed page markers, both deletion spans, four footnote references/definitions, abbreviations, and the abrupt unfinished-document framing are represented.",
+    "The 90-volume witness and audited Markdown print бугъ in the contrast with чинар. A later scholarly Tolstoy edition reads бук, which is semantically coherent with известное русским дерево; English therefore uses beech while preserving the Russian witness unchanged and documenting the anomaly.",
+    "мирный/немирный is kept unusually close as peaceful/non-peaceful because Tolstoy is explicitly playing on the unstable official distinction before glossing the area as dangerous.",
+    "воды is rendered waters in the period resort sense; курс is rendered season rather than introducing a medical regimen not stated in the passage.",
+    "прапорщица Хринева is rendered Ensign Khrinev's wife; аптекарша из Немок as the apothecary's wife, a German woman; no independent names are invented.",
+    "нижнее платье is rendered lower clothing rather than more specifically trousers because the source uses the broader period clothing term.",
+    "The source switches from regularized Russian into compressed pre-reform orthography on p. 216; English preserves content and structural markers without imitating orthographic corruption."
+  ],
+  "result": "PASS"
+}
