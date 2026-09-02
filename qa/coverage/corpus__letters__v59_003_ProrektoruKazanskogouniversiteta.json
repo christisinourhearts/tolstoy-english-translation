@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.10",
+  "source_path": "corpus/letters/v59_003_ProrektoruKazanskogouniversiteta.md",
+  "source_sha256": "03969fbceef853cdfae64dc552b55717bf0800ea5bb796e5c4031016c1680612",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The full administrative address, petition, signature formula, all three embedded editorial notes, and both page markers are preserved.",
+    "Высокородие is rendered by the established corpus formula His High Nobility; разряд Восточной Словесности is Division of Oriental Literature and Юридический Факультет Faculty of Law.",
+    "оставлен за малоуспешность is translated literally enough as retained for poor progress; the long procedural note is not compressed."
+  ],
+  "result": "PASS"
+}
