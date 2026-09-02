@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.06",
+  "source_path": "corpus/works/v01_296_297_Otryvok_razgovora_dvuh_dam.md",
+  "source_sha256": "5d00f42f4927ca4130777f397d245076d4986cd73aa393be08186cfa404d7fe3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The French sentence is preserved in French. The Russian code-switch какой-то inside it is represented by italic English some inside the French syntax, preserving the switch rather than silently making the whole sentence French or English.",
+    "The source's editorial Russian glosses for the French are translated in footnotes 1–2 without replacing the French body text.",
+    "The awkward punctuation around the p. 296/297 break and the abrupt shift from dialogue into character biography are retained rather than regularized into polished fiction.",
+    "барски is rendered grandly; свет is society; в чинах is held official rank. The final six-dot ellipsis remains an unfinished ending."
+  ],
+  "result": "PASS"
+}
