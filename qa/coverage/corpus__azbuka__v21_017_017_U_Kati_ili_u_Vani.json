@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.38",
+  "source_path": "corpus/azbuka/v21_017_017_U_Kati_ili_u_Vani.md",
+  "source_sha256": "73d2f7e81a74f6eb14e2208ac74ffd0ca86e2b72ee17f7563f0cde813fcb99d0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "боле is retained as more; the source gives no explicit comparison beyond the alternative Katya or Vanya, and none is supplied."
+  ],
+  "result": "PASS"
+}
