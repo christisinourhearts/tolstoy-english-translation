@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.14",
+  "source_path": "corpus/letters/v59_013_Gr_S_N_Tolstomu.md",
+  "source_sha256": "cc133288b37041dd4f3c9f626790ea9b45dbaa6595491b8923cf2c59626b4c5b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The French original, the source's complete Russian parallel rendering, both page markers, publication notes, and all thirteen Markdown footnote definitions are represented.",
+    "The original French is translated directly rather than through the Russian rendering; the duplicated rendering is retained because it is substantive source-edition content.",
+    "The malformed [[^5] неразобр.] sequence is rendered [illegible][^5]. Official volume 59 confirms an illegible-word marker there without substantive note content; the duplicate source footnote is preserved structurally and documented as a conversion defect.",
+    "Masha and козлик is kept as Masha and ‘The Little Goat,’ with the song identified only in the supplied note."
+  ],
+  "result": "PASS"
+}

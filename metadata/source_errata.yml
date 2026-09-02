@@ -153,3 +153,14 @@ errata:
     verified_reading: "Official volume 59 p. 27 prints superscript 5 after Basile and supplies note 5 identifying Vasily Stepanovich Perfiliev and referring to note 4 to letter 6."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; preserve the source anomaly, translate the complete surviving Tolstoy text and apparatus, and do not conjecturally reconstruct omitted note content."
+
+  - source_path: corpus/letters/v59_013_Gr_S_N_Tolstomu.md
+    type: malformed_footnote_5_attachment_in_parallel_rendering
+    status: confirmed
+    volume: 59
+    declared_pages: "36–37"
+    verified_print_pages: "36–37"
+    digital_reading: "The audited Markdown has malformed [[^5] неразобр.] in the French creditor list and a duplicate Perfiliev footnote [^5]."
+    verified_reading: "The official volume shows an illegible-word marker at that point without substantive note content attached there; the letter text itself is complete."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; preserve the source footnote identifier/definition structurally, render the illegible word conservatively, and document the conversion anomaly."

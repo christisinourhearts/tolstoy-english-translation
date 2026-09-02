@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_013_Gr_S_N_Tolstomu.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "malformed_footnote_5_attachment_in_parallel_rendering",
+  "digital_reading": "The audited Markdown has the malformed sequence '[[^5] неразобр.]' in the French creditor list and defines [^5] as a duplicate Perfiliev note, while the official electronic volume displays simply '[1 неразобр.]' at that position. The duplicated Russian rendering later carries its own remapped notes.",
+  "verified_print_reading": "Official volume 59 pp. 36–37 shows an editorial illegible-word marker in the creditor list without a substantive footnote at that point; Tolstoy's letter text is otherwise complete.",
+  "verified_print_pages": "36–37",
+  "verification": "Official 90-volume electronic edition, volume 59, letter 13.",
+  "witness": "https://tolstoy.ru/online/90/59/",
+  "p005_disposition": "Keep the Russian repository immutable. Preserve the source's [^5] identifier and definition for validator/source identity purposes, but render the body conservatively as [illegible][^5] and document the conversion anomaly rather than assigning new substantive meaning to the note."
+}
