@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.33",
+  "source_path": "corpus/diaries/v46_041_041_1850_12_16.md",
+  "source_sha256": "887e7c1d5a4ccbff3429d8112961a800d80dd016ff229153c8fdd5d10e0f3316",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The printed page marker, complete dated schedule, Prince Andrei Ivanovich reference, and sole apparatus note are represented.",
+    "волочиться за княгиней is rendered pay court to the princess, retaining the period courtship sense without euphemizing the pursuit away.",
+    "сукна and нот are rendered broadcloth and sheet music; the deleted перед / before remains in the note while body после / after is retained."
+  ],
+  "result": "PASS"
+}
