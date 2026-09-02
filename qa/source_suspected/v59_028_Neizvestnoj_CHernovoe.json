@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_028_Neizvestnoj_CHernovoe.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "metadata_date_range_conflicts_with_printed_heading",
+  "digital_reading": "The source YAML/title and initial manifest row narrow the letter to 1850-10-01/1850-10-31.",
+  "verified_print_reading": "Volume 59 heads letter no. 28 «1850 г. Октябрь... ноябрь. Ясная поляна.» The editorial note dates it from handwriting/content as after 25 September and no later than November.",
+  "verification": "Official 90-volume edition, volume 59, pp. 57–58.",
+  "p006_disposition": "Use October–November 1850 in the English title/front matter and translation manifest; retain the Russian source file and pinned checksum unchanged."
+}

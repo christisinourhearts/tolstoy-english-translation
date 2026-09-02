@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.09",
+  "source_path": "corpus/letters/v59_028_Neizvestnoj_CHernovoe.md",
+  "source_sha256": "faf6cf00cce92207123e16d7fc08a5eaba402854d3aaf5133ca56b2321639948",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The original French letter is translated directly, followed by an independent translation of the editors’ Russian rendering exactly where the source places it; the resulting semantic duplication is intentional.",
+    "All three French deletion spans are preserved: dans quelle terre, est à, and desagréments.",
+    "The mixed-script Alexin place name is rendered Alexin and its note identifying the district town of Tula province is translated.",
+    "The French draft contains rough syntax around où vous comptez... où quelque autre part; English preserves the intended question of where the addressee would spend the months without inventing a missing destination.",
+    "The source YAML/title metadata says 1–31 October 1850, but the printed academic heading says October... November 1850 and the editorial dating note says after September 25 and no later than November. English uses the printed October–November dating and records the metadata defect.",
+    "Both editorial notes are translated in full, including the handwriting/date rationale and the diary cross-reference."
+  ],
+  "result": "PASS"
+}
