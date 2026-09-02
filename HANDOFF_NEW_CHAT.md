@@ -1,6 +1,6 @@
 # Tolstoy English Corpus — New Chat Handoff
 
-This repository is the current resumable master. It contains the complete local Git history.
+This repository is the current repaired resumable master. It contains the complete surviving packaged Git history through P004.30 plus the new, explicitly documented recovery commits; the vanished later working-tree history is not claimed to have been recovered.
 
 ## What to upload in the new chat
 

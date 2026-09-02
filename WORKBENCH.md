@@ -16,7 +16,7 @@ This is the persistent handoff ledger. A fresh session should read, in this orde
 Russian source release: 2026-08-18  
 Source repository: `tolstoy-russian-md-audited`
 
-The authoritative Russian repository must remain read-only. In the current resumed runtime, the exact uploaded Russian snapshot is mounted and has passed the full source/hash check (15,766 checked; 0 missing; 0 changed) and the P003 boundary preflight. A future runtime should repeat those checks against whatever Russian ZIP is actually mounted before resuming translation.
+The authoritative Russian repository must remain read-only. The surviving baseline records that the exact audited snapshot passed the full source/hash check in the pre-loss runtime (15,766 checked; 0 missing; 0 changed) and the P003/P004 preflights. In this recovery runtime the saved Russian ZIP could not be materialized into the container, so those raw-byte checks were not rerun. Repeat them against whatever Russian ZIP is actually mounted before resuming restoration.
 
 ## Completed work
 
@@ -142,11 +142,11 @@ Completed and accepted:
 
 Last completed unit: **P003.50 — 17 October.**
 
-P003 translation production is complete. Per `qa/batches/P003.md`, the next required step is a deliberately difficult cold fidelity audit before selecting P004.
+P003 translation production is complete, and its deliberately difficult cold fidelity audit was subsequently completed with PASS AFTER REVISION. P004 was then selected and worked through P004.30 before the packaged checkpoint, with P004.31–50 now represented by the documented recovery reconstruction.
 
 ## Exact source verification completed
 
-The uploaded Russian snapshot was successfully mounted and checked in the resumed runtime. `tools/check_source.py` checked all **15,766** manifest sources with **0 missing** and **0 changed**. P003.01–08 were also confirmed individually against their recorded SHA-256 hashes; all eight matched exactly, so none was reopened.
+In the pre-loss 2026-08-31 runtime, the uploaded Russian snapshot was successfully mounted and checked. `tools/check_source.py` checked all **15,766** manifest sources with **0 missing** and **0 changed**. P003.01–08 were also confirmed individually against their recorded SHA-256 hashes; all eight matched exactly, so none was reopened.
 
 The P003 boundary preflight scanned the exact snapshot. Only P003.39 and P003.45 were MEDIUM; inspection showed that both apparent nonterminal endings are caused by deletion markup with punctuation inside the deleted span, with neighboring page units independently segmented. They are retained as intentional draft boundaries, not `SOURCE_SUSPECTED`.
 
