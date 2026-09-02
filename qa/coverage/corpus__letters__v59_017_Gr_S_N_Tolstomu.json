@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.17",
+  "source_path": "corpus/letters/v59_017_Gr_S_N_Tolstomu.md",
+  "source_sha256": "26335ad91df145ae67566879498c00248ae03f601bc6e39a9cac0a5809c2ac77",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The French business passage is translated directly, the following Russian continuation is translated from Russian, and the editors' separate Russian rendering of the French survives in footnote [^3].",
+    "louche is something shady and fripon is rogue in the direct translation; the editorial Russian rendering's дело нечисто / жулика is separately translated as business is not clean / swindler.",
+    "борзые is borzois; the side-added phrase identified by footnote [^8] remains in its body position."
+  ],
+  "result": "PASS"
+}
