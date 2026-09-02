@@ -1,0 +1,24 @@
+{
+  "batch": "P005",
+  "unit": "P005.29",
+  "source_path": "corpus/diaries/v46_035_037_1850_06_17.md",
+  "source_sha256": "3e3796880452ad2aede1e5f4405013bb06ef42958925d4b8bc20e091feee3d39",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All three printed page markers, the opening daily schedule, general rules, music rules, estate-management rules, Notes section, and all twelve apparatus notes are represented.",
+    "в 8-м часу is rendered toward 8, reflecting the historical Russian expression for the eighth hour rather than falsely specifying exactly 8:00.",
+    "Tolstoy's sexual rule about having no woman at his country place is preserved without euphemistic moralization; the source itself gives the exceptions in deliberately vague terms.",
+    "The musical terms cadenza and doigté remain visible language switches; the editorial gloss расстановка пальцев is translated as fingering.",
+    "Учить одну пьесу ... пока не будет места, где будешь останавливаться is preserved closely as do not go farther until there is a place where you will stop. The Russian is logically awkward and has not been silently emended to no place.",
+    "The Petersburg paragraph ends in an unfinished or grammatically suspended construction in the source; English preserves that suspension rather than supplying a missing consequence."
+  ],
+  "result": "PASS"
+}
