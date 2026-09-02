@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.22",
+  "source_path": "corpus/letters/v59_069_N_A_Nekrasovu.md",
+  "source_sha256": "86bc21f3a8f0a30e004636277ab10f2bc5994de1b8f7e4cf865a41568f79492b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Tolstoy’s entire unsent complaint, including the barber metaphor and every specific textual grievance, is translated without softening its severity.",
+    "The audited Markdown preserves printed note numeral 2 as a bare “2” after the rhetorical question about the story of his childhood but supplies no corresponding footnote definition; the seven surviving Markdown footnotes map to printed notes 1 and 3–8. The bare 2 is retained and omitted Soviet note 2 is not imported.",
+    "The provincial dog-word двошат is transliterated as dvoshat/dvoshali rather than guessed at; the editors’ own note identifies it as a provincialism and records that Tolstoy later used “breathed.”",
+    "The distinction between the icon of his angel and the portrait of his mother is preserved, as is the editorial explanation that censorship required the substitution.",
+    "All three embedded editorial notes and seven surviving Markdown footnotes are translated in full."
+  ],
+  "result": "PASS"
+}

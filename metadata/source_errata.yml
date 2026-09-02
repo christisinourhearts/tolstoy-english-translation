@@ -219,3 +219,14 @@ errata:
     verified_reading: "Official volume 59 prints the French original followed by the Russian editorial rendering and continues the letter's editorial commentary, including Yergolskaya's reply and contextual notes, through pp. 210–211."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Record fr+ru on the English side and, following established Volume 59 policy, document but do not silently import the omitted later Soviet apparatus."
+
+  - source_path: corpus/letters/v59_069_N_A_Nekrasovu.md
+    type: missing_printed_footnote_definition_2
+    status: confirmed
+    volume: 59
+    declared_pages: "211–213"
+    verified_print_pages: "211–213"
+    digital_reading: "The audited Markdown retains a bare printed numeral 2 after the question about the title but defines only Markdown notes [^1]–[^7], corresponding to the other printed notes."
+    verified_reading: "Official volume 59 has eight printed note positions; the missing second note is attached after 'Кому какое дело до истории моего детства...', while the surviving Markdown apparatus corresponds to printed notes 1 and 3–8."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve the bare 2 and translate all surviving apparatus; following established Volume 59 policy, do not silently import omitted Soviet note 2."

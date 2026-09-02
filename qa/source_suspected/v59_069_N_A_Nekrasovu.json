@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_069_N_A_Nekrasovu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_footnote_definition_2",
+  "digital_reading": "The body retains a bare numeral 2 after “Кому какое дело до истории моего детства...”; Markdown definitions [^1]–[^7] correspond to the other printed notes and no definition for printed note 2 survives.",
+  "verified_print_reading": "Official volume 59 prints eight note positions for this letter; the missing second note belongs after the rhetorical question about the title, while the surviving source definitions correspond to printed notes 1 and 3–8.",
+  "verification": "Official 90-volume edition, volume 59, pp. 211–213.",
+  "p006_disposition": "Preserve the bare numeral 2 and translate all surviving apparatus under its existing Markdown identifiers; do not silently import the omitted Soviet note; Russian witness/hash unchanged."
+}
