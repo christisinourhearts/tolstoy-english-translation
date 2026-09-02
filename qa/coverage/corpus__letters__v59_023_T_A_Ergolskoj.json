@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.21",
+  "source_path": "corpus/letters/v59_023_T_A_Ergolskoj.md",
+  "source_sha256": "67141920d2f8ca4361bb8cec8a42eed379cd819b86f6752deba6e3213b08aafa",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy's letter body is French and is translated directly from French; the Soviet edition's Russian rendering is translated separately as apparatus rather than used as the English base text.",
+    "The deliberately unpolished self-reproach 'inconséquent et vilain' is rendered conservatively as 'inconsistent and bad'.",
+    "The audited Markdown assigns separate footnote IDs 4–8 to the editorial Russian rendering; those IDs and all duplicate note definitions are preserved rather than normalized away.",
+    "All three volume-page boundaries, the envelope, the publication note, and the complete eight-note apparatus are represented."
+  ],
+  "result": "PASS"
+}
