@@ -1,0 +1,25 @@
+{
+  "batch": "P005",
+  "unit": "P005.34",
+  "source_path": "corpus/notes/v48_163_165_Zapisnaja_knizhka_No_5_1866_1871.md",
+  "source_sha256": "5ca82a78f3dec3ff4833c5b4500f2de6d8d3e15dd83e6d6b041412075aca7586",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "All three printed page markers, every standalone notebook fragment, all marked illegible spans, both strikethrough passages, the 15–17 June affairs list, the 25 September place list, and both apparatus notes are represented in source order.",
+    "The working-notebook syntax is intentionally not joined into continuous prose; subjects and referents remain unspecified where Tolstoy left them unspecified.",
+    "говеет is rendered prepares for Communion and the source's екатинье is conservatively represented as ektenia, without silently rewriting the notebook spelling.",
+    "Черви is rendered Hearts in its possible card-suit sense, but the fragment remains semantically obscure; no larger scene context is invented.",
+    "вводный лист is rendered writ of possession: contemporary legal references define it as the document recording formal entry into possession.",
+    "The audited Markdown reads Возют [?], while the official printed volume visible at tolstoy.ru reads Возят [?]. The difference does not alter the English sense They haul and the Russian repository remains unchanged.",
+    "The German Geheime Geschichten and und fragment are preserved as language switches rather than normalized away."
+  ],
+  "result": "PASS"
+}
