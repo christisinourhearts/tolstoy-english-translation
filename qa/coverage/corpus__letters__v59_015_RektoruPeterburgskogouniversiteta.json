@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.16",
+  "source_path": "corpus/letters/v59_015_RektoruPeterburgskogouniversiteta.md",
+  "source_sha256": "28015d5b7604b6bb8479fc2fe8485a2b51ff181fcf73445ff446ca0617e2b139",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The formal petition, two listed documents, Tolstoy's marginal note, all three editorial notes, two footnotes, and all three page markers are represented.",
+    "ученая степень Кандидата is scholarly degree of Candidate, retaining the historical university title rather than substituting a modern degree.",
+    "The Löwenfeld recollection preserves the edition's [sic!] 1848 date and the two alternatives of army service or completing university studies."
+  ],
+  "result": "PASS"
+}
