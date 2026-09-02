@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.48",
+  "source_path": "corpus/krug_chtenija/v41_027_028_Krug_chtenija_daily_jan_2_2.md",
+  "source_sha256": "30ca779dd5584792461aec19567386c4648a10247809eb90816a5f86b9b39a2b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "Both page markers, all six numbered sections, the two-paragraph Schopenhauer and Emerson passages, attributions, and closing Tolstoy counsel are represented.",
+    "ходячей монете is rendered current coin, retaining the monetary metaphor rather than paraphrasing it as common currency.",
+    "подстерегать и улавливать is kept as lie in wait for and catch, preserving Emerson’s vivid image as it appears in Tolstoy’s Russian compilation.",
+    "Attributed passages are translated from Tolstoy’s compiled Russian wording rather than replaced by external English editions."
+  ],
+  "result": "PASS"
+}
