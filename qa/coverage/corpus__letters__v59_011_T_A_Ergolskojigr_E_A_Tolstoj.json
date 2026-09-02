@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.13",
+  "source_path": "corpus/letters/v59_011_T_A_Ergolskojigr_E_A_Tolstoj.md",
+  "source_sha256": "2f4c6fcc83a6bb06801e565df36e33f0a2e673e05039e914a5828afa14ef1d49",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The French original is translated directly, followed by the source's complete Russian editorial rendering in the same sequence; both page markers, publication note, and all seven preserved footnote definitions are represented.",
+    "descente is rendered hernia in accordance with the editors' Russian грыжа; varicoselle/varicosella is retained as varicocele in the direct translation and as the source's Latinized varicosella in the editorial rendering.",
+    "The bare numeral 5 after Basile is preserved. The official volume identifies it as a note to Vasily Stepanovich Perfiliev, but that original note is absent from the audited Markdown because [^5]–[^7] have been assigned to the duplicated Russian rendering; the missing note is documented rather than imported.",
+    "The repeated farewell and seal/watch expense passage is intentionally represented twice because the source preserves both the French original and its editorial Russian rendering."
+  ],
+  "result": "PASS"
+}

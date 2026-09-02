@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_011_T_A_Ergolskojigr_E_A_Tolstoj.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_original_french_footnote_5_perfiliev",
+  "digital_reading": "The audited Markdown retains a bare numeral 5 after French Basile but has no corresponding Perfiliev note; Markdown footnotes [^5]–[^7] instead belong to the duplicated Russian editorial rendering of earlier notes.",
+  "verified_print_reading": "Official volume 59 p. 27 prints superscript 5 after Basile and supplies note 5 identifying Vasily Stepanovich Perfiliev and referring to note 4 to letter 6.",
+  "verified_print_pages": "26–27",
+  "verification": "Official 90-volume electronic edition, volume 59, letter 11.",
+  "witness": "https://tolstoy.ru/online/90/59/",
+  "p005_disposition": "Keep the Russian repository immutable. Retain the bare numeral 5 in the translated French sequence and translate all apparatus preserved in Markdown; document but do not silently import the omitted note, consistent with the established Volume 59 witness policy."
+}

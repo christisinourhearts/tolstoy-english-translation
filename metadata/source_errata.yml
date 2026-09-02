@@ -142,3 +142,14 @@ errata:
     verified_reading: "Official volume 59 p. 25 prints a superscript note marker 3 after fer[s]ait in Tolstoy's French. The Tolstoy-authored letter itself is otherwise complete in the audited Markdown."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; preserve the source anomaly, translate the complete surviving Tolstoy text and apparatus, and do not conjecturally reconstruct omitted note content."
+
+- source_path: corpus/letters/v59_011_T_A_Ergolskojigr_E_A_Tolstoj.md
+    type: missing_original_french_footnote_5_perfiliev
+    status: confirmed
+    volume: 59
+    declared_pages: "26–27"
+    verified_print_pages: "26–27"
+    digital_reading: "The audited Markdown retains a bare numeral 5 after French Basile but has no corresponding Perfiliev note; Markdown footnotes [^5]–[^7] instead belong to the duplicated Russian editorial rendering of earlier notes."
+    verified_reading: "Official volume 59 p. 27 prints superscript 5 after Basile and supplies note 5 identifying Vasily Stepanovich Perfiliev and referring to note 4 to letter 6."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; preserve the source anomaly, translate the complete surviving Tolstoy text and apparatus, and do not conjecturally reconstruct omitted note content."
