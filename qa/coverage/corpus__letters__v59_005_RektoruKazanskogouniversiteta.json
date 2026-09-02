@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.11",
+  "source_path": "corpus/letters/v59_005_RektoruKazanskogouniversiteta.md",
+  "source_sha256": "cfa3514bee832f2a3257ca3c942cc1c48679091e11ba5cf122ad4d412af0bf23",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The withdrawal petition, board resolution, complete university certificate, Tolstoy's later recollection, explanatory notes, Simonov biography, and all three page markers are represented.",
+    "своекоштного is rendered maintained at his own expense, preserving the historical administrative sense rather than using a modern tuition category.",
+    "The awkward official certificate syntax is kept relatively formal rather than rewritten as modern bureaucratic prose; отлично-хорошего is retained as excellently good.",
+    "Tolstoy's titles Наказ and Esprit des lois remain distinct; the editors' bracketed gloss Дух законов is translated as The Spirit of the Laws."
+  ],
+  "result": "PASS"
+}
