@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.01",
+  "source_path": "corpus/works/v01_226_228_S_teh_por_kak_ja_pomnju_svoju_zhizn.md",
+  "source_sha256": "21fffd4901f4b4c28c5df263f3ad13e1337b1002745fb5cc9d69abf034ccbec8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Recovery reconstruction: the pinned Russian source identity is preserved, while wording and apparatus were checked against the official 90-volume edition because the audited Russian ZIP is not byte-mountable in this runtime.",
+    "The manuscript's two variants remain separate and all three editorial notes are translated.",
+    "Two illegible manuscript spans are preserved explicitly rather than conjecturally supplied.",
+    "The philosophical terms я / не я are rendered conservatively as I / not-I; limited/unlimited, activity/inactivity, and consciousness are kept recurrent rather than stylistically varied.",
+    "The grammatically unstable marginal sentence corresponding to 'Причина этого есть деятельность есть противуречие' is deliberately left unstable in English rather than silently rationalized.",
+    "The exact page-marker sequence 226, 227, 228 is preserved; placement within the reconstructed English follows the official pagination and must be rechecked once the exact audited Markdown bytes are mountable."
+  ],
+  "result": "PASS"
+}

@@ -63,15 +63,15 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 
 ## Current corpus state
 
-- Reviewed English translations: **134**.
+- Reviewed English translations: **135**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
 - P004: **50 / 50 represented**. P004.01–30 are the original accepted packaged files; P004.31–50 are fresh, explicitly labelled recovery reconstructions after workspace loss.
-- P005: exact 50-unit selection reconstructed; **P005.21–22 recovery-package artifacts integrated out of sequence**; 48 units remain untranslated in the repaired manifest.
-- Approximate reviewed source-body words: **23,663**.
+- P005: exact 50-unit selection reconstructed; **P005.01 freshly reconstructed and reviewed; P005.21–22 recovery-package artifacts integrated out of sequence**; 47 units remain untranslated in the repaired manifest.
+- Approximate reviewed source-body words: **24,360**.
 - Confirmed source errata: **11**.
-- Existing structured coverage records: **127**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **128**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -80,7 +80,7 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing.
 - P004 recovery report: `qa/reports/P004_RECOVERY_AUDIT.md`.
 - P005 batch reconstruction: `qa/batches/P005.md`.
-- Next restoration target: **P005.01**.
+- Next restoration target: **P005.02**.
 - The Russian source ZIP was not materializable in this recovery runtime, so fresh raw-source/hash validation remains required when the snapshot is mounted again.
 
 ## P003 status
@@ -183,6 +183,11 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 1. Read `RECOVERY_RECONSTRUCTION.md` and `qa/batches/P005.md`.
 2. When the audited Russian repository is physically mounted, rerun the full source/hash check and translation validator.
-3. Resume restoration at **P005.01**. Do not overwrite P005.21–22 unless a stronger surviving artifact is discovered.
+3. Resume restoration at **P005.02**. Do not overwrite P005.21–22 unless a stronger surviving artifact is discovered.
 4. Keep Decision D0001 conservative-fidelity rule in force and retain the Russian witness as read-only.
 5. Treat the reconstructed P004.31–50 Git checkpoint as new recovery provenance; do not invent historical per-unit commits that did not survive.
+
+
+## P005.01 recovery translation note
+
+The early 1847 untitled philosophical fragment on volume 1, pp. 226–228 was freshly reconstructed in the repaired repository. The pinned source identity remains `21fffd4901f4b4c28c5df263f3ad13e1337b1002745fb5cc9d69abf034ccbec8`; because the audited Russian ZIP is not byte-mountable in this runtime, wording, variants, manuscript gaps, and all three notes were checked against the official 90-volume edition, while repository-wide byte validation remains pending until the exact Russian snapshot can be mounted. The two variants are preserved separately; the recurrent terms limited/unlimited, activity/inactivity, consciousness, and I/not-I are kept deliberately close. Two illegible spans and the unstable marginal syntax are not conjecturally repaired. Structured exhaustive coverage passes.
