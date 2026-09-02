@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.16",
+  "source_path": "corpus/letters/v59_044_A_S_Ogolinu.md",
+  "source_sha256": "c6e03037011edd735bc85daad927435744f70da3e18f74ba4940f51267d2e9a7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The eight-line joking note is translated line-for-line without inventing an English rhyme scheme.",
+    "The nonstandard jocular self-name Толстова is represented as Tolstov rather than normalized to Tolstoy because it participates in the rhyme/wordplay with Molostvova.",
+    "All three embedded editorial notes are translated, including their alternate textual witnesses, dating argument, Ogolin biography, and quoted climbing anecdote.",
+    "The long footnote on Zinaida Molostvova is translated in full, with dates, institutions, family relations, and bibliography preserved.",
+    "The p. 102 marker occurs inside editorial note 2 in the source and is retained there."
+  ],
+  "result": "PASS"
+}
