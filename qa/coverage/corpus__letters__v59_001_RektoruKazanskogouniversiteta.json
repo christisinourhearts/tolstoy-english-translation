@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.09",
+  "source_path": "corpus/letters/v59_001_RektoruKazanskogouniversiteta.md",
+  "source_sha256": "00d7301f3b2b6a1075646ff670a9eef1ad3bd50fd6a7f86b99409df4d8b0f2a0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The petition's full formal address, petition body, two signatures/dates, both source page markers, and all five embedded editorial notes are represented.",
+    "The audited Markdown retains bare note numerals 1–6 but omits their definitions. The official volume confirms the missing apparatus. Consistent with the repository's established Volume 59 treatment of letter 2, the English retains the six numerals and does not silently import the omitted printed notes; the defect is recorded in source QA and source_errata.yml.",
+    "число Студентов is kept concretely as the number of Students; акты as documents; the repeated formal Свидетельство is kept as Certificate rather than modernized to a looser credential term.",
+    "The examination marks and Lobachevsky biographical/editorial material are translated without abridgment."
+  ],
+  "result": "PASS"
+}

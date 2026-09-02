@@ -120,3 +120,14 @@ errata:
     verified_reading: "Independent Tolstoy textual witnesses quote the same passage as ‘(полевых же артиллеристов)’ and ‘мне кажется, что я не ошибаюсь’."
     witness: "https://tolstoy.ru/creativity/journalismguide/13.php ; https://ru.wikisource.org/wiki/Страница:L._N._Tolstoy._All_in_90_volumes._Volume_4.pdf/427"
     action: "Keep the Russian repository immutable and retain its original SHA-256. In English, use the verified closing parenthesis and first-person pronoun only; document the override in coverage QA."
+
+  - source_path: corpus/letters/v59_001_RektoruKazanskogouniversiteta.md
+    type: missing_printed_footnote_definitions_1_through_6
+    status: confirmed
+    volume: 59
+    declared_pages: "3–5"
+    verified_print_pages: "3–5"
+    digital_reading: "The audited Markdown preserves bare reference numerals 1–6 in Tolstoy's petition but supplies no corresponding footnote definitions; embedded editorial notes 1–5 are present."
+    verified_reading: "The official volume confirms the six numerals as note markers and supplies six footnotes; Tolstoy's petition itself is complete in the audited Markdown."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Retain the six reference numerals and translate the complete Tolstoy text plus apparatus present in the audited Markdown; following the established Volume 59 witness policy, document but do not silently import the omitted printed notes."

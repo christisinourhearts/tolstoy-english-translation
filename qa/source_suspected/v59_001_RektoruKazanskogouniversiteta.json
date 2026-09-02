@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_001_RektoruKazanskogouniversiteta.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "missing_printed_footnote_definitions_1_through_6",
+  "digital_reading": "The audited Markdown preserves six bare reference numerals 1–6 in Tolstoy's petition but supplies no corresponding footnote definitions; its embedded editorial notes 1–5 are present.",
+  "verified_print_reading": "Official volume 59 pp. 3–5 confirms that numerals 1–6 are note markers and supplies six footnotes, including an interlinear addition after the Oriental Division and a deleted-word note; Tolstoy's petition itself is complete in the audited Markdown.",
+  "verified_print_pages": "3–5",
+  "verification": "Official 90-volume electronic edition, volume 59, letter 1.",
+  "witness": "https://tolstoy.ru/online/90/59/",
+  "p005_disposition": "Keep the Russian repository immutable and retain the six reference numerals. Translate all Tolstoy-authored text and all editorial apparatus actually present in the audited Markdown. Following the established Volume 59 witness policy used for letter 2, do not silently import the omitted printed notes into the English corpus; record their absence as a witness-level apparatus defect."
+}
