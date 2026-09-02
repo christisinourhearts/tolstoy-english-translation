@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.32",
+  "source_path": "corpus/diaries/v46_043_043_1850_12_27.md",
+  "source_sha256": "fee45d7626ba3d063fb4309bf35842a6b7eb2847c4258d1a4b686418873c2698",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete itinerary, money contingency, two Volkonskys, all named visits, and Gypsies visit are represented.",
+    "The source’s compressed “ик” is read contextually as и к / and to, without altering the Russian witness."
+  ],
+  "result": "PASS"
+}
