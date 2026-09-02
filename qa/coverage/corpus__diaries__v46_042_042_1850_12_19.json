@@ -1,0 +1,19 @@
+{
+  "batch": "P006",
+  "unit": "P006.26",
+  "source_path": "corpus/diaries/v46_042_042_1850_12_19.md",
+  "source_sha256": "825e98a938f5b6478915a16ec55721b6bf0607287fe334c148727daddeed51bf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The entire seven-word diary body and its backward reference to December 18 are represented without explanatory addition."
+  ],
+  "result": "PASS"
+}
