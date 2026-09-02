@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.15",
+  "source_path": "corpus/letters/v59_043_T_A_Ergolskoj.md",
+  "source_sha256": "593929b81b4672676a09d7ab5aa456d79b2afdbbcfac7d733e2e33fe513d37d8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "French original, Count N. N. Tolstoy’s French postscript, the address, the separate Russian editorial rendering, two editorial notes, and all four Markdown footnotes are represented in source order.",
+    "The French original reads 40 v. [?] for the Astrakhan–Kizlyar journey while the Russian editorial rendering reads 400 versts (?); the discrepancy is preserved in the respective layers rather than corrected or harmonized.",
+    "Tolstoy’s abonné / Russian абонировался is rendered as taking out subscriptions, preserving the immediate consequence that he has much to read.",
+    "Tarantas is retained as a Russian vehicle term rather than generalized.",
+    "The French phrase ce n’est qu’un retard is rendered as only an interruption, following the sense made explicit by the separate Russian editorial rendering without erasing the distinction between the two layers."
+  ],
+  "result": "PASS"
+}
