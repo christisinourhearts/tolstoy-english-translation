@@ -1,0 +1,24 @@
+{
+  "batch": "P006",
+  "unit": "P006.08",
+  "source_path": "corpus/works/v03_270_270_Rubka_lesa_Variant.md",
+  "source_sha256": "41ff6af902205106b3ff6f12d9ed5147935a917f5ac2ab27da64ce5f5c677f40",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The deleted working title «Рубка леса. Дневник Кавказского Офицера.» is preserved as a deleted English line.",
+    "All three kinds of warfare remain distinct: raids; sieges of fortresses/fortified auls; construction of fortresses in enemy territory.",
+    "правильнее is retained as more correctly rather than silently replacing fortress with aul.",
+    "раззорить, сжечь и истребить is rendered ravaging, burning, and destroying without euphemism.",
+    "лазутчики is rendered scouts in the operational sense; no stronger spy terminology is added.",
+    "рекогносцировка and рубка леса remain visibly emphasized as technical actions; the singular/plural recurrence is preserved.",
+    "The terminal «В 18.....» is retained as an unfinished date rather than completed from chronology."
+  ],
+  "result": "PASS"
+}
