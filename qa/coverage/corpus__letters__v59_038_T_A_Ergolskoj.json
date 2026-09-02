@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.12",
+  "source_path": "corpus/letters/v59_038_T_A_Ergolskoj.md",
+  "source_sha256": "bcdc63b21033a394d63c5a9c19c206667b3fb6e1be24265b4ad44c6ef457122f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The French original and following Soviet Russian rendering are translated separately and intentionally duplicate the same letter.",
+    "couru le monde is rendered went about in society in the direct French translation; the Russian rendering’s бывал в свете becomes went about in society as well without adding stronger dissipation language.",
+    "suites de mon entrevue is rendered what came of my meeting; the deliberately anticlimactic list of health, theater, and flowers is retained.",
+    "The envelope address to Chern in Tula province and all six duplicated explanatory notes are represented.",
+    "The source heading says end of February while the editorial note cites Yergolskaya’s envelope notation 1 March 1851; the inherited February range is retained without inventing a precise day."
+  ],
+  "result": "PASS"
+}
