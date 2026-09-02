@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.19",
+  "source_path": "corpus/letters/v59_020_Gr_S_N_Tolstomu.md",
+  "source_sha256": "1b6cd61474a5fe0c703e364674eff8349b31e912113de342550ddc1a3295ea2f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All four numbered answers, mixed French apology, household/clothing list, servant proposal, envelope, three page markers, publication note, and six footnotes are represented.",
+    "The French apology to tante Toinette is translated directly; footnote [^2] separately translates the editors' Russian rendering, preserving the source's deliberate duplication.",
+    "сертук is frock coat; косынки / фуляровые платки are kept separately as neckerchiefs / foulard scarves; печати is seals.",
+    "переменою старост is rendered change of village elders in the estate-management context rather than generalized as staff changes."
+  ],
+  "result": "PASS"
+}
