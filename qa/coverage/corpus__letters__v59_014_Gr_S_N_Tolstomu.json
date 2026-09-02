@@ -1,0 +1,21 @@
+{
+  "batch": "P005",
+  "unit": "P005.15",
+  "source_path": "corpus/letters/v59_014_Gr_S_N_Tolstomu.md",
+  "source_sha256": "aa48116b2dab41c954ee9d3d15c6d291a3846d1ed78fbd0d1227e5097e664d5c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All three numbered requests/anxieties, both page markers, the publication note, and all six footnotes are represented.",
+    "квиты is rendered we will be quits; the parenthetical по разделу remains under the division rather than being expanded beyond the source.",
+    "благоволит очень ко мне is very favorably disposed toward me; the deleted протежирует is separately preserved in footnote [^6] as is patronizing [me]."
+  ],
+  "result": "PASS"
+}
