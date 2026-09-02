@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.43",
+  "source_path": "corpus/azbuka/v21_018_018_U_Mishi_byli_sani.md",
+  "source_sha256": "2ee058c476e162a16070588bfd703026bff4adf4da2d595b1e69bf12b508e179",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "The HTML line break in the final source paragraph is preserved. Вези is rendered Pull in the sled context without adding an unstated destination."
+  ],
+  "result": "PASS"
+}
