@@ -1,0 +1,21 @@
+{
+  "batch": "P006",
+  "unit": "P006.24",
+  "source_path": "corpus/diaries/v46_041_042_1850_12_17.md",
+  "source_sha256": "c6755af11fd959055d284d883635654992baf4e192446f94b6d4fcaaa3634dae",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete two-page schedule, all named visits, music regimen, club visit, and general sleep rule are represented.",
+    "обедня is rendered liturgy; девки is retained plainly as girls rather than euphemized.",
+    "Both deleted temporal readings are retained in the apparatus."
+  ],
+  "result": "PASS"
+}
