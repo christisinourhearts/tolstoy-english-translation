@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.40",
+  "source_path": "corpus/azbuka/v21_017_017_U_detej_byli_svoi_grjadki.md",
+  "source_sha256": "79139be717723878d7d80f258804384273c5696a2a88272e61a47a1db029309c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "The rapid imperative sequence Дети скорей! Жучку пускай. Жучка скорей... is preserved as a rapid sequence rather than expanded into explanatory prose."
+  ],
+  "result": "PASS"
+}
