@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_040_T_A_Ergolskoj.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "metadata_date_narrower_than_printed_heading",
+  "digital_reading": "YAML/title/manifest date the letter specifically March 1, 1851.",
+  "verified_print_reading": "The academic text heading reads 1851 г. Марта 1... 15. Москва; its editorial note dates the letter from the postmark and records Yergolskaya’s envelope note Received 15 March 1851.",
+  "verification": "Official 90-volume edition, volume 59, pp. 91–93.",
+  "p006_disposition": "English title/date range follow the printed heading; Russian witness/hash remain unchanged."
+}

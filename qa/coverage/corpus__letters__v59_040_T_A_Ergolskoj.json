@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.14",
+  "source_path": "corpus/letters/v59_040_T_A_Ergolskoj.md",
+  "source_sha256": "b22f373a1725ce15915a1d178ac4f7228dab5b52641ca87388ae8034682e803d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "French original and Russian editorial rendering are both translated in source order, with all three source page markers, envelope address, editorial publication/dating note, and the surviving footnote represented.",
+    "The printed academic heading dates the letter March 1...15, while the source YAML/title/manifest narrowed it to March 1. English metadata follows the printed heading and the Russian witness is unchanged.",
+    "Tolstoy’s French Gros-Jean form is kept close to the surviving French while the separate Russian editorial rendering is translated independently as if nothing works out for me here.",
+    "The French alternation is read contextually as alternative, matching the explicit either/or construction.",
+    "Repeated shifts between duties, habits, and not to let oneself be distracted in a crowd are retained rather than harmonized."
+  ],
+  "result": "PASS"
+}
