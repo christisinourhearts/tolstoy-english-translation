@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.23",
+  "source_path": "corpus/letters/v59_026_T_A_Ergolskoj.md",
+  "source_sha256": "1fda383fe8817bb38bff8d5de1e4494bccf4f6461960fc0614b5c078ee070819",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The complete French original, the envelope/page-3 address, the source's Russian editorial rendering, both printed page markers, publication note, and all seven footnotes are represented.",
+    "The French is translated directly. Serge est revenu ... très sage is Serge has returned ... very sensible; the editorial Russian умницей is separately rendered a sensible fellow.",
+    "The deleted pour aller is preserved only in footnote [^4] as in order to go; the live French syntax is rendered before paying you a visit without restoring deleted words into the body.",
+    "The estate name Vorotynka/Malaya Vorotynka and the stud-farm detail are kept distinct between Tolstoy's body and editorial notes."
+  ],
+  "result": "PASS"
+}
