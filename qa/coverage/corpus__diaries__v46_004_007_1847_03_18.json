@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.25",
+  "source_path": "corpus/diaries/v46_004_007_1847_03_18.md",
+  "source_sha256": "f3e3e16f6e8f2ea1dd50021a2c2f65b768f7d9834bc2afec00da94a25133fbcc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All four printed page markers, the complete discussion of chapters I-VI of Catherine II's Instruction, all Latin quotations, and all twenty-nine notes are represented.",
+    "Latin quotations remain in the body exactly as supplied by the audited source; the edition's Russian glosses are translated into English in the notes.",
+    "Natural law and positive law are kept as separate juridical terms; Tolstoy's abrupt judgments about Catherine and about women's minds are not softened.",
+    "The marginal why? attached to the quotation about obedience to one master and all deleted/restored readings are preserved in the apparatus."
+  ],
+  "result": "PASS"
+}
