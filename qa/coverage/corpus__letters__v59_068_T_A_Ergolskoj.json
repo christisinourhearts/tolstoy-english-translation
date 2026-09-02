@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.21",
+  "source_path": "corpus/letters/v59_068_T_A_Ergolskoj.md",
+  "source_sha256": "2abd1e220ae9915fe76db553cff5a30a620dd5576c73dcfd33bb529fd452a219",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "French original and Russian editorial rendering are both translated in source order, with the two surviving page markers, two editorial notes, and two duplicated Markdown footnotes represented.",
+    "The source language metadata says ru although the first half is French; English metadata records fr+ru and the Russian source is unchanged.",
+    "The French transcription “de quel[les] pixelles sont pour moi” is corrupt-looking; its context and the parallel Russian editorial rendering (“как я ими дорожу”) make the intended sense unambiguous, so it is rendered “how precious they are to me” without altering the source witness.",
+    "The source declares pp. 208–211 but its Markdown stops after the beginning of the editorial apparatus on p. 209. Official volume 59 continues with Yergolskaya’s reply and contextual commentary through pp. 210–211. Following established Volume 59 policy, the missing Soviet apparatus is documented but not silently imported.",
+    "The direct French “less bad” and the editorial Russian “better” are deliberately kept distinct."
+  ],
+  "result": "PASS"
+}

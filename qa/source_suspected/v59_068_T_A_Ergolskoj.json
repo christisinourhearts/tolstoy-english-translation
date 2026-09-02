@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_068_T_A_Ergolskoj.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "incorrect_language_metadata_and_missing_later_editorial_apparatus",
+  "digital_reading": "YAML says language: ru although Tolstoy’s original letter is French before the separate Russian editorial rendering. The Markdown has page markers 208 and 209 only and ends after editorial note 2, despite declaring source pages 208–211.",
+  "verified_print_reading": "Official volume 59 prints the French original, Russian editorial rendering, then continues the editorial apparatus with Yergolskaya’s reply and contextual notes through pp. 210–211.",
+  "verification": "Official 90-volume edition, volume 59, pp. 208–211.",
+  "p006_disposition": "English metadata records fr+ru; translate the complete surviving Markdown apparatus; do not silently import the omitted Soviet commentary; Russian witness/hash unchanged."
+}
