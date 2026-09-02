@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.26",
+  "source_path": "corpus/diaries/v46_011_014_1847_03_21.md",
+  "source_sha256": "23642f95be3f6e9e02811dd28fd37b5c61da79ab7c5d8a1bbbc851330507f232",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All four printed page markers, the complete 21 March diary body, both Latin passages, and all twenty-one notes are represented.",
+    "решения дел должны быть народны is rendered judgments in cases ought to be public, in the surrounding context of republican/open adjudication; no broader institutional claim is added.",
+    "The source's accusatory/criminal terminology is kept close to Tolstoy's wording even where modern legal English would distinguish accused, defendant, and convicted offender more sharply.",
+    "All deleted variants, including the reversal innocent/guilty recorded by note 13, remain in the apparatus rather than being silently normalized."
+  ],
+  "result": "PASS"
+}
