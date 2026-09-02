@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.46",
+  "source_path": "corpus/krug_chtenija/v41_020_022_Krug_chtenija_daily_jan_1_7.md",
+  "source_sha256": "17c13bdc911c6c118a867244a2aeeb71a152b287b7a5c6d09315c2c6169cb992",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "All six numbered sections, both internal page boundaries, attributions, and the opening/closing Tolstoy aphorisms are represented.",
+    "уроды is rendered monstrosities in the Schopenhauer passage, preserving the harsh source wording rather than softening the quotation.",
+    "войну не на живот, а на смерть is rendered a war not for life but to the death, retaining the idiom and its intensity.",
+    "Attributed passages are translated from Tolstoy’s compiled Russian wording, not substituted from independent English editions."
+  ],
+  "result": "PASS"
+}
