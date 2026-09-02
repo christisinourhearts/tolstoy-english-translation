@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.44",
+  "source_path": "corpus/azbuka/v21_018_018_U_djadi_byla_na_ruke_rana.md",
+  "source_sha256": "168c6cacf8bb7319ec78163b024ccedad918079c0b3e6f6f7326378ea0c441e2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "руке is rendered hand in this elementary body-part sentence; no cause or treatment is added."
+  ],
+  "result": "PASS"
+}
