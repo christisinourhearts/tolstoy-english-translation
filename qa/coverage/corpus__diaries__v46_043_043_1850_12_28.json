@@ -1,0 +1,21 @@
+{
+  "batch": "P006",
+  "unit": "P006.33",
+  "source_path": "corpus/diaries/v46_043_043_1850_12_28.md",
+  "source_sha256": "0a2b323110726e42fe617e272fc19f04140603163f7a26674f8051623167c3c9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The self-reproach, severe illness rule, diary review, Neskuchnoye visit, courtship instruction, Gypsies visit, and packing are all represented.",
+    "волочиться за княгиней is rendered pay court to the princess, matching the established P005 diary terminology.",
+    "The deleted зав is an incomplete fragment; it is represented conservatively as tom... rather than completed conjecturally."
+  ],
+  "result": "PASS"
+}
