@@ -131,3 +131,14 @@ errata:
     verified_reading: "The official volume confirms the six numerals as note markers and supplies six footnotes; Tolstoy's petition itself is complete in the audited Markdown."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Retain the six reference numerals and translate the complete Tolstoy text plus apparatus present in the audited Markdown; following the established Volume 59 witness policy, document but do not silently import the omitted printed notes."
+
+- source_path: corpus/letters/v59_010_T_A_Ergolskoj.md
+    type: displaced_or_missing_original_french_note_3
+    status: confirmed
+    volume: 59
+    declared_pages: "25–26"
+    verified_print_pages: "25–26"
+    digital_reading: "The audited Markdown retains a bare numeral 3 after French fer[s]ait, while its defined notes [^3] and [^4] are duplicates attached to the separate Russian editorial rendering; no definition corresponding to the original French marker 3 is preserved."
+    verified_reading: "Official volume 59 p. 25 prints a superscript note marker 3 after fer[s]ait in Tolstoy's French. The Tolstoy-authored letter itself is otherwise complete in the audited Markdown."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; preserve the source anomaly, translate the complete surviving Tolstoy text and apparatus, and do not conjecturally reconstruct omitted note content."

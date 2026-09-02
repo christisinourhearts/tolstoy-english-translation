@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.12",
+  "source_path": "corpus/letters/v59_010_T_A_Ergolskoj.md",
+  "source_sha256": "9092c546d4efd4e28de2c75b164cef4cffe540513625aebc89aa190983301c5f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "Tolstoy's opening Russian instruction, complete French letter, both page markers, the editors' four-part Russian rendering/publication note, and all four Markdown footnotes are represented.",
+    "The French is translated directly. débauché dans cette vie du monde is rendered let myself go in this life of society, preserving self-reproach without intensifying it into a sexual sense unsupported here.",
+    "The bare numeral 3 after fer[s]ait is preserved as source evidence. The official volume confirms it as a printed marker, while the audited Markdown does not retain its corresponding original-language note definition; this is documented under SOURCE_SUSPECTED rather than guessed.",
+    "подводы is carts in context; 200 r. argent is 200 silver rubles."
+  ],
+  "result": "PASS"
+}

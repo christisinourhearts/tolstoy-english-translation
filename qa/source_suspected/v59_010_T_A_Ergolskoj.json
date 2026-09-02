@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/letters/v59_010_T_A_Ergolskoj.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "displaced_or_missing_original_french_note_3",
+  "digital_reading": "The audited Markdown retains a bare numeral 3 after French fer[s]ait, while its defined notes [^3] and [^4] are duplicates attached to the separate Russian editorial rendering; no definition corresponding to the original French marker 3 is preserved.",
+  "verified_print_reading": "Official volume 59 p. 25 prints a superscript note marker 3 after fer[s]ait in Tolstoy's French. The Tolstoy-authored letter itself is otherwise complete in the audited Markdown.",
+  "verified_print_pages": "25–26",
+  "verification": "Official 90-volume electronic edition, volume 59, letter 10.",
+  "witness": "https://tolstoy.ru/online/90/59/",
+  "p005_disposition": "Keep the Russian repository immutable. Retain the bare numeral as source evidence and translate the complete Tolstoy text and all apparatus preserved in Markdown; do not conjecture a missing definition."
+}
