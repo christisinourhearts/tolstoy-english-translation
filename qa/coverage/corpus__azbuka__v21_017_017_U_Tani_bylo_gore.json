@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.39",
+  "source_path": "corpus/azbuka/v21_017_017_U_Tani_bylo_gore.md",
+  "source_sha256": "45e6516bbd071d3dcb295326055ee35fed3b9c1861e24f7cbc0871e5d3757abd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "The four very short source paragraphs remain separate; Беда-Тане is kept close as Trouble for Tanya rather than normalized into a smoother exclamation."
+  ],
+  "result": "PASS"
+}
