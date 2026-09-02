@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.03",
+  "source_path": "corpus/works/v01_242_244_Znanie_muzyki_subektivnoe_i_obektivnoe.md",
+  "source_sha256": "723bb2616294975cdcea943e85759f07ad19a793bca6988614af0c2cef6f2379",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "Both graphic-notation locations are preserved verbatim as the source figure comments ./img/i000020000000.png and ./img/i000020100000.png. The audited Russian snapshot itself does not bundle those image payloads, so no graphic content was invented or paraphrased.",
+    "генерал бас is rendered by the established English music-theory term thoroughbass; the recurring three relations пространство / время / сила are kept as space / time / force.",
+    "фантазия remains fantasy rather than being systematically modernized to imagination, because it functions as Tolstoy's own technical term in the fragment.",
+    "The source's [unclear: на] and [1 illegible] markers, bracketed supplied wording, long rule-lines, internal numbering, and page-marker positions are preserved.",
+    "The final wording about lines above or below notes is deliberately kept close to the rough source rather than reconstructed into a modern system of dynamics."
+  ],
+  "result": "PASS"
+}
