@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.02",
+  "source_path": "corpus/works/v02_339_340_Perechen_glav_Junosti.md",
+  "source_sha256": "a9d8df21d366ad8e893b4d621d7a33011dd35751b276ff5b02b284573c141993",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact source bytes revalidated; both printed page markers and the source's chapter-number sequence are preserved.",
+    "Evaluative ничего is rendered contextually as 'all right' or 'not bad', not literal 'nothing', except in the formula нечего переделывать ('nothing to redo').",
+    "порядочно is kept context-sensitive as 'decent' when standing alone and 'fairly' when modifying 'awkward/empty'.",
+    "не едино in the note on chapter XIV is rendered 'not coherent', reflecting Tolstoy's criticism of the chapter as a whole without inventing a more specific defect.",
+    "The compressed string иконецъвздоръ is read transparently as 'and the ending is nonsense'; no additional content is supplied.",
+    "The source's two deletion spans in chapter XXVI and the jump from XXXIX directly to L are preserved rather than corrected."
+  ],
+  "result": "PASS"
+}
