@@ -1,0 +1,18 @@
+{
+  "batch": "P006",
+  "unit": "P006.19",
+  "source_path": "corpus/letters/v59_063_N_A_Nekrasovu.md",
+  "source_sha256": "d5301a3c2a95ea6c47e2e0a8313de69f218b9289f80bafc089198e83f907b5a7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Publication conditions preserved distinctly: valuation/payment, permitted cuts, and prohibition on additions or alterations; all apparatus retained."
+  ],
+  "result": "PASS"
+}
