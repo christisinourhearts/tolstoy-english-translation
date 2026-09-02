@@ -10,7 +10,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `qa/batches/P004.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, resume at the exact P004 next unit recorded below. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, follow the recovery state below and resume restoration at P005.01; do not overwrite the already-integrated P005.21–22 recovery artifacts. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
@@ -18,20 +18,19 @@ Use this instruction:
 - P002: complete (25 units)
 - P002 cold audit: complete
 - P003: complete (50 / 50), with cold audit PASS AFTER REVISION
-- P004: in progress, **30 / 50 accepted**
-- Last accepted unit: **P004.30 — diary entry, 16 June 1850**
-- Next unit: **P004.31 — diary entry, 18 June 1850**
-- Total reviewed translations: **112**
-- Approximate reviewed source-body words: **20,320**
-- Structured bilingual coverage records: **105** (plus 7 P001 legacy unstructured passes)
-- Confirmed source errata: **11**; source-verified anomalies: **2**
-- Latest translation commit: `67ebddc` — Translate P004.30 June 1850 diary
-- Git working tree at this handoff refresh: clean before the handoff commit
+- P004: **50 / 50 represented; P004.01–30 are original packaged accepted units, P004.31–50 are explicitly documented fresh recovery reconstructions**
+- P004 recovery audit: PASS AS DOCUMENTED RECONSTRUCTION (`qa/reports/P004_RECOVERY_AUDIT.md`)
+- P005: exact 50-unit selection reconstructed; **P005.21–22 recovery-package artifacts integrated out of sequence; the other 48 units remain untranslated in this repaired manifest**
+- Next restoration target: **P005.01**
+- Total reviewed translations in repaired manifest: **134**
+- Approximate reviewed source-body words: **23,663**
+- Structured bilingual coverage records: **127** (plus 7 P001 legacy unstructured passes)
+- Confirmed source errata inherited from baseline: **11**; source-verified anomalies: **2**
+- Git history through P004.30 is the original packaged history. Recovery commits after that point are new and intentionally do not manufacture the vanished historical per-unit commits.
 
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`; do not infer ShareAlike status for the translation text merely from the witness metadata.
-- P004.19 confirmed two character-level transcription defects in the digital witness (`{ ... )` for a parenthesis and `л` for `я`) from independent Tolstoy textual witnesses; the Russian source was not changed.
-- P004.26 checked the malformed bracket presentation of the 14 June 1847 diary header against official volume 46 and records the verified bracketed form in English QA.
-
+- In this recovery runtime the saved Russian ZIP could not be materialized from Library (HTTP 403), so the full raw-source validator was not rerun. Re-run it as soon as the audited Russian ZIP is actually mounted.
+- Read `RECOVERY_RECONSTRUCTION.md` before continuing.
 
 ## Source provenance development
 

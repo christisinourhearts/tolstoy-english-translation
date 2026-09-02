@@ -6,8 +6,10 @@ This is the persistent handoff ledger. A fresh session should read, in this orde
 2. `TRANSLATION.md`
 3. `metadata/DECISIONS.md`
 4. `WORKBENCH.md`
-5. `qa/batches/P003.md`
-6. `translation_manifest.jsonl`
+5. `RECOVERY_RECONSTRUCTION.md`
+6. `qa/batches/P004.md`
+7. `qa/batches/P005.md`
+8. `translation_manifest.jsonl`
 
 ## Source snapshot
 
@@ -61,23 +63,25 @@ The authoritative Russian repository must remain read-only. In the current resum
 
 ## Current corpus state
 
-- Reviewed English translations: **112**.
+- Reviewed English translations: **134**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
-- Approximate reviewed source-body words: **20,320**.
+- P004: **50 / 50 represented**. P004.01–30 are the original accepted packaged files; P004.31–50 are fresh, explicitly labelled recovery reconstructions after workspace loss.
+- P005: exact 50-unit selection reconstructed; **P005.21–22 recovery-package artifacts integrated out of sequence**; 48 units remain untranslated in the repaired manifest.
+- Approximate reviewed source-body words: **23,663**.
 - Confirmed source errata: **11**.
-- Existing structured coverage records: **105**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **127**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
+### Recovery status
 
-### P004
-
-- Batch selected and boundary-preflighted: 50 units, 46 CLEAR / 3 LOW / 1 MEDIUM / 0 HIGH.
-- **30 / 50 accepted.**
-- Last completed unit: **P004.30 — Diary, 16 June 1850.**
-- Next unit: **P004.31 — Diary, 18 June 1850.**
+- Read `RECOVERY_RECONSTRUCTION.md` before continuing.
+- P004 recovery report: `qa/reports/P004_RECOVERY_AUDIT.md`.
+- P005 batch reconstruction: `qa/batches/P005.md`.
+- Next restoration target: **P005.01**.
+- The Russian source ZIP was not materializable in this recovery runtime, so fresh raw-source/hash validation remains required when the snapshot is mounted again.
 
 ## P003 status
 
@@ -177,8 +181,8 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. P004 is in production at 30/50 accepted units; resume with **P004.31**.
-2. Keep the hardened validator and Decision D0001 conservative-fidelity rule in force.
-3. Keep the audited Russian repository read-only as a CC BY-SA comparison witness. English translations remain separately licensed as `PROJECT-TBD`; do not infer ShareAlike status for the translation text from the witness metadata.
-4. Continue translate → fidelity audit → conservative English edit → exhaustive coverage proof → mechanical validation → individual Git checkpoint.
-5. Include difficult/source-structure material in periodic cold audits rather than relying only on per-unit production QA.
+1. Read `RECOVERY_RECONSTRUCTION.md` and `qa/batches/P005.md`.
+2. When the audited Russian repository is physically mounted, rerun the full source/hash check and translation validator.
+3. Resume restoration at **P005.01**. Do not overwrite P005.21–22 unless a stronger surviving artifact is discovered.
+4. Keep Decision D0001 conservative-fidelity rule in force and retain the Russian witness as read-only.
+5. Treat the reconstructed P004.31–50 Git checkpoint as new recovery provenance; do not invent historical per-unit commits that did not survive.
