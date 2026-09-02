@@ -230,3 +230,14 @@ errata:
     verified_reading: "Official volume 59 has eight printed note positions; the missing second note is attached after 'Кому какое дело до истории моего детства...', while the surviving Markdown apparatus corresponds to printed notes 1 and 3–8."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Preserve the bare 2 and translate all surviving apparatus; following established Volume 59 policy, do not silently import omitted Soviet note 2."
+
+  - source_path: corpus/letters/v59_070_N_A_Nekrasovu.md
+    type: missing_printed_footnote_definition_1
+    status: confirmed
+    volume: 59
+    declared_pages: "213–215"
+    verified_print_pages: "213–215"
+    digital_reading: "The audited Markdown retains a bare printed numeral 1 after the sentence about censorship cuts in Childhood but contains no corresponding footnote definition."
+    verified_reading: "Official volume 59 prints note 1 there and defines it as a reference to The Raid, originally titled Letter from the Caucasus, with its 1852 composition chronology."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve the bare 1 and translate all apparatus actually present; following established Volume 59 policy, document but do not silently import the omitted Soviet note."

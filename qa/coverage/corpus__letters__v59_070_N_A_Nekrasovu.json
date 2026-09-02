@@ -1,0 +1,21 @@
+{
+  "batch": "P006",
+  "unit": "P006.23",
+  "source_path": "corpus/letters/v59_070_N_A_Nekrasovu.md",
+  "source_sha256": "6d106a74e7921aecace45294f10038151eb57a8035a23feb7c2e7ac67a38a959",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Tolstoy's distinctions among cuts, petty alterations, the omitted Natalya Savishna love story, the changed title, and his request that future writing be altered in absolutely no respect are all preserved rather than generalized.",
+    "The projected sequence Детство / Отрочество / Юность / Молодость is rendered Childhood / Boyhood / Youth / Young Manhood, matching the terminology already established in the Four Epochs plans in this corpus.",
+    "The audited Markdown retains a bare printed numeral 1 after the sentence about censorship cuts but supplies no corresponding footnote definition. Official volume 59 confirms the note and explains that Tolstoy means The Raid, originally titled Letter from the Caucasus; following the established Volume 59 policy, the English retains the bare 1 but does not import the omitted Soviet note.",
+    "The embedded publication/editorial note and its two quoted diary entries are translated in full."
+  ],
+  "result": "PASS"
+}

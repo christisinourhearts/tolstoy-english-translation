@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_070_N_A_Nekrasovu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_footnote_definition_1",
+  "digital_reading": "The body retains a bare numeral 1 after the sentence about censorship cuts in Childhood, but the audited Markdown contains no footnote-definition section for this letter.",
+  "verified_print_reading": "Official volume 59 prints note 1 at this position and defines it as a reference to The Raid, originally titled Letter from the Caucasus, with the chronology of Tolstoy's work on it in 1852.",
+  "verification": "Official 90-volume edition, volume 59, pp. 213–215.",
+  "p006_disposition": "Preserve the bare numeral 1 and translate all apparatus actually present in the audited Markdown; do not silently import the omitted Soviet note; Russian witness/hash unchanged."
+}
