@@ -197,3 +197,14 @@ errata:
     verified_reading: "The printed academic heading gives '1851 г. Марта 1... 15. Москва'; the editorial note dates it from the postmark and records receipt on 15 March 1851."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Use the printed March 1–15 range in English metadata and document the source metadata narrowing."
+
+  - source_path: corpus/letters/v59_066_N_A_Nekrasovu.md
+    type: metadata_source_pages_overrange
+    status: confirmed
+    volume: 59
+    declared_pages: "202–209"
+    verified_print_pages: "202–205"
+    digital_reading: "The source metadata declares pp. 202–209 although the Markdown witness contains markers only for 202–205 and ends with the apparatus to letter 66."
+    verified_reading: "Official volume 59 begins letter 66 on p. 202 and letter 67 on p. 205; the represented letter/apparatus ends on p. 205."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Correct only the English/manifest represented source-page range to 202–205 and document the metadata overrange."

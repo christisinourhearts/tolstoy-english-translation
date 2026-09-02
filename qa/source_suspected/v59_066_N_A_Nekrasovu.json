@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_066_N_A_Nekrasovu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "metadata_source_pages_overrange",
+  "digital_reading": "Source YAML/manifest declare source_pages 202–209, but the file contains only page markers 202, 203, 204, and 205 and ends with the apparatus to letter 66.",
+  "verified_print_reading": "Official volume 59 begins letter 66 on p. 202 and letter 67 on p. 205; the represented letter/apparatus therefore occupies pp. 202–205, not through p. 209.",
+  "verification": "Official 90-volume edition, volume 59, table/letter sequence around nos. 66–67.",
+  "p006_disposition": "English metadata records pp. 202–205; Russian witness/hash unchanged."
+}

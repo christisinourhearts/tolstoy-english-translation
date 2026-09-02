@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.20",
+  "source_path": "corpus/letters/v59_066_N_A_Nekrasovu.md",
+  "source_sha256": "f7f7d76b883724390319a8fd8fc11602ab21f881bd3e155be9f37c3c7c69c6b2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Tolstoy’s letter and all thirteen numbered editorial paragraphs are translated; this includes Nekrasov’s first reply, his September 5 follow-up, his October 30 payment proposal, Tolstoy diary reactions, and the biographies in note 13.",
+    "The source metadata declares pages 202–209 although this Markdown witness contains markers only for pp. 202–205 and official volume 59 begins letter 67 on p. 205. English metadata therefore records the represented range 202–205 and the Russian source remains unchanged.",
+    "Tolstoy’s repeated demand for a valuation/payment is preserved distinctly from Nekrasov’s later explanation of the journal custom of not paying for a beginner’s first story.",
+    "Nekrasov’s rate of 50 silver rubles per printed sheet is retained exactly.",
+    "The phrase набрав из дефектов is rendered as offprints pieced together from defective sheets, preserving the printing-house context rather than generalizing it."
+  ],
+  "result": "PASS"
+}
