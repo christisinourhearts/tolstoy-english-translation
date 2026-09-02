@@ -10,7 +10,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, follow the recovery state below and resume restoration at P005.02; do not overwrite the already-integrated P005.21–22 recovery artifacts. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, follow the recovery state below and resume restoration at P005.03; do not overwrite the already-integrated P005.21–22 recovery artifacts. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
 
 ## Current state
 
@@ -20,11 +20,11 @@ Use this instruction:
 - P003: complete (50 / 50), with cold audit PASS AFTER REVISION
 - P004: **50 / 50 represented; P004.01–30 are original packaged accepted units, P004.31–50 are explicitly documented fresh recovery reconstructions**
 - P004 recovery audit: PASS AS DOCUMENTED RECONSTRUCTION (`qa/reports/P004_RECOVERY_AUDIT.md`)
-- P005: exact 50-unit selection reconstructed; **P005.01 freshly reconstructed and reviewed; P005.21–22 recovery-package artifacts integrated out of sequence; the other 47 units remain untranslated in this repaired manifest**
-- Next restoration target: **P005.02**
-- Total reviewed translations in repaired manifest: **135**
-- Approximate reviewed source-body words: **24,360**
-- Structured bilingual coverage records: **128** (plus 7 P001 legacy unstructured passes)
+- P005: exact 50-unit selection reconstructed; **P005.01–02 freshly reconstructed and reviewed; P005.21–22 recovery-package artifacts integrated out of sequence; the other 46 units remain untranslated in this repaired manifest**
+- Next restoration target: **P005.03** (music fragment with graphic notation; recover/inspect its exact source representation before acceptance if possible)
+- Total reviewed translations in repaired manifest: **136**
+- Approximate reviewed source-body words: **25,247**
+- Structured bilingual coverage records: **129** (plus 7 P001 legacy unstructured passes)
 - Confirmed source errata inherited from baseline: **11**; source-verified anomalies: **2**
 - Git history through P004.30 is the original packaged history. Recovery commits after that point are new and intentionally do not manufacture the vanished historical per-unit commits.
 
@@ -140,3 +140,8 @@ See `WORKBENCH.md` for the precise production sequence and current counters.
 ## P005.01 restoration checkpoint
 
 P005.01 (`corpus/works/v01_226_228_S_teh_por_kak_ja_pomnju_svoju_zhizn.md`) has now been freshly reconstructed and reviewed. It is an 1847 untitled philosophical fragment in two variants. The translation deliberately preserves Tolstoy's rough draft logic, two illegible spans, repeated limited/unlimited and activity/inactivity terminology, and the I/not-I formulation. All three editorial notes are translated and structured coverage passes. The pinned source hash is retained, but—like the P004 emergency reconstruction—the exact Russian byte-level validator must be rerun when the audited Russian snapshot is physically mountable. Next target: P005.02.
+
+
+## P005.02 restoration checkpoint
+
+P005.02 (`corpus/works/v01_229_232_O_tseli_filosofii.md`), *On the Aim of Philosophy*, has now been freshly reconstructed and reviewed. It preserves the young Tolstoy's schematic a)–e) notebook form, internal numbering, manuscript uncertainty/expansion marks, abrupt person shifts, and repeated philosophical vocabulary rather than regularizing them into polished doctrine. The full official volume 1 witness and the single editorial note were checked; structured coverage passes. Exact Russian byte-level validation remains pending with the repository-wide recovery gate. Next target is P005.03; unlike P005.01–02, it contains graphic musical notation, so its exact Markdown/image representation should be recovered or inspected before final acceptance.

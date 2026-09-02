@@ -1,0 +1,24 @@
+{
+  "batch": "P005",
+  "unit": "P005.02",
+  "source_path": "corpus/works/v01_229_232_O_tseli_filosofii.md",
+  "source_sha256": "c3bf414e36909ea3de18c17a1c1c4d8309e8df975df87b5ca294088944bb224e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Recovery reconstruction: the pinned Russian source identity is preserved; the complete wording and one editorial footnote were checked against the official 90-volume edition because the audited Russian ZIP is not byte-mountable in this runtime.",
+    "The draft's a)–e) structure, internal numbering, abrupt shifts between generic person, oneself, you, and I, and manuscript bracket expansions are preserved rather than normalized.",
+    "образование is kept primarily as formation / forming oneself rather than being freely modernized as education or self-development, because the repetition carries Tolstoy's argument.",
+    "способность воспроизведения is rendered faculty of reproduction in its cognitive context; no sexual sense is introduced.",
+    "The deliberately severe бредом in the future-life section is retained as delirium rather than softened.",
+    "The Golden Rule sentence is translated directly without importing scriptural wording beyond what Tolstoy wrote.",
+    "The exact page-marker sequence 229, 230, 231, 232 is preserved; marker placement should be byte-rechecked when the audited Russian snapshot becomes mountable."
+  ],
+  "result": "PASS"
+}
