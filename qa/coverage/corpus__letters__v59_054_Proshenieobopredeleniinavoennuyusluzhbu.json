@@ -1,0 +1,18 @@
+{
+  "batch": "P006",
+  "unit": "P006.18",
+  "source_path": "corpus/letters/v59_054_Proshenieobopredeleniinavoennuyusluzhbu.md",
+  "source_sha256": "1a2f62a4df24e75afc35182e31aa5eb2958fd7d95bc3ddfabe1e64ad5dfcedb6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Full petition and all three embedded editorial notes preserved; documentary numbers, ranks, unit designations, and legal citations retained."
+  ],
+  "result": "PASS"
+}
