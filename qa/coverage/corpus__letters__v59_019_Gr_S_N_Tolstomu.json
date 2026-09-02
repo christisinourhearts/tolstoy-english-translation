@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.18",
+  "source_path": "corpus/letters/v59_019_Gr_S_N_Tolstomu.md",
+  "source_sha256": "a6456e8e93dab3a8d4314d0771871d4b8b7d2384de65d85a25ee07b18f38f57e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The complete confidential letter, financial arithmetic, estate transactions, examination/military plans, both preserved source page markers, editorial publication note, and all nine footnotes are represented.",
+    "The rhetorical за что я у тебя взял даром лошадей? is rendered why should I have taken the horses from you for nothing?, preserving the argument that the horses compensated Sergei's 1,500-ruble debt rather than implying Tolstoy admits receiving them gratis.",
+    "Некому было сечь. Это главное несчастие. remains There was no one to flog me. That is the chief misfortune, without euphemism.",
+    "Latin nolens volens is retained; its surrounding sense of compulsory service is not replaced by an English cliché."
+  ],
+  "result": "PASS"
+}
