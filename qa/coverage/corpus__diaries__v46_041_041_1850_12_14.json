@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.31",
+  "source_path": "corpus/diaries/v46_041_041_1850_12_14.md",
+  "source_sha256": "1d67691376fc452bc738c1e46783c887087c7c5aa64b70ccc90db06c4874921c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The printed page marker, inserted date, complete diary body, familiar name Vasinka, and sole apparatus note are represented.",
+    "тунью is rendered in vain; велеть написать прошение is have a petition written, preserving the causative rather than making Tolstoy himself the writer."
+  ],
+  "result": "PASS"
+}
