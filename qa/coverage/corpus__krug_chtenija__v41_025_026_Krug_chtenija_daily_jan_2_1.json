@@ -1,0 +1,22 @@
+{
+  "batch": "P005",
+  "unit": "P005.47",
+  "source_path": "corpus/krug_chtenija/v41_025_026_Krug_chtenija_daily_jan_2_1.md",
+  "source_sha256": "d173e16af62ef479f3913b49b3ceaaa6589d2dc8d5dc353baada203a84b214e9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "Both printed page markers, all five numbered sections, all attributions, and the final italic Tolstoy sentence are represented.",
+    "народ is intentionally repeated as the people throughout the Lamennais passage rather than varied into population, masses, or common folk except where простой народ specifically calls for common people.",
+    "ослеплением богатства is rendered blindness of wealth, preserving Tolstoy’s compiled wording rather than importing a different biblical phrase.",
+    "Attributed passages are translated from the Russian text in Tolstoy’s compilation, not restored from independent originals."
+  ],
+  "result": "PASS"
+}
