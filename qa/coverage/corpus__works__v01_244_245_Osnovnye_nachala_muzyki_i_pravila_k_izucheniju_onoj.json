@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.04",
+  "source_path": "corpus/works/v01_244_245_Osnovnye_nachala_muzyki_i_pravila_k_izucheniju_onoj.md",
+  "source_sha256": "20b574d5c1d81707468a8fc783ac2cb4870266708177083c4a9abe7a36e71cb9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "The fragment's scientifically rough definitions of musical space and time are translated as written; no modern acoustical correction is introduced.",
+    "фортопиано is rendered piano, гусли is retained as gusli, and цымбала is rendered cimbalom to preserve the intended string-instrument class rather than the misleading English cymbals.",
+    "The repeated terminology space / time / force and accentuation is kept consistent with P005.03.",
+    "The source repeats the heading Definition of music and then jumps from item 1 to item 3 in the final analysis scheme; both features are preserved.",
+    "The single editorial footnote is translated completely and its marker identity is unchanged."
+  ],
+  "result": "PASS"
+}
