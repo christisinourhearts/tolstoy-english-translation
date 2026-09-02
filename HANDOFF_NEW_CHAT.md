@@ -10,7 +10,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. If the snapshot matches cleanly, follow the recovery state below and resume restoration at P005.03; do not overwrite the already-integrated P005.21–22 recovery artifacts. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, and commit each accepted unit separately. Do not redo completed units for stylistic preference.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. P005 restoration is complete through P005.50; preserve P005.21–22 as the surviving recovery-package artifacts and do not redo completed units for stylistic preference. Inspect/generate the deterministic P006 selection before beginning P006.01. Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep the reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending and must not inherit the lost-runtime cold-audit status.
 
 ## Current state
 
@@ -20,16 +20,16 @@ Use this instruction:
 - P003: complete (50 / 50), with cold audit PASS AFTER REVISION
 - P004: **50 / 50 represented; P004.01–30 are original packaged accepted units, P004.31–50 are explicitly documented fresh recovery reconstructions**
 - P004 recovery audit: PASS AS DOCUMENTED RECONSTRUCTION (`qa/reports/P004_RECOVERY_AUDIT.md`)
-- P005: exact 50-unit selection reconstructed; **P005.01–02 freshly reconstructed and reviewed; P005.21–22 recovery-package artifacts integrated out of sequence; the other 46 units remain untranslated in this repaired manifest**
-- Next restoration target: **P005.03** (music fragment with graphic notation; recover/inspect its exact source representation before acceptance if possible)
-- Total reviewed translations in repaired manifest: **136**
-- Approximate reviewed source-body words: **25,247**
-- Structured bilingual coverage records: **129** (plus 7 P001 legacy unstructured passes)
-- Confirmed source errata inherited from baseline: **11**; source-verified anomalies: **2**
+- P005: **50 / 50 restored and reviewed**. P005.01–20 and P005.23–50 are fresh recovery reconstructions; P005.21–22 remain the surviving recovery-package artifacts.
+- Next translation target: **P006.01 after deterministic P006 batch selection/inspection**. P005 periodic cold audit is separately pending.
+- Total reviewed translations in repaired manifest: **182**
+- Approximate reviewed source-body words: **43,184**
+- Structured bilingual coverage records: **175** (plus 7 P001 legacy unstructured passes)
+- Confirmed source errata: **15**; source-verified anomalies: **2**
 - Git history through P004.30 is the original packaged history. Recovery commits after that point are new and intentionally do not manufacture the vanished historical per-unit commits.
 
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`; do not infer ShareAlike status for the translation text merely from the witness metadata.
-- In this recovery runtime the saved Russian ZIP could not be materialized from Library (HTTP 403), so the full raw-source validator was not rerun. Re-run it as soon as the audited Russian ZIP is actually mounted.
+- The authoritative Russian ZIP later mounted successfully in this runtime. Full source identity check: 15,766 checked, 0 missing, 0 changed. Full translation validator after P005.50: 182 English files, 0 errors, 2 longstanding intentional-Cyrillic warnings.
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing.
 
 ## Source provenance development

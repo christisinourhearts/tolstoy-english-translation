@@ -28,3 +28,8 @@ The reconstruction retained the already-pinned manifest source paths and SHA-256
 The audited Russian ZIP was visible in the user's Library but its raw bytes could not be materialized into this execution container (the file service returned HTTP 403). Therefore `tools/validate_translation.py <mounted-russian-repo>` and a fresh all-source SHA-256 check cannot honestly be reported for this recovery runtime. The source identities used here are the exact paths/hashes already pinned in the baseline manifest, whose P004 preflight records that all 50 P004 sources had matched the audited snapshot before the loss.
 
 Result: **PASS AS A DOCUMENTED RECONSTRUCTION**, with full source-byte revalidation deferred until the audited Russian snapshot is mountable again.
+
+
+## Deferred source-byte validation — subsequently completed
+
+On 2026-09-01 the authoritative audited Russian ZIP mounted successfully. The deferred gate is therefore closed: `tools/check_source.py` checked all **15,766** manifest sources with **0 missing and 0 changed**, and the full English/source validator passed after the later P005 restoration. This does not turn P004.31–50 into recovered historical bytes; it confirms that their pinned source identities and current English/source structures are validated against the exact audited snapshot.

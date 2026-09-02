@@ -63,15 +63,15 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 
 ## Current corpus state
 
-- Reviewed English translations: **136**.
+- Reviewed English translations: **182**.
 - P001: 7 complete.
 - P002: 25 complete.
 - P003: **50 / 50 complete and individually Git-committed**.
 - P004: **50 / 50 represented**. P004.01–30 are the original accepted packaged files; P004.31–50 are fresh, explicitly labelled recovery reconstructions after workspace loss.
-- P005: exact 50-unit selection reconstructed; **P005.01–02 freshly reconstructed and reviewed; P005.21–22 recovery-package artifacts integrated out of sequence**; 46 units remain untranslated in the repaired manifest.
-- Approximate reviewed source-body words: **25,247**.
-- Confirmed source errata: **11**.
-- Existing structured coverage records: **129**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- P005: **50 / 50 restored and reviewed**. P005.01–20 and P005.23–50 are fresh documented recovery reconstructions from the mounted audited Russian snapshot; P005.21–22 remain the surviving recovery-package artifacts.
+- Approximate reviewed source-body words: **43,184**.
+- Confirmed source errata: **15**.
+- Existing structured coverage records: **175**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -80,8 +80,8 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing.
 - P004 recovery report: `qa/reports/P004_RECOVERY_AUDIT.md`.
 - P005 batch reconstruction: `qa/batches/P005.md`.
-- Next restoration target: **P005.03** (music fragment with graphic notation; exact source representation should be recovered before acceptance).
-- The Russian source ZIP was not materializable in this recovery runtime, so fresh raw-source/hash validation remains required when the snapshot is mounted again.
+- P005 translation restoration target: **complete through P005.50**. A fresh P005 periodic cold-fidelity sample remains pending because the lost-runtime cold audit cannot be transferred to reconstructed English files.
+- The authoritative Russian source ZIP later mounted successfully. Full source/hash validation now passes: 15,766 checked, 0 missing, 0 changed; the full translation validator passes 182 English files with 0 errors.
 
 ## P003 status
 
@@ -181,11 +181,12 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. Read `RECOVERY_RECONSTRUCTION.md` and `qa/batches/P005.md`.
-2. When the audited Russian repository is physically mounted, rerun the full source/hash check and translation validator.
-3. Resume restoration at **P005.03**. Because this music fragment includes graphic notation, recover or inspect the exact source representation before accepting it if possible. Do not overwrite P005.21–22 unless a stronger surviving artifact is discovered.
+1. Read `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P005.md`, and the new P005 recovery-completion report.
+2. Verify the mounted Russian snapshot with `tools/check_source.py`; the 2026-09-01 checkpoint passed 15,766/15,766 with 0 missing and 0 changed.
+3. P005 translation restoration is complete through **P005.50**. Generate/inspect the deterministic P006 selection before beginning P006.01.
 4. Keep Decision D0001 conservative-fidelity rule in force and retain the Russian witness as read-only.
-5. Treat the reconstructed P004.31–50 Git checkpoint as new recovery provenance; do not invent historical per-unit commits that did not survive.
+5. Schedule a fresh deliberately difficult P005 cold-fidelity sample. Do not inherit the lost-runtime P005 cold-audit pass as if it applied to the reconstructed English files.
+6. Keep one accepted unit per Git commit and package periodic full-repository checkpoints.
 
 
 ## P005.01 recovery translation note
