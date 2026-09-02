@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.28",
+  "source_path": "corpus/diaries/v46_030_032_1847_04_17.md",
+  "source_sha256": "ac5b263c9bc54de277d4e2ab3173a2a132ac8e6da127d6b0953eca63c1b32970",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "All three printed page markers, both dated portions (17 and 18 April), the numbered eleven-point study plan, and all twenty apparatus notes are represented.",
+    "всестороннее развитие is kept repeatedly as all-round development, and всего существующего as everything that exists, preserving the young Tolstoy's recurrent philosophical vocabulary rather than substituting later abstractions.",
+    "помещичьей is rendered the life of a landowner; юридических наук remains juridical sciences and Гимназический курс remains the Gymnasium course in its historical educational sense.",
+    "The abrupt final Не исполнил правила is retained as Did not follow the rule, without explanatory smoothing.",
+    "Truncated deleted strings и спо, дыша, and Муз зат are represented as cautious English fragments rather than silently completed into fully certain words."
+  ],
+  "result": "PASS"
+}
