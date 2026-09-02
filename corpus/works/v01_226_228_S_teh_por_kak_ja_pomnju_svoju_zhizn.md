@@ -18,7 +18,7 @@ source_path: "texts/works/v01_226_228_S_teh_por_kak_ja_pomnju_svoju_zhizn.xml"
 source_repository: "tolstoydigital/TEI"
 source_witness_license: "CC BY-SA"
 translation_license: "PROJECT-TBD"
-translation_basis: "audited Russian Markdown source identity pinned in the repaired manifest; wording and apparatus reconstructed against the official 90-volume edition while the byte-level Russian snapshot is unavailable in this runtime"
+translation_basis: "audited Russian Markdown source; exact source bytes revalidated in the mounted audited Russian repository"
 translation_status: "reviewed"
 translation_note: "This is an early philosophical draft in two variants. Its unfinished constructions, repeated terms, manuscript gaps, and unstable logical formulations are preserved rather than repaired. The source's I / not-I terminology is kept literally. Page-marker placement was reconstructed from the recorded 226–228 range and official-volume pagination; the exact marker sequence is preserved for later byte-level revalidation."
 ---

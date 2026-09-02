@@ -16,7 +16,7 @@ source_path: "texts/works/v01_229_232_O_tseli_filosofii.xml"
 source_repository: "tolstoydigital/TEI"
 source_witness_license: "CC BY-SA"
 translation_license: "PROJECT-TBD"
-translation_basis: "audited Russian Markdown source identity pinned in the repaired manifest; wording and apparatus reconstructed against the official 90-volume edition while the byte-level Russian snapshot is unavailable in this runtime"
+translation_basis: "audited Russian Markdown source; exact source bytes revalidated in the mounted audited Russian repository"
 translation_status: "reviewed"
 translation_note: "An early philosophical notebook draft. The schematic lettering and numbering, abrupt changes of grammatical person, manuscript expansions and uncertainty marks, and recurrent terms activity, will, consciousness, limited/unlimited, and formation are preserved closely. The text is not normalized into a mature philosophical system."
 ---
