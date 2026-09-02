@@ -1,0 +1,23 @@
+{
+  "batch": "P005",
+  "unit": "P005.24",
+  "source_path": "corpus/diaries/v46_003_004_1847_03_17.md",
+  "source_sha256": "7c284f74bbdb6f597eaf8547fc4a8989653617ae99fb1aeed0e27a91732e3798",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated in this runtime against the pinned SHA-256.",
+    "Both printed page markers, the dated heading, complete diary body, French maxim, and all twelve notes are represented.",
+    "Гаонарею is normalized only at the lexical level to gonorrhea; Tolstoy's euphemistic 'from what it is usually got from' is kept rather than explained.",
+    "The step/left-foot/right-foot image and pronoun shifts in the solitude passage are retained instead of recast as polished philosophical argument.",
+    "French Les petites causes produisent de grands effets remains in the body; the note supplies Small causes produce great effects.",
+    "The crossed-out authorial footnote about societies containing more evil than good remains explicitly identified as Tolstoy's crossed-out footnote."
+  ],
+  "result": "PASS"
+}
