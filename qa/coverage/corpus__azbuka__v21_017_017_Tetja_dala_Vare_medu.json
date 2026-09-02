@@ -1,0 +1,20 @@
+{
+  "batch": "P005",
+  "unit": "P005.37",
+  "source_path": "corpus/azbuka/v21_017_017_Tetja_dala_Vare_medu.md",
+  "source_sha256": "1adcd567ad0a18084d18d0ee96bdb447504c88af9112540876b9979644625001",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete source body and its single printed page marker are represented.",
+    "The repetition of honey is preserved rather than replaced with pronouns because it belongs to the primer exercise."
+  ],
+  "result": "PASS"
+}
