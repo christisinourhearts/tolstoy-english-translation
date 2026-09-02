@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.28",
+  "source_path": "corpus/diaries/v46_042_042_1850_12_21.md",
+  "source_sha256": "05ac85d574a91f8498b8f85d32fe35337d3e719ef389ee4f392c1c2547fab7cb",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The complete hourly schedule, fencing, inquiry about Seryozha’s service, Countess Avdotya Maksimovna visit, and separate rule against novels are represented.",
+    "фихтовать is rendered fence, preserving the period activity rather than treating it as an obscure proper noun."
+  ],
+  "result": "PASS"
+}
