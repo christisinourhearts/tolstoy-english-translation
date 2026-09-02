@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_039_T_A_Ergolskoj.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "incorrect_language_metadata_and_missing_original_french_note",
+  "digital_reading": "YAML says language: ru; French original occupies the first half. A bare numeral 2 follows French “sa fille” while no corresponding original-French note definition survives.",
+  "verified_print_reading": "Official volume 59 prints the French original and superscript note 2 at that position before the separate Russian translation.",
+  "verification": "Official 90-volume edition, volume 59, pp. 89–91.",
+  "p006_disposition": "English metadata records fr+ru; preserve bare 2; do not import missing Soviet note under established Volume 59 policy; Russian witness/hash unchanged."
+}

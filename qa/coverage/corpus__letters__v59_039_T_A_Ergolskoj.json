@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.13",
+  "source_path": "corpus/letters/v59_039_T_A_Ergolskoj.md",
+  "source_sha256": "b0fdfe12b8435d261b16905d05faa968b6294d5e6e02c1812c53504a551da000",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "French original and Russian editorial rendering are both translated in source order, with all three source page markers, envelope address, editorial publication note, and three surviving Markdown footnotes represented.",
+    "The source language metadata says ru although the first half is French; English metadata records both fr and ru and the Russian source is left unchanged.",
+    "The French half retains a bare note numeral 2 after the prince’s daughter; official volume 59 confirms it is a printed note marker, but its original-French definition is displaced/absent from the Markdown. Consistent with Volume 59 policy, the numeral is preserved and the omitted Soviet apparatus is not imported.",
+    "The direct French pronoun mismatch in “the future appears to us like a luminous point before you” is preserved rather than silently harmonized; the editors’ Russian rendering separately smooths it to “the future appears bright ahead.”",
+    "The Russian code-switch Всегда собьюсь is rendered I always go astray and remains set off in both conceptual positions.",
+    "je n’ai pas dérangé mes finances ni arrangé is kept as not disordering the finances but not putting them in order either, preserving Tolstoy’s self-correction."
+  ],
+  "result": "PASS"
+}

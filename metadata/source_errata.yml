@@ -175,3 +175,14 @@ errata:
     verified_reading: "The official volume prints note 4 after the petition clause, note 7 after Gorchakov, and note 8 after French ‘pour lui faire la cour’, with definitions identifying the 1851 approval of the estate division, Prince A. I. Gorchakov, and the Russian gloss ‘чтобы за ним поухаживать’."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Following the established Volume 59 witness policy, retain the surviving bare numerals and translate all apparatus actually present in the audited Markdown, but do not silently import the three omitted Soviet notes or invent the missing marker 7. Document the defect in coverage/source QA."
+
+  - source_path: corpus/letters/v59_039_T_A_Ergolskoj.md
+    type: incorrect_language_metadata_and_displaced_original_french_note_2
+    status: confirmed
+    volume: 59
+    declared_pages: "89–91"
+    verified_print_pages: "89–91"
+    digital_reading: "The source YAML/manifest language field says only ‘ru’ although the first half of the surviving letter is French. In that French half, a bare numeral 2 survives after ‘il vient de perdre sa fille’, but the corresponding original-French note definition is not preserved; Markdown notes [^2]–[^3] instead attach to the separate Russian editorial rendering."
+    verified_reading: "The official volume prints the French original followed by the Russian editorial translation and prints a superscript note 2 after the sentence about the prince losing his daughter."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Record French and Russian as body source languages on the English side; retain the bare numeral 2 and, following the established Volume 59 witness policy, do not silently import the displaced/missing original-French note definition."
