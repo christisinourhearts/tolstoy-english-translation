@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.37",
+  "source_path": "corpus/azbuka/v21_023_023_Dva_volka_vyshli.md",
+  "source_sha256": "3636c1c0a145a2fd8401ef8e94e3a16c1f0ae1655d59c33dff0bb5146607559a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "вышли прямо на меня is rendered ‘came straight toward me’; стали на бугре is rendered ‘stopped on a rise’ without adding a larger hill or mountain.",
+    "Мне стало жутко is kept in the elementary register as ‘I was frightened.’"
+  ],
+  "result": "PASS"
+}
