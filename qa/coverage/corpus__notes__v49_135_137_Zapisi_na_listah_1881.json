@@ -1,0 +1,22 @@
+{
+  "batch": "P006",
+  "unit": "P006.34",
+  "source_path": "corpus/notes/v49_135_137_Zapisi_na_listah_1881.md",
+  "source_sha256": "cd4c4f4ecf9d4fb8a7f1c9721cd5745b0387ffad8b374ba9803aa039ed8022ce",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "All three page markers and every discrete prison-visit, quoted-speech, number, place-name, and closing dialect fragment are represented in source order.",
+    "The source is intentionally telegraphic and often lacks recoverable speakers or syntactic links; English preserves that roughness instead of manufacturing narrative continuity.",
+    "The otherwise unattested opening Подякатъ is retained as Podyakat rather than conjecturally emended; dialectal заворотень is likewise retained as zavoroten in the one opaque fragment.",
+    "жид is rendered with the historical English slur Yid because the immediately following sentence reflects on difference and culpability; the source’s pejorative force is therefore not silently neutralized."
+  ],
+  "result": "PASS"
+}
