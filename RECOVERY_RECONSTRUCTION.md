@@ -42,3 +42,14 @@ At the user's request, recovery was deliberately stopped at **P006.36** before a
 P006.36 (`corpus/notes/v49_149_156_Zapisnaja_knizhka_1882.md`) exposes a confirmed source-conversion defect: the audited Markdown preserves footnote marker/definition `[^15]` but leaves its definition empty. Official volume 49, p. 155, textual note 136 supplies five deleted lines. The Russian repository remains immutable; only the verified deleted passage is restored in the English apparatus, explicitly labeled as deleted text. No other omitted printed apparatus was silently imported. The final source-to-target structural pass confirms all **19** body footnote references and definitions, all **8** page markers, and all source deletion delimiters.
 
 The next translation target is P006.37 (`corpus/azbuka/v21_023_023_Dva_volka_vyshli.md`).
+
+
+## Bounded continuation — P006.37–40
+
+Date: 2026-09-03
+
+At the user's request, exactly four additional units were completed after the P006.36 checkpoint: P006.37–40, all miniature exercises from *The New Primer*. Each was translated directly from the exact mounted audited Russian witness, received an exhaustive source-to-target coverage record, passed reverse target-to-source checking, and was committed separately. No work was begun on P006.41.
+
+At this boundary the source hash gate remains **15,766 checked, 0 missing, 0 changed**; the translation validator checks **222 English files with 0 errors** (plus the two longstanding intentional-Cyrillic warnings), and the coverage validator checks **215 structured records with 0 errors**. The repaired manifest contains **222 reviewed translations**, approximately **58,204 rough source-body words**.
+
+The next translation target is P006.41 (`corpus/azbuka/v21_023_023_Nastja_ela_grushu.md`).
