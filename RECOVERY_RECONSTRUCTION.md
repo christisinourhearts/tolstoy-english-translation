@@ -32,3 +32,13 @@ After P006.33 had been accepted in a later runtime, that runtime's working direc
 P006.06–33 were therefore replayed onto the durable P006.05 repository, one accepted unit at a time. The replayed Git hashes are intentionally new and must not be represented as recovery of the vanished temporary commit objects. The semantic/project state is reconstructed from the accepted records and then revalidated against the mounted audited Russian repository.
 
 At the P006.33 replay boundary the manifest contains **215 reviewed translations** covering approximately **56,566 rough source-body words**, and `qa/coverage/` contains **208 structured coverage records**. The next translation target is P006.34 (`corpus/notes/v49_135_137_Zapisi_na_listah_1881.md`).
+
+## Bounded recovery replay — P006.34–36
+
+Date: 2026-09-03
+
+At the user's request, recovery was deliberately stopped at **P006.36** before any work on P006.37. P006.34–36 were freshly reconstructed against the exact mounted audited Russian witness and committed individually. The source hash gate at this boundary is **15,766 checked, 0 missing, 0 changed**; the translation validator checks **218 English files with 0 errors** (plus the two longstanding intentional-Cyrillic warnings), and the coverage validator checks **211 structured records with 0 errors**.
+
+P006.36 (`corpus/notes/v49_149_156_Zapisnaja_knizhka_1882.md`) exposes a confirmed source-conversion defect: the audited Markdown preserves footnote marker/definition `[^15]` but leaves its definition empty. Official volume 49, p. 155, textual note 136 supplies five deleted lines. The Russian repository remains immutable; only the verified deleted passage is restored in the English apparatus, explicitly labeled as deleted text. No other omitted printed apparatus was silently imported. The final source-to-target structural pass confirms all **19** body footnote references and definitions, all **8** page markers, and all source deletion delimiters.
+
+The next translation target is P006.37 (`corpus/azbuka/v21_023_023_Dva_volka_vyshli.md`).

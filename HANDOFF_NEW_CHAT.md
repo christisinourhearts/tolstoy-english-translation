@@ -1,10 +1,10 @@
 # Tolstoy English Corpus — New Chat Handoff
 
-## Latest durable checkpoint — P006.33
+## Latest durable checkpoint — P006.36
 
-The repository has been revalidated and reconstructed through **P006.33**. The last durable checkpoint before the second temporary-workspace loss was P006.05; P006.06–33 were replayed from the exact previously accepted translation/QA records, one unit per commit, with the full Russian-linked validator run throughout. The replay does not claim to reproduce the vanished temporary Git commit hashes. The accepted English text, coverage records, and source-QA dispositions are the recovered project state.
+The repository has been revalidated and reconstructed through **P006.36**. The last durable checkpoint before the second temporary-workspace loss was P006.05; P006.06–33 were replayed from the exact previously accepted translation/QA records, one unit per commit, and P006.34–36 were then freshly reconstructed from the exact audited Russian witness. The replay does not claim to reproduce the vanished temporary Git commit hashes. The accepted English text, coverage records, and source-QA dispositions are the recovered project state.
 
-**Next target:** P006.34, `corpus/notes/v49_135_137_Zapisi_na_listah_1881.md`. Do not redo P006.01–33 for stylistic preference.
+**Next target:** P006.37, `corpus/azbuka/v21_023_023_Dva_volka_vyshli.md`. Do not redo P006.01–36 for stylistic preference.
 
 This repository is the current repaired resumable master. It contains the complete surviving packaged Git history through P004.30 plus the new, explicitly documented recovery commits; the vanished later working-tree history is not claimed to have been recovered.
 
@@ -16,7 +16,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. P005 restoration is complete through P005.50; preserve P005.21–22 as the surviving recovery-package artifacts and do not redo completed units for stylistic preference. P006 is selected and complete through P006.33; P006.06–33 were replayed from the previously accepted session record after an ephemeral workspace loss, so their replay commit hashes differ from the vanished temporary history. Resume at P006.34 (`corpus/notes/v49_135_137_Zapisi_na_listah_1881.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep the reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending and must not inherit the lost-runtime cold-audit status.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P004.md`, `qa/batches/P005.md`, and the provenance notes under `provenance/pd_core_pilot/`. Treat the Russian repository as read-only and as a licensed comparison witness; do not mass-delete or relabel its CC BY-SA metadata. Run `tools/check_source.py` against the uploaded Russian snapshot. P005 restoration is complete through P005.50; preserve P005.21–22 as the surviving recovery-package artifacts and do not redo completed units for stylistic preference. P006 is selected and complete through P006.36. P006.06–33 were replayed from the previously accepted session record after an ephemeral workspace loss; P006.34–36 were freshly reconstructed from the exact audited Russian witness in this recovery pass. Resume at P006.37 (`corpus/azbuka/v21_023_023_Dva_volka_vyshli.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep the reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending and must not inherit the lost-runtime cold-audit status.
 
 ## Current state
 
@@ -27,16 +27,16 @@ Use this instruction:
 - P004: **50 / 50 represented; P004.01–30 are original packaged accepted units, P004.31–50 are explicitly documented fresh recovery reconstructions**
 - P004 recovery audit: PASS AS DOCUMENTED RECONSTRUCTION (`qa/reports/P004_RECOVERY_AUDIT.md`)
 - P005: **50 / 50 restored and reviewed**. P005.01–20 and P005.23–50 are fresh recovery reconstructions; P005.21–22 remain the surviving recovery-package artifacts.
-- P006: **33 / 50 reviewed**. P006.01–05 are in the durable pre-loss checkpoint; P006.06–33 were deterministically replayed from the previously accepted session record after the temporary working directory disappeared.
-- Next translation target: **P006.34 — `corpus/notes/v49_135_137_Zapisi_na_listah_1881.md`**. P005 periodic cold audit is separately pending.
-- Total reviewed translations in repaired manifest: **215**
-- Approximate reviewed source-body words: **56,566**
-- Structured bilingual coverage records: **208** (plus 7 P001 legacy unstructured passes)
-- Confirmed source errata: **23**; source-verified anomalies: **5**
+- P006: **36 / 50 reviewed**. P006.01–05 are in the durable pre-loss checkpoint; P006.06–33 were deterministically replayed from the previously accepted session record; P006.34–36 are fresh recovery reconstructions against the exact audited Russian witness.
+- Next translation target: **P006.37 — `corpus/azbuka/v21_023_023_Dva_volka_vyshli.md`**. P005 periodic cold audit is separately pending.
+- Total reviewed translations in repaired manifest: **218**
+- Approximate reviewed source-body words: **58,153**
+- Structured bilingual coverage records: **211** (plus 7 P001 legacy unstructured passes)
+- Confirmed source errata: **24**; source-verified anomalies: **5**
 - Git history through P004.30 is the original packaged history. Recovery commits after that point are new and intentionally do not manufacture the vanished historical per-unit commits.
 
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`; do not infer ShareAlike status for the translation text merely from the witness metadata.
-- The authoritative Russian ZIP later mounted successfully in this runtime. Full source identity check: 15,766 checked, 0 missing, 0 changed. Full translation validator after replay through P006.33: 215 English files, 0 errors, 2 longstanding intentional-Cyrillic warnings.
+- The authoritative Russian ZIP mounted successfully in this runtime. Full source identity check at P006.36: 15,766 checked, 0 missing, 0 changed. Full translation validator: 218 English files, 0 errors, 2 longstanding intentional-Cyrillic warnings; structured coverage validator: 211 records, 0 errors.
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing.
 
 ## Source provenance development
