@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.35",
+  "source_path": "corpus/notes/v49_148_148_Zapis_na_liste_6_dekabrja_1881.md",
+  "source_sha256": "9bc4fd34869fca155f30dba7a0e855e6a5e172270fb6ec925ebfa0bf025d6f3b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The four opening proverbial fragments, date, theological statement, and comparison of revolutionary and military professions are all represented in order.",
+    "Куры загребут is kept as the concrete fragment ‘The hens will scratch it over’ rather than converted into an explanatory proverb."
+  ],
+  "result": "PASS"
+}
