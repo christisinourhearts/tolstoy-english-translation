@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.39",
+  "source_path": "corpus/azbuka/v21_023_023_Na_elke_byli_shishki.md",
+  "source_sha256": "57c9bb56c0ce2c7fc8a0ba624bb87cb2486510bd23d976a76866a0549ec345d9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "елка is rendered ‘fir tree’ in this non-Christmas context; шишки remains the generic ‘cones’ rather than being narrowed to pinecones.",
+    "снесли полны шапки is preserved concretely as ‘carried away caps full of them’ without adding a destination."
+  ],
+  "result": "PASS"
+}
