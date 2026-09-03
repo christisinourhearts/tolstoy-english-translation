@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.38",
+  "source_path": "corpus/azbuka/v21_023_023_Mama_kupi_mne_nitki.md",
+  "source_sha256": "1c24d21beb8d9c41ad047d98c7e19f2bc414edbf4bbcf1a8f1abeb2998750e74",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "нитки is rendered ‘yarn’ rather than the more literal ‘thread’ because the stated use is knitting stockings.",
+    "тётке is rendered in the child's familiar register as ‘Auntie’; Видны пятки remains the terse ‘Her heels show.’"
+  ],
+  "result": "PASS"
+}
