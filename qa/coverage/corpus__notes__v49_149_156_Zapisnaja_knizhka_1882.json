@@ -1,0 +1,23 @@
+{
+  "batch": "P006",
+  "unit": "P006.36",
+  "source_path": "corpus/notes/v49_149_156_Zapisnaja_knizhka_1882.md",
+  "source_sha256": "120a1ed0f85e91590c89e6429f9d369eb2692e9a215d03b43e7a165227a66d09",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "All eight page markers, census/address fragments, both complete poem drafts, nineteen footnote identifiers, source uncertainty markers, French code-switches, and all eight surviving Markdown deletion spans are represented.",
+    "The audited Markdown defines footnote 15 but leaves it empty. Official volume 49, p. 155 and its textual note 136 verify that this note records five deleted lines beginning ‘Так за то их и прогнали’. Only that verified deleted passage is restored in the English note; the Russian witness remains unchanged.",
+    "The restored footnote-15 passage is labeled ‘Deleted’ rather than introduced as ordinary Tolstoy running text, and no extra Markdown deletion delimiters are added because the source conversion lost the deleted words themselves.",
+    "French curiosité, que ce n’est pas vrai, and J’aime à obéir remain visible in the body, with the source’s Russian glosses translated in notes 8–10.",
+    "Opaque census abbreviations, uncertain readings, and the poem’s manuscript roughness are preserved rather than normalized into a polished narrative or polished verse."
+  ],
+  "result": "PASS"
+}

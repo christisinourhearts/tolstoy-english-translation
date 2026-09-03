@@ -241,3 +241,14 @@ errata:
     verified_reading: "Official volume 59 prints note 1 there and defines it as a reference to The Raid, originally titled Letter from the Caucasus, with its 1852 composition chronology."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Preserve the bare 1 and translate all apparatus actually present; following established Volume 59 policy, document but do not silently import the omitted Soviet note."
+
+  - source_path: corpus/notes/v49_149_156_Zapisnaja_knizhka_1882.md
+    type: empty_footnote_15_missing_deleted_lines
+    status: confirmed
+    volume: 49
+    declared_pages: "149–156"
+    verified_print_pages: "155"
+    digital_reading: "The audited Markdown preserves marker [^15] in the second draft of the comic poem but leaves the corresponding footnote definition empty."
+    verified_reading: "Official volume 49 p. 155 and textual note 136 identify the missing apparatus as five deleted lines beginning «Так за то их и прогнали» and ending «Что на это отвечать.»"
+    witness: "https://tolstoy.ru/online/90/49/"
+    action: "Keep the Russian repository immutable and retain its original SHA-256. Restore only the verified deleted lines in English footnote [^15], label them explicitly as deleted text, and preserve the rest of the notebook exactly as represented by the audited witness."

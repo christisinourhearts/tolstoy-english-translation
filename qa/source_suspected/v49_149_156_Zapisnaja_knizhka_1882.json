@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/notes/v49_149_156_Zapisnaja_knizhka_1882.md",
+  "status": "CONFIRMED_SOURCE_ERRATUM",
+  "type": "empty_footnote_15_missing_deleted_lines",
+  "digital_reading": "The audited Markdown places marker [^15] before the p. 155 continuation and defines [^15] as an empty footnote.",
+  "verified_print_reading": "Official volume 49 p. 155 prints note marker 136 there; the apparatus identifies it as a deleted passage: ‘Так за то их и прогнали, / Что они много[е] узнали. / А я не хочу. / <И не знает теперь [?] мать, / Что на это отвечать.>’",
+  "verified_print_pages": "155",
+  "verification": "Official 90-volume electronic edition, volume 49, confirms the body placement and the complete missing content of the existing textual note.",
+  "witness": "https://tolstoy.ru/online/90/49/",
+  "p006_disposition": "Keep the Russian repository immutable and retain its original SHA-256. Preserve footnote identifier [^15] and restore only the verified deleted lines in the English textual note, explicitly labeled Deleted; do not manufacture additional body text or silently normalize the poem."
+}
