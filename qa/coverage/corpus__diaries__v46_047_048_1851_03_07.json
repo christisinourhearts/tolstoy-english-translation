@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.29",
+  "source_path": "corpus/diaries/v46_047_048_1851_03_07.md",
+  "source_sha256": "66c8f68a84e3afacb25fddd6a64446a5137f9c7a92ffdfd2e68d32c7c7ca3e73",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every self-accusation from getting up late through the missed visits is represented, followed by all nine named tendencies and the complete next-day schedule.",
+    "The foreign-language switches grand-seigneur, fausse honte, and mauvaise humeur remain visible and their Russian glosses are translated in notes 2–4.",
+    "All six footnote references/definitions and both page markers were checked."
+  ],
+  "result": "PASS"
+}
