@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.15",
+  "source_path": "corpus/letters/v59_091_N_A_Nekrasovu.md",
+  "source_sha256": "c253d3cbc6f4eb00cc3fb23ff86a834f9835723bfd6614061f20eba66db0243e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The letter’s frustration over lost correspondence and the failed military journal project is kept direct; all four surviving editorial notes, including Nekrasov’s long reply excerpts, are translated in full."
+  ],
+  "result": "PASS"
+}
