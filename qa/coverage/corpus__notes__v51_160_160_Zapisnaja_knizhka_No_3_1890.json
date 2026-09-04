@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.36",
+  "source_path": "corpus/notes/v51_160_160_Zapisnaja_knizhka_No_3_1890.md",
+  "source_sha256": "fddf7543d457b65a1aae00b3fba830cf16f7693e877a6c1b49eb480d4a6a1f2a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "пропускаешь Бога is preserved literally as ‘let God through’ rather than expanded into a theological paraphrase.",
+    "плохоту is rendered ‘badness,’ retaining Tolstoy's intentionally plain and colloquial noun.",
+    "The apparent tension between ‘do not care about opinion’ and ‘one must care about a bad opinion’ is preserved without harmonization."
+  ],
+  "result": "PASS"
+}
