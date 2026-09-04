@@ -1,10 +1,12 @@
 # Tolstoy English Corpus — New Chat Handoff
 
-## Latest durable checkpoint — P008.34
+## Latest durable checkpoint — P008.47
 
-The repository has been revalidated through **P008.34**. P007 is complete at **50/50 reviewed units** and the frozen P008 batch is now **34/50 reviewed units**. P008.22–34 comprise two 1856 letters, ten compact 1851 diary entries, and one 1893 note; each was translated, structurally validated, cold-checked against the exact mounted audited Russian witness, and committed individually. The cold pass found no substantive omission, unsupported substantive addition, reversed meaning, lost negation, or speaker/referent error; its minor wording and structural revisions are recorded in `qa/reports/P008_22_34_COLD_PASS.md`.
+The repository has been revalidated through **P008.47**. P007 is complete at **50/50 reviewed units** and P008 is now **47/50 reviewed units**. P008.35–47 comprise two notes, nine complete *New Primer* units, and the *Circle of Reading* entries for 23 and 24 January. Each accepted unit was translated against the exact mounted audited Russian witness, given exhaustive source-to-target coverage, committed individually, and then cold-checked as a set. The cold pass found no substantive omission, unsupported substantive addition, reversed meaning, lost negation, or speaker/referent error; see `qa/reports/P008_35_47_COLD_PASS.md`.
 
-**Next target:** P008.35, `corpus/notes/v52_276_276_Zapisi_mart_aprel_1892.md`. Do not redo P007 or P008.01–34 merely for stylistic preference.
+A fresh Primer boundary preflight corrected the frozen P008 selection before translation. Five originally selected P008 Primer records were confirmed incomplete against official volume 21 and quarantined; one immediately following candidate was also confirmed incomplete for future selection. The Russian repository was not modified. The nine P008 Primer slots were deterministically refilled with complete non-errata records, and `qa/batches/P008.md` now contains the corrected stable sequence.
+
+**Next target:** P008.48, `corpus/krug_chtenija/v41_057_059_Krug_chtenija_daily_jan_4_4.md`. Do not redo P007 or P008.01–47 merely for stylistic preference.
 
 This repository is the current repaired resumable master. It contains the complete surviving packaged Git history through P004.30 plus explicitly documented recovery commits; vanished temporary Git hashes are not claimed to have been recovered.
 
@@ -16,7 +18,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P007.md`, and `qa/batches/P008.md`. Treat the Russian repository as read-only and as a licensed comparison witness. Run `tools/check_source.py` against the uploaded Russian snapshot. P007 is complete at 50/50 reviewed units and P008 is complete through P008.34. Resume at P008.35 (`corpus/notes/v52_276_276_Zapisi_mart_aprel_1892.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending as a separate audit task.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P007.md`, and `qa/batches/P008.md`. Treat the Russian repository as read-only and as a licensed comparison witness. Run `tools/check_source.py` against the uploaded Russian snapshot. P007 is complete at 50/50 reviewed units and P008 is complete through P008.47. Resume at P008.48 (`corpus/krug_chtenija/v41_057_059_Krug_chtenija_daily_jan_4_4.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending as a separate audit task.
 
 ## Current state
 
@@ -27,14 +29,14 @@ Use this instruction:
 - P005: **50 / 50 restored and reviewed**
 - P006: **50 / 50 complete and reviewed**. P006.46–50 are the newly reconstructed *Circle of Reading* units for 13, 14, the weekly *Repentant Sinner*, 16, and 17 January.
 - P007: **50 / 50 complete and reviewed**. P007.47–50 are the final *Circle of Reading* units.
-- P008: **34 / 50 reviewed**. The full deterministic P008 selection is frozen in `qa/batches/P008.md`.
-- Next translation target: **P008.35 — `corpus/notes/v52_276_276_Zapisi_mart_aprel_1892.md`**.
-- Total reviewed translations in manifest: **316**
-- Approximate reviewed source-body words: **89,492**
-- Structured bilingual coverage records: **309** (plus 7 P001 legacy unstructured passes)
-- Confirmed source errata: **37**; source-verified anomalies: **5**
+- P008: **47 / 50 reviewed**. The corrected deterministic P008 selection is frozen in `qa/batches/P008.md`.
+- Next translation target: **P008.48 — `corpus/krug_chtenija/v41_057_059_Krug_chtenija_daily_jan_4_4.md`**.
+- Total reviewed translations in manifest: **329**
+- Approximate reviewed source-body words: **90,729**
+- Structured bilingual coverage records: **322** (plus 7 P001 legacy unstructured passes)
+- Confirmed source errata: **43**; source-verified anomalies: **5**
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`.
-- Full source identity check at this checkpoint: **15,766 checked, 0 missing, 0 changed**. Full translation validator: **316 English files, 0 errors**, with the two longstanding intentional-Cyrillic warnings. Structured coverage validator: **309 records, 0 errors**.
+- Full source identity check at this checkpoint: **15,766 checked, 0 missing, 0 changed**. Full translation validator: **329 English files, 0 errors**, with the two longstanding intentional-Cyrillic warnings. Structured coverage validator: **322 records, 0 errors**.
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing recovery-sensitive work.
 
 ## Source provenance development
