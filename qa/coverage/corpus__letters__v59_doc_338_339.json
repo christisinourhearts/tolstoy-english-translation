@@ -1,0 +1,21 @@
+{
+  "batch": "P008",
+  "unit": "P008.11",
+  "source_path": "corpus/letters/v59_doc_338_339.md",
+  "source_sha256": "02380ba4012b002a651e5d0f8092be225ca1bff83cd48d41427c4a00d6974f9d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The legal sequence—ownership by family division, permanent freedom, physical description, freedom to choose a way of life, signatures—is fully represented.",
+    "The source YAML sent_from field conflicts with the document heading; the English metadata follows the body heading “Moscow.”",
+    "The seven editorial notes and one explanatory footnote are translated in full.",
+    "Confirmed metadata erratum: source YAML says Vozdvizhenskaya stanitsa, while the document heading says Moscow; English metadata follows the represented heading."
+  ],
+  "result": "PASS"
+}
