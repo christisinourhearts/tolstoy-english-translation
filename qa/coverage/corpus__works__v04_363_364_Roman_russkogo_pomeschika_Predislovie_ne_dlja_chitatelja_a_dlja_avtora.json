@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.02",
+  "source_path": "corpus/works/v04_363_364_Roman_russkogo_pomeschika_Predislovie_ne_dlja_chitatelja_a_dlja_avtora.md",
+  "source_sha256": "4c47c07db304a99d65986b30e2047c2d337bf47d1b315457c11893050923a4cd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The good/evil springs of action and the nested lettered lists are preserved without reorganization.",
+    "The source’s illegible marker and all four note references/definitions are retained."
+  ],
+  "result": "PASS"
+}
