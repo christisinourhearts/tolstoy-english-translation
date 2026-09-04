@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.46",
+  "source_path": "corpus/krug_chtenija/v41_033_035_Krug_chtenija_daily_jan_2_6.md",
+  "source_sha256": "de82280eba50f4eb065dc774d85621cc7ea5264b11707cf0d471812b6e2f6248",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Attributed material is translated from Tolstoy's compiled Russian wording rather than substituted from independent English editions.",
+    "всемирный разум is rendered conservatively as 'universal reason'; моток мира и его судеб as 'the skein of the world and its destinies'.",
+    "Tolstoy's contrast between temporal and eternal life and the repetition around what 'will be' are preserved rather than smoothed away."
+  ],
+  "result": "PASS"
+}
