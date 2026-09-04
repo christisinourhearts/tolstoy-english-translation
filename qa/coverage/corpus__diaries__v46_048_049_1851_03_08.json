@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.30",
+  "source_path": "corpus/diaries/v46_048_049_1851_03_08.md",
+  "source_sha256": "dd9deb72c63140d3cb02449f8a01f5e498d865ba372592c1116a87e2bc3e525a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The mirror, Poiret, horse-breeding office, Golitsyn, gymnastics, Kobylin, overeating, Volkonsky, sweets, lying, and full plan for 9 March are all represented.",
+    "делец is rendered literally as “businessman”; the audited witness does not supply a fuller identification.",
+    "Both note definitions and both page markers were checked."
+  ],
+  "result": "PASS"
+}
