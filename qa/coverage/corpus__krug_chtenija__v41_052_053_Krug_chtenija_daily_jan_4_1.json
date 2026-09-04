@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.50",
+  "source_path": "corpus/krug_chtenija/v41_052_053_Krug_chtenija_daily_jan_4_1.md",
+  "source_sha256": "3e4b2f7bf6ba9f1beabe417e91b14cf1926223f33ce0ad94d3309627c0f89f19",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All four numbered sections, both attributed quotations, page markers, and the closing italicized maxim are represented.",
+    "The Gospel oath paradox is preserved explicitly: swearing on the Gospel to do what the Gospel forbids."
+  ],
+  "result": "PASS"
+}
