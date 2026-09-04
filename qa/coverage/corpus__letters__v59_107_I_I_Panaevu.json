@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.09",
+  "source_path": "corpus/letters/v59_107_I_I_Panaevu.md",
+  "source_sha256": "bbe41070e6fa1b5ab9b58cc1334f17519f02c7b740e861931742fa9ba0734126",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The distinction between deleting/softening and adding material is preserved exactly.",
+    "The long quoted Panaev letter, publication details, names, dates, and monetary reference were checked against the source.",
+    "Confirmed source erratum: the audited Markdown retains a bare printed note 6 but omits its definition and later Volume 59 apparatus; the English preserves the audited witness boundary rather than importing omitted editorial text."
+  ],
+  "result": "PASS"
+}
