@@ -1,0 +1,21 @@
+{
+  "batch": "P008",
+  "unit": "P008.31",
+  "source_path": "corpus/diaries/v46_049_049_1851_03_09.md",
+  "source_sha256": "11e2218bcbc4ebf8aa0dfc7652d1b745fdc99975a354580a4869e3bb23343907",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All named visits, faults, and the complete schedule for 10 March are represented.",
+    "The phrase “Went to Kireevskaya (groundlessness) so (cowardice)” is intentionally not rationalized because the audited witness itself is syntactically rough.",
+    "The single underlining note and page marker were checked.",
+    "The official electronic Volume 46 also preserves the source’s puzzling так (трусость) after the Kireevskaya visit, so it is treated as source-verified roughness rather than emended."
+  ],
+  "result": "PASS"
+}
