@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.02",
+  "source_path": "corpus/works/v03_274_277_Varianty_iz_rukopisi_Razzhalovannogo.md",
+  "source_sha256": "fd747f41d4317cb9104a641a3131c19ed18df925552d1808e7c97a041038c86f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Variant apparatus translated exhaustively; censorship asterisks, page/line relations, manuscript readings, French switches, and all four source notes preserved. The idiomatic gambling phrase «кремешком играет» is rendered as “plays a rock-solid game” rather than the unintelligible literal “plays like a flint.”"
+  ],
+  "result": "PASS"
+}
