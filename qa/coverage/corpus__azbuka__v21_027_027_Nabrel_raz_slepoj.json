@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.45",
+  "source_path": "corpus/azbuka/v21_027_027_Nabrel_raz_slepoj.md",
+  "source_sha256": "af216ba6668ad8e53a051f881ec14c8611cedc9b803c3f6f08024233a5764285",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "возить is rendered ‘carry’ in the paired blind/legless arrangement without adding an explicit object absent from the source.",
+    "глядеть is rendered ‘see,’ preserving the terse parallelism rather than expanding it to ‘guide him.’"
+  ],
+  "result": "PASS"
+}
