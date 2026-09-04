@@ -29,7 +29,7 @@ Here I am alone again, and alone there where I was both young and a child, where
 
 No, there is no escaping from oneself and one's past!
 
-Freedom is not for man. Every second that I live, that I live against my will, fetters the future. And there is already less life left ahead than behind. The whole future is no longer mine. So bow down, submit, and bear the chains you forged for yourself. Yes, easy to say; but if only two moments of life remained to me, I would use even them to struggle painfully with this past, and would try to break out into light and freedom and at least once breathe the pure air freely and independently and look upon the unclouded, unconstricted, unslandered, but great, clear, and lovely world of God. —
+Freedom is not for man. Every second that I live, that I live against my will, fetters the future. And there is already less life left ahead than behind. The whole future is not <!-- vol. 5, p. 221 --> mine anymore. So bow down, submit, and bear the chains you forged for yourself. Yes, easy to say; but if only two moments of life remained to me, I would use even them to struggle painfully with this past, and would try to break out into light and freedom and at least once breathe the pure air freely and independently and look upon the unclouded, unconstricted, unslandered, but great, clear, and lovely world of God. —
 
 It is true, I do not yet have the right to complain and weep; I had[^3]
 
