@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.43",
+  "source_path": "corpus/azbuka/v21_026_026_Seli_gusi_na_vodu.md",
+  "source_sha256": "c7627075f3615e1b578721fc9e49f0b2f39d7757a523e95f61057eb292fe505c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "сели is rendered ‘settled’ rather than ‘sat,’ fitting geese coming down onto water.",
+    "лапки is rendered ‘feet,’ with no added description."
+  ],
+  "result": "PASS"
+}
