@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.26",
+  "source_path": "corpus/diaries/v46_046_046_1851_03_01.md",
+  "source_sha256": "908ef43c780c732666c2b82ad06880cd44f37dcf9d4e096929bf07d886267335",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The first-impression rule and the full 8½-to-6 schedule are represented without regularizing the source’s altered times.",
+    "All three footnote references/definitions and the single page marker were checked."
+  ],
+  "result": "PASS"
+}
