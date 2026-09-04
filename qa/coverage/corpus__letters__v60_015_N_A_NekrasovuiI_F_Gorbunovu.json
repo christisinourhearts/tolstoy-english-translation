@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.22",
+  "source_path": "corpus/letters/v60_015_N_A_NekrasovuiI_F_Gorbunovu.md",
+  "source_sha256": "8e16471b9968f3b3f7cdf0706f1234523701c5fde7223ba078b212c50a1525e8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The apartment/furniture instructions, 50-ruble loan, boots, postponed foreign travel, Nekrasov health questions, Turgenev visit, peasant negotiations, back injury, and final loan request are all represented.",
+    "The manuscript asterisk variant after the first 50-ruble reference is preserved separately.",
+    "All eight footnote references/definitions and both page markers were checked."
+  ],
+  "result": "PASS"
+}
