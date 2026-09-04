@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.18",
+  "source_path": "corpus/letters/v60_010_T_A_Ergolskoj.md",
+  "source_sha256": "dba1d895d838cbf95a89dbedf42dc94688220714079c6d6ef3e68c63ba681d4d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both witnesses preserve the two-month delay, second report, projected one-week departure, Moscow/Trinity stop, completed “hussars,” and boredom after Turgenev’s departure.",
+    "All four note references and both page markers were checked."
+  ],
+  "result": "PASS"
+}
