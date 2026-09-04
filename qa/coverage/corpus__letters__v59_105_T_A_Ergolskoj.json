@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.23",
+  "source_path": "corpus/letters/v59_105_T_A_Ergolskoj.md",
+  "source_sha256": "5ac256b6dc56b4f40c6c5bee4e9d6bbc21d3a59b38928324cbcc43e21e259536",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both the French original and the parallel Russian rendering in the source are translated and retained separately.",
+    "The source duplicates the same Chernaya River battle note as footnotes 1 and 2; English preserves both.",
+    "The source states a total loss of 8,000 while the listed killed/wounded subtotals do not sum to that figure; the documentary figure is preserved without correction."
+  ],
+  "result": "PASS"
+}
