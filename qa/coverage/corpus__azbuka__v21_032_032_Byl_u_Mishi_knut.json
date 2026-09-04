@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.45",
+  "source_path": "corpus/azbuka/v21_032_032_Byl_u_Mishi_knut.md",
+  "source_sha256": "87897deb9448b4f18a86964601d3610670e0e1f4494817160df4b421480c5db2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Misha’s whip, his beating everyone, the nanny’s cat, the nanny taking the whip, and her punishment of Misha are all represented."
+  ],
+  "result": "PASS"
+}
