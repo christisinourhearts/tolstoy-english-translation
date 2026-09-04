@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.22",
+  "source_path": "corpus/letters/v59_104_I_I_Panaevu.md",
+  "source_sha256": "dee430edb5c1a55a542cb277624f0f2e83e8381850781b581f3ae29ed07f6507",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Preserves Tolstoy's censorship variants and manuscript-format instructions."
+  ],
+  "result": "PASS"
+}
