@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.15",
+  "source_path": "corpus/letters/v60_007_T_A_Ergolskoj.md",
+  "source_sha256": "f3df714c5a73ba9bdfcb84ecd34f5ba8e5e32339ca3267ede44e3fb91c70e3df",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both witnesses preserve the 11-month leave as 3 months in the country plus 8 abroad, the completed story, and the steward/debt instruction.",
+    "All eight footnotes, duplicated apparatus, and both page markers were checked."
+  ],
+  "result": "PASS"
+}
