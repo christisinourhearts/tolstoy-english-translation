@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.17",
+  "source_path": "corpus/letters/v59_095_Gr_H_N_Tolstomu.md",
+  "source_sha256": "263a485b683af44f592ed00bdac9f9f753581c3ca726c4ef3b2e8a9bc63fec2d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The confession of Tolstoy’s 1,500-ruble gambling loss and his sardonic description of the stagnant siege are translated closely; the source’s broken final word is preserved as an unfinished fragment."
+  ],
+  "result": "PASS"
+}
