@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.48",
+  "source_path": "corpus/krug_chtenija/v41_048_050_Krug_chtenija_daily_jan_3_7.md",
+  "source_sha256": "d85bbccdc593edb2b68a545e0e1ba5d561fa69628bf3810ade0585b763bbf0e7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The apple dialogue preserves rot / seed / covering / undying life as one continuous image.",
+    "All six numbered sections, page markers, attributions, and the closing italicized maxim are represented."
+  ],
+  "result": "PASS"
+}
