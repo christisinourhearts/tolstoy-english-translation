@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.20",
+  "source_path": "corpus/letters/v60_012_gr_S_N_Tolstomu.md",
+  "source_sha256": "3b7affcc355b80f71b4138bd24ce7f78a5b2319acc95f37c00e21615914851aa",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The leave chronology, 10 days in Moscow, August travel plan, 10-percent discount, 500-verst distance, and 1–5 rating scale were checked.",
+    "The source’s bracketed missing word “[day]” is retained as a supplied/uncertain element rather than silently normalized."
+  ],
+  "result": "PASS"
+}
