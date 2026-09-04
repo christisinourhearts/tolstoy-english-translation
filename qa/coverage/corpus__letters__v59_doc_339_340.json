@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.12",
+  "source_path": "corpus/letters/v59_doc_339_340.md",
+  "source_sha256": "93b551e7cedf8e29175744468e74d96188cc6b42bb18c9324a0176055b47a89c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The main deed’s ownership history, monastic purpose, tax obligation, physical description, and signature formula were checked clause by clause.",
+    "The source apparatus says “the peasant Nikolai” where context concerns Alexander Mikhailov; this is preserved rather than silently corrected.",
+    "Confirmed metadata errata: source YAML says Moscow although the represented heading says Vozdvizhenskaya stanitsa, and source_pages 339–341 overreaches into the next item; English metadata uses Vozdvizhenskaya stanitsa and 339–340."
+  ],
+  "result": "PASS"
+}
