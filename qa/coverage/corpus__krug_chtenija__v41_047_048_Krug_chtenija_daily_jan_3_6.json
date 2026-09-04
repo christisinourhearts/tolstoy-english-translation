@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.47",
+  "source_path": "corpus/krug_chtenija/v41_047_048_Krug_chtenija_daily_jan_3_6.md",
+  "source_sha256": "57fbedc5af77a57a2cb1f48db69f3037f4aeb9ca05fd672f8d3d8ccd8a9a8b6e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "«я» is consistently rendered “I” rather than expanded to self/personality.",
+    "The contrast between conjecturing about the afterlife and following the known will of the one who sent us is preserved without doctrinal expansion."
+  ],
+  "result": "PASS"
+}
