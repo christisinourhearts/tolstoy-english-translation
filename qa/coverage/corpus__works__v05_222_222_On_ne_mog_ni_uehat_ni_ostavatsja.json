@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.05",
+  "source_path": "corpus/works/v05_222_222_On_ne_mog_ni_uehat_ni_ostavatsja.md",
+  "source_sha256": "755bbb783023221933f289c986e0c518673d3425126470e82134da02f0f285cc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The incomplete crossing-out described in the sole editorial note is represented literally in the note.",
+    "The final syntax remains fragmentary, including the inserted word after the question."
+  ],
+  "result": "PASS"
+}
