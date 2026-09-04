@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.10",
+  "source_path": "corpus/letters/v59_109_T_A_Ergolskoj.md",
+  "source_sha256": "7989131fc4b14141a09ac5b72821bcd493c349fc647d8189ba2fd191e1a3fad9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Both documentary witnesses are represented separately and their lexical differences are preserved.",
+    "All six note references/definitions and both page markers were checked.",
+    "Confirmed source erratum: printed note 2 is truncated in the audited Markdown and the note-5 text is duplicated as [^6]; the English preserves this audited structure and does not silently reconstruct omitted editorial text."
+  ],
+  "result": "PASS"
+}
