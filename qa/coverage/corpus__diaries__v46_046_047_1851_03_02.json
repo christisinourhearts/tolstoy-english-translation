@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.27",
+  "source_path": "corpus/diaries/v46_046_047_1851_03_02.md",
+  "source_sha256": "d675d63c27b50f0038e5c2e3f172c02df078d338279a1025cd8f3c90caeed7bc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The discouragement about self-work, correction of the will-training method, examination plan, questions/outlines/student tutor, Nevolin consultation, and patience-versus-haste rule are all represented.",
+    "All five deleted/variant note readings and both page markers were checked."
+  ],
+  "result": "PASS"
+}
