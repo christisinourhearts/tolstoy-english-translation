@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.16",
+  "source_path": "corpus/letters/v60_008_S_S_Lanskomuministrvnutr_del.md",
+  "source_sha256": "5566cfd1c501e72acf898339fcb187fd7e259b6e2ed986b24cb046cf19fd4dd3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The 30-year redemption period, 4½ desyatinas per tyaglo, 5 rubles per desyatina, and all alternative legal mechanisms were checked individually.",
+    "The repeated question blocks before and after the p. 58 marker are both retained."
+  ],
+  "result": "PASS"
+}
