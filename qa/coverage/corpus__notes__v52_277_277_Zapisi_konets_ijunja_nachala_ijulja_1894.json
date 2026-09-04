@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.36",
+  "source_path": "corpus/notes/v52_277_277_Zapisi_konets_ijunja_nachala_ijulja_1894.md",
+  "source_sha256": "c91934fba23b78f1123d43f7653318da11624edfc256a344d66b0dd673aa2c11",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All numbered reminders, names (Chertkov, Khelchitsky, Salomon, Turner, Tishchenko, Storozhenko), the Gospel-translation reminder, and the French/Italian workers item are represented.",
+    "Tolstoy’s fragmentary reflection on external conditions and the emphatic final “I” are preserved without syntactic repair."
+  ],
+  "result": "PASS"
+}
