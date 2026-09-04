@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.29",
+  "source_path": "corpus/diaries/v46_043_043_1851_01_12.md",
+  "source_sha256": "42715ec3f7f19e4369ab2558d57a05e85973649ecd34518e87ab26d33f26a856",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "к Иверской is rendered ‘to the Iverskaya Chapel’; the Russian uses the conventional shortened place-name."
+  ],
+  "result": "PASS"
+}
