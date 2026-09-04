@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.35",
+  "source_path": "corpus/notes/v50_200_201_Zapisnaja_knizhka_No_1_1888_1889.md",
+  "source_sha256": "44eec39cf9e203c0bb867d717889e32864339f41ada864f67c9a0fbb650c7287",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Не прохожу, а работник remains the aphoristic ‘Not passing through, but a worker,’ without supplying an omitted subject or metaphor.",
+    "The bare German beibringen is retained; the source note gloss приводить доказательства is translated ‘to adduce evidence.’",
+    "The source's malformed final-list deletion around 7 / пьянство is preserved as malformed deletion markup in English rather than conjecturally expanding its extent."
+  ],
+  "result": "PASS"
+}
