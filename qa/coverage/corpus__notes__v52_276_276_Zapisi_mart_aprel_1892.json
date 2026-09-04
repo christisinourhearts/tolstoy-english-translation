@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.35",
+  "source_path": "corpus/notes/v52_276_276_Zapisi_mart_aprel_1892.md",
+  "source_sha256": "33f7381e041ba249e783e32022d25660a47b7dd04281cb87463f30743d751cc3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The theological aphorisms, Solovyov/Urusov remark, all three relief-supply tasks, the 1,000-pood and 18-kopeck quantities, and the Rozhne/Tushin location are represented.",
+    "The editorial footnote identifying M. L. Tolstaya’s hand is translated and linked."
+  ],
+  "result": "PASS"
+}
