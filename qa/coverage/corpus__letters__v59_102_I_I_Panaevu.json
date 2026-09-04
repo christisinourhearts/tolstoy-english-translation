@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.20",
+  "source_path": "corpus/letters/v59_102_I_I_Panaevu.md",
+  "source_sha256": "14e34d0663fb9fabf44f015db324d12ca937628b882dd043a950489297061753",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Preserves both explicit cut-line markers without reconstruction."
+  ],
+  "result": "PASS"
+}
