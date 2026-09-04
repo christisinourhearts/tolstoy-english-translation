@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.34",
+  "source_path": "corpus/notes/v49_157_157_Zapis_1884.md",
+  "source_sha256": "68597f9279cbba0387d8e1de2b7c17e6b3c6e58143f83eda1d771a3faacccb84",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "однодворка is rendered ‘smallholder,’ a historical smallholding rural status.",
+    "Обегала двор и сына извощика is syntactically opaque in the source; English preserves its roughness and flags the relation to the cabman son rather than inventing a full narrative.",
+    "зажитые деньги is rendered ‘money earned’ in the sense of money accrued/earned while serving; the note remains fragmentary."
+  ],
+  "result": "PASS"
+}
