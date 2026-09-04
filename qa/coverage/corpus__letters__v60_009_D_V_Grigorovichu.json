@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.17",
+  "source_path": "corpus/letters/v60_009_D_V_Grigorovichu.md",
+  "source_sha256": "4814649c751276d73480c3749ed13139a860e4cf99d8c01c957c0a7c1a8c5597",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The two literary judgments, proposed 8 May departure, week with Botkin, and invitation to visit Tolstoy, his sister, and Turgenev are all represented.",
+    "All three footnotes and the collective-letter context are translated in full.",
+    "Confirmed metadata erratum: source_pages 59–60 overreaches into the next letter; this represented unit is wholly on p. 59, so English metadata records 59."
+  ],
+  "result": "PASS"
+}
