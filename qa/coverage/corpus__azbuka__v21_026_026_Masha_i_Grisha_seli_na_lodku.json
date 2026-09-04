@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.42",
+  "source_path": "corpus/azbuka/v21_026_026_Masha_i_Grisha_seli_na_lodku.md",
+  "source_sha256": "8a3f95de6bc6f30f046d1b06c63bbbf2f2b0a2f41a6663fb4832746600a1cc2f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "худа is rendered ‘had a hole’ by context, matching the leaking-vessel sense in the neighboring primer exercise.",
+    "слезли на землю is rendered ‘got out onto land,’ preserving the simple spatial action."
+  ],
+  "result": "PASS"
+}
