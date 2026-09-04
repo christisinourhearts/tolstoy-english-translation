@@ -328,3 +328,70 @@ errata:
     verified_reading: "Official volume 59 continues with the announced excerpt from Yergolskaya’s reply."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; translate the audited witness boundary and document rather than silently importing the omitted later editorial apparatus."
+
+  - source_path: corpus/letters/v59_107_I_I_Panaevu.md
+    type: missing_printed_note_6_and_later_editorial_apparatus
+    status: confirmed
+    volume: 59
+    declared_pages: "328–333"
+    verified_print_pages: "328–333"
+    digital_reading: "The audited Markdown retains a bare printed numeral 6 after the sentence about Stolypin's story, contains no corresponding definition, and represents only pp. 328–329 despite source metadata declaring pp. 328–333."
+    verified_reading: "Official volume 59 supplies printed note 6 and continues with Panaev's reply, Nekrasov's reply, and further editorial commentary through p. 333."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve the bare 6 and translate all apparatus actually present; following established Volume 59 policy, document but do not silently import omitted later Soviet apparatus."
+
+  - source_path: corpus/letters/v59_109_T_A_Ergolskoj.md
+    type: truncated_printed_note_2_and_duplicated_note_6_conversion_artifact
+    status: confirmed
+    volume: 59
+    declared_pages: "334–336"
+    verified_print_pages: "334–336"
+    digital_reading: "The audited Markdown cuts printed note 2 off inside Colonel P. N. Glebov's quotation and duplicates the surviving note-5 text as a separate [^6]."
+    verified_reading: "Official volume 59 continues Glebov's quotation on p. 336 and has the substantive editorial sequence through printed note 5 rather than a distinct duplicate note 6."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve its note IDs and surviving wording in English; document the conversion defect rather than silently reconstructing missing editorial text."
+
+  - source_path: corpus/letters/v59_doc_338_339.md
+    type: incorrect_sent_from_metadata
+    status: confirmed
+    volume: 59
+    declared_pages: "338–339"
+    verified_print_pages: "338–339"
+    digital_reading: "Source YAML says sent_from: Станица Воздвиженская, while the represented document heading reads ‘1851 г. Апреля 30. Москва.’"
+    verified_reading: "Official volume 59 prints the deed heading as 30 April 1851, Moscow."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Use Moscow in English metadata because it follows the represented document heading, and document the YAML discrepancy."
+
+  - source_path: corpus/letters/v59_doc_339_340.md
+    type: incorrect_sent_from_metadata_and_source_pages_overrange
+    status: confirmed
+    volume: 59
+    declared_pages: "339–341"
+    verified_print_pages: "339–340"
+    digital_reading: "Source YAML says sent_from: Москва and source_pages: 339–341, while the represented heading reads ‘1853 г. Июня 6. Станица Воздвиженская’ and the next item begins on p. 341."
+    verified_reading: "Official volume 59 places this deed at Vozdvizhenskaya stanitsa and confines the represented deed/apparatus to pp. 339–340."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Correct English metadata to Vozdvizhenskaya stanitsa and pp. 339–340, retaining the exact source hash."
+
+  - source_path: corpus/letters/v60_005_gr_S_N_Tolstomu.md
+    type: metadata_source_pages_overrange
+    status: confirmed
+    volume: 60
+    declared_pages: "54–56"
+    verified_print_pages: "54–55"
+    digital_reading: "Source YAML declares pp. 54–56, while the represented letter and apparatus end on p. 55."
+    verified_reading: "Official volume 60 begins the next letter on p. 56."
+    witness: "https://tolstoy.ru/online/90/60/"
+    action: "Keep the Russian repository immutable. Correct only the English/manifest page metadata to pp. 54–55."
+
+  - source_path: corpus/letters/v60_009_D_V_Grigorovichu.md
+    type: metadata_source_pages_overrange
+    status: confirmed
+    volume: 60
+    declared_pages: "59–60"
+    verified_print_pages: "59"
+    digital_reading: "Source YAML declares pp. 59–60, while the represented letter and all surviving apparatus are on p. 59."
+    verified_reading: "Official volume 60 begins the next letter on p. 60."
+    witness: "https://tolstoy.ru/online/90/60/"
+    action: "Keep the Russian repository immutable. Correct only the English/manifest page metadata to p. 59."
+
