@@ -395,3 +395,69 @@ errata:
     witness: "https://tolstoy.ru/online/90/60/"
     action: "Keep the Russian repository immutable. Correct only the English/manifest page metadata to p. 59."
 
+
+  - source_path: corpus/azbuka/v21_025_025_Na_dvore_bylo_chisto.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "25"
+    verified_print_pages: "25-26"
+    digital_tail: "...Клали по двору"
+    finding: "Official volume 21 continues on p. 26 with “кучки. Была игра: у кого выше кучка.”"
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_025_025_Ptitsa_svila_gnezdo.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "25"
+    verified_print_pages: "25"
+    digital_tail: "...Дети нашли гнездо и сняли на землю."
+    finding: "Official volume 21 continues the same story on p. 25 with the children seeing three birds, then finding the nest empty the next morning."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_026_026_Poshla_Katja_poutru.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "26"
+    verified_print_pages: "26"
+    digital_tail: "...взяла Машу. Маша"
+    finding: "Official volume 21 continues the same story on p. 26: Masha is small and Katya carries her across a stream."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_026_026_Zhili_myshi_na_pole.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "26"
+    verified_print_pages: "26-27"
+    digital_tail: "...Жили мыши на поле подле пруда"
+    finding: "Official volume 21 continues on p. 27 with spring flooding, the mice going uphill, and the fox eating them."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_027_027_Byla_zima_no_bylo_teplo.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "27"
+    verified_print_pages: "27"
+    digital_tail: "...Взяли снегу,"
+    finding: "Official volume 21 continues the same story on p. 27 with the children making a snow doll."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_032_032_Byl_odin_glupyj_muzhik.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "32"
+    verified_print_pages: "32"
+    digital_tail: "...Мужик влез на дуб,"
+    finding: "The individual Markdown stops mid-sentence; the complete printed/variant tradition continues the episode beyond this clause."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
