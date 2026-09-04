@@ -1,0 +1,23 @@
+{
+  "batch": "P007",
+  "unit": "P007.01",
+  "source_path": "corpus/works/v03_271_273_Djadinka_Zhdanov_i_kavaler_Chernov.md",
+  "source_sha256": "a49cb04c50949f3c4ec2d1ef8988b5d50dd6c280cc033f2f40d6af3b34a44d07",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The official Volume 3 edition independently confirms that this is one of the volume's unfinished works and that the surviving second redaction ends at the same point as the audited Markdown; the LOW preflight boundary is intentional, not truncation.",
+    "The wholly deleted first redaction is translated inside deletion markup rather than omitted.",
+    "поставил касуху is obscure recruit drinking slang in context; English uses the conservative contextual ‘stand a round,’ while preserving the social coercion and two-ruble consequence without inventing a precise vessel or measure.",
+    "дворовых людей is rendered ‘household serfs’; тесак as the infantry sidearm ‘hanger’; юнкер remains ‘junker’.",
+    "The source shifts into pre-reform orthography in the endurance paragraph; wording is translated without modernizing away repetitions or the source's simple syntax.",
+    "Footnote 1's replacement phrase and footnote 2's alternative reading are both translated."
+  ],
+  "result": "PASS"
+}
