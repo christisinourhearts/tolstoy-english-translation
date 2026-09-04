@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.47",
+  "source_path": "corpus/krug_chtenija/v41_035_037_Krug_chtenija_daily_jan_2_7.md",
+  "source_sha256": "7843bf73e0518535499fc2225a5cb51e630aa1e8b833b93b4759dee11948f145",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The Matthew and First John passages are translated from Tolstoy's Russian compilation rather than replaced by a standard English Bible text.",
+    "The repeated один во всех / тот же бог structure is preserved as 'the one who is one in all' and 'the same God who is in you' rather than abstracted.",
+    "The closing distinction is kept explicit: love is a consequence, not the cause; consciousness of the divine spiritual principle is the cause."
+  ],
+  "result": "PASS"
+}
