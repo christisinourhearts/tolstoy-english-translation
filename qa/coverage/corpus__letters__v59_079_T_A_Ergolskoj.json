@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.12",
+  "source_path": "corpus/letters/v59_079_T_A_Ergolskoj.md",
+  "source_sha256": "66f8457db8382c5be22bc47c17e42202d3990a330d19601f77e56cf3bbb67f1e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tolstoy’s French letter and the parallel Russian text preserved in the audited witness are both translated; their duplication is retained rather than collapsed."
+  ],
+  "result": "PASS"
+}
