@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.07",
+  "source_path": "corpus/works/v05_237_240_O_russkom_voenno_ugolovnom_zakonodatelstve.md",
+  "source_sha256": "25a9304b27c2f14aaefd1f6e7ed5c090f7dd293a26990159fe825a3e5ffffeef",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All four page markers, nine note references/definitions, five deleted spans, and the inserted “reasonably” are structurally represented.",
+    "шпицрутены is rendered with the historical spitzruten term where the rods themselves are meant; прогнание сквозь строй is rendered “running the gauntlet.”"
+  ],
+  "result": "PASS"
+}
