@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.05",
+  "source_path": "corpus/works/v04_285_285_Pervonachalnyj_nabrosok_nachala_Zapiski_ob_otritsatelnyh_storonah_russkogo_soldata_i_ofitsera.md",
+  "source_sha256": "ac41d2099267a3c58136b93d2c9ef5799b7b8d5235fce4749a6e5b8e0a1aaad6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Initial sketch translated exhaustively with the reconstructed first sentence and its full textual note preserved. The draft’s rough syntax in the final sentence is kept close rather than repaired by an unsupported supplied noun."
+  ],
+  "result": "PASS"
+}
