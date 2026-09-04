@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.43",
+  "source_path": "corpus/azbuka/v21_031_031_Shel_Misha_po_lesu.md",
+  "source_sha256": "5c42c80896ca204de48c0e613cf9fd86b763153afd3ef89ba4f769c97a1bfd8a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Misha, the old mushroom by the oak, his carrying it home, his proud claim, and the rotten uneaten mushroom are all represented."
+  ],
+  "result": "PASS"
+}
