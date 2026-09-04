@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.48",
+  "source_path": "corpus/krug_chtenija/v41_037_039_Krug_chtenija_weekly_jan_2_Kajuschijsja_greshnik.md",
+  "source_sha256": "4eef71a1d0b7aafdf75810a7256dbe0360d35eee6447fe87fb898e5add75c95b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The Luke epigraph and Biblical allusions are translated from Tolstoy's Russian wording rather than replaced by a standard English Bible text.",
+    "The repeated gate scene, the accuser's repeated inventory of sins, and the refrain 'It was the same with me' are preserved rather than compressed.",
+    "Иоанн Богослов is rendered by the traditional Russian-Christian title 'John the Theologian'; 'the sword of the Ammonites' and the ewe-lamb image are kept close to the source."
+  ],
+  "result": "PASS"
+}
