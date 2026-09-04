@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.04",
+  "source_path": "corpus/works/v05_220_221_Zapiski_muzha.md",
+  "source_sha256": "ae00d2ee88cebbad5874f7d86970a274ae4bc9f97fed6503b0c317d016d2a609",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All three footnotes and both page markers are represented; the source’s unfinished clauses remain unfinished.",
+    "The repeated self/selfishness vocabulary and the contrast between the actual and moral worlds are kept close."
+  ],
+  "result": "PASS"
+}
