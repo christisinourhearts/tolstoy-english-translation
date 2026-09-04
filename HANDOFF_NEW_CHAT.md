@@ -1,10 +1,10 @@
 # Tolstoy English Corpus — New Chat Handoff
 
-## Latest durable checkpoint — P007.34
+## Latest durable checkpoint — P007.46
 
-The repository has been revalidated through **P007.34**. P006 is complete at **50/50 reviewed units** and P007 is now **34/50 reviewed units**. P007.01 is the exact accepted emergency-recovery artifact; P007.02–34 were translated or restored and committed individually against the exact mounted audited Russian witness. Confirmed source-apparatus defects encountered along the way remain explicitly recorded while the Russian source is immutable. P007.23–34 added one final 1855 letter, ten short 1850–1851 diary entries, and the 1884 note.
+The repository has been revalidated through **P007.46**. P006 is complete at **50/50 reviewed units** and P007 is now **46/50 reviewed units**. P007.01 is the exact accepted emergency-recovery artifact; P007.02–46 were translated or restored and committed individually against the exact mounted audited Russian witness. Confirmed source-apparatus defects encountered along the way remain explicitly recorded while the Russian source is immutable. P007.35–46 added two later notebooks, nine *New Primer* fragments, and the *Circle of Reading* selection for 18 January.
 
-**Next target:** P007.35, `corpus/notes/v50_200_201_Zapisnaja_knizhka_No_1_1888_1889.md`. Do not redo P006 or P007.01–34 merely for stylistic preference.
+**Next target:** P007.47, `corpus/krug_chtenija/v41_047_048_Krug_chtenija_daily_jan_3_6.md`. Do not redo P006 or P007.01–46 merely for stylistic preference.
 
 This repository is the current repaired resumable master. It contains the complete surviving packaged Git history through P004.30 plus explicitly documented recovery commits; vanished temporary Git hashes are not claimed to have been recovered.
 
@@ -16,7 +16,7 @@ Upload this English repository ZIP and the authoritative Russian repository ZIP 
 
 Use this instruction:
 
-> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P006.md`, and `qa/batches/P007.md`. Treat the Russian repository as read-only and as a licensed comparison witness. Run `tools/check_source.py` against the uploaded Russian snapshot. P006 is complete at 50/50 reviewed units and P007 is complete through P007.34. Resume at P007.35 (`corpus/notes/v50_200_201_Zapisnaja_knizhka_No_1_1888_1889.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending as a separate audit task.
+> Resume the Tolstoy English corpus from the saved repository. Before doing any translation, verify that both ZIPs are actually mounted/readable. Read `HANDOFF_NEW_CHAT.md`, `TRANSLATION.md`, `metadata/DECISIONS.md`, `WORKBENCH.md`, `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P006.md`, and `qa/batches/P007.md`. Treat the Russian repository as read-only and as a licensed comparison witness. Run `tools/check_source.py` against the uploaded Russian snapshot. P006 is complete at 50/50 reviewed units and P007 is complete through P007.46. Resume at P007.47 (`corpus/krug_chtenija/v41_047_048_Krug_chtenija_daily_jan_3_6.md`). Preserve the conservative-fidelity policy, keep the English translation license separate as `PROJECT-TBD`, commit each accepted unit separately, and keep reconstructed-file provenance explicit. A fresh P005 cold-fidelity sample remains pending as a separate audit task.
 
 ## Current state
 
@@ -26,14 +26,14 @@ Use this instruction:
 - P004: **50 / 50 represented**; P004.01–30 are original packaged accepted units and P004.31–50 are explicitly documented recovery reconstructions
 - P005: **50 / 50 restored and reviewed**
 - P006: **50 / 50 complete and reviewed**. P006.46–50 are the newly reconstructed *Circle of Reading* units for 13, 14, the weekly *Repentant Sinner*, 16, and 17 January.
-- P007: **34 / 50 reviewed**. P007.01 is the exact accepted recovery artifact; P007.02–34 were accepted individually against the exact audited Russian witness.
-- Next translation target: **P007.35 — `corpus/notes/v50_200_201_Zapisnaja_knizhka_No_1_1888_1889.md`**.
-- Total reviewed translations in manifest: **266**
-- Approximate reviewed source-body words: **74,427**
-- Structured bilingual coverage records: **259** (plus 7 P001 legacy unstructured passes)
+- P007: **46 / 50 reviewed**. P007.01 is the exact accepted recovery artifact; P007.02–46 were accepted individually against the exact audited Russian witness.
+- Next translation target: **P007.47 — `corpus/krug_chtenija/v41_047_048_Krug_chtenija_daily_jan_3_6.md`**.
+- Total reviewed translations in manifest: **278**
+- Approximate reviewed source-body words: **75,540**
+- Structured bilingual coverage records: **271** (plus 7 P001 legacy unstructured passes)
 - Confirmed source errata: **31**; source-verified anomalies: **5**
 - The audited Russian snapshot remains an immutable CC BY-SA comparison witness. English translations are separately marked `translation_license: PROJECT-TBD`.
-- Full source identity check at this checkpoint: **15,766 checked, 0 missing, 0 changed**. Full translation validator: **266 English files, 0 errors**, with the two longstanding intentional-Cyrillic warnings. Structured coverage validator: **259 records, 0 errors**.
+- Full source identity check at this checkpoint: **15,766 checked, 0 missing, 0 changed**. Full translation validator: **278 English files, 0 errors**, with the two longstanding intentional-Cyrillic warnings. Structured coverage validator: **271 records, 0 errors**.
 - Read `RECOVERY_RECONSTRUCTION.md` before continuing recovery-sensitive work.
 
 ## Source provenance development
