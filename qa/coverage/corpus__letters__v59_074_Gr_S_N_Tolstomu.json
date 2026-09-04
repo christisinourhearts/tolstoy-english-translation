@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.09",
+  "source_path": "corpus/letters/v59_074_Gr_S_N_Tolstomu.md",
+  "source_sha256": "8d440ea31caf931c49721b7c4ade87bed636463ea0fec15510dfd4e58fb673e0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Letter translated exhaustively with all numbered reasons, military ranks/departments, estate and literary references, two source page markers, embedded editorial note, and six footnotes represented. Names, dates, sums, and regiment names checked against the source."
+  ],
+  "result": "PASS"
+}
