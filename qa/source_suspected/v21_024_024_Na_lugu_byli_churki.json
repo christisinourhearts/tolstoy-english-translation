@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/azbuka/v21_024_024_Na_lugu_byli_churki.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "truncation",
+  "digital_reading": "The individual Markdown ends after “Дети сняли крышу” at the p. 24 boundary.",
+  "verified_print_reading": "Official volume 21 continues on p. 25 with the completion “и куклы сели туда сверху.”",
+  "verification": "Official 90-volume edition, volume 21, pp. 24–25.",
+  "p006_disposition": "Withdrawn from the P006 Primer sequence and quarantined; Russian witness/hash unchanged."
+}

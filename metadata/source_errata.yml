@@ -252,3 +252,25 @@ errata:
     verified_reading: "Official volume 49 p. 155 and textual note 136 identify the missing apparatus as five deleted lines beginning «Так за то их и прогнали» and ending «Что на это отвечать.»"
     witness: "https://tolstoy.ru/online/90/49/"
     action: "Keep the Russian repository immutable and retain its original SHA-256. Restore only the verified deleted lines in English footnote [^15], label them explicitly as deleted text, and preserve the rest of the notebook exactly as represented by the audited witness."
+
+  - source_path: corpus/azbuka/v21_023_023_U_babki_byla_vnuchka.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "23"
+    verified_print_pages: "23-24"
+    digital_tail: "...У бабки была внучка, прежде внучка"
+    finding: "The individual Markdown document stops mid-sentence at the page boundary; official volume 21 continues the same story on p. 24 through the granddaughter caring for the aged grandmother."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/azbuka/v21_024_024_Na_lugu_byli_churki.md
+    type: truncation
+    status: confirmed
+    volume: 21
+    declared_pages: "24"
+    verified_print_pages: "24-25"
+    digital_tail: "...Дети сняли крышу"
+    finding: "The individual Markdown document stops at the p. 24 boundary; official volume 21 continues the final sentence on p. 25: the dolls sat inside from above."
+    witness: "https://tolstoy.ru/online/90/21/"
+    action: "Withdraw this candidate from P006 and quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."

@@ -12,6 +12,7 @@ rows=[json.loads(x) for x in (root/'translation_manifest.jsonl').read_text(encod
 sel=[]
 for r in rows:
     if r['translation_status']!='untranslated': continue
+    if not a.include_flags and r.get('source_qa_status')=='confirmed_erratum': continue
     if a.category and r['category']!=a.category: continue
     wc=int(r.get('body_word_count_rough') or 0)
     if not (a.min_words<=wc<=a.max_words): continue

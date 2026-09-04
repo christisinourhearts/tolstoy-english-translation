@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/azbuka/v21_023_023_U_babki_byla_vnuchka.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "truncation",
+  "digital_reading": "The individual Markdown ends mid-sentence after “У бабки была внучка, прежде внучка” on p. 23.",
+  "verified_print_reading": "Official volume 21 continues the same story on p. 24, beginning “была мала...” and completing the reversal in which the grown granddaughter cares for the aged grandmother.",
+  "verification": "Official 90-volume edition, volume 21, pp. 23–24.",
+  "p006_disposition": "Quarantined; not counted as a translated P006 unit; Russian witness/hash unchanged."
+}
