@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.25",
+  "source_path": "corpus/diaries/v46_045_046_1851_02_28.md",
+  "source_sha256": "49de3d76491d912a1f892c7d0b7c5a88906809b9d7455a6e7e2d1786fd941c19",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The sequence from social pleasures to inner emptiness, the newly recognized permanent aim of developing the will, and the complete next-day schedule are represented.",
+    "The concluding maxim equating fulfillment of what was planned with the happiness of his life, “and vice versa,” is preserved."
+  ],
+  "result": "PASS"
+}
