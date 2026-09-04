@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.44",
+  "source_path": "corpus/azbuka/v21_026_026_Zhil_staryj_ded.md",
+  "source_sha256": "6333fa9a6130b29368f67da2fa728f0b564759aeef4a9ac2102c645bfbfd5139",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All surviving words are inside source deletion markup and remain deleted in English.",
+    "The trailing и is rendered ‘and’ and left unfinished, matching the confirmed intentional fragment boundary."
+  ],
+  "result": "PASS"
+}
