@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.42",
+  "source_path": "corpus/azbuka/v21_031_031_Poshli_deti_v_les.md",
+  "source_sha256": "62e03069b35b134eebe9ae1f60e2cebf1f2919442a249bfca7a98f47a3218d5f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The children entering the forest, getting lost, hearing ringing, following it, finding the village, and returning home are all represented."
+  ],
+  "result": "PASS"
+}
