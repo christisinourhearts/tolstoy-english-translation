@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.47",
+  "source_path": "corpus/krug_chtenija/v41_056_057_Krug_chtenija_daily_jan_4_3.md",
+  "source_sha256": "bf2d8e76a1e68d216887d0c243a0232a882e719fe7ea145250ae050f65875a43",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening direction/perfection thesis and all six numbered sections are represented, including Mallory, Pascal, Ruskin, Amiel, the Persian saying, Holmes, and Tolstoy’s closing sentence.",
+    "Both source page markers and all attribution lines are preserved."
+  ],
+  "result": "PASS"
+}
