@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.33",
+  "source_path": "corpus/diaries/v46_045_045_1851_01_18.md",
+  "source_sha256": "c1e3912652a14b149c6b2bae51ffac132d42ba9dcce9e0785323976e11d539a9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "банк is retained as ‘bank’; in the immediate gambling context it may denote card play, but the source gives no further explanation.",
+    "На 19 — место is kept as the terse ‘For the 19th — position.’"
+  ],
+  "result": "PASS"
+}
