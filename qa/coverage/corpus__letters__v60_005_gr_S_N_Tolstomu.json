@@ -1,0 +1,20 @@
+{
+  "batch": "P008",
+  "unit": "P008.14",
+  "source_path": "corpus/letters/v60_005_gr_S_N_Tolstomu.md",
+  "source_sha256": "01304ceb2f3e7acca3a935541546d273ad2644a3fabbd867af2dd352d99d647c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "The sequence 230 + 200, the remaining 200-ruble debt, monthly 200-ruble expenses, and publication estimates of 4,000 versus 1,000 rubles were checked.",
+    "All seven footnotes and both page markers are represented.",
+    "Confirmed metadata erratum: source_pages 54–56 overreaches into the next letter; the represented unit ends on p. 55, so English metadata records 54–55."
+  ],
+  "result": "PASS"
+}
