@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.08",
+  "source_path": "corpus/works/v04_297_298_Soldatskie_razgovory.md",
+  "source_sha256": "cb6f5b31c3e5fccf03488b9c9eea651f1c60d279acea1de848e6124a0fca2014",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Fragmentary soldier conversations translated exhaustively with uncertain speaker labels, stage directions, insertion markup, dialectal syntax, two notes, and topic fragments preserved. The nonce word «колошматина» is rendered “mangled chunk”; opaque «приставки» is transliterated as pristavki rather than conjecturally identified."
+  ],
+  "result": "PASS"
+}
