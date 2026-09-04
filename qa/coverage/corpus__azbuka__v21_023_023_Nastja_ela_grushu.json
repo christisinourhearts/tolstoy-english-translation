@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.41",
+  "source_path": "corpus/azbuka/v21_023_023_Nastja_ela_grushu.md",
+  "source_sha256": "ad06b056732edcbb07b5b6ecdb5252dd1f76c332a0aa27081bab3c2906d36de5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "текли слюнки is rendered concretely as ‘was drooling’; the following command to wipe the lips supports the physical sense rather than the looser idiom ‘mouth watered.’",
+    "The rebuke Стыдно Маша is kept as the simple child-directed ‘Shame on you, Masha’ without expansion."
+  ],
+  "result": "PASS"
+}
