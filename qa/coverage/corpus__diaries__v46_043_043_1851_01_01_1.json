@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.27",
+  "source_path": "corpus/diaries/v46_043_043_1851_01_01_1.md",
+  "source_sha256": "501f17e3e1c51f9bbb8033ba60f61ee9263a2d1dd0bc8de0c3dd0ef735bdff2d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The source’s inserted heading ‘1851. 1 January. Ya. P.’ is retained rather than expanded conjecturally.",
+    "The final either/or clause remains unresolved exactly as in the Russian."
+  ],
+  "result": "PASS"
+}
