@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.30",
+  "source_path": "corpus/diaries/v46_043_043_1851_01_13.md",
+  "source_sha256": "c87fb4f52da3de70a6e68b573617c3e1436475b397584f3a04e63c7a4382e4ba",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Станцию сдал is rendered ‘Gave up the station’ in continuity with the surrounding entries about taking the post station.",
+    "характер не выдержал remains close as ‘my character did not hold out’."
+  ],
+  "result": "PASS"
+}
