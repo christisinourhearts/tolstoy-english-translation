@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.43",
+  "source_path": "corpus/azbuka/v21_023_023_Vbili_na_dvore_dva_shesta.md",
+  "source_sha256": "f326e139861afa5ace488a3ab5fa3a0b2e98ed10eda3a58b3760e13c0857e33b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The source's four short clauses/actions are retained as four short English sentences.",
+    "платки is rendered ‘scarves’ and шапки ‘caps’ without adding a game or prize context not stated in the source."
+  ],
+  "result": "PASS"
+}
