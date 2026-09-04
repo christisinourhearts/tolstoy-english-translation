@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.40",
+  "source_path": "corpus/azbuka/v21_028_028_Tanja_znala_bukvy.md",
+  "source_sha256": "4c24fa7a35998b5fa0d0c4e959bf8d5ebd5805b732ac163e39943dc7d50820e2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Tanya, the book and doll, make-believe school, letters A and B/Be, and the clipped final instruction are all represented."
+  ],
+  "result": "PASS"
+}
