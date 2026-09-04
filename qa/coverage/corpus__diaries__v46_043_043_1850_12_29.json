@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.24",
+  "source_path": "corpus/diaries/v46_043_043_1850_12_29.md",
+  "source_sha256": "98b93295aaf3327593c56cdebb6d6e94e330c728f8ce094a77f401d843338aa5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "скотски is kept strong as ‘like a beast,’ rather than softened.",
+    "на просторе is contextually rendered ‘at leisure’; the phrase remains somewhat open in the Russian."
+  ],
+  "result": "PASS"
+}
