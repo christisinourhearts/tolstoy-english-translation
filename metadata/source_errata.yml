@@ -132,7 +132,7 @@ errata:
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Retain the six reference numerals and translate the complete Tolstoy text plus apparatus present in the audited Markdown; following the established Volume 59 witness policy, document but do not silently import the omitted printed notes."
 
-- source_path: corpus/letters/v59_010_T_A_Ergolskoj.md
+  - source_path: corpus/letters/v59_010_T_A_Ergolskoj.md
     type: displaced_or_missing_original_french_note_3
     status: confirmed
     volume: 59
@@ -143,7 +143,7 @@ errata:
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; preserve the source anomaly, translate the complete surviving Tolstoy text and apparatus, and do not conjecturally reconstruct omitted note content."
 
-- source_path: corpus/letters/v59_011_T_A_Ergolskojigr_E_A_Tolstoj.md
+  - source_path: corpus/letters/v59_011_T_A_Ergolskojigr_E_A_Tolstoj.md
     type: missing_original_french_footnote_5_perfiliev
     status: confirmed
     volume: 59

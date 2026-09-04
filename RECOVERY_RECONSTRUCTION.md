@@ -53,3 +53,14 @@ At the user's request, exactly four additional units were completed after the P0
 At this boundary the source hash gate remains **15,766 checked, 0 missing, 0 changed**; the translation validator checks **222 English files with 0 errors** (plus the two longstanding intentional-Cyrillic warnings), and the coverage validator checks **215 structured records with 0 errors**. The repaired manifest contains **222 reviewed translations**, approximately **58,204 rough source-body words**.
 
 The next translation target is P006.41 (`corpus/azbuka/v21_023_023_Nastja_ela_grushu.md`).
+
+## Bounded continuation — P006.41–45
+
+At the user's request, exactly five additional reviewed units were completed after the P006.40 checkpoint. P006.41–43 were translated directly from the exact mounted audited Russian witness. During preflight, the accepted recovery record was reconciled with the stale batch list: `U_babki_byla_vnuchka` ends mid-sentence at the p. 23/24 boundary and `Na_lugu_byli_churki` ends at the p. 24/25 boundary. Official volume 21 confirms both continuations, so those individual Markdown witnesses are quarantined rather than counted as complete units.
+
+The corrected P006 Primer sequence is therefore P006.41 `Nastja_ela_grushu`, P006.42 `Palo_mnogo_snegu`, P006.43 `Vbili_na_dvore_dva_shesta`, P006.44 `Petja_i_Masha_byli_gosti`, and P006.45 `Pomnju_ja_byla_mala`. P006.44–45 were restored byte-for-byte from the exact accepted recovery artifacts and their source hashes were revalidated. The batch selector now skips `source_qa_status == confirmed_erratum` rows by default.
+
+At this boundary the source hash gate remains **15,766 checked, 0 missing, 0 changed**; the translation validator checks **227 English files with 0 errors** (plus the two longstanding intentional-Cyrillic warnings), and the coverage validator checks **220 structured records with 0 errors**. The repaired manifest contains **227 reviewed translations**, approximately **58,312 rough source-body words**.
+
+The next translation target is P006.46 (`corpus/krug_chtenija/v41_033_035_Krug_chtenija_daily_jan_2_6.md`). No work on P006.46 has begun in this checkpoint.
+
