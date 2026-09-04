@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.14",
+  "source_path": "corpus/letters/v59_082_Gr_S_N_Tolstomu.md",
+  "source_sha256": "4b89a8af392dff8dd3d2a6fd73c6fab043dcf28f4baa44b386638c52773e2817",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Official Volume 59 confirms a missing printed note 2 and a one-position shift in the later Markdown note linkage. English restores the verified nine-note structure; Russian witness remains unchanged."
+  ],
+  "result": "PASS"
+}

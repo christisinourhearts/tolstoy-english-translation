@@ -284,3 +284,14 @@ errata:
     verified_reading: "Official volume 59 p. 237 prints note 5 as the Russian editorial translation of the preceding French paragraph."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable. Preserve the bare numeral 5 and translate Tolstoy's French directly into English; following the established Volume 59 witness policy, document but do not silently import the redundant missing Russian editorial translation."
+
+  - source_path: corpus/letters/v59_082_Gr_S_N_Tolstomu.md
+    type: missing_printed_note_2_and_shifted_note_linkage
+    status: confirmed
+    volume: 59
+    declared_pages: "250–253"
+    verified_print_pages: "251–253"
+    digital_reading: "The audited Markdown preserves a bare printed numeral 2 after Tolstoy's transfer request, omits printed note 2, and then shifts the surviving Markdown note linkage by one position through the end of the letter."
+    verified_reading: "Official volume 59 has nine printed notes; note 2 explains the transfer-to-active-army request, and the subsequent hounds, Dickens, dictionary, Sobolev, Cherkassky, memorandum, and remittance references are notes 3–9."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable and retain its original SHA-256. Restore verified printed note 2 and realign English note linkage 2–9 under a manifest-declared structural exception."

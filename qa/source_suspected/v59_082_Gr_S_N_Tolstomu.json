@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_082_Gr_S_N_Tolstomu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_note_2_and_shifted_note_linkage",
+  "digital_reading": "The audited Markdown preserves a bare printed numeral 2 after the sentence about Prince S. D. Gorchakov, omits printed note 2 itself, and then assigns Markdown notes [^2]–[^8] to body positions that correspond to printed notes 3–9.",
+  "verified_print_reading": "Official Volume 59 pp. 251–253 has nine notes: note 2 explains Tolstoy’s request for transfer to the active army; the hounds, Dickens, dictionary, manager, Cherkassky, memorandum, and remittance references are notes 3–9.",
+  "verification": "Official 90-volume edition, volume 59, pp. 251–253.",
+  "p007_disposition": "Keep Russian witness/hash unchanged; restore the verified note 2 and realign the English note linkage through note 9 under the manifest-declared structural exception."
+}
