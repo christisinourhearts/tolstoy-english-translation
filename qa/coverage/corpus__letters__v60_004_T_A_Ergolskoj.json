@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.13",
+  "source_path": "corpus/letters/v60_004_T_A_Ergolskoj.md",
+  "source_sha256": "3792f589b8278840aed5e4142230574cf91e209e48fe22632460a64a43ca5a57",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Both documentary witnesses are represented and their differences in diminutives and syntax are preserved.",
+    "All six note references/definitions and both page markers were checked."
+  ],
+  "result": "PASS"
+}
