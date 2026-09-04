@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.39",
+  "source_path": "corpus/azbuka/v21_025_025_Prishla_Nastja_posle_shkoly.md",
+  "source_sha256": "849ce4b546b72ac8d90e0bab7076609c1cd9bfec7e9d1b62fa070b70ad8b1f15",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Одна мама была дома is kept as ‘Only Mama was at home,’ retaining the source's emphasis.",
+    "сказку is rendered ‘a tale,’ without specifying fairy tale or fable."
+  ],
+  "result": "PASS"
+}
