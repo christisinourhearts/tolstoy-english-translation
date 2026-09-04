@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.21",
+  "source_path": "corpus/letters/v60_013_gr_M_N_Tolstoj.md",
+  "source_sha256": "fdb24ad433f5f4d738452b3d8e549af7fab8ceaf42abbacd6ea4bfe993c304dd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The musical items, St Peter’s Day plan, river bathing invitation, children’s vocal play, peasant-emancipation difficulty, 4 a.m. return, and Pushkin reading are all represented.",
+    "All eleven notes and both page markers were checked."
+  ],
+  "result": "PASS"
+}
