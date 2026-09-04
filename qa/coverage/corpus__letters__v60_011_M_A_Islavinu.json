@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.19",
+  "source_path": "corpus/letters/v60_011_M_A_Islavinu.md",
+  "source_sha256": "cd3157d432af8fb58c1934c54989574e272c0279573512f92302dd0748956e14",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The unpaid May rent, furniture exception, Gorbunov handover, requested visit, and family greetings were checked.",
+    "The unknown-hand inscription on the folded letter is translated as separate editorial evidence."
+  ],
+  "result": "PASS"
+}
