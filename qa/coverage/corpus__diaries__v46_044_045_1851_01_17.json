@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.32",
+  "source_path": "corpus/diaries/v46_044_045_1851_01_17.md",
+  "source_sha256": "0b40c7db84d766a4e89f95764d0e5e67fe625f62a91c5c81b7247f6cc818e4b3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "ералаш is rendered as the named card game ‘Yeralash’; the stake is 25 silver kopeks.",
+    "The syntactically/logically awkward sentence beginning ‘With people who speak superficially about money matters...’ is preserved without conjectural negation.",
+    "The deleted fragment хлопе is not safely recoverable and is transliterated as ‘khlope...’ rather than guessed."
+  ],
+  "result": "PASS"
+}
