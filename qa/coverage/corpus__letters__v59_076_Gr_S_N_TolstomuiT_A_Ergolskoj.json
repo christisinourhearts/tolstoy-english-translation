@@ -10,7 +10,7 @@
   "known_unsupported_additions": [],
   "names_numbers_dates_checked": true,
   "structure_checked": true,
-  "source_suspected": false,
+  "source_suspected": true,
   "ambiguities_or_notes": [
     "Russian and French body translated exhaustively. The bare printed numeral 5 after Tolstoy's French note is preserved; official Volume 59 confirms that the audited Markdown omits only the redundant Russian editorial translation of that French paragraph, documented as a confirmed source erratum rather than imported."
   ],

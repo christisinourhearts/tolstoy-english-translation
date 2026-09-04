@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_076_Gr_S_N_TolstomuiT_A_Ergolskoj.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_footnote_definition_5_french_translation",
+  "digital_reading": "The audited Markdown preserves a bare printed numeral 5 after Tolstoy's French paragraph to T. A. Yergolskaya but contains no corresponding note definition.",
+  "verified_print_reading": "Official volume 59 p. 237 prints note 5 as a Russian editorial translation of the immediately preceding French paragraph.",
+  "verification": "Official 90-volume edition, volume 59, pp. 236–237.",
+  "p007_disposition": "Preserve the bare numeral 5 and translate Tolstoy's French directly into English; document but do not silently import the redundant Russian editorial translation; Russian witness/hash unchanged."
+}
