@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.31",
+  "source_path": "corpus/diaries/v46_043_043_1851_01_14.md",
+  "source_sha256": "7f74808cf96249e2f7797609a836e0dc8d5cca65d5a00a041eada07ca72985d4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The nominal list syntax is retained; no verbs are supplied for the two visits."
+  ],
+  "result": "PASS"
+}
