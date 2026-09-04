@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.24",
+  "source_path": "corpus/diaries/v46_045_045_1851_01_25.md",
+  "source_sha256": "6a3de89d5b589d608859e7dccd5a5e14754f248e2c44af03f9c332671eb9b952",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The infatuation/imagined infatuation distinction, unnecessary horse purchase, ball rule, evening financial reflection, and instruction to stay home are all represented."
+  ],
+  "result": "PASS"
+}
