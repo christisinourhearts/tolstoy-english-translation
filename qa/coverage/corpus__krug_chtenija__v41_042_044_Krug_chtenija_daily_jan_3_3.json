@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.50",
+  "source_path": "corpus/krug_chtenija/v41_042_044_Krug_chtenija_daily_jan_3_3.md",
+  "source_sha256": "4cc21794d26ae0a7be9cb6ad28b9d4e65613722793261df47d7e7f9df43e50a4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The long Lamennais quotation is translated from Tolstoy's Russian compilation and retains the repeated claims about liberation, human masters, justice, mercy, and divine law.",
+    "Свобода состоит не в том, чтобы властвовал этот, а не тот, а в том, чтобы никто не властвовал is preserved directly as freedom consisting in no one ruling, rather than softened into a vaguer anti-authoritarian paraphrase.",
+    "The wool-and-vessels image is kept literally enough to preserve Tolstoy's comparison, and all three source page markers are retained."
+  ],
+  "result": "PASS"
+}
