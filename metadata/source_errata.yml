@@ -295,3 +295,14 @@ errata:
     verified_reading: "Official volume 59 has nine printed notes; note 2 explains the transfer-to-active-army request, and the subsequent hounds, Dickens, dictionary, Sobolev, Cherkassky, memorandum, and remittance references are notes 3–9."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable and retain its original SHA-256. Restore verified printed note 2 and realign English note linkage 2–9 under a manifest-declared structural exception."
+
+  - source_path: corpus/letters/v59_098_N_A_Nekrasovu.md
+    type: missing_later_editorial_apparatus_after_note_6
+    status: confirmed
+    volume: 59
+    declared_pages: "309–311"
+    verified_print_pages: "309–315"
+    digital_reading: "The audited Markdown ends just after note 6 announces that Panaev’s 31 May reply is reproduced in full."
+    verified_reading: "Official volume 59 continues with the promised Panaev reply."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; translate the audited witness boundary and document rather than silently importing the omitted later editorial apparatus."

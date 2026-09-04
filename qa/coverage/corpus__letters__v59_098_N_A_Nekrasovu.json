@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.18",
+  "source_path": "corpus/letters/v59_098_N_A_Nekrasovu.md",
+  "source_sha256": "57c1326b2642de51011959493a63433452911c44d5e90aae341a6d392d3698f0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Confirmed source omission after note 6; translated audited witness ends where source Markdown ends."
+  ],
+  "result": "PASS"
+}

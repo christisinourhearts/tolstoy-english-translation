@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_098_N_A_Nekrasovu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_later_editorial_apparatus_after_note_6",
+  "digital_reading": "The audited Markdown ends in note 6 immediately after the sentence announcing that I. I. Panaev’s reply of 31 May is reproduced in full.",
+  "verified_print_reading": "Official Volume 59 continues after that sentence with the promised Panaev letter.",
+  "verification": "Official 90-volume edition, volume 59, pp. 309–315.",
+  "p007_disposition": "Keep Russian witness/hash unchanged; translate the audited witness through its actual boundary and document, but do not silently import, the omitted later Soviet editorial apparatus."
+}
