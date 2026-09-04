@@ -1,0 +1,16 @@
+{
+  "batch": "P006",
+  "unit": "P006.44",
+  "source_path": "corpus/azbuka/v21_024_024_Petja_i_Masha_byli_gosti.md",
+  "source_sha256": "81b04a49bb1bae736bfaac19f5dfa7ece39fef5686daa1074cebfb374d8d79ca",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": ["The elementary sequence of actions is retained without stylistic elaboration."],
+  "result": "PASS"
+}
