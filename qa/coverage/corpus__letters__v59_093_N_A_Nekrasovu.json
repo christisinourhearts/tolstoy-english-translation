@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.16",
+  "source_path": "corpus/letters/v59_093_N_A_Nekrasovu.md",
+  "source_sha256": "bca7ad436e006eb564b29d4c2f9932ab9ec4dc94f1aa9374254899e0f11f5440",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The detailed proposal for a permanent military section in Sovremennik preserves Tolstoy’s numbered program, repeated commercial terms, and distinction between official and unofficial military literature."
+  ],
+  "result": "PASS"
+}
