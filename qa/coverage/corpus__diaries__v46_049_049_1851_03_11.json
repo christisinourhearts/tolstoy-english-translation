@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.33",
+  "source_path": "corpus/diaries/v46_049_049_1851_03_11.md",
+  "source_sha256": "3142ad6a0bb52daf6234d80756fde807b22f7621d4b48ff8142fc19e8122a041",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The letter, gymnastics, Islenyev, riding school, Begichev, Mikhalkov, horse arrangements, Poiret, concert, Volkonsky, dinner, excerpts, reading, and early-bed instruction are all represented.",
+    "All three note references/definitions and the single page marker were checked."
+  ],
+  "result": "PASS"
+}
