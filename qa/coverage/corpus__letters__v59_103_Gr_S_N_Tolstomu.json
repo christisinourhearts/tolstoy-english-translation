@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.21",
+  "source_path": "corpus/letters/v59_103_Gr_S_N_Tolstomu.md",
+  "source_sha256": "c7f726851854edffc501a9f28406d40974570820f778883d79e0f6936f98137f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Confirmed missing later editorial apparatus in note 1 documented without importing material absent from the audited witness."
+  ],
+  "result": "PASS"
+}

@@ -317,3 +317,14 @@ errata:
     verified_reading: "Official volume 59 supplies note 3 (‘The Wood-Felling’; see letter 102), numbers the Bakunin/Rostovtsev note 4, and continues the later apparatus in note 1."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; restore verified note 3 and realign English note 4, while documenting rather than silently importing the omitted later editorial quotation."
+
+  - source_path: corpus/letters/v59_103_Gr_S_N_Tolstomu.md
+    type: missing_later_editorial_apparatus_in_note_1
+    status: confirmed
+    volume: 59
+    declared_pages: "320–323"
+    verified_print_pages: "320–323"
+    digital_reading: "Note 1 ends after announcing that Yergolskaya’s 3 July reply is reproduced not in full."
+    verified_reading: "Official volume 59 continues with the announced excerpt from Yergolskaya’s reply."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; translate the audited witness boundary and document rather than silently importing the omitted later editorial apparatus."
