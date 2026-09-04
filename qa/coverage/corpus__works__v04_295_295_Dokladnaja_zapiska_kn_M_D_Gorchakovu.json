@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.06",
+  "source_path": "corpus/works/v04_295_295_Dokladnaja_zapiska_kn_M_D_Gorchakovu.md",
+  "source_sha256": "538c1dcc539a967b412039d2d6f598cf3fdf879b27106d3c5a329a7dcb9a070d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Fragment translated exhaustively. All bracketed manuscript completions are preserved. The official Volume 4 electronic edition reproduces the same opaque final token «авимъ» after «сокр[ушимъ]»; it is therefore transliterated as avim rather than silently emended."
+  ],
+  "result": "PASS"
+}
