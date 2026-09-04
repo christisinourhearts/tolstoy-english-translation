@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.04",
+  "source_path": "corpus/works/v04_284_284_Zametka_po_povodu_voennogo_zhurnala.md",
+  "source_sha256": "3623950444aac8f38a63188fa88711f051f6bbcd1bb850f545512a7ed3a2077c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Telegraphic planning note translated exhaustively; two contributor classes, abbreviated names, bracketed supplied “to,” and the unfinished final financial construction are preserved without editorial completion."
+  ],
+  "result": "PASS"
+}
