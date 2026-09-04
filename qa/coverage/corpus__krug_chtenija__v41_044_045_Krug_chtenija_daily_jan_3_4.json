@@ -1,0 +1,20 @@
+{
+  "batch": "P007",
+  "unit": "P007.46",
+  "source_path": "corpus/krug_chtenija/v41_044_045_Krug_chtenija_daily_jan_3_4.md",
+  "source_sha256": "8a633e9aada1a9a99538ac211c72c3c5231a1acb61be4d7a0e15bcf482d9aa7e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "ученый / образованный / просвещенный are consistently distinguished as ‘learned / educated / enlightened.’",
+    "наука is retained as ‘science’ throughout, including ‘the one thing needful in science,’ preserving Tolstoy's deliberate semantic argument.",
+    "химической таблице, паралаксах и свойствах радия is translated concretely as ‘the chemical table, parallaxes, and the properties of radium’ without modernization."
+  ],
+  "result": "PASS"
+}
