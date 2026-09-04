@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.42",
+  "source_path": "corpus/azbuka/v21_023_023_Palo_mnogo_snegu.md",
+  "source_sha256": "6b04b62c0c4ab450a2f38195a9d481f18ceb3c2fb5d2abbae9de9584da7c290c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Exact audited Russian Markdown source bytes were revalidated against the pinned SHA-256.",
+    "The progression snow → animals/tracks → people following tracks → animal found is preserved sentence by sentence.",
+    "The Russian shifts from plural звери to singular зверя in the final clause; English deliberately preserves that shift as ‘Animals’ ... ‘the animal.’"
+  ],
+  "result": "PASS"
+}
