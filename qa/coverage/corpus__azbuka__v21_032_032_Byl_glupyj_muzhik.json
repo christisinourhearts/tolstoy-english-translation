@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.44",
+  "source_path": "corpus/azbuka/v21_032_032_Byl_glupyj_muzhik.md",
+  "source_sha256": "7fd781c333e4b3719631265308c4a92fe5f11a87b39765e8d49c23f7df6447f4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every clause of the wholly deleted foolish-peasant fragment is represented, including the strong hut, absent door bolts, roofed but unfenced yard, theft, and scattered livestock.",
+    "The source-wide deletion markup is preserved."
+  ],
+  "result": "PASS"
+}
