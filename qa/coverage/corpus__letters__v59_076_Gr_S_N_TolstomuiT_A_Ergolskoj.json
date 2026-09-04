@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.11",
+  "source_path": "corpus/letters/v59_076_Gr_S_N_TolstomuiT_A_Ergolskoj.md",
+  "source_sha256": "c9b36f012bdea85ba2af366cecd26aef8fc0f8916698dc547481eadb45184462",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Russian and French body translated exhaustively. The bare printed numeral 5 after Tolstoy's French note is preserved; official Volume 59 confirms that the audited Markdown omits only the redundant Russian editorial translation of that French paragraph, documented as a confirmed source erratum rather than imported."
+  ],
+  "result": "PASS"
+}

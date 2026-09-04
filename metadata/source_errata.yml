@@ -274,3 +274,13 @@ errata:
     finding: "The individual Markdown document stops at the p. 24 boundary; official volume 21 continues the final sentence on p. 25: the dolls sat inside from above."
     witness: "https://tolstoy.ru/online/90/21/"
     action: "Withdraw this candidate from P006 and quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+  - source_path: corpus/letters/v59_076_Gr_S_N_TolstomuiT_A_Ergolskoj.md
+    type: missing_printed_footnote_definition_5_french_translation
+    status: confirmed
+    volume: 59
+    declared_pages: "236–237"
+    verified_print_pages: "236–237"
+    digital_reading: "The audited Markdown retains a bare printed numeral 5 after Tolstoy's French paragraph to T. A. Yergolskaya but omits the corresponding printed note definition."
+    verified_reading: "Official volume 59 p. 237 prints note 5 as the Russian editorial translation of the preceding French paragraph."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable. Preserve the bare numeral 5 and translate Tolstoy's French directly into English; following the established Volume 59 witness policy, document but do not silently import the redundant missing Russian editorial translation."
