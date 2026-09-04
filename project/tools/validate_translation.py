@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-import sys,json,pathlib,re,hashlib
+import sys,json,pathlib,re,hashlib,csv
 if len(sys.argv)!=2:
     raise SystemExit('usage: validate_translation.py /path/to/tolstoy-russian-md-audited')
-ru=pathlib.Path(sys.argv[1]); en=pathlib.Path(__file__).resolve().parents[1]
-rows=[json.loads(x) for x in (en/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+ru=pathlib.Path(sys.argv[1]); en=pathlib.Path(__file__).resolve().parents[2]
+rows=[json.loads(x) for x in (en/'project'/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+with (en/'project'/'metadata'/'english_path_migration.csv').open(encoding='utf-8',newline='') as f:
+    path_map={row['old_english_path']:row['new_english_path'] for row in csv.DictReader(f)}
 page_re=re.compile(r'<!--\s*vol\.\s*\d+,\s*p\.\s*[^>]+?-->')
 fn_ref_re=re.compile(r'\[\^([^\]]+)\](?!:)')
 fn_def_re=re.compile(r'^\[\^([^\]]+)\]:',re.M)
@@ -26,7 +28,7 @@ for r in rows:
             errors.append((r['output_path'],'reviewed but coverage audit has not passed'))
         if r.get('has_footnotes') and r.get('apparatus_translation_status')=='not_started':
             errors.append((r['output_path'],'reviewed source has footnotes but apparatus translation is still not_started'))
-    ep=en/r['output_path']
+    ep=en/path_map.get(r['output_path'],r['output_path'])
     if not ep.exists():
         if r.get('translation_status')=='reviewed': errors.append((r['output_path'],'reviewed row missing English file'))
         continue

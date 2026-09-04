@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json, collections, pathlib
-root=pathlib.Path(__file__).resolve().parents[1]
-rows=[json.loads(x) for x in (root/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+root=pathlib.Path(__file__).resolve().parents[2]
+rows=[json.loads(x) for x in (root/'project'/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
 print(f'Documents: {len(rows):,}')
 for field in ['category','translation_status','fidelity_audit_status','english_edit_status','final_source_audit_status','coverage_audit_status','cold_audit_status','source_qa_status','apparatus_translation_status']:
     print(f'\n{field}:')

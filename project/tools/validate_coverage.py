@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 import json, pathlib, sys, hashlib
-root=pathlib.Path(__file__).resolve().parents[1]
-manifest=[json.loads(x) for x in (root/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+root=pathlib.Path(__file__).resolve().parents[2]
+manifest=[json.loads(x) for x in (root/'project'/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
 errors=[]; checked=0
 for r in manifest:
     if r.get('coverage_audit_status')!='pass':
         continue
     checked += 1
     safe=r['id'].replace('::','__').replace('/','_')+'.json'
-    cp=root/'qa'/'coverage'/safe
+    cp=root/'project'/'qa'/'coverage'/safe
     if not cp.exists():
         errors.append((r['output_path'],'missing structured coverage record')); continue
     try: rec=json.loads(cp.read_text(encoding='utf-8'))
