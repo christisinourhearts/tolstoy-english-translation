@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.37",
+  "source_path": "corpus/azbuka/v21_025_025_Deti_na_dvore_ryli.md",
+  "source_sha256": "a042c7ca7eba4b8de82af8f0c7b7ae051f018a03a6823f654e1d7a3ae043ad1e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "дубки is rendered ‘little oaks’ rather than generalized to plants or seedlings.",
+    "The final contrast between Vasya's oaks and Petya's absent turnips is retained without supplying a cause."
+  ],
+  "result": "PASS"
+}
