@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.46",
+  "source_path": "corpus/krug_chtenija/v41_053_055_Krug_chtenija_daily_jan_4_2.md",
+  "source_sha256": "a375cfb5aa40294c5e5d9464b6372417bf4feee41db752243e85fdd2faa0240d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The opening thesis and all nine numbered sections are represented, including the Seneca material, weakness/strength contrast, Socrates passage, two Dhammapada passages, the italic injunction, causal reflection, and final child/disputants comparison.",
+    "All three source page markers and attribution lines are preserved."
+  ],
+  "result": "PASS"
+}
