@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.38",
+  "source_path": "corpus/azbuka/v21_025_025_Nesla_baba_vedro_vody.md",
+  "source_sha256": "f1205c6959ab4f35e2a4b0d6672847f28ed47f34a3329cef483c457fbfd2c8aa",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "худо is rendered by sense as ‘had a hole’ rather than the misleading modern adjective ‘bad.’",
+    "The source's simple repetition of bucket/water is retained rather than stylistically varied."
+  ],
+  "result": "PASS"
+}
