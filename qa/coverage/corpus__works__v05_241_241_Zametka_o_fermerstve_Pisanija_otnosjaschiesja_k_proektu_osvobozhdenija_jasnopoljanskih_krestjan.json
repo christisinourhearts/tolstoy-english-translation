@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.08",
+  "source_path": "corpus/works/v05_241_241_Zametka_o_fermerstve_Pisanija_otnosjaschiesja_k_proektu_osvobozhdenija_jasnopoljanskih_krestjan.md",
+  "source_sha256": "23dd55aa834ab007da71c9f3e3368dc1c6581c3b907c8bd7315a57b34f3df762",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The repeated contract/dependence logic and the distinction between equal allotment and allotment to the most capable are preserved.",
+    "The source’s grammatical note on «невозможна/невозможная» is represented without changing the body reading."
+  ],
+  "result": "PASS"
+}
