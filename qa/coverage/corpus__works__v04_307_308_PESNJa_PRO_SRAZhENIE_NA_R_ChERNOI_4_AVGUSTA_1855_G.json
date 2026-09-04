@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.01",
+  "source_path": "corpus/works/v04_307_308_PESNJa_PRO_SRAZhENIE_NA_R_ChERNOI_4_AVGUSTA_1855_G.md",
+  "source_sha256": "18ad2af3d23cef7f45a87ec1f2a122383d68d5a69f4f319a2a95c29cd439e87a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "All stanzas, every “bis,” both page markers, and the figure marker are preserved.",
+    "The censored final obscenity is not reconstructed beyond the letters surviving in the source."
+  ],
+  "result": "PASS"
+}
