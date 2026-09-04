@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.41",
+  "source_path": "corpus/azbuka/v21_026_026_Byla_u_Nasti_kukla.md",
+  "source_sha256": "883efa6bfaf22371f0571dd98a791fe71049114edc8a40f6b4fe958dffb3b9dd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "дочка is rendered ‘daughter’ in Nastya's name for the doll.",
+    "юпки is understood in context as ‘skirts’; кофты as ‘blouses’; платки as ‘kerchiefs.’"
+  ],
+  "result": "PASS"
+}
