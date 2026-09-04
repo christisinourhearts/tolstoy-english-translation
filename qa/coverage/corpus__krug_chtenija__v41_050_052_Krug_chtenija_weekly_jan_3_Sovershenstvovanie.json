@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.49",
+  "source_path": "corpus/krug_chtenija/v41_050_052_Krug_chtenija_weekly_jan_3_Sovershenstvovanie.md",
+  "source_sha256": "61dc92b2a6002df7e0399dca68b158c14538aabe5e12f00072060f147e2028a5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The quotation and Tolstoy’s ensuing three paragraphs remain distinct documentary layers.",
+    "The closing “all other beings” is preserved rather than narrowed to human beings."
+  ],
+  "result": "PASS"
+}
