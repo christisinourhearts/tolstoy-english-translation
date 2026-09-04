@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.07",
+  "source_path": "corpus/works/v04_296_296_Otryvok_iz_dnevnika_shtabs_kapitana_A_pehotnogo_L_L_polka.md",
+  "source_sha256": "6810815c44ac4bf634751a742bceea777bffbc240c5d4592ddccd57654e03351",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Short unfinished diary fragment translated exhaustively; the month-and-a-half timing, succession of contradictory rumors, named figures, and final ellipsis are preserved."
+  ],
+  "result": "PASS"
+}
