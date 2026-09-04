@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.10",
+  "source_path": "corpus/letters/v59_075_N_P_Alekseevu.md",
+  "source_sha256": "24e6d8573e080e6b38169edbb904606bdcf590ad7e3f9622f32cbc9c3130f4f8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Formal discharge request and all surviving embedded editorial apparatus translated exhaustively, including Mooro’s report, Alekseev’s endorsement, diary quotations, Article 56 of the Code of Military Regulations, and Mooro’s 15 June letter. Three source page markers and all dates/numbers retained."
+  ],
+  "result": "PASS"
+}
