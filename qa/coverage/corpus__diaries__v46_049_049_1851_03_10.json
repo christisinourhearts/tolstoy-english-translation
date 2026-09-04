@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.32",
+  "source_path": "corpus/diaries/v46_049_049_1851_03_10.md",
+  "source_sha256": "33cafcac4d40fb409cc46e64041b0e2f4b4f7e2a9915f9ed2b6e3ecce643ef2d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The Ozerov horse conversation, lie to Begichev, omitted fur coat, Council/gymnastics/Lvov faults, failure to make excerpts, and entire 11 March plan are all represented."
+  ],
+  "result": "PASS"
+}
