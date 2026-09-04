@@ -7,8 +7,8 @@ p.add_argument('--min-words',type=int,default=0)
 p.add_argument('--count',type=int,default=10)
 p.add_argument('--include-flags',action='store_true')
 a=p.parse_args()
-root=pathlib.Path(__file__).resolve().parents[1]
-rows=[json.loads(x) for x in (root/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
+root=pathlib.Path(__file__).resolve().parents[2]
+rows=[json.loads(x) for x in (root/'project'/'translation_manifest.jsonl').read_text(encoding='utf-8').splitlines() if x.strip()]
 sel=[]
 for r in rows:
     if r['translation_status']!='untranslated': continue

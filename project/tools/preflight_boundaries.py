@@ -22,8 +22,8 @@ from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Iterable, Optional
 
-ROOT = Path(__file__).resolve().parents[1]
-MANIFEST = ROOT / "translation_manifest.jsonl"
+ROOT = Path(__file__).resolve().parents[2]
+MANIFEST = ROOT / "project" / "translation_manifest.jsonl"
 
 PAGE_RE = re.compile(r"<!--\s*vol\.\s*\d+,\s*p\.\s*\d+\s*-->")
 CYR_RE = re.compile(r"[А-Яа-яЁё]")

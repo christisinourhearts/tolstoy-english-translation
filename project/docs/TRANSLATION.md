@@ -18,15 +18,21 @@ Never silently translate from an unrelated web edition when the audited source i
 
 ## 3. Identity and file structure
 
-Keep the same relative path and filename as the Russian source whenever possible.
+Store English files under `translations/` in reader-facing category folders:
+`works`, `letters`, `diaries`, `notes`, `primer`, and `circle_of_reading`.
+Use the printed-edition volume/page prefix followed by an English title slug.
 
 Example:
 
 ```text
-corpus/works/v01_003_095_Detstvo.md
+Russian source: corpus/azbuka/v21_026_026_Byla_u_Nasti_kukla.md
+English file:   translations/primer/v21_026_026_Nastya_Had_a_Doll.md
 ```
 
-English titles belong in YAML/front matter and catalogs. Stable filenames are identifiers, not display titles.
+The English path is for navigation, not source identity. Preserve the immutable
+Russian path in `source_ru_path`, the source checksum in `source_ru_sha256`, and
+the stable manifest `id`. Record every path change in
+`project/metadata/english_path_migration.csv`.
 
 Preserve source page markers exactly:
 
@@ -50,7 +56,7 @@ Preserve heading hierarchy, block quotes, verse lineation, tables, deletion/addi
 
 ## 5. English style
 
-The default posture is conservative fidelity. When a close rendering is clear and intelligible in English, preserve the source's concrete wording, imagery, repetitions, and unusual turns rather than replacing them with a smoother abstraction. “Contemporary English” means avoiding needless archaism and accidental Russian stiffness; it does not mean rewriting Tolstoy into more idiomatic or elegant English than the source warrants. See `metadata/DECISIONS.md` for consequential examples and standing editorial decisions.
+The default posture is conservative fidelity. When a close rendering is clear and intelligible in English, preserve the source's concrete wording, imagery, repetitions, and unusual turns rather than replacing them with a smoother abstraction. “Contemporary English” means avoiding needless archaism and accidental Russian stiffness; it does not mean rewriting Tolstoy into more idiomatic or elegant English than the source warrants. See `project/metadata/DECISIONS.md` for consequential examples and standing editorial decisions.
 
 - Use normal contemporary English syntax when Russian syntax carries no special force.
 - Prefer ordinary English words when Tolstoy uses ordinary Russian words.
@@ -63,7 +69,7 @@ The default posture is conservative fidelity. When a close rendering is clear an
 
 ## 6. Tolstoy's recurrent vocabulary
 
-Do not translate recurrent philosophical or religious terms mechanically, but notice them deliberately. Maintain a terminology record in `metadata/TERMINOLOGY.md` when a choice has corpus-wide consequences.
+Do not translate recurrent philosophical or religious terms mechanically, but notice them deliberately. Maintain a terminology record in `project/metadata/TERMINOLOGY.md` when a choice has corpus-wide consequences.
 
 Particular attention should be paid to terms such as:
 
@@ -87,7 +93,7 @@ A change in English rendering is allowed when context requires it. The reason sh
 
 Use established English forms for widely conventional historical names where appropriate. Otherwise use a consistent transliteration policy. Do not flatten meaningful distinctions among first name, patronymic, surname, title, nickname, diminutive, and respectful address.
 
-Record recurring person-name decisions in `metadata/NAMES.md` rather than solving them independently in every file.
+Record recurring person-name decisions in `project/metadata/NAMES.md` rather than solving them independently in every file.
 
 ## 8. Foreign-language source passages
 
@@ -128,10 +134,10 @@ When `SOURCE_SUSPECTED` is triggered:
 1. Stop finalizing the affected passage.
 2. Identify the volume and printed page from the preserved page marker/front matter.
 3. Check the 90-volume printed/electronic page and, where useful, an independent witness.
-4. Record the issue under `qa/source_suspected/` and in the manifest `source_qa_flags`.
+4. Record the issue under `project/qa/source_suspected/` and in the manifest `source_qa_flags`.
 5. Never silently repair the Russian repository.
 6. If the digital reading is confirmed, translate it and close the flag as `source_verified`.
-7. If a source error is confirmed, record both readings in `metadata/source_errata.yml`, state which reading governs the English translation, and retain the original source hash.
+7. If a source error is confirmed, record both readings in `project/metadata/source_errata.yml`, state which reading governs the English translation, and retain the original source hash.
 8. If the reading cannot be resolved, keep the translation unit out of `reviewed` status and mark it `needs_source_review`.
 9. If a confirmed source erratum requires the English structure to differ from the audited Markdown (for example, restoring a verified missing footnote), declare the exact structural exception in the translation manifest so mechanical validation remains narrow and auditable.
 
@@ -149,7 +155,7 @@ When a passage depends on sound-play, punning, or deliberate mishearing that can
 
 A translation cannot be accepted merely because it reads well or passes structural validation. Its final audit must make an exhaustive source-to-English pass whose primary question is: **is every substantive source element represented, and is every substantive English element supported by the source?**
 
-For every P002-and-later accepted unit, create a structured record under `qa/coverage/`. The record must identify the source path and SHA-256 and state at minimum:
+For every P002-and-later accepted unit, create a structured record under `project/qa/coverage/`. The record must identify the source path and SHA-256 and state at minimum:
 
 - coverage method (`exhaustive_source_to_target_pass`);
 - whether every substantive source passage was checked;
@@ -172,7 +178,7 @@ Batch acceptance does not eliminate the need for fresh-pass checking. At regular
 
 The cold audit must distinguish **hard fidelity defects** from **non-blocking wording alternatives**. Hard defects include omissions, unsupported additions, reversed relations, lost negation or modality, wrong subjects/speakers/referents, incorrect names/numbers/dates, or structural loss. A merely conceivable alternative translation is not a defect.
 
-Record cold audits under `qa/reports/` and, where useful, per-unit structured records under `qa/cold_audit/`. If a hard defect is found, correct the translation, update its QA/manifest state, and consider widening the sample to determine whether the problem is local or systemic.
+Record cold audits under `project/qa/reports/` and, where useful, per-unit structured records under `project/qa/cold_audit/`. If a hard defect is found, correct the translation, update its QA/manifest state, and consider widening the sample to determine whether the problem is local or systemic.
 
 A cold pass performed by the same model in a later/fresh reading context is useful but should not be mislabeled as independent-model or human verification. At publication scale, periodically use a genuinely separate model/context or human reader when available.
 
@@ -198,7 +204,7 @@ Assume the active AI context can disappear at any time.
 
 - Never hold unique progress only in chat context.
 - Save completed translation text before beginning criticism.
-- Update `WORKBENCH.md` and `translation_manifest.jsonl` after every accepted unit or small batch.
+- Update `project/docs/WORKBENCH.md` and `project/translation_manifest.jsonl` after every accepted unit or small batch.
 - Commit frequently.
 - For long works, process chapter/section chunks internally, but keep the final repository's one-to-one file identity unless there is a compelling technical reason otherwise.
 - A resumed session should be able to determine the next action from the repository alone.

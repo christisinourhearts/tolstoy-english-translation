@@ -49,18 +49,23 @@ A rough token-independent word scan finds about **10,604,496 words** across the 
 - The source set is not literally all Russian: there are several French or mixed-language works and one English-language source (`The hostelry`). These require explicit handling rather than automatic Russian-to-English translation.
 - Page boundaries such as `<!-- vol. 23, p. 17 -->` are stable scholarly anchors and should be preserved exactly in English.
 
-## Recommended identity rule
+## English navigation and source identity
 
-Mirror the Russian relative paths and filenames in English. Do **not** rename thousands of files to English slugs. Stable filenames make RU↔EN mapping trivial, while `title_en` in YAML and the catalog provide human-friendly English names.
-
-Example:
+The reader-facing English tree uses translated category and filenames beneath
+`translations/`. The volume/page prefix is retained for stable ordering and to
+reduce collisions; for example:
 
 ```text
-RU: corpus/works/v01_003_095_Detstvo.md
-EN: corpus/works/v01_003_095_Detstvo.md
+RU: corpus/azbuka/v21_026_026_Byla_u_Nasti_kukla.md
+EN: translations/primer/v21_026_026_Nastya_Had_a_Doll.md
 ```
 
-The English file records the Russian file SHA-256. If the Russian source later changes, `tools/check_source.py` can identify exactly which English translations need re-audit.
+Source identity does not depend on the English filename. Each English file and
+manifest row retains the Russian relative path, stable manifest ID, and Russian
+SHA-256. If the Russian source later changes, `project/tools/check_source.py`
+can still identify exactly which English translations need re-audit. Historical
+English path changes are recorded in
+`project/metadata/english_path_migration.csv`.
 
 ## Recommended translation order
 

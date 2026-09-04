@@ -2,14 +2,14 @@
 
 This is the persistent handoff ledger. A fresh session should read, in this order:
 
-1. `HANDOFF_NEW_CHAT.md`
-2. `TRANSLATION.md`
-3. `metadata/DECISIONS.md`
-4. `WORKBENCH.md`
-5. `RECOVERY_RECONSTRUCTION.md`
-6. `qa/batches/P004.md`
-7. `qa/batches/P005.md`
-8. `translation_manifest.jsonl`
+1. `project/docs/HANDOFF_NEW_CHAT.md`
+2. `project/docs/TRANSLATION.md`
+3. `project/metadata/DECISIONS.md`
+4. `project/docs/WORKBENCH.md`
+5. `project/docs/RECOVERY_RECONSTRUCTION.md`
+6. `project/qa/batches/P004.md`
+7. `project/qa/batches/P005.md`
+8. `project/translation_manifest.jsonl`
 
 ## Source snapshot
 
@@ -24,14 +24,14 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 
 - 7 / 7 units accepted.
 - Full translate → fidelity audit → English edit → final source audit workflow completed.
-- Post-pilot review in `qa/reports/P001_REVIEW.md`.
+- Post-pilot review in `project/qa/reports/P001_REVIEW.md`.
 
 ### Russian source stress test
 
 - Stratified source-integrity sampling completed across 31 volumes.
 - No evidence of systemic corruption found.
-- Report: `qa/reports/SOURCE_STRESS_TEST.md`.
-- Two later *New Azbuka* segmentation truncations were independently confirmed and recorded in `metadata/source_errata.yml`.
+- Report: `project/qa/reports/SOURCE_STRESS_TEST.md`.
+- Two later *New Azbuka* segmentation truncations were independently confirmed and recorded in `project/metadata/source_errata.yml`.
 
 ### P002
 
@@ -40,7 +40,7 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - 10-unit cold fidelity audit completed (40% of P002; ~1,766 source words).
 - Cold audit found 0 substantive omissions, 0 unsupported substantive additions, 0 reversed meanings, and 0 speaker/reference errors.
 - Four style-only smoothings from the cold audit were subsequently reverted under Decision D0001 in favor of more conservative fidelity.
-- Reports: `qa/reports/P002_REVIEW.md` and `qa/reports/P002_COLD_AUDIT.md`.
+- Reports: `project/qa/reports/P002_REVIEW.md` and `project/qa/reports/P002_COLD_AUDIT.md`.
 
 
 ### P003 cold fidelity audit
@@ -49,17 +49,17 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - Result: **PASS AFTER REVISION**.
 - Because defects clustered in the works category, all 8 P003 works were audited. Six required correction: one omitted running-prose clause, 14 omitted footnote/deleted-apparatus passages, one flattened deletion state, and one compressed/mispositioned variant-apparatus structure.
 - Eight difficult non-works units (letters, diaries, notes, *Azbuka*, and *Circle of Reading*) required no translation correction.
-- `tools/validate_translation.py` was hardened to reject reviewed footnoted units whose apparatus is still `not_started` and reviewed units that lose source `~~` deletion markup.
-- Full report: `qa/reports/P003_COLD_AUDIT.md`.
+- `project/tools/validate_translation.py` was hardened to reject reviewed footnoted units whose apparatus is still `not_started` and reviewed units that lose source `~~` deletion markup.
+- Full report: `project/qa/reports/P003_COLD_AUDIT.md`.
 
 ### Translation policy hardening
 
 - Decision D0001 adopted: conservative fidelity before stylistic smoothing.
 - Preserve unusual but intelligible concrete Tolstoy phrasing rather than replacing it with smoother abstractions.
 - Example settled decision: keep “the whole world of people” rather than “all humanity.”
-- Permanent decisions ledger: `metadata/DECISIONS.md`.
+- Permanent decisions ledger: `project/metadata/DECISIONS.md`.
 - `SOURCE_SUSPECTED` protocol added.
-- Automatic source-boundary suspicion detector added as `tools/preflight_boundaries.py`.
+- Automatic source-boundary suspicion detector added as `project/tools/preflight_boundaries.py`.
 
 ## Current corpus state
 
@@ -71,24 +71,24 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - P005: **50 / 50 restored and reviewed**. P005.01–20 and P005.23–50 are fresh documented recovery reconstructions from the mounted audited Russian snapshot; P005.21–22 remain the surviving recovery-package artifacts.
 - P006: **50 / 50 complete and reviewed**. P006.46–50 are fresh reconstructions from the exact audited Russian witness; the corrected Primer quarantine remains in force.
 - P007: **50 / 50 complete and reviewed**. P007.47–50 are the final four *Circle of Reading* units.
-- P008: **47 / 50 reviewed**. The corrected deterministic P008 selection is frozen in `qa/batches/P008.md`; next is P008.48.
+- P008: **47 / 50 reviewed**. The corrected deterministic P008 selection is frozen in `project/qa/batches/P008.md`; next is P008.48.
 - Approximate reviewed source-body words: **90,729**.
 - Confirmed source errata: **43**; source-verified anomalies: **5**.
 - Existing structured coverage records: **322**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
-`python tools/status.py` should reproduce the manifest counts.
+`python project/tools/status.py` should reproduce the manifest counts.
 
 ### Recovery status
 
-- Read `RECOVERY_RECONSTRUCTION.md` before continuing.
-- P004 recovery report: `qa/reports/P004_RECOVERY_AUDIT.md`.
-- P005 batch reconstruction: `qa/batches/P005.md`.
+- Read `project/docs/RECOVERY_RECONSTRUCTION.md` before continuing.
+- P004 recovery report: `project/qa/reports/P004_RECOVERY_AUDIT.md`.
+- P005 batch reconstruction: `project/qa/batches/P005.md`.
 - P005 translation restoration target: **complete through P005.50**. A fresh P005 periodic cold-fidelity sample remains pending because the lost-runtime cold audit cannot be transferred to reconstructed English files.
 - The authoritative Russian source ZIP mounted successfully. Full source/hash validation passes: **15,766 checked, 0 missing, 0 changed**; at the P008.47 checkpoint the full translation validator passes **329 English files with 0 errors** and only the two longstanding intentional-Cyrillic warnings.
 
 ## P003 status
 
-Batch file: `qa/batches/P003.md`.
+Batch file: `project/qa/batches/P003.md`.
 
 Completed and accepted:
 
@@ -149,17 +149,17 @@ P003 translation production is complete, and its deliberately difficult cold fid
 
 ## Exact source verification completed
 
-In the pre-loss 2026-08-31 runtime, the uploaded Russian snapshot was successfully mounted and checked. `tools/check_source.py` checked all **15,766** manifest sources with **0 missing** and **0 changed**. P003.01–08 were also confirmed individually against their recorded SHA-256 hashes; all eight matched exactly, so none was reopened.
+In the pre-loss 2026-08-31 runtime, the uploaded Russian snapshot was successfully mounted and checked. `project/tools/check_source.py` checked all **15,766** manifest sources with **0 missing** and **0 changed**. P003.01–08 were also confirmed individually against their recorded SHA-256 hashes; all eight matched exactly, so none was reopened.
 
 The P003 boundary preflight scanned the exact snapshot. Only P003.39 and P003.45 were MEDIUM; inspection showed that both apparent nonterminal endings are caused by deletion markup with punctuation inside the deleted span, with neighboring page units independently segmented. They are retained as intentional draft boundaries, not `SOURCE_SUSPECTED`.
 
-P003.20 triggered `SOURCE_SUSPECTED` for a different reason: the audited Markdown has a bare numeral `3` after `карандашом` but no `[^3]` definition. Volume 75 pp. 209–210 confirms that this is a footnote marker and supplies the omitted note. The Russian snapshot remains unchanged; the English restores the verified footnote under the manifest-declared structural override documented in `metadata/source_errata.yml`.
+P003.20 triggered `SOURCE_SUSPECTED` for a different reason: the audited Markdown has a bare numeral `3` after `карандашом` but no `[^3]` definition. Volume 75 pp. 209–210 confirms that this is a footnote marker and supplies the omitted note. The Russian snapshot remains unchanged; the English restores the verified footnote under the manifest-declared structural override documented in `project/metadata/source_errata.yml`.
 
 P003.21 also triggered `SOURCE_SUSPECTED`: its Markdown apparatus contains a spurious bare `3.` immediately before the p. 106 marker. Volume 77 pp. 105–106 confirms that the apparatus ends after note 2 and p. 106 begins with letter 117. The English omits only that non-substantive numeral, preserves the page marker, and records the erratum explicitly.
 
 P003.26 triggered `SOURCE_SUSPECTED` because the audited Markdown preserves marker and definition [^1] after Latin `Memento` but leaves the definition empty. The official volume 48 text supplies the gloss `Помни,` (“Remember,”). The English restores that verified gloss only, retains the original Russian source hash, and leaves the Russian repository unchanged.
 
-P003.28 triggered `SOURCE_SUSPECTED` because the audited filename, subtitle, creation field, and manifest metadata say 1883 while the file's source-edition citation says `Дневник 1884 г.` Volume 49 places the 17/29 May entry on pp. 94–95 inside the 1884 diary, and its manuscript description and commentary independently cite the 1884 agenda and correspondence. The stable source path and original hash are retained, English metadata uses verified 1884, both readings are recorded in `metadata/source_errata.yml`, and the Russian snapshot remains unchanged.
+P003.28 triggered `SOURCE_SUSPECTED` because the audited filename, subtitle, creation field, and manifest metadata say 1883 while the file's source-edition citation says `Дневник 1884 г.` Volume 49 places the 17/29 May entry on pp. 94–95 inside the 1884 diary, and its manuscript description and commentary independently cite the 1884 agenda and correspondence. The stable source path and original hash are retained, English metadata uses verified 1884, both readings are recorded in `project/metadata/source_errata.yml`, and the Russian snapshot remains unchanged.
 
 P003.29 triggered `SOURCE_SUSPECTED` because the audited Markdown retains footnote [^1], «Можно прочесть: истопил», after `потом` but omits the printed `[?]` uncertainty marker that belongs immediately after that reference. Official volume 50 p. 40 reads `потом[34] [?] пришел Желтов`, with note 34 `Можно прочесть: истоп[ил]`. The English restores only the verified uncertainty marker, translates the existing note, retains the original source hash, and leaves the Russian snapshot unchanged.
 
@@ -168,13 +168,13 @@ P003.33 triggered `SOURCE_SUSPECTED` because the audited entry has `Овеянн
 P003.50 triggered `SOURCE_SUSPECTED` because the audited Markdown misplaces the p. 155/item 3 boundary after the Lucy Mallory attribution, effectively merging the two Mallory selections under item 2 and leaving a stranded `3` before item 4. Official volume 42 shows p. 155 beginning with item 3 before the second Mallory passage. English restores only that verified structure, retains the original source hash, and leaves the Russian repository unchanged.
 
 
-P004.09 triggered `SOURCE_SUSPECTED`: the audited Markdown retains reference numerals 3 and 4 in Tolstoy's 3 August 1844 petition but omits the official edition's long Soviet editorial notes 3 and 4. Volume 59 confirms that Tolstoy's petition itself is complete. The Russian witness remains unchanged; English translates all material present in the audited Markdown but does not import the omitted later editorial apparatus, and the defect is recorded in `metadata/source_errata.yml`.
+P004.09 triggered `SOURCE_SUSPECTED`: the audited Markdown retains reference numerals 3 and 4 in Tolstoy's 3 August 1844 petition but omits the official edition's long Soviet editorial notes 3 and 4. Volume 59 confirms that Tolstoy's petition itself is complete. The Russian witness remains unchanged; English translates all material present in the audited Markdown but does not import the omitted later editorial apparatus, and the defect is recorded in `project/metadata/source_errata.yml`.
 
 P004.03 triggered `SOURCE_SUSPECTED`: the audited Markdown and the upstream Tolstoy Digital TEI omit the main-text continuation after `сыграв` in item 5 of *A Temporary Method for the Study of Music*. Official volume 1 pp. 241–242 restores `раза два неизвестныя ноты, стараться сыграть наизусть` and textual note 169 `Написано: сыграть.` English restores only that verified material under an exact manifest-declared footnote exception; the Russian snapshot remains unchanged.
 
 ## Public-domain provenance pilot
 
-A contained pilot has been completed for `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md` (Volume 48, printed pp. 342–346). The pilot lives under `provenance/pd_core_pilot/` and uses the printed 90-volume scan as the primary textual authority, with the existing Tolstoy Digital-derived Russian Markdown retained only as a comparison witness.
+A contained pilot has been completed for `corpus/notes/v48_342_346_Zapisi_No_2_i_3_1870.md` (Volume 48, printed pp. 342–346). The pilot lives under `project/provenance/pd_core_pilot/` and uses the printed 90-volume scan as the primary textual authority, with the existing Tolstoy Digital-derived Russian Markdown retained only as a comparison witness.
 
 The scan comparison confirmed that the old source's `orthography_mode: reg` can erase editorial distinctions by silently expanding printed bracket completions: `Андр[ей]` → `Андрей`, `на[до]` → `надо`, `кот[орого]` → `которого`, and `пролетар[иата]` → `пролетариата`. The pilot also separates Tolstoy-authored manuscript material from later editorial apparatus instead of inheriting the upstream CC BY-SA package wholesale.
 
@@ -184,8 +184,8 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. Read `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P007.md`, and `qa/batches/P008.md`; the durable project state is validated through **P008.47**.
-2. Verify the mounted Russian snapshot with `tools/check_source.py`; the checkpoint must remain at 15,766/15,766 with 0 missing and 0 changed.
+1. Read `project/docs/RECOVERY_RECONSTRUCTION.md`, `project/qa/batches/P007.md`, and `project/qa/batches/P008.md`; the durable project state is validated through **P008.47**.
+2. Verify the mounted Russian snapshot with `project/tools/check_source.py`; the checkpoint must remain at 15,766/15,766 with 0 missing and 0 changed.
 3. Resume with **P008.48**: `corpus/krug_chtenija/v41_057_059_Krug_chtenija_daily_jan_4_4.md`. P007 is complete at 50/50 and P008.01–47 are already reviewed.
 4. Keep Decision D0001 conservative-fidelity rule in force and retain the Russian witness as read-only.
 5. Keep the fresh deliberately difficult P005 cold-fidelity sample pending as a separate audit task.
