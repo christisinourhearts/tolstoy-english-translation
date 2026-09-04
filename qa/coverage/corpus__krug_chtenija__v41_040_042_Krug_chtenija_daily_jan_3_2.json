@@ -1,0 +1,20 @@
+{
+  "batch": "P006",
+  "unit": "P006.49",
+  "source_path": "corpus/krug_chtenija/v41_040_042_Krug_chtenija_daily_jan_3_2.md",
+  "source_sha256": "fb249ffd7bc50bd1c15b13fe7f6057b119e6b79f8f66eb25ea0ff5d468931519",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The internal 1)/2) program within item 1 is kept distinct from the subsequent numbered selections; all three page markers are preserved.",
+    "дома терпимости is rendered 'brothels' rather than the opaque literal euphemism 'houses of tolerance'; the rest of Tolstoy's institutional catalogue is retained item by item.",
+    "неразумие / разумность is kept consistently as unreasonableness / reasonableness, preserving the repeated conceptual opposition rather than varying it for style."
+  ],
+  "result": "PASS"
+}
