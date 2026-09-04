@@ -70,10 +70,10 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - P004: **50 / 50 represented**. P004.01–30 are the original accepted packaged files; P004.31–50 are fresh, explicitly labelled recovery reconstructions after workspace loss.
 - P005: **50 / 50 restored and reviewed**. P005.01–20 and P005.23–50 are fresh documented recovery reconstructions from the mounted audited Russian snapshot; P005.21–22 remain the surviving recovery-package artifacts.
 - P006: **50 / 50 complete and reviewed**. P006.46–50 are fresh reconstructions from the exact audited Russian witness; the corrected Primer quarantine remains in force.
-- P007: **22 / 50 reviewed**. P007.01 was restored byte-for-byte from the accepted recovery artifact; P007.02–22 were accepted individually against the exact audited Russian witness.
-- Approximate reviewed source-body words: **72,977**.
+- P007: **34 / 50 reviewed**. P007.01 was restored byte-for-byte from the accepted recovery artifact; P007.02–34 were accepted individually against the exact audited Russian witness.
+- Approximate reviewed source-body words: **74,427**.
 - Confirmed source errata: **31**; source-verified anomalies: **5**.
-- Existing structured coverage records: **247**, currently validating with 0 errors (P001 used the older unstructured audit format).
+- Existing structured coverage records: **259**, currently validating with 0 errors (P001 used the older unstructured audit format).
 
 `python tools/status.py` should reproduce the manifest counts.
 
@@ -83,7 +83,7 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - P004 recovery report: `qa/reports/P004_RECOVERY_AUDIT.md`.
 - P005 batch reconstruction: `qa/batches/P005.md`.
 - P005 translation restoration target: **complete through P005.50**. A fresh P005 periodic cold-fidelity sample remains pending because the lost-runtime cold audit cannot be transferred to reconstructed English files.
-- The authoritative Russian source ZIP mounted successfully. Full source/hash validation passes: **15,766 checked, 0 missing, 0 changed**; at the P007.22 checkpoint the full translation validator passes **254 English files with 0 errors** and only the two longstanding intentional-Cyrillic warnings.
+- The authoritative Russian source ZIP mounted successfully. Full source/hash validation passes: **15,766 checked, 0 missing, 0 changed**; at the P007.34 checkpoint the full translation validator passes **266 English files with 0 errors** and only the two longstanding intentional-Cyrillic warnings.
 
 ## P003 status
 
@@ -183,9 +183,9 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 
 ## NEXT ACTION
 
-1. Read `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P006.md`, and `qa/batches/P007.md`; the durable project state is validated through **P007.22**.
+1. Read `RECOVERY_RECONSTRUCTION.md`, `qa/batches/P006.md`, and `qa/batches/P007.md`; the durable project state is validated through **P007.34**.
 2. Verify the mounted Russian snapshot with `tools/check_source.py`; the checkpoint must remain at 15,766/15,766 with 0 missing and 0 changed.
-3. Resume with **P007.23**: `corpus/letters/v59_105_T_A_Ergolskoj.md`. P006 is complete at 50/50 and P007.01–22 are already reviewed.
+3. Resume with **P007.35**: `corpus/notes/v50_200_201_Zapisnaja_knizhka_No_1_1888_1889.md`. P006 is complete at 50/50 and P007.01–34 are already reviewed.
 4. Keep Decision D0001 conservative-fidelity rule in force and retain the Russian witness as read-only.
 5. Keep the fresh deliberately difficult P005 cold-fidelity sample pending as a separate audit task.
 6. Keep one accepted unit per Git commit and package periodic full-repository checkpoints.
