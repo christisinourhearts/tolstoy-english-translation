@@ -1,0 +1,19 @@
+{
+  "batch": "P007",
+  "unit": "P007.26",
+  "source_path": "corpus/diaries/v46_043_043_1850_12_31.md",
+  "source_sha256": "32d00cbf7d4080d8f1a0feb5e38e2099f90982a139a947b83791c5048f295fdd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "станция is rendered ‘post station’ because the same sentence mentions the Postmaster and the next entries concern taking and giving up the station.",
+    "The inserted uncertain heading <ins>31? December. Pokrovskoye.</ins> is preserved."
+  ],
+  "result": "PASS"
+}
