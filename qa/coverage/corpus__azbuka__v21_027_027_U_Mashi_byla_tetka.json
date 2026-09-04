@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.39",
+  "source_path": "corpus/azbuka/v21_027_027_U_Mashi_byla_tetka.md",
+  "source_sha256": "c0921031f7959187a969a64488e7bbbc2f5ed3562e1ba0c4c7c9229957030302",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Masha’s aunt, bench, two pieces of melon, and the delivery to Petya’s brother are all represented."
+  ],
+  "result": "PASS"
+}
