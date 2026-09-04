@@ -1,0 +1,19 @@
+{
+  "batch": "P008",
+  "unit": "P008.34",
+  "source_path": "corpus/notes/v52_276_276_Zapisi_ijun_avgusta_1893.md",
+  "source_sha256": "01f5e0092b8c46ba78a2260f7fa5822288aa3eccf92833670fecd200e67ce318",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The attack on Shakespeare, Wagner, and Raphael, the “pleiad of Americans,” the opaque medicine fraction, the Vasilievsky Island address, and the three addressee names are all represented.",
+    "The source’s [illegible: 1 word] marker is preserved exactly in substance."
+  ],
+  "result": "PASS"
+}
