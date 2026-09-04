@@ -1,0 +1,16 @@
+{
+  "batch": "P006",
+  "unit": "P006.45",
+  "source_path": "corpus/azbuka/v21_024_024_Pomnju_ja_byla_mala.md",
+  "source_sha256": "d7ef67c300b110954cbf86d2beefd056066e599a95558337d7a269d8e958d2d8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": ["The Primer's elementary repetition is retained; Russian plokha is rendered directly as 'bad' rather than softened."],
+  "result": "PASS"
+}
