@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.03",
+  "source_path": "corpus/works/v04_281_283_Proekt_zhurnala_Soldatskij_vestnik.md",
+  "source_sha256": "354eaa6edad2ac9de8be94801a7301605a5a69fe9f403a84f8f568166bcd41f2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Proposal translated exhaustively with all numbered sections, rank/contributor tables, one deleted manuscript span, unfinished editor line, and seven marginal/editorial notes preserved. Note 4 contains opaque shorthand; recoverable words are translated and the unclear abbreviation is transliterated rather than guessed."
+  ],
+  "result": "PASS"
+}
