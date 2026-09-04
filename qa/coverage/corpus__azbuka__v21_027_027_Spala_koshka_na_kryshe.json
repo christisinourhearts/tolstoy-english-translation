@@ -1,0 +1,18 @@
+{
+  "batch": "P008",
+  "unit": "P008.38",
+  "source_path": "corpus/azbuka/v21_027_027_Spala_koshka_na_kryshe.md",
+  "source_sha256": "f68f5f3fdf953fbf706d0e8a8a9c4f2e796a652eb8c2bc0c82686f9fd25fbc21",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "The sleeping cat, tucked paws, nearby bird, and warning that cats are sly are all represented."
+  ],
+  "result": "PASS"
+}
