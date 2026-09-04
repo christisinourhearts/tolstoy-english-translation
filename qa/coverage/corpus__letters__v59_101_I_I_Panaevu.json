@@ -1,0 +1,18 @@
+{
+  "batch": "P007",
+  "unit": "P007.19",
+  "source_path": "corpus/letters/v59_101_I_I_Panaevu.md",
+  "source_sha256": "18e4c3549760c9d84b3b524ee5412c66ac8e2a40144acf1a7c72111eb23e35b1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Confirmed missing printed note 3 restored and final note linkage realigned; separate later apparatus cutoff in note 1 documented without import."
+  ],
+  "result": "PASS"
+}

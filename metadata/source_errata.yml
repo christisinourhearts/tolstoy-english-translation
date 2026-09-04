@@ -306,3 +306,14 @@ errata:
     verified_reading: "Official volume 59 continues with the promised Panaev reply."
     witness: "https://tolstoy.ru/online/90/59/"
     action: "Keep the Russian repository immutable; translate the audited witness boundary and document rather than silently importing the omitted later editorial apparatus."
+
+  - source_path: corpus/letters/v59_101_I_I_Panaevu.md
+    type: missing_printed_note_3_shifted_linkage_and_missing_later_editorial_apparatus
+    status: confirmed
+    volume: 59
+    declared_pages: "315–319"
+    verified_print_pages: "315–319"
+    digital_reading: "A bare printed 3 remains after ‘Рассказ Юнкера’ but its note is absent; surviving Markdown [^3] is actually printed note 4. Note 1 also cuts off before a later editorial quotation."
+    verified_reading: "Official volume 59 supplies note 3 (‘The Wood-Felling’; see letter 102), numbers the Bakunin/Rostovtsev note 4, and continues the later apparatus in note 1."
+    witness: "https://tolstoy.ru/online/90/59/"
+    action: "Keep the Russian repository immutable; restore verified note 3 and realign English note 4, while documenting rather than silently importing the omitted later editorial quotation."

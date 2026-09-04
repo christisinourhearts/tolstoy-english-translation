@@ -1,0 +1,9 @@
+{
+  "source_path": "corpus/letters/v59_101_I_I_Panaevu.md",
+  "status": "CONFIRMED_ERRATUM",
+  "type": "missing_printed_note_3_shifted_linkage_and_missing_later_editorial_apparatus",
+  "digital_reading": "The audited Markdown retains a bare printed numeral 3 after “Рассказ Юнкера” but omits its note definition; its surviving Markdown [^3] belongs to printed note 4. Separately, note 1 ends at the colon announcing Panaev’s quoted letter.",
+  "verified_print_reading": "Official Volume 59 prints note 3: Tolstoy means “The Wood-Felling”; see letter no. 102. It prints the Bakunin/Rostovtsev reference as note 4 and continues note 1 with later editorial quotation material.",
+  "verification": "Official 90-volume edition, volume 59, pp. 315–319.",
+  "p007_disposition": "Keep Russian witness/hash unchanged; restore verified printed note 3, realign the final English linkage as note 4, and document without importing the omitted later editorial quotation in note 1."
+}
