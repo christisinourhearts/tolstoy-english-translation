@@ -1,0 +1,29 @@
+{
+  "batch": "R001",
+  "unit": "R001.01",
+  "source_path": "corpus/works/v29_003_046_Hozjain_i_rabotnik.md",
+  "source_sha256": "1e5299b6b2fafe3721bb6ecfddddafbc1ba68d01c4e37a7a33b28a48774faf0d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Translated chapter by chapter from the exact audited witness (SHA-256 verified). Mechanical alignment: 44/44 page markers in identical sequence; title, ten chapter headings; 409/409 source paragraphs mapped one-to-one, with per-chapter counts identical (49/63/84/48/62/36/8/9/23/9). A per-paragraph length-ratio scan flagged only short dialogue lines, each rechecked.",
+    "Numbers checked: 700 + 2,300 = 3,000 rubles; 10,000 asked vs 7,000 offered, one third of real value; 80 vs ~40 rubles wages; Marfa's ~3 rubles of goods + 5 rubles vs ~20 owed; 15 / 7 / 25 rubles for the horse; 8 and 5 versts; 10 and 40 sazhens; 22 souls in Taras's household (4 sons, 6 grandsons, 2 great-grandchildren, 3 orphans, 4 daughters-in-law); fifth/sixth glass of tea; 2 of 56 desyatinas counted, 30 sazhens of firewood, 200 + 25 per desyatina, over 12 thousand, 8 thousand, 100–150 bribe, 5 desyatinas of clearings; the 9th; 15 years; 12:10 a.m.; 20 paces; 50 paces; 30 sazhens and half a verst; two months, three toes, twenty years.",
+    "хозяин is kept as master throughout (master of the house, Nikita's master, the old master of the Grishkino household, and 'the chief Master' in ch. VII) because the repetition carries the story's argument and title; хозяйка is the mistress. The one exception is the cook's хозяин in ch. I, which in context is her husband and is rendered 'your man'.",
+    "бескостречный (the horse Vasily Andreich tries to sell Nikita) is rendered 'the rumpless one'. The word is a rare colloquial descriptor of a horse's build (кострец = croup); the exact defect it names is not certain. Recorded as an interpretive choice, not a source problem.",
+    "дипломат (Vasily Andreich's joke for Nikita's coat) is kept as 'diplomat' under D0001 rather than flattened to 'coat'.",
+    "Петруха's two recitals of Pushkin's 'Зимний вечер', in dialect forms (скроить, крутять, завоить, заплачеть) and with the attribution to 'Пульсон/Паульсон/Пульпсон', are translated as Tolstoy wrote them; the garbled book names Pulson / Paulson / Pulpson are preserved as three forms.",
+    "Dialect in Nikita's and Petrukha's speech (Чаго, сойдеть, велить, умираеть, приведеть, лёгко) is suggested by light colloquial forms ('Wha'?', 'little 'un', 'a-coverin'') without imitating any English dialect.",
+    "Place names: Kresty, Telyatino, Pashutino, Karamyshevo, Zakharovka, Goryachkino, Grishkino, Malakhovo, Molchanovka (as in source, ch. IV). Persons: Vasily Andreich Brekhunov, Nikita (Stepanych, Nikitushka, Mikit, Mikita), Marfa, Arinushka, Semyon, Isai, Petrukha/Petrushka, Syomka, Demochkin, the Matveyevs, Taras, the Mironovs, Sevastyan, Tikhon's wife, Ivan Matveich, Mikolavna (Vasily Andreich's wife, by patronymic only).",
+    "Tolstoy's switch to the present tense in Vasily Andreich's dream and death (ch. IX) and in Nikita's waking (ch. X) is preserved, as is the single present-tense sentence in ch. VIII ('He sees that he is perishing...').",
+    "The italic emphasis on «Теперь знаю» (ch. IX) is preserved as *Now I know.*",
+    "Seven non-substantive transcription artifacts (an empty <sup></sup>, a stray closing guillemet, a stray semicolon and comma, three missing word spaces, and Василии for Василий) were noted; none affects meaning and none required interpretation. They are recorded in project/qa/source_suspected/v29_003_046_Hozjain_i_rabotnik.json. A print check against volume 29 remains a non-blocking follow-up.",
+    "Process note: this unit was translated, audited, and edited by the same model in one working context. The source-forward and reverse passes were deliberate, but this is not an independent-model or human verification; a later cold audit by a separate reader is recommended."
+  ],
+  "result": "PASS"
+}

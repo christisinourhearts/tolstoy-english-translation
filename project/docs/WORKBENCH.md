@@ -192,6 +192,22 @@ This pilot supports a rebase strategy rather than discarding accepted English wo
 6. Keep one accepted unit per Git commit and package periodic full-repository checkpoints.
 
 
+## Reader commissions (outside batch sequence)
+
+Commissioned units are translated from the same audited witness under the same constitution, but they do not advance the deterministic P-batch selection.
+
+### R001.01 — *Master and Man* (2026-10-07)
+
+- Source: `corpus/works/v29_003_046_Hozjain_i_rabotnik.md` (vol. 29, pp. 3–46), SHA-256 `1e5299b6…0faf0d`, verified against a local clone of the audited Russian repository.
+- English: `translations/works/v29_003_046_Master_and_Man.md` (~19,400 words).
+- Gauntlet: translate → source-forward fidelity audit → revision → English edit → final source-to-target and reverse scan → mechanical validation. Coverage record PASS.
+- 44/44 page markers in sequence; 409/409 paragraphs aligned.
+- Seven non-substantive transcription artifacts recorded in `project/qa/source_suspected/v29_003_046_Hozjain_i_rabotnik.json`; print check against vol. 29 is a non-blocking follow-up.
+- Translated and audited by one model in one context; a separate cold audit is recommended before publication-scale release.
+- Also published on christisinourhearts.com at `/master-and-man/`, with a Romanian translation tracked in the separate `tolstoy-romanian-translation` repository.
+
+The P-batch NEXT ACTION above is unchanged.
+
 ## P005.01 recovery translation note
 
 The early 1847 untitled philosophical fragment on volume 1, pp. 226–228 was freshly reconstructed in the repaired repository. The pinned source identity remains `21fffd4901f4b4c28c5df263f3ad13e1337b1002745fb5cc9d69abf034ccbec8`; because the audited Russian ZIP is not byte-mountable in this runtime, wording, variants, manuscript gaps, and all three notes were checked against the official 90-volume edition, while repository-wide byte validation remains pending until the exact Russian snapshot can be mounted. The two variants are preserved separately; the recurrent terms limited/unlimited, activity/inactivity, consciousness, and I/not-I are kept deliberately close. Two illegible spans and the unstable marginal syntax are not conjecturally repaired. Structured exhaustive coverage passes.

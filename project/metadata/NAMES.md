@@ -13,3 +13,7 @@ Record recurring transliteration, conventional English names, titles, diminutive
 | Николай Михайлович Нагорнов | Nikolai Mikhailovich Nagornov | Tolstoy relative and publishing/business agent | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
 | Илья Львович Толстой | Ilya Lvovich Tolstoy | Tolstoy’s son | Preserve full first name and patronymic in scholarly metadata; displayed letter heading may use initials. |
 | Николай Федорыч | Nikolai Fedorych | Familiar form used for N. F. Fedorov in the 5 October 1881 diary | Preserve the contracted patronymic in Tolstoy’s body; do not silently expand it to Fyodorovich or add the surname. |
+| Василий Андреич Брехунов | Vasily Andreich Brekhunov | Merchant in *Master and Man* | Keep the contracted patronymic Andreich as Tolstoy writes it; do not regularize to Andreyevich. Familiar address “Andreich” is kept. |
+| Никита Степаныч; Никитушка; Микит, Микита | Nikita Stepanych; Nikitushka; Mikit, Mikita | Workman in *Master and Man* | Preserve the contracted patronymic and the peasant forms Mikit/Mikita used by Vasily Andreich and the boy. |
+| Мухортый | Mukhorty | Horse in *Master and Man* | Transliterate as a name; as a coat-color word (мухортый) render “mealy-muzzled”. |
+| Миколавна | Mikolavna | Vasily Andreich's wife, *Master and Man* | Peasant form of Nikolaevna; keep as written. |

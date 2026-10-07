@@ -1,0 +1,16 @@
+{
+  "source_path": "corpus/works/v29_003_046_Hozjain_i_rabotnik.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "p. 6: an empty <sup></sup> element inside «а в <sup></sup> другой ведя лошадь» — no content; omitted in English.",
+    "p. 3–4: «Работник Никита, один в этот день не пьяный; из работников Василия Андреича» and «Никита, не был пьян» — stray semicolon and comma; the sentences are read without them.",
+    "p. 24: «Петрухаже» — missing space (Петруха же).",
+    "p. 26: «Василии Андреич» — и for й.",
+    "p. 28: «...чтобы поговорить о том, что делать».» — unmatched closing guillemet; no quotation is open.",
+    "p. 33: «всколыхнулоего» — missing space.",
+    "p. 43: «Такполежал» — missing space."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings is ambiguous or affects meaning, so the unit is not held out of reviewed status. Confirm against the printed volume 29 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/29/"
+}
