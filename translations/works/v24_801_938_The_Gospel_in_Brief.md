@@ -1383,7 +1383,7 @@ Luke VIII, 20. And one man saw them, went up to Jesus, and says: your family, yo
 
 Luke XI, 27. And a woman said: blessed is the womb that bore you, and the breasts that you sucked.
 
-28. Jesus said to this: blessed always are only those who have understood the understanding of the father and keep it.
+28. Jesus said to this: blessed always are only those who have comprehended the understanding of the father and keep it.
 
 Luke IX, 57. And a man said to Jesus: I will follow you wherever you go.
 
@@ -1395,7 +1395,7 @@ Mark IV, 35. And once Jesus happened to be sailing with his disciples in a boat.
 
 38. And he was lying in the stern and sleeping. They woke him and say: teacher! what is this, is it all the same to you that we are perishing?
 
-40. And when the storm had died down, he said: why are you so timid? There is no faith in you in the life of the spirit.
+40. And when the storm had died down, he said: why are you so timid? There is no faith in the life of the spirit in you.
 
 Luke IX, 59. To one man Jesus said: follow me. And the man said: I have an old father; bid me first bury him, then I will follow you.
 
@@ -1417,7 +1417,7 @@ Luke X, 38. After this it happened once that Jesus and his disciples stopped in 
 
 Luke IX, 23. And Jesus said to all: whoever wants to follow after me, let him renounce his own will and be ready for every privation and suffering of the flesh at any hour; only then can he follow after me.
 
-24. Because he who wants to care about his fleshly life will ruin the true life. But whoever, even if he ruins his fleshly life, fulfills the will of the father, will save the true life.
+24. Because he who wants to care about his fleshly life will ruin the true life. But whoever, in fulfilling the will of the father, ruins even his fleshly life will save the true life.
 
 25. Because what profit is it to a man if he gets hold of the whole world, but ruins or damages his own life.
 
@@ -1615,7 +1615,7 @@ Matt. XXI, 28. And Jesus said: my teaching is the fulfillment of the will of the
 
 If one son keeps saying to his father's orders, "I hear, I hear," but does not do what the father tells him, then surely he does not fulfill the will of the father.
 
-29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: not he is in the will of the father who says: I am in the will of the father—but he who does what the father wants.
+29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: the one in the will of the father is not he who says: I am in the will of the father—but he who does what the father wants.
 
 ## Chapter VII I AND THE FATHER ARE ONE
 
