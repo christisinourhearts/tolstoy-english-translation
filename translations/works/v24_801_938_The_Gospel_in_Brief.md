@@ -202,3 +202,151 @@ John I, 1. The understanding of life became the foundation and source of all. Th
 
 <!-- vol. 24, p. 818 -->
 
+
+## Chapter I THE SON OF GOD
+
+### MAN IS THE SON OF GOD, POWERLESS IN THE FLESH AND FREE IN THE SPIRIT. (OUR FATHER.)
+
+#### CONTENT OF CHAPTER I
+
+Jesus was the son of an unknown father. Not knowing his father, in his childhood he called God his father. At that time there was in Judea a prophet, John. John preached the coming of God to earth. He said that if people changed their life, considered all people equal among themselves, did not harm one another but helped one another, then God would come down to earth and his kingdom would be established on earth. Having heard this preaching, Jesus withdrew from people into the wilderness in order to understand the meaning of the life of man and man's relation to the infinite source of all, called God. Not knowing his fleshly father, Jesus acknowledged God as his father.
+
+Having stayed in the wilderness for several days without food, Jesus began to suffer from hunger and thought: I am the son of almighty God and therefore must be almighty just as he is; but here I want to eat, and bread does not appear at my will, so I am not almighty. To this he said to himself: I cannot make bread out of stones, but I can abstain from bread. And therefore, if I am not almighty in the flesh, I am almighty in the spirit—I can conquer the flesh; and therefore I am the son of God not by the flesh, but by the spirit.
+
+But if I am the son of the spirit—he said to himself further—then I can cast off the flesh and destroy it. And to this he answered: I was born of the spirit in the flesh. Such was the will of my father, and therefore I cannot oppose his will.
+
+But if you cannot satisfy your desires of the flesh and cannot renounce the flesh—he said to himself further—then you must work for the flesh and enjoy all those joys that it gives you. And to this he answered: I cannot satisfy the desires of the flesh, and I cannot cast off the flesh; but my life is almighty in the spirit of my father, and therefore in the flesh I must serve and work for the spirit alone—the father.
+
+And having become convinced that the life of man is only in the spirit of the father, Jesus came out of the wilderness and began to preach his teaching to people. He said that the spirit was in him, that from now on heaven was opened, <!-- vol. 24, p. 819 --> and the heavenly powers had united with man, that an infinite and free life had begun for people, that all people, however unhappy they might be in the flesh, can be blessed.
+
+Matt. I, 18. The birth of Jesus Christ was like this: his mother Mary was betrothed to Joseph. But before they began to live as husband and wife, Mary turned out to be pregnant.
+
+19, 24, 25. But Joseph was a kind man and did not want to disgrace her; he took her as his wife and had nothing to do with her until she gave birth to her first son, and he named him Jesus.
+
+Luke II, 40. And the boy grew and became strong; and he had understanding beyond his years.
+
+41, 42, 43, 44, 45. Jesus was already 12 years old, and once Mary and Joseph went to the feast in Jerusalem and took the boy with them. The feast was over, and they set off home and forgot about the boy.
+
+Then they remembered and thought that he had gone off with the other boys, and they asked about him on the road. The boy was nowhere to be found, and they went back to Jerusalem for him.
+
+46. And only on the third day did they find the boy in the church—he is sitting with the teachers, asking them questions and listening.
+
+47. And everyone marvels at his reason.
+
+48. His mother saw him and says: what have you done to us? Here your father and I are grieving, looking for you.
+
+49. And he said to them: where were you looking for me? Don't you know that a son must be looked for in his father's house?
+
+50. And they did not understand his words; they did not understand whom he was calling his father.
+
+51. And after this Jesus lived with his mother and obeyed her in everything.
+
+52. And he advanced both in age and in reason.
+
+Lk. III, 23. And everyone thought that Jesus was the son of Joseph. And so he lived until he was 30.
+
+Matt. III, 1. At that time the prophet John appeared in Judea.
+
+Mark I, 4. John lived in the Judean steppe, on the Jordan.
+
+Matt. III, 4. John's clothing was of camel's hair, belted with a strap, and he fed on tree bark and herbs.
+
+Mk. I, 4. He called the people to a change of life, so as to be freed from error, and as a sign of the change of life he bathed the people in the Jordan.
+
+<!-- vol. 24, p. 820 --> Lk. III, 4. He said: a voice is calling to you; lay a road for God in the wilds, level the road for him.
+
+5. Make it so that everything is level, so that there are neither hollows nor rises, neither high nor low.
+
+6. Then God will be in you, and all will find their salvation.
+
+10. And the people asked him: what are we to do?
+
+11. He answered: whoever has two garments, give to him who has none. And whoever has food, give to him who has none.
+
+12. Tax farmers came to him and asked: and what are we to do?
+
+13. He said to them: do not extort anything beyond what is fixed.
+
+14. And soldiers asked: how are we to act? He said: do not wrong anyone, do not cheat. Be content with what is allotted to you.
+
+Matt. III, 5. And the people of Jerusalem came to him, and all the Jews near the Jordan.
+
+6. And they repented before him of their wrongdoing, and as a sign of the change of life he bathed them in the Jordan.
+
+7. And the Orthodox and the Old Believers came to John too, but secretly. He recognized them and said: you breed of snakes, or have you too sensed that you will not escape the will of God—then come to your senses and do change your faith.
+
+8. And if you want to change your faith, then let it be seen by your fruits that you have come to your senses.
+
+10. The axe is already laid by the tree. If a tree bears bad fruit, it is cut down and thrown into the fire.
+
+11. As a sign of the change of your faith I cleanse you in water, but after this bathing you must be cleansed by the spirit as well.
+
+12. The spirit will cleanse you as a master cleans his threshing floor: he will gather the wheat, and the chaff he will burn.
+
+13. Jesus came from Galilee to the Jordan to be bathed by John, and he was bathed and listened to John's preaching.
+
+Matt. IV, 1. And from the Jordan he went into the wilderness and there came to know the power of the spirit.
+
+2. Jesus stayed in the wilderness 40 days and 40 nights without drink or food.
+
+3. And the voice of his flesh said to him:
+
+Luke IV, 3. If you were the son of almighty God, you could make loaves out of stones by your own will; but you cannot do this, so you are not the son of God.
+
+<!-- vol. 24, p. 821 --> 4. But Jesus said to himself: if I cannot make bread from stones, that means that I am not the son of a God of the flesh, but the son of a God of the spirit. I am alive not by bread, but by the spirit. And my spirit can disregard the flesh. But hunger still tormented him, and the voice of the flesh said to him further: if you are alive only by the spirit and can disregard the flesh, then you can cast off the flesh, and your spirit will remain alive.
+
+9. And it seemed to him that he was standing on the roof of the temple, and the voice of the flesh says to him: if you are the son of a God of the spirit, throw yourself down from the temple; you will not be killed.
+
+10. An invisible power will keep you, hold you up, and deliver you from all evil.
+
+11. But Jesus said to himself: I can disregard the flesh, but I cannot cast it off, because I was born of the spirit in the flesh. Such was the will of my father of the spirit, and I cannot oppose him. Then the voice of the flesh said to him: if you cannot oppose your father by throwing yourself down from the temple and casting off the flesh, then neither can you oppose your father by going hungry when you want to eat. You must not disregard the lusts of the flesh. They have been put into you, and you must serve them.
+
+5. And there appeared to Jesus all the kingdoms of the earth and all people, how they live and toil for the flesh, expecting a reward from it.
+
+6. And the voice of the flesh said to him: you see, they work for me, and I give them everything they want.
+
+7. If you will work for me, the same will be yours too.
+
+8. But Jesus said to himself: my father is not flesh, but spirit. I live by him, I know him in myself always, him alone I revere and for him alone I work, expecting a reward from him alone.
+
+13. Then the temptation ceased, and Jesus came to know the power of the spirit.
+
+Luke, IV, 14; John I, 36. And having come to know the power of the spirit, Jesus came out of the wilderness and came again to John and was with him. And when Jesus was leaving John, John said of him: this is the savior of people.
+
+John I, 37. At these words of John two of John's disciples left their former teacher and went after Jesus.
+
+38. Jesus saw that they were following him, stopped, and says: what do you want? They said to him: teacher! we want to be with you and to learn your teaching.
+
+<!-- vol. 24, p. 822 --> 39. He said: come with me, and I will tell you everything. They went with him and stayed with him, listening to him until the tenth hour.
+
+40. One of these disciples was called Andrew. Andrew had a brother, Semyon.
+
+41. Having listened to Jesus, Andrew went to his brother Semyon and says to him: we have found the one about whom the prophets and Moses wrote, the one who will proclaim to us our salvation.
+
+42. Andrew took Semyon with him and brought him to Jesus too. This brother of Andrew's Jesus nicknamed Peter—that means stone. And both these brothers became disciples of Jesus.
+
+43. Then, just before entering Galilee, Jesus met Philip as well and called him to come with him.
+
+44. Philip was from Bethsaida, a fellow villager of Peter and Andrew.
+
+45. When Philip came to know Jesus, he went and sought out his brother Nathanael and says to him: we have found the chosen one of God, about whom the prophets and Moses wrote. It is Jesus, the son of Joseph, from Nazareth.
+
+46. Nathanael was surprised that the one about whom the prophets had written was from the neighboring village, and says: it is hard to believe that God's messenger should be from Nazareth. Philip says: come with me; you will see and hear for yourself.
+
+47—49. Nathanael agreed and went with his brother and met Jesus; and when he heard him, he said to Jesus: yes, now I see that it is true that you are the son of God and the king of Israel.
+
+51. Jesus said to him: learn what is more important than this. From now on you will know that heaven is open and that people can be in communion with the heavenly powers. From now on God will no longer be apart from people.
+
+Luke IV, 16. And Jesus came to his native place, to Nazareth. And on the feast day he went, as always, into the assembly and began to read.
+
+17. They gave him the book of the prophet Isaiah. He opened it and began to read. In the book it was written:
+
+18. The spirit of the lord is in me. He has chosen me to proclaim the good to the unhappy and the broken-hearted, to proclaim freedom to the bound, light to the blind, and salvation and rest to the exhausted.
+
+19. To proclaim to all the time of God's mercy.
+
+20. He closed the book, gave it to the attendant, and sat down; and everyone waited for what he would say.
+
+21. And he said: now this scripture has been fulfilled before your eyes.
+
+<!-- vol. 24, p. 823 -->
