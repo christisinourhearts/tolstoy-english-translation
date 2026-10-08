@@ -2449,3 +2449,251 @@ XXIV, 1. And Jesus went away from the temple. Then his disciples said to him: we
 
 14. But when the true teaching spreads among all people, then there will be an end of evil and of temptations.
 
+## Chapter X THE STRUGGLE WITH TEMPTATIONS
+
+### AND THEREFORE, IN ORDER NOT TO FALL INTO TEMPTATIONS, ONE MUST AT EVERY HOUR OF ONE'S LIFE BE IN UNITY WITH THE FATHER. (AND LEAD US NOT INTO TEMPTATION.)
+
+#### CONTENT OF CHAPTER X
+
+The Jews saw that Jesus' teaching was destroying the state, the faith, and the nationality, and at the same time they saw that they could not refute his teaching, and therefore they resolved to kill him. His innocence and righteousness held them back, but the high priest Caiaphas devised an argument by which Jesus ought to be killed even if he were guilty of nothing. Caiaphas said: we need not reason about whether this man is righteous or not righteous; we must reason about this: whether we want our people to remain a separate Jewish people, or want it to perish and be scattered.
+
+The people will perish and be scattered if we leave this man alone and do not kill him. This argument decided the matter, and the Orthodox sentenced Jesus to death and gave notice to the people that he was to be seized as soon as he appeared in Jerusalem.
+
+Jesus, although he knew of this, went to Jerusalem for the feast of the Passover. His disciples tried to persuade him not to go, but Jesus said: what the Orthodox want to do with me, and all that other people can do, cannot change the truth for me.
+
+If I see the light, I know where I am and where I am going. Only he who does not know the truth can fear anything and doubt anything whatever. Only he who does not see, only he stumbles. And he went toward Jerusalem. On the way he stopped in Bethany. In Bethany Mary poured out a jug of costly oil on him. Knowing that a speedy fleshly death lay before him, <!-- vol. 24, p. 907 --> Jesus said to his disciples, in answer to their reproaches of Mary for pouring out so much costly oil on him, that the myrrh she had poured out was a preparation of his body for death.
+
+When Jesus left Bethany and went to Jerusalem, crowds of people met him and followed him, and this convinced the Orthodox still more of the necessity of killing him. They only waited for an opportunity to seize him. And Jesus knew this. He knew too that the slightest careless word of his against the law would now be a pretext for his execution; but in spite of this he went into the temple and again declared that the former worship of God by the Jews, with sacrifices and libations, was false, and he preached his teaching. But his teaching, founded on the prophets, was such that the Orthodox still could not find any open violation of the law, such as he could be put to death for, all the more since the greater part of the common people were for Jesus. But here at the feast there were some pagans, and hearing about Jesus' teaching, they wanted to talk with Jesus about his teaching. The disciples, hearing of this, were frightened. They were afraid that in talking with the pagans Jesus would give himself away and would anger the people. At first they did not want to bring Jesus together with the pagans, but then they decided to tell him that the pagans wanted to talk with him.
+
+Hearing this, Jesus was troubled. He understood that his preaching before the pagans would clearly show his rejection of the whole Jewish law, would turn the crude crowd away from him, and would give the Orthodox a pretext to accuse him of associating with the hated pagans. Jesus was troubled, knowing this; but at the same time he knew that his calling was to explain to people, the sons of one father, their unity, without distinction of faiths. He knew that this step would ruin his fleshly life, but that this ruin would give people the true understanding of life; and therefore he said: as a grain of wheat must perish in order to bring forth fruit, so too a man must give up his fleshly life in order to bring forth spiritual fruit. He who spares his fleshly life loses the true one, and he who does not spare the fleshly one receives the true one. I am troubled by what lies before me; but, after all, I have lived until now only so as to live to this hour; how, then, can I not do in this hour what I must do? Therefore in this very hour let the will of the father show itself in me.
+
+And, turning to the people—to the pagans and the Jews—Jesus said openly what he had told only Nicodemus in secret. He <!-- vol. 24, p. 908 --> said: the life of people, with their different faiths and their different authorities, must all be changed. All human authorities must be done away with. One need only understand the significance of man as a son of the father of life, and this understanding does away with all human divisions and authorities and unites all people into one. The Jews said: you are destroying our whole faith. According to our law there is a Christ, but you say that there is only a son of man and that he must be exalted. What does this mean? He answered them: to exalt the son of man means to live by that light of understanding which is in people, so as to live by this light while there is light. I teach no new faith, but only what each man knows in himself. Each man knows life in himself. And each knows that life has been given to him and to all people by the father of life. My teaching is only this: to love life, given by the father to all people.
+
+Many of the people without rank believed Jesus; but the important people, those of rank, did not believe, because they did not want to judge of the eternal meaning of his words, but judged only of the temporal significance of his teaching. They saw that he was turning the people away from them, and they wanted to kill him, but they were afraid to take him openly, and therefore they wanted to take him not in Jerusalem and by day, but somewhere in secret. And one of the twelve disciples, Judas Iscariot, came to them, and they bribed him to lead their servants to Jesus when Jesus was not among the people. Judas promised them and went back to Jesus, waiting for the time when it would be best to betray him.
+
+On the first day of the feast Jesus and his disciples kept the Passover, and Judas, thinking that Jesus did not know of his treachery, was with them. But Jesus knew that Judas had sold him; and when they were all sitting at table, Jesus took bread, broke it into twelve pieces, and gave a piece to each disciple, and to Judas just as to the others, and, without naming anyone, said: take, eat my body. And then he took a cup of wine and passed it to them so that they should all drink from it, Judas too, and said: one of you will shed my blood. Drink my blood. Then Jesus got up and began to wash the feet of all the disciples, Judas's too; and when he had finished, he said: I know that one of you will betray me to death and shed my blood, but I have fed him and given him drink and washed his feet. I did this in order to teach you how to act toward those who do you evil. If you act so, you will be blessed. But the disciples kept asking which of them was the traitor. But Jesus did not name him, so that they would not punish him. And when it grew dark, Jesus pointed <!-- vol. 24, p. 909 --> to Judas and at the same time told him to go away. Judas got up from the table and ran off, and no one stopped him. Then Jesus said: this is what it means to exalt the son of man. To exalt the son of man means to be as good as the father, not only toward those who love us, but toward all, even toward those who do us evil. And therefore do not reason about my teaching, do not pick it apart as the Orthodox did, but do what I have done and have now done before you. One commandment I give you: love people. My whole teaching is to love people always and to the end. After this fear came over Jesus, and he went with his disciples at night into a garden to hide. And on the way he said to them: you are none of you firm, and all of you are timid: if they come to take me, you will all run away. To this Peter said to him: no, I will not leave you, and I will defend you, even to death. And all the disciples said the same. And then Jesus said: if so, then get ready for defense; take provisions, because we shall have to hide, and take weapons, so as to defend ourselves. The disciples said that they had two knives. And when Jesus heard this word about knives, anguish came over him. And, going into a deserted place, he began to pray, and urged his disciples to do the same; but the disciples did not understand him. Jesus said: my father, the spirit! put an end in me to the struggle of temptation. Confirm me in the fulfillment of your will; I do not want my own will, to defend my fleshly life, but I want your will, not to resist evil. The disciples still did not understand him. And he said to them: do not think of the fleshly, but try to rise in spirit: strength is in the spirit; the flesh is powerless. And another time he said: my father! if sufferings are unavoidable, let them be; but in sufferings too I desire one thing: that not my will, but yours, may be done in me. The disciples did not understand. And he struggled with temptation again, and at last, having overcome it and coming up to the disciples, he said: now it is decided; you may be at peace; I will not struggle, and I will give myself into the hands of the people of this world.
+
+Luke XI, 53. After this the Orthodox bishops began with all their strength to scheme against Jesus, so as somehow to destroy him.
+
+John XI, 47. They gathered in council and began to deliberate. They said: we must somehow put a stop to this man.
+
+48. He proves his teaching so well that, if we leave him alone, everyone will believe in him and abandon our faith. Already half <!-- vol. 24, p. 910 --> the people have believed in him. And if the Jews believe in his teaching that all people are sons of one father and brothers, that there is nothing in our Hebrew people setting it apart from other peoples, then the Romans will take us over completely, and there will be no more Hebrew kingdom.
+
+Luke XIX, 47. And for a long time the Orthodox bishops and learned men took counsel and could not think what to do with him.
+
+48. They could not make up their minds to kill him.
+
+John XI, 49. And then one of them, Caiaphas (he was high priest that year), devised this: he said to them:
+
+50. Here is what must be remembered: it is useful to kill one man so that the whole people may not perish. If we leave this man alone, the people will perish—this I foretell to you—and therefore it is better to kill Jesus.
+
+52. Even if the people does not perish, still it will drift apart and fall away from the one faith if we do not kill Jesus. And therefore it is better to kill him.
+
+53. And when Caiaphas said this, they all decided that there was nothing to think about and that Jesus must certainly be killed.
+
+54. They would have taken Jesus at once and killed him, but he was hiding from them in the wilderness.
+
+55. But at this time the feast of the Passover was approaching, and many people always gathered in Jerusalem for the feast.
+
+56. And the Orthodox bishops were counting on Jesus coming to the feast with the people.
+
+57. So they gave notice among the people that if anyone saw Jesus, he should bring him to them.
+
+John XII, 1, 2. And it happened that six days before the Passover Jesus said to his disciples: let us go to Jerusalem. And he went with them.
+
+John XI, 8. And his disciples said to him: do not go to Jerusalem; the bishops have now decided to stone you. If you come, they will kill you.
+
+9. And Jesus said to them: I can fear nothing, because I live in the light of understanding. And as every man, in order not to stumble, can walk by day and not by night, so every man, in order to doubt nothing and to fear nothing, can live by understanding.
+
+10. Only he doubts and fears who lives by the flesh; but for him who lives by understanding there is nothing doubtful or frightening.
+
+<!-- vol. 24, p. 911 --> John XII, 2. And Jesus came to the village of Bethany near Jerusalem, to Martha and Mary. And the sisters made a supper for him there. And while he was sitting at supper, Martha served him.
+
+3. And Mary took a pound of costly, pure, fragrant oil, poured it on Jesus' feet, and wiped them with her hair. And when the scent of the oil had spread through the whole room,
+
+4. Judas Iscariot said:
+
+5. Mary has wasted the costly oil for nothing. It would have been better to sell this oil for three hundred grivnas and give it to the poor.
+
+8. But Jesus said: the poor you will still have with you, but I will soon be gone.
+
+7. She has done well; she has prepared my body for burial.
+
+12. In the morning Jesus went to Jerusalem. There were many people there for the feast.
+
+13. And when they recognized Jesus, they surrounded him, began breaking branches off the trees, and threw their clothes onto the road for him, and all cried out: here he is, our true king, the one who has taught us the true God.
+
+14. Jesus sat on a young donkey and rode on it, and the people ran in front of him and shouted.
+
+Mt. XXI, 10. And so Jesus rode into Jerusalem. And when he rode into the city in this way, all the people were stirred up and asked: who is this?
+
+11. And those who knew him answered: this is Jesus, the prophet from Nazareth of Galilee.
+
+15. And Jesus went into the temple and again drove out of it all the sellers and buyers.
+
+John XII, 19. And the Orthodox bishops saw all this and said to one another: look what this man is doing. All the people are following him.
+
+Mark XI, 18. But they did not dare to take him openly out of the midst of the people, because they saw that the people had attached themselves to him, and they were trying to think how they might take him by cunning.
+
+John XII, 20. Meanwhile Jesus was in the temple and was teaching the people. Among the people, besides the Jews, there were pagan Greeks. The Greeks had heard about Jesus' teaching and understood his teaching to mean that he teaches the truth not to the Jews alone, but to all people.
+
+21. And therefore they wanted to be his disciples too, and told Philip about this.
+
+<!-- vol. 24, p. 912 --> 22. And Philip told Andrew. The disciples were afraid to bring Jesus together with the Greeks. They were afraid that the people would turn against Jesus because he does not recognize any difference between the Jews and other nations, and for a long time they could not bring themselves to tell this to Jesus, but then the two of them told him together. Hearing that the Greeks wished to be his disciples, Jesus was troubled. He knew that the people would hate him because he makes no difference between Jews and pagans, because he himself recognizes himself as the same as the pagans.
+
+23. He said: the hour has come to explain what I understand by the son of man. And let me perish for explaining, without distinction between Jews and pagans, the meaning of the son of man; but I will speak the truth.
+
+24. A grain of wheat will bring forth fruit only when it itself perishes.
+
+25. He who loves his fleshly life loses the true life, and he who neglects the fleshly life keeps it into eternal life.
+
+26. Whoever wants to serve my teaching, let him do the same as I do. And whoever does the same as I do will be rewarded by my father.
+
+27. My soul is struggling now: shall I give myself up to the calculations of temporal life, or shall I fulfill the will of the father now, in this hour? And what then—can it be that now, when the hour has come in which I am living, I will say: father, deliver me from what I must do? I cannot say this, because I am living now.
+
+28. And therefore I say: father! show yourself in me.
+
+31. And Jesus said: from now on the world of people is sentenced to perdition. From now on that which rules this world will be destroyed.
+
+32. And when the son of man is exalted above earthly life, he will unite all into one.
+
+34. And then the Jews said to him: we understand from the law that there is an eternal Christ; how, then, do you say that the son of man must be exalted? What, then, does it mean to exalt the son of man?
+
+35. To this Jesus answered them: to exalt the son of man means to live by that light of understanding which is in you.
+
+36. To exalt the son of man above the earthly means to believe in the light while there is light, so as to be a son of understanding.
+
+<!-- vol. 24, p. 913 --> 44. He who believes in my teaching believes not in me, but in that spirit which has given life to the world.
+
+45. And he who understands my teaching understands that spirit which has given life to the world.
+
+46. My teaching is the light of life, which has led people out of darkness.
+
+47. But if anyone hears my words and does not fulfill them, I do not blame him, since I have come not to accuse, but to save.
+
+48. He who does not accept my words is accused not by my teaching, but by the understanding that is in him. It is that which accuses him.
+
+49. Because I have not spoken what is mine, but have spoken what my father, the spirit living in me, inspired in me.
+
+50. What I say is what the spirit of understanding has told me. And what I teach is the true life.
+
+John XII. 36. And having said this, Jesus went away and hid himself again from the bishops.
+
+42. And of those who heard these words of Jesus, many of the strong and rich believed in Jesus' teaching, but were afraid to admit it before the bishops, because not one of the bishops admitted that he believed.
+
+43. Because they were accustomed to judge in the human way, and not in God's way.
+
+Mt. XXVI, 3. After Jesus had hidden himself, the bishops and elders again gathered in the courtyard of Caiaphas.
+
+4. And they began to think how they might take Jesus secretly from the people and kill him.
+
+5. For they were afraid to seize him openly.
+
+14. And to their council came one of the first twelve disciples of Jesus, Judas Iscariot.
+
+15. And he said: if you want to take Jesus secretly, so that the people do not see, then I will find a time when there are few people with him, and I will show you where he is, and then you will take him. What will you give me for this? They promised him thirty rubles for it.
+
+16. He agreed, and from then on he began to pick a time when he could lead the bishops to Jesus so as to take him.
+
+17. Meanwhile Jesus was hiding from the people, and only his disciples were with him. When the first feast "of unleavened bread" drew near, the disciples say to Jesus: where shall we keep the Passover?
+
+<!-- vol. 24, p. 914 --> 18. And Jesus says: go somewhere into the village, and stop in at someone's house, and say that we have no time to prepare the Passover; ask him to let us keep the Passover there.
+
+19. The disciples did just that: they asked a man in the village to take them in, and he let them in.
+
+20. So they came and sat down at table: Jesus and the twelve disciples, and Judas with them.
+
+John XIII. 1. Jesus knew that Judas Iscariot had already promised to betray him to death, but he did not expose Judas or take revenge on him for this; but as all his life he had taught his disciples love, so now too he reproached Judas only with love.
+
+Mt. XXVI, 21; Mark XIX, 18. When they were all sitting at table, the twelve of them, he looked at them and said: among you sits the one who has betrayed me.
+
+Mt. XXVI, 23. Yes, the one who drinks and eats with me will be the one to destroy me.
+
+26. And he said nothing more. So they did not find out whom he was speaking of, and they began to eat supper. When they began to eat, Jesus took bread, broke it into twelve pieces, gave a piece to each of the twelve disciples, and said: take, eat—this is my body.
+
+27. And then he poured wine into a cup, handed it to the disciples, and said: drink from this cup, all of you. And when they had all drunk, he said:
+
+28. This is my blood. I shed it so that people may know my testament: to forgive others their sins.
+
+Luke XXII, 18. Because I will soon die and will no longer be with you in this world, and will be united with you only in the kingdom of heaven.
+
+John XIII, 4. And after this Jesus got up from the table, girded himself with a towel, and took a jug of water.
+
+5. And he began to wash the feet of all the disciples.
+
+6. And he came to Peter, and Peter says: how is this—are you going to wash my feet?
+
+7. Jesus said to him: It seems strange to you that I am washing your feet, but you will know presently why I am doing this.
+
+10. I am doing this because, although you are clean, not all of you are, and among you is my betrayer, to whom I have given bread and wine from my own hands, and whose feet I want to wash.
+
+12. And when Jesus had washed the feet of them all, he sat down again and says: have you understood why I did this?
+
+<!-- vol. 24, p. 915 --> 14. I did this so that you would always do the very same to one another. I, your teacher, do this so that you may know how to act toward those who do you evil.
+
+17. If you have understood this and will do it, you will be blessed.
+
+18. When I said that one of you will betray me, I was not speaking of all of you, because only one of you, of those whose feet I have washed and who have eaten bread with me—one of you will destroy me.
+
+21. And having said this, Jesus was troubled in spirit, and said once more: yes, yes, one of you will betray me.
+
+22. And again the disciples began to look round at one another and did not know whom he was speaking of.
+
+23. One disciple was sitting close to Jesus.
+
+24. Simon Peter nodded to him to ask him who the traitor was.
+
+25. He asked.
+
+26. Jesus said: I will dip a piece and hand it to someone, and the one I hand it to is the traitor. And he handed it to Judas Iscariot.
+
+27. And he said to him: what you want to do, do quickly.
+
+30. And Judas understood that he must leave, and as soon as he had taken the piece, he went out at once. And it was no longer possible to go after him.
+
+31. And when Judas had gone out, Jesus said: now it is clear to you what the son of man is; now it is clear to you that God is in him, that he can be as good as God himself.
+
+33. Children! I have not long to be with you. Do not philosophize about my teaching, as I told the Orthodox, but do what I do.
+
+34. I give you one new commandment: as I have always and to the end loved you all, so you too, always and to the end, love one another.
+
+35. By this alone will you be distinguished. By this alone distinguish yourselves from other people: love one another.
+
+Mt. XXVI, 30. And after this they went to the Mount of Olives.
+
+31. And on the way Jesus said to them: here the time is coming when what is said in scripture will happen: that they will kill the shepherd and the sheep will all scatter. And this will be tonight. They will take me, and you will all leave me and run away.
+
+33. And in answer Peter said to him: even if all are frightened and run away, I will not deny you. With you I am ready to go both to prison and to death.
+
+<!-- vol. 24, p. 916 --> 34. And Jesus says to him: but I tell you that tonight, before the cocks crow, when they take me, you will deny me not once, but three times.
+
+35. But Peter said that he would not deny him: and the disciples said the same.
+
+Luke XXII, 35. And then Jesus said to his disciples: before, neither I nor you needed anything. You went about without a bag and without spare shoes; and I told you to do so.
+
+36. But now, if I have been counted a lawbreaker, we can no longer be like that, but must lay in a supply of everything and supply ourselves with knives, so that we may not be destroyed for nothing.
+
+38. And the disciples said: here, we have two knives. Jesus said: good!
+
+John XVIII, 1; Mt. XXVI, 36. And having said this, Jesus went with his disciples into the garden of Gethsemane. And, coming into the garden, Jesus said: let us stay here; I want to pray.
+
+Mt. XXVI, 37. And, going up to Peter and the two brothers, the sons of Zebedee, he began to be weighed down and to grieve.
+
+38. And he said to them: it is very hard for me; I grieve before death. Stay here, and do not lose heart as I do.
+
+39. And he went a little way off, lay face down on the ground, and began to pray, and said: My father, the spirit! let it be not as I want—that I should not die—but as you want. Let me die; for you, as spirit, all things are possible; make it so that I do not fear death, so that there is no temptation of the flesh for me.
+
+40. And then he got up, went to his disciples, and sees that they have lost heart. And he said to them: how will you manage to rise in spirit for one hour, as I do?
+
+41. Rise in spirit, so as not to fall into the temptation of the flesh. The spirit is strong, the flesh is weak.
+
+42. And again Jesus went away from them and again began to pray, and said: father! if I cannot help suffering and must die, then let me die; let your will be done!
+
+43. And having said this, he again came to his disciples and sees: they have lost heart still more and are ready to weep.
+
+44. And again he went away from them and a third time said: father! let your will be done.
+
+45. Then he returned to his disciples and said to them: now be at peace and be quiet, because now it has been decided that I will give myself into the hands of worldly people.
+
+<!-- vol. 24, p. 917 -->
+
