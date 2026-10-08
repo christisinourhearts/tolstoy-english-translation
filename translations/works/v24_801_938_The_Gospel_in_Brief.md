@@ -2161,3 +2161,291 @@ But those who did not live by the son of man did not serve him, did not understa
 
 <!-- vol. 24, p. 894 -->
 
+## Chapter IX TEMPTATIONS
+
+### THE DECEPTIONS OF TEMPORAL LIFE HIDE FROM PEOPLE THE TRUE LIFE IN THE PRESENT. (AND FORGIVE US OUR DEBTS, AS WE ALSO FORGIVE OUR DEBTORS.)
+
+#### CONTENT OF CHAPTER IX
+
+Man is born with knowledge of the true life of fulfilling the will of the father. Children live by it; in children one can see what the will of the father consists in. To understand Jesus' teaching, one must understand the life of children and be just like them. Children always live in the will of the father, not breaking the five commandments. They would never break them either, if their elders did not lead them into temptations. In leading children into the temptation of breaking the commandments, people ruin children. In tempting children, people do with them the same as a man would do by tying a millstone round another's neck and throwing him into a river. If there were no temptations, the world would be happy. The world is unhappy only from temptations. Temptations are the evil that people do for the imaginary good of temporal life. Temptations ruin people, and therefore one must sacrifice everything so as not to fall into temptation. The temptation against the first commandment consists in this: that people consider themselves clean before people and others in debt to themselves. In order not to fall into this temptation, people must remember that all people are always in infinite debt to the father, and that they can clear themselves of this debt only by forgiving their brothers. And therefore people must forgive people their wrongs, not troubled by the fact that the wrongdoer will wrong them again and again.
+
+However many times a man is wronged, he must forgive and forgive, not remembering evil, because the kingdom of heaven is possible only with forgiveness. If we do not forgive, then we do the same as the debtor did. A debtor deep in debt came to his master and began to beg for mercy. The master forgave him everything. The debtor went and began to throttle his own debtor, one who owed him a little. Why, in order to have life we must fulfill the will of the father; and of the father we ask forgiveness for not having fully fulfilled his will, and we hope to receive this forgiveness. So what are we doing if we do not forgive? We are doing what we fear for ourselves. The will of the father is good, and evil is that <!-- vol. 24, p. 895 --> which separates us from the father; so how can we not try to put out evil as quickly as possible, since evil ruins us and deprives us of life? Evil ties us up in fleshly perdition. As far as we untie this evil, so far do we gain life. If evil does not divide us and we are united by love, then we have everything we can desire.
+
+The temptation against the second commandment lies in this: that we think that woman was created for the pleasure of the flesh, and that by leaving one wife and taking another we get more pleasure. In order not to fall into this temptation, one must remember that the will of the father is not that a man should take his pleasure in feminine charm, but that each, having chosen a wife, should be united with her into one body. The will of the father is that every husband should have a wife and every wife a husband. If one husband keeps to one wife, then all will have wives and all will have husbands. And therefore whoever changes wives deprives a wife of a husband and provokes another husband to leave his own wife and take the abandoned one. One may have no wife, but one may not have more than one wife, because by having another wife you break the will of the father, which consists in the union of one husband with one wife.
+
+The temptation against the third commandment consists in this: that people, for the good of temporal life, have instituted authorities and demand of people oaths to carry out the business of the authorities. In order not to fall into this temptation, people must remember that they are answerable to no one but God for their life. People must look on the demands of the authorities as violence and, according to the commandment of nonresistance to evil, must give up and carry out what the authorities demand of them: property and labor; but they cannot bind their actions in the future by promises and oaths. The oaths that are extorted from people make them bad. A man who has recognized that life is in the will of the father cannot make promises about his actions, because for such a man there is nothing holier than his life.
+
+The temptation against the fourth commandment lies in this: that people, giving themselves up to malice and revenge, think that by this they are correcting people. If a man wrongs another, people think that he must be punished, and think that justice consists in what people sentence. In order not to fall into this temptation, one must remember that people are called not to judge but to save one another. And that they cannot judge the wrongdoing of others, because they themselves are full of wrongdoing. The one thing they can do is to teach others by the example of purity, forgiveness, and love.
+
+<!-- vol. 24, p. 896 --> The temptation against the fifth commandment lies in this: that people think that there is a difference between the people of their own nation and of foreign nations, and that therefore it is necessary to defend oneself from foreign nations and to harm them. In order not to fall into this temptation, one must know that all the commandments come together in one: to fulfill the will of the father, who has given life and good to all people, and therefore to do good to all people without any distinction. Other people do still make distinctions between nations and make war; a man who fulfills the will of the father does good to every man, of whatever nation he may be.
+
+In order not to fall into any one of the deceptions of people, a man must think not of the fleshly but of the spiritual. If a man has understood that his life lies only in being in the will of the father now, then neither privations, nor sufferings, nor death can be terrible for him. Only he receives true life who is ready at any hour to give up his fleshly life for the fulfillment of the will of the father. And in order that all should understand what true life is—the life for which there is no death—Jesus said: eternal life must not be understood as though it will be a life like the present one, somewhere and at some time. For the true life in the will of the father there is neither place nor time. One cannot imagine to oneself the true life in time and in persons. Those who have awakened to true life live in the will of the father, and for the will of the father there is neither time nor place. They are alive for the father. Even if they have died for us, they are alive for God. And therefore one commandment contains everything: to love with all one's strength the source of life, and therefore every man who bears this source within him.
+
+And Jesus said: this source of life is the very Christ whom you are waiting for. The understanding of that source of life for which there are no different persons, no time and place, is the very son of man whom I teach.
+
+Everything that hides this source of life from people is temptation. There is the temptation of the scribes, of the Old Believers—do not yield to them; there are the temptations of royal power—do not yield to them; and there is also the fiercest temptation of all—of the teachers of faith who call themselves Orthodox. Beware of this temptation more than all others, because it is they, these self-styled teachers, who, having devised a false worship of God, lure you away from the true God. In place of serving the father of life by deed, they have put words and teach words, and themselves do nothing, and therefore there is nothing for you to learn from them except words. But the father needs not words <!-- vol. 24, p. 897 --> but deeds. They have nothing to teach, either, because they themselves know nothing; but for their own advantage they need to set themselves up as teachers. But you know that no one can be the teacher of others. There is one teacher for all—the sovereign of life, understanding. But these self-styled teachers, thinking to teach others, themselves deprive themselves of true life and prevent others from coming to know it. They teach people to please their God by external rites and think that by an oath they can bring people to faith. They are occupied only with externals. All they want is that it should look like faith, and what is in the hearts of people they do not think about. And therefore they are like gaudy coffins: outwardly fair, but inside an abomination. In words they honor the saints and martyrs, but they are the very people who formerly killed and tormented the saints, and now kill and torment them. From them come all the temptations in the world, because under the appearance of good they set forth evil. Their temptation is the root of all temptations, because they have desecrated what is holy in the world. It will be long before they turn, and they will go on with their deceptions and will increase the evil in the world; but the time will come, and all the temples will be destroyed, all external worship of God, and people will understand and will be united by love in the service of the one father of life by the fulfillment of his will.
+
+Mt. XIX, 13. Once some children were brought to Jesus, but the disciples began to drive the children away.
+
+14. Jesus saw that the disciples were driving the children away, was grieved, and said: you drive the children away for nothing. They are the very best people, because children all live in the will of the father. They, surely, are already in the kingdom of heaven.
+
+Luke XVIII, 17. You ought not to drive them away, but to learn from them, because in order to live in the will of the father one must live as children live. Children always fulfill the five commandments that I have given you: children do not quarrel, do not bear malice toward people; children do not fornicate; children do not swear oaths about anything; children do not resist evil, do not go to law with anyone; children do not know any distinction between their own nation and a foreign one; and therefore they are better than grown-ups and are in the kingdom of heaven.
+
+Mt. XVIII, 3. If you do not renounce all the temptations of the flesh and do not become just like children, you will not be in the kingdom of heaven.
+
+5. Only he who understands that children are better than we are, because they do not break the will of the father—only he understands my teaching.
+
+<!-- vol. 24, p. 898 --> Luke IX, 48. And only he who understands my teaching understands the will of the father.
+
+Mt. XVIII, 10. We must not despise children, because they are better than we are, and their souls are pure before the father and always with him.
+
+14. And not one child perishes by the will of the father. All perish only through people, because people lure them away from the truth.
+
+16. And therefore one must take care of them and not lure them away from their father and from true life. And that man does wrong who lures them away from their purity. To lure a child away from good, to tempt him with anger, fornication, oaths, courts, war, is as bad as hanging a millstone round such a child's neck and throwing him into the water. It is hard for him to swim out; he is more likely to drown. Just as hard is it for a child to get out of the temptation into which a grown-up leads him.
+
+7. The world of people is unhappy only from temptations. Temptations are everywhere in the world; they always were and will be, and man perishes from temptations.
+
+8. And therefore give up everything, sacrifice everything, only so as not to fall into temptation. If a fox is caught in a trap, it twists off its paw and goes away, and the paw heals, and it stays alive. You too, do the same. Give up everything, only so as not to get stuck in temptation.
+
+Luke XVII, 3. Beware, then, of the temptation against the first commandment—not to bear evil toward people—the temptation that lies in people's wronging us and our wanting to take revenge on them.
+
+Mt. XVIII, 15. If a man wrongs you, remember that he is a son of the one father and a brother to you. If he has wronged you, go and appeal to his conscience face to face. If he listens to you, that is your gain: you will have a new brother.
+
+16. If he does not listen, call two or three to come with you, so that they may persuade him.
+
+Luke XVII, 3 and 4. And if he repents, forgive him. And if he wrongs you seven times and seven times says: forgive me—forgive him.
+
+Mt. XVIII, 17. But if he does not listen, then tell the gathering of people who believe in my teaching. If he does not listen to the gathering either, then forgive him and have nothing to do with him.
+
+23. Because here is what the kingdom of God may be likened to. A king began to settle accounts with his quitrent tenants.
+
+24. And they brought him a tenant who owed a million rubles.
+
+25. And he had nothing to pay with. And the king ought, for this, to have sold all his property, his wife, his children, and himself.
+
+<!-- vol. 24, p. 899 --> 26. But the tenant began to beg the king for mercy.
+
+27. And the king had mercy on him and forgave him the whole debt.
+
+28. And now this same tenant went home and saw a peasant. This peasant owed him fifty kopecks. The king's tenant seized him, began to throttle him, and says: give me what you owe me.
+
+29. And the peasant fell at his feet and says: be patient with me; I will pay you everything.
+
+30. But the tenant did not have mercy, but put the peasant under lock, to sit there until he paid everything.
+
+31. Other peasants saw this and went to the king and told him what the tenant had done.
+
+32. Then the king summoned the tenant and says to him: you wicked dog, I forgave you the whole quitrent because you begged me.
+
+33. And you ought to have mercy on your debtor, because I had mercy on you.
+
+34. And the king grew angry and handed the tenant over to torture until he should pay all his quitrent.
+
+35. That is what the father will do with you too, if you do not forgive from all your heart all those who are guilty before you.
+
+Mt. V, 25. Why, you know that if a quarrel starts up with a man, it is better to make peace with him without going to court. You know this and do so because you know that if you go to court you will lose more. Well, it is the very same with all malice. If you know that malice is a bad thing and removes you from the father, then untie yourself from malice as quickly as you can, and make peace.
+
+XVIII, 18. Why, you yourselves know that as you tie yourselves up on earth, so you will be before the father. And as you untie yourselves on earth, you will be untied before the father as well.
+
+19. Understand that if two or three are united on earth by my teaching, then everything they desire they already have from their father.
+
+20. Because where two or three are united in the name of the spirit in man, there the spirit of man lives in them.
+
+Mt. XIX, 3; Mark X, 2. Beware of the temptation against the second commandment—the temptation that lies in people's changing wives.
+
+Once some Orthodox teachers came up to Jesus and, testing him, said: may a man leave his wife?
+
+Mt. XIX, 4. He said to them: from the very beginning man was created male and female; this is the will of the father.
+
+<!-- vol. 24, p. 900 --> 5. And because of this a man leaves father and mother and cleaves to his wife. And husband and wife merge into one body. So that a wife is for a man the same as his own flesh.
+
+6. Therefore a man must not break the natural law of God and divide what has been joined.
+
+8. In your law, the law of Moses, it is said that one may throw over one's wife and take another, but this is untrue. By the will of the father it is not so.
+
+9. And I tell you that whoever throws over his wife drives into debauchery both her and the one who takes up with her. And by throwing over his wife he spreads debauchery in the world.
+
+10. And the disciples said to Jesus: it is too hard to stay with one wife forever. If that is how it must be, then it is better not to marry at all.
+
+11. He said to them: one may also not marry, but one must understand what that means.
+
+12. If anyone wants to live without a wife, let him be entirely pure and not touch women. There are such people who do not touch women at all; but whoever loves women, let him come together with one wife, not throw her over, and not cast glances at others.
+
+Beware, then. The temptation against the third commandment lies in this: that people make others fulfill obligations and swear oaths.
+
+Mt. XVII, 24. Once some tax collectors came up to Peter and asked him: what about your teacher—doesn't he pay taxes?
+
+25. Peter said: no, he does not pay, and went and told Jesus that he had been stopped and told that everyone is obliged to pay taxes.
+
+Then Jesus said to him: why, a king does not take taxes from his own sons, and besides the king they are not obliged to pay anyone. Right? Well, it is just the same with us. If we are sons of God, then we are not obliged to anyone in anything except to God, and we are free from all obligations.
+
+27. But if taxes are demanded of you, then give them, not because you are obliged to, but because one must not resist evil. Otherwise resistance to evil will produce a worse evil.
+
+XXII, 16. Another time the Orthodox got together with the king's officials and went to Jesus to catch him out in his words. They said to him: you teach everything according to the truth.
+
+17. Tell us: are we obliged to pay taxes to the king or not?
+
+18. Jesus understood that they wanted to condemn him for not recognizing obligations to the king.
+
+<!-- vol. 24, p. 901 --> 19. He said to them: show me what you pay the taxes to the king with. They handed him a coin.
+
+20. He looked at the coin and says: what is this here—whose likeness and whose inscription?
+
+21. They say: the king's. And he says: well then, give the king what is the king's; but what is God's, your soul, give to no one except God. Money, property, your labor—give all of it to whoever asks it of you; but your soul give to no one except God.
+
+Mt. XXIII, 15. And your Orthodox teachers travel about everywhere and make people swear and promise that they will fulfill the law. But by this they only corrupt people and make them worse than they were before.
+
+16, 22. One cannot pledge the body for one's soul. God is in your soul, and therefore people cannot make promises before people on God's behalf.
+
+Beware, then. The temptation against the fourth commandment lies in this: that people judge and execute people and call on others to take part in these courts and executions.
+
+Luke IX, 52. Once Jesus' disciples stopped in a village and asked to stay the night.
+
+53. They were not let in.
+
+54. Then the disciples came to Jesus to complain about this and say: may thunder strike them dead for it.
+
+55. Jesus says: you still do not understand what spirit you are of.
+
+56. I teach not how to destroy people, but how to save them.
+
+XII, 13. Once a man came to Jesus and says: tell my brother to give me my inheritance.
+
+14. Jesus said to him: no one has set me as judge over you, and I judge no one.
+
+15. And you cannot judge anyone.
+
+John VIII, 3. Once the Orthodox brought a woman to Jesus and say:
+
+4. This woman has been caught in fornication.
+
+5. And by the law she ought to be stoned. What do you say?
+
+6. Jesus answered nothing and waited for them to come to their senses.
+
+7. But they pestered him and asked what sentence he would pass on this woman. Then he said: whoever among you is without error, let him be the first to throw a stone at her.
+
+8. And he said nothing more.
+
+<!-- vol. 24, p. 902 --> 9. Then the Orthodox looked at themselves, and their conscience reproached them, and those in front began to hide behind those at the back, and all went away. And Jesus was left alone with the woman.
+
+10. He looked round and sees: no one is there. Well, he says to the woman, has no one accused you?
+
+11. She says: no one. He says: and I cannot accuse you. Go, and do not sin from now on.
+
+Beware, then! The temptation against the fifth commandment lies in this: that people consider themselves obliged to do good only to their own fellow countrymen, and consider foreign nations enemies.
+
+Luke X, 25. A lawyer wanted to tempt Jesus and said: what must I do to receive true life?
+
+27. Jesus said: you know. To love your father, God, and in the same way your brother by the father, God, whosever countryman he may be.
+
+29. And the lawyer said: that would be fine if there were not different nations; but how am I to love the enemies of my nation?
+
+30. And Jesus said: there was a Jew. He came to grief: he was beaten, robbed, and left on the road.
+
+31. A Jewish priest passed by, looked at the beaten man, and went on past.
+
+32. A Jewish Levite passed by, looked at the beaten man, and went on past.
+
+33. A man of a foreign, hostile nation passed by, a Samaritan. This Samaritan saw the Jew and did not think about the Jews' counting the Samaritans as nothing, but pitied the beaten Jew.
+
+34. He washed and bandaged his wounds and took him on his donkey to an inn.
+
+35. He paid the innkeeper money for him and promised to stop by again to pay for him.
+
+Well then, act like this toward foreign nations, toward those who count you as nothing and ruin you, and then you will receive true life.
+
+Mt. XVI, 21. Jesus said: the world loves its own and hates those who are God's, and therefore the people of the world—priests, scripture-readers, rulers—will torment those who fulfill the will of the father. And here I am going to Jerusalem, and they will torment me and kill me, but my spirit cannot be killed, but will be alive.
+
+Mark VIII, 32. Hearing that Jesus would be tormented and killed in Jerusalem, Peter was grieved, took Jesus by the hands, and said to him: if so, then better not go to Jerusalem.
+
+<!-- vol. 24, p. 903 --> 33. Then Jesus said to Peter: do not say this. What you are saying is temptation. If you fear torment and death for me, that means that you are thinking not about the divine, about the spirit, but about the human.
+
+34. And, calling the people over together with his disciples, Jesus said: whoever wants to live according to my teaching, let him renounce his fleshly life, let him be ready for all fleshly sufferings; because whoever fears for his fleshly life will ruin the true life, and whoever disregards the fleshly life will save the true one.
+
+Mt. XXII, 23. And they did not understand this. And now some Old Believers came up, and he explained to all what true life and awakening from death mean. The Old Believers said that after fleshly death there is no longer any life.
+
+24. They said: how can all rise from the dead? If all rose again, then those who rise could in no way live together.
+
+25. Now, there were among us seven brothers. The first married and died. His wife married the second brother, and he died; she married the third, and he died; and so on to the seventh.
+
+28. Well, how will these seven brothers live with one wife if they all rise again?
+
+Luke XX, 34. Jesus said to them: you are either confusing things on purpose or you do not understand what the awakening of life consists in. People in this life marry and are given in marriage.
+
+But those who earn eternal life and awakening from death do not marry and are not given in marriage.
+
+36. Because they can no longer even die. They are united with the father.
+
+Mt. XXII, 31. In your scripture it is said that God said: I am the God of Abraham, of Jacob. And God said this when Abraham and Jacob had already died for people. So, those who have died for people are alive for God. If there is God and God does not die, then those who are with God are always alive. Awakening from death is life in the will of the father. For the father there is no time, and therefore, by fulfilling the will of the father and uniting with him, a man escapes from time and death.
+
+34. Hearing this, the Orthodox no longer knew what to devise to make him be silent, and they joined with the Old Believers and together began to test Jesus.
+
+<!-- vol. 24, p. 904 --> 35. And one of the Orthodox said:
+
+36. Teacher! What, in your view, is the chief commandment in the whole law? The Orthodox thought that Jesus would get tangled up in his answer about the law.
+
+37. But Jesus said: the chief one is to love with all one's soul the lord, him in whose power we are; and the other follows from it:
+
+39. To love one's neighbor, since the same lord is in him.
+
+40. In this is everything that is written in all your books.
+
+42. And Jesus said further: in your view, what is the Christ? That he is someone's son? They said: in their view the Christ is the son of David.
+
+43. Then he said to them: how is it, then, that David calls the Christ his lord! The Christ is not the son of David, nor anyone's son, but the Christ is that very same lord, our sovereign, whom we know within ourselves as our life. The Christ is that understanding which is in us.
+
+Luke XII, 1. And Jesus said: look out, beware of the leaven of the Orthodox teachers. Beware too of the leaven of the Old Believers and of the leaven of the government.
+
+5. But most of all beware of the leaven of the self-styled Orthodox, because in them lies the whole deception.
+
+XX, 45. And when the people understood what he was speaking about, he said:
+
+46. Beware above all of the teaching of the scribes—the self-styled Orthodox.
+
+47. Beware of them because they have occupied the place of the prophet who declares the will of God to the people. They have arbitrarily taken upon themselves the power to preach the will of God to the people. They preach words, but do nothing.
+
+Mt. XXIII, 3. And it turned out that they only say: do this and that; but there is nothing to do, because they do nothing good, but only talk.
+
+4. And what they say is what cannot be done. And they themselves do nothing.
+
+5. And they only try to keep the teaching office for themselves, and for this they try to show themselves off: they dress up, they give themselves airs.
+
+8. And therefore know that no one ought to be called a teacher-pastor.
+
+<!-- vol. 24, p. 905 --> 13. But the self-styled Orthodox call themselves teachers, and by this very thing they hinder you from entering the kingdom of heaven, and do not enter it themselves.
+
+15. These Orthodox think that people can be brought to God by external rites, by oaths.
+
+16. And, like the blind, they do not see that the external means nothing, that everything is in the soul of man.
+
+23. They do the easiest, outward things, but what is necessary and hard—love, mercy, justice—they leave aside.
+
+28. All they want is to be outwardly within the law and to bring others outwardly to the law.
+
+27. And because of this they are like painted coffins—outside it looks clean, but inside there is abomination.
+
+30. Outwardly they even honor the holy martyrs.
+
+31. But in reality they are the very ones who torment and kill the saints. Both formerly and now they are the enemies of everything good. From them comes all the evil in the world, because they hide the good and set forth evil in place of good. And one must fear the self-styled pastors most of all.
+
+Mark III, 28. Because you yourselves know that every mistake can be corrected.
+
+29. But if people are mistaken about what good is, then that mistake can no longer be corrected. And this is just what the self-styled pastors do.
+
+Mt. XXIII, 37. And Jesus said: I wanted here in Jerusalem to unite all people in one understanding of the true good, but the people here know only how to execute the teachers of good.
+
+38. And therefore they will remain just such godless people as they were, and will not know the true God, until they accept with love the understanding of God.
+
+XXIV, 1. And Jesus went away from the temple. Then his disciples said to him: well, and what of this temple of God, with all the ornaments that people have brought into it for God?
+
+2. And Jesus said: truly I tell you that this whole temple with all its ornaments will be destroyed, and nothing will remain of it.
+
+3. There is one temple of God—the heart of people, when they love one another. And they asked him: when will there be such a temple?
+
+<!-- vol. 24, p. 906 --> 4. And Jesus said to them: it will not be soon. For a long time yet people will be deceived with my teaching, and there will be wars and uprisings because of it.
+
+12. And there will be great lawlessness, and there will be little love.
+
+14. But when the true teaching spreads among all people, then there will be an end of evil and of temptations.
+
