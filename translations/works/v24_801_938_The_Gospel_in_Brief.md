@@ -2455,7 +2455,7 @@ XXIV, 1. And Jesus went away from the temple. Then his disciples said to him: we
 
 #### CONTENT OF CHAPTER X
 
-The Jews saw that Jesus' teaching was destroying the state, the faith, and the nationality, and at the same time they saw that they could not refute his teaching, and therefore they resolved to kill him. His innocence and righteousness held them back, but the high priest Caiaphas devised an argument by which Jesus ought to be killed even if he were guilty of nothing. Caiaphas said: we need not reason about whether this man is righteous or not righteous; we must reason about this: whether we want our people to remain a separate Jewish people, or want it to perish and be scattered.
+The Jews saw that Jesus' teaching was destroying the state, the faith, and the nationality, and at the same time they saw that they could not refute his teaching, and therefore they resolved to kill him. Innocence and justice held them back, but the high priest Caiaphas devised an argument by which Jesus ought to be killed even if he were guilty of nothing. Caiaphas said: we need not reason about whether this man is just or not just; we must reason about this: whether we want our people to remain a separate Jewish people, or want it to perish and be scattered.
 
 The people will perish and be scattered if we leave this man alone and do not kill him. This argument decided the matter, and the Orthodox sentenced Jesus to death and gave notice to the people that he was to be seized as soon as he appeared in Jerusalem.
 
@@ -2633,7 +2633,7 @@ John XIII, 4. And after this Jesus got up from the table, girded himself with a 
 
 17. If you have understood this and will do it, you will be blessed.
 
-18. When I said that one of you will betray me, I was not speaking of all of you, because only one of you, of those whose feet I have washed and who have eaten bread with me—one of you will destroy me.
+18. When I said that one of you will betray me, I was not speaking of all of you, because only one of you, of those whose feet I have washed, he who has eaten bread with me—one of you will destroy me.
 
 21. And having said this, Jesus was troubled in spirit, and said once more: yes, yes, one of you will betray me.
 
