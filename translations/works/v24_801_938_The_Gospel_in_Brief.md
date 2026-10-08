@@ -2103,7 +2103,7 @@ Luke XVII, 5. Then the disciples said to Jesus: increase faith in us; tell us so
 
 Luke XVII, 9. The master will not thank the workman for doing what he ought. And the workman, if he understands that he is a workman, does not take offense, but works, trusting that he will receive what is due to him.
 
-10. So you too: fulfill the will of the father and think: we are unprofitable workmen; we have only done what we ought to have done; and do not expect a reward, but be content that you receive what is due to you.
+10. So you too: fulfill the will of the father and think: we are worthless workmen; we have only done what we ought to have done; and do not expect a reward, but be content that you receive what is due to you.
 
 What one must care about is not believing that there will be a reward and there will be life; it cannot be otherwise; but one must care about not ruining this life, not forgetting that it has been given to us so that we may bring forth its fruits, and about fulfilling the will of the father.
 
