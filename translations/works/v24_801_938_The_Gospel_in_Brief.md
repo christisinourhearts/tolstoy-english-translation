@@ -2697,3 +2697,227 @@ Mt. XXVI, 37. And, going up to Peter and the two brothers, the sons of Zebedee, 
 
 <!-- vol. 24, p. 917 -->
 
+## Chapter XI THE FAREWELL DISCOURSE
+
+### THE PERSONAL LIFE IS A DECEPTION OF THE FLESH, EVIL. TRUE LIFE IS THE LIFE COMMON TO ALL PEOPLE. (BUT DELIVER US FROM THE EVIL ONE.)
+
+#### CONTENT OF CHAPTER XI
+
+Jesus, feeling himself ready for death, went out to give himself up. Peter stopped him and asked him where he was going. Jesus answered: I am going where you cannot go. I am ready for death, but you are not yet ready for it. Peter said: no, I am ready even now to give my life for you. Jesus answered: a man can promise nothing. And he said to all the disciples: I know that death lies before me, but I believe in the life of the father and therefore do not fear it. Do not you be disturbed by my death either, but believe in the true God and in the father of life, and then my death will not seem terrible to you. If I am united with the father of life, then I cannot be deprived of life. It is true that I do not tell you what my life after death will be, and where, and when; but I show you the way to true life. My teaching does not speak of what the life will be, but it reveals the one true way of life. It lies in being united with the father. And the father is the source of life. My teaching is to live in the will of the father and to fulfill his will for the life and good of all people. Your guide after me will be your knowledge of the truth. In fulfilling my teaching you will always feel that you are in the truth, that the father is in you and you in the father. And, knowing the father of life within yourselves, you will experience that tranquillity which nothing will take away from you. And therefore, if you know the truth and live in it, neither my death nor your own can disturb you.
+
+People imagine themselves to be separate beings, each with his own particular will of life; but this is only a deception. The one true life is that which recognizes the will of the father as the source of life. My teaching reveals this unity of life and presents life not as separate shoots, but as one tree on which all the shoots grow. Only he who lives in the will of the father, like a shoot on the tree, only he lives; and he who wants to live by his own will, like a shoot torn off, dies. If you live in the will of the father, then you will have everything you desire, because life is given to people for good.
+
+<!-- vol. 24, p. 918 --> The father has given me life for good, and I have taught you to live for good. If you fulfill my commandments, you will be blessed. The commandment that expresses my whole teaching is only this: that all people must love one another. And love consists in sacrificing one's fleshly life for another. There is no other definition of love. And in fulfilling my commandment of love you will not fulfill it as slaves who, without understanding, carry out the order of their lord, but you will live as free people, just like me, because I have explained to you the meaning of life that flows from the knowledge of the father of life. You have accepted my teaching not because you chose it by chance, but because it is the one true teaching, the one under which people are free.
+
+The teaching of the world consists in doing evil to people; but my teaching is to love one another; and therefore the world will hate you just as it hated me. The world does not understand my teaching, and therefore it will persecute you and do you evil, supposing that by this it serves God. So do not be surprised at this, and understand that this is how it must be. The world, which does not understand the true God, must persecute you, and you must affirm the truth.
+
+You are grieved that they will kill me; but they will kill me because I affirm the truth. And therefore my death is needed for the affirmation of the truth. My death, in which I do not depart from the truth, will confirm you, and you will understand what the lie consists in, what the truth consists in, and what comes from the knowledge of the lie and the truth. You will understand that the lie is that people believe the fleshly life and do not believe in the life of the spirit; that the truth is in union with the father; and that from this comes the victory of the spirit over the flesh. Even when I am no longer in the fleshly life, my spirit will be with you. But you, like all people, will not always feel the strength of the spirit within you. Sometimes you will weaken and lose the strength of the spirit, you will fall into temptation; sometimes you will awaken again to the true life. Hours of enslavement to the flesh will come upon you, but this will be only for a time; you will suffer and be reborn again in spirit, as a woman suffers in the pains of childbirth and afterward feels joy at having borne a human being into the world; you too will experience the same when, after enslavement to the flesh, you rise in spirit. You will then feel such blessedness that there will be nothing for you to desire. Know this beforehand, and, in spite of persecutions, of inner struggle and <!-- vol. 24, p. 919 --> decline of spirit, know that the spirit is alive in you and that the one true God is the understanding of the will of the father, revealed by me.
+
+And, turning to the father, the spirit, Jesus said: I have done what you told me; I have revealed to people that you are the source of all. And they have understood me. I have taught them that they have all come forth from one source of infinite life, and that therefore they are all one; that as the father is in me and I in the father, so too they are one with me and with the father. I have also revealed to them that, since you sent them into the world out of love, so they too must live in the world by love.
+
+John XIII, 36. And Peter said to Jesus: where are you going? Jesus answered: you will not have the strength to go where I am going now. Only later will you go there too.
+
+37. And Peter said: why do you think that I have not the strength now to go where you are going? I will give my life for you.
+
+38. And Jesus said: you say that you will give your life for me, but, before the cocks crow, see that you do not deny me three times.
+
+XIV, 1. And Jesus said to his disciples: do not be disturbed and do not be afraid, but believe in the true God of life and in my teaching.
+
+2. The life of the father is not only the life that there is on earth; there is another life as well.
+
+3. If there were only such a life as here, then I would tell you that when I die I will go into Abraham's bosom and prepare a place for you there. And I would come and take you, and we would be blessed together in Abraham's bosom.
+
+4. But I show you only the way to life.
+
+5. Thomas said: but we do not know where you are going, and therefore we cannot know the way. We need to know what will be there after death.
+
+6. Jesus said: I cannot show you what will be there; my teaching is the way, the truth, and the life. And one cannot be united with the father of life except through my teaching.
+
+7. If you fulfill my teaching, then you will come to know the father.
+
+8. Philip said: but who is the father?
+
+9. And Jesus said: the father is that which gives life. I have fulfilled the will of the father, and therefore by my life you can understand what the will of the father consists in.
+
+10. I live by the father, and the father lives in me. And all that I say and do, all this I do by the will of the father.
+
+<!-- vol. 24, p. 920 --> 11. My teaching is that I am in the father and the father is in me. If you do not understand the teaching itself, still you see me and my deeds, and therefore can understand what the father is.
+
+12. And you know that he who follows my teaching can do the same as I, and even more than that, because I will die, but he will still live.
+
+13. He who lives according to my teaching will have everything he desires, because then the son will be the same as the father.
+
+14. Whatever you desire according to my teaching, all of it will be yours.
+
+15. But for this one must love my teaching.
+
+16. My teaching will give you, in my place, an intercessor and comforter.
+
+17. This comforter will be the consciousness of the truth, which worldly people do not understand, but you will know it in yourselves.
+
+18. You will never be alone if the spirit of my teaching is with you.
+
+19. I will die, and worldly people will not see me, but you will see me; because my teaching lives, and you will live by it.
+
+20. And then, if my teaching is in you, you will understand that I am in the father and the father is in me.
+
+21. He who fulfills my teaching will feel the father within himself, and my spirit will live in him.
+
+22. And Judas, not Iscariot but the other one, said to him: but why can't everyone live by the spirit of truth?
+
+23. And in answer Jesus said: only he who fulfills my teaching, only him does the father love, and only in him can my spirit dwell.
+
+24. He who does not fulfill my teaching cannot be loved by my father, because this teaching is not mine, but the father's.
+
+25. That is all that I can tell you now.
+
+26. But my spirit, the spirit of truth, which will dwell in you after me, will reveal everything to you, and you will remember and understand much of what I have told you.
+
+27. So that you can always be at peace in spirit—not with that worldly peace which worldly people seek, but with such a peace of spirit that you will no longer fear anything.
+
+28. Because of this, if you fulfill my teaching, then you have no reason <!-- vol. 24, p. 921 --> to grieve at my death. I, as the spirit of truth, will come to you, and together with the consciousness of the father I will dwell in your heart. If you fulfill my teaching, then you ought to rejoice, because in my place the father will be with you in your heart, and this is better for you.
+
+John XV, 1. My teaching is the tree of life. The father is the one who tends the tree.
+
+2. He cleans and cares for the branches on which there is fruit, so that more may be born on them.
+
+4. Hold to my teaching of life, and life will be in you. And as a shoot lives not of itself but by the tree, so you too, live by my teaching.
+
+5. My teaching is the tree; you are the shoots. He who lives by my teaching of life bears much fruit, so that apart from my teaching there is no life.
+
+6. He who does not live by my teaching dries up and perishes, and the dry branches are cut off and burned.
+
+7. If you live by my teaching and fulfill it, then you will have everything you desire.
+
+8. Because the will of the father is that you should live the true life and have what you desire.
+
+9. As the father has given good to me, so I give good to you. Hold to this good.
+
+10. I am alive because the father loves me and I love the father; and you, live by this same love.
+
+11. If you live by this, you will be blessed.
+
+12. My commandment is that you should love one another just as I have loved you.
+
+13. There is no greater love than to sacrifice one's life out of love for one's own, as I have done.
+
+14. You are equal to me if you do what I have taught you.
+
+15. I do not regard you as slaves who are given orders, but as equals, because I have explained to you everything that I have understood about the father.
+
+16. You do not choose my teaching by your own will, but because I have shown you that it is the one true teaching, the one under which you will live and will have everything you desire.
+
+17. The whole teaching is to love one another.
+
+18. If the world hates you, do not be surprised at this: it hates my teaching.
+
+19. If you were at one with the world, then it would love you. But I have separated you from the world, and for this it will hate you.
+
+<!-- vol. 24, p. 922 --> 20. If they persecuted me, they will persecute you too.
+
+21. They will do all this because they do not know the true God.
+
+22. I explained to them, but they did not even want to listen to me.
+
+23. They did not understand my teaching because they did not understand the father.
+
+24. They saw my life, and my life showed them their error.
+
+25. And for this they hated me all the more.
+
+26. The spirit of truth, which will come to you, will confirm the same.
+
+27. And you will confirm it.
+
+John XVI, 1. I tell you this beforehand, so that you may not be deceived when persecutions come upon you.
+
+2. They will make outcasts of you. Everyone will think that by killing you they are doing what is pleasing to God.
+
+3. They cannot help doing all this, because they understand neither my teaching nor the true God.
+
+4. All this I tell you beforehand, so that you may not be surprised when all this happens.
+
+5. So now I am going away to that spirit which sent me, and now you understand that one cannot ask me where I am going.
+
+6. But before, you were grieved that I had not told you where exactly, to what place, I am going away.
+
+7. But truly I tell you that it is good for you that I am going away. If I do not die, then the spirit of truth will not appear to you; but if I die, then it will dwell in you.
+
+8. It will dwell in you, and it will be clear to you what the lie consists in, what the truth consists in, what the decision consists in.
+
+9. The lie is that people do not believe in the life of the spirit.
+
+10. The truth is that I am one with the father.
+
+11. The decision is that the power of the fleshly life has been destroyed.
+
+12. I would tell you much more, but it is hard for you to understand.
+
+13. But when the spirit of truth dwells in you, it will show you the whole truth, because it will tell you nothing new, nothing of its own, but what is from God, and in all the circumstances of life it will show you the way.
+
+15. It too will be from the father, as I am from the father; that is why it will say the very same as I do.
+
+16. But even when I, the spirit of truth, am in you, you will not always see me. Sometimes you will, and sometimes you will not hear me.
+
+<!-- vol. 24, p. 923 --> 17. And the disciples said to one another: what does this mean; he said: sometimes you will see me, sometimes you will not see me.
+
+18. What does it mean: sometimes you will, sometimes you will not—what is he saying?
+
+19. Jesus said to them: you do not understand what this means: sometimes you will, sometimes you will not see me.
+
+20. You know how it always is in the world: that some are sad and grieve, and others rejoice. And you will be sad, and your sadness will pass into joy.
+
+21. A woman, when she gives birth, grieves in her pains; but when it is over, she does not remember the pains for joy that a human being has been born into the world.
+
+22. So too you will be sad, and suddenly you will see me; the spirit of truth will enter into you, and your sadness will turn into joy.
+
+23. And then you will no longer ask me for anything, because then you will have everything you desire. Then all that anyone desires in the spirit, all of it he will have from his father.
+
+24. Before, you asked nothing for the spirit; but then ask for whatever you want for the spirit, and all of it will be yours, so that your blessedness will be full.
+
+25. Now I, as a man, cannot say this to you clearly in words; but then, when I, as the spirit of truth, live in you, I will proclaim everything about the father to you clearly.
+
+26. Then all that you ask, in the name of the spirit, of the father—it will not be I who give it to you.
+
+27. But your father will give it to you, because he loves you for having accepted my teaching.
+
+28. You have understood that understanding comes into the world from the father and returns from the world to the father.
+
+29. Then the disciples said to Jesus: now we have understood everything, and we have nothing more to ask.
+
+30. We believe that you are from God.
+
+31, 33. And Jesus said: I have told you all this so that you may have assurance and peace in my teaching. Whatever misfortunes befall you in the world, fear nothing; my teaching will conquer the world.
+
+John XVII, 1. After this Jesus raised his eyes to the sky and said: my father! you have given your son freedom of life, so that he might receive true life.
+
+3. Life is the knowledge of the true God—of the understanding revealed by me.
+
+<!-- vol. 24, p. 924 --> 6. I have revealed you to people on earth. I have done the work that you commanded me.
+
+4. I have shown your essence to people on earth. They were yours before as well; but by your will I have revealed the truth to them. And they have come to know you.
+
+7. They have understood that all that they have, that their life, is only from you.
+
+8. And that I taught them not from myself, but that I and they have come forth from you.
+
+9. I ask you, then, for those who acknowledge you.
+
+10. They have understood that all that is mine is yours, and what is yours is mine.
+
+11. I am no longer in the world, but am returning to you; but they are in the world, and therefore I ask you, father, keep your understanding in them,
+
+15. I do not ask that you take them out of the world, but that you deliver them from evil.
+
+17. That you confirm them in your truth. Your understanding is truth.
+
+18. My father! I desire that they be just as I am, that they understand just as I do that the true life began before the beginning of the world.
+
+21. That they may all be one, as you, father, are in me and I in you, so that they too may be one in us.
+
+23. I in them, and you in me, that all may be united into one, and that people may understand that they were not born of themselves, but that you, loving, sent them into the world, just as you sent me.
+
+25. Righteous father! the world has not known you, but I have known you, and they have known you through me.
+
+26. And I have explained to them what you are. You are this: that the love with which you have loved me may be in them. You have given them life; therefore you have loved them. I have taught them to know this and to love you, so that your love for them may return from them to you.
+
