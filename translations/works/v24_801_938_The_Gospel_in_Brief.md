@@ -1067,7 +1067,7 @@ John IV, 5. Jesus was once going to the Samaritan town of Sychar, near the field
 
 37. Our life is the field that God has sown; and our task is to gather its fruits.
 
-38. And if we gather the fruits, we receive a reward—a life not bounded by time. It is true that we do not give ourselves life, but someone else does. And if we labor at gathering life, then we, like reapers, receive a reward. I teach you to gather this life that the father has given you.
+38. And if we gather the fruits, we receive a reward—a non-temporal life. It is true that we do not give ourselves life, but someone else does. And if we labor at gathering life, then we, like reapers, receive a reward. I teach you to gather this life that the father has given you.
 
 <!-- vol. 24, p. 852 --> John V, 1. Jesus once came to Jerusalem.
 
