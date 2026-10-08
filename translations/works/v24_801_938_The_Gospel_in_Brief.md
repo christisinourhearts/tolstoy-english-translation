@@ -350,3 +350,242 @@ Luke IV, 16. And Jesus came to his native place, to Nazareth. And on the feast d
 21. And he said: now this scripture has been fulfilled before your eyes.
 
 <!-- vol. 24, p. 823 -->
+
+## Chapter II GOD IS SPIRIT
+
+### AND THEREFORE MAN MUST WORK NOT FOR THE FLESH, BUT FOR THE SPIRIT. (WHO ART IN THE HEAVENS.)
+
+#### CONTENT OF CHAPTER II
+
+The Jews who considered themselves Orthodox revered an external God, a fleshly creator. According to their teaching, this external God had made an agreement with them. By the agreement God promised the Jews to help them, and the Jews promised to revere him, and the chief condition of the agreement was the keeping of the sabbath. Jesus rejected the keeping of the sabbath. He said: the sabbath is a human institution. A living man in his spirit is more important than all external rites. The observance of the rite of the sabbath, like all external worship of God, contains a deception in itself. It is impossible to do nothing on the sabbath. A man must always do good deeds, and if the sabbath hinders the doing of a good deed, then it means that the sabbath is a lie.
+
+Another condition of the agreement with God, as the Orthodox Jews held, was not to associate with unbelievers. To this Jesus said that what God wants from people is not sacrifices, but love among themselves.
+
+They held the rules about washing and purification to be a further condition of the agreement. And to this Jesus said that God does not require external cleanness, but requires only mercy and love toward people. And here Jesus said that external rites are harmful and that church tradition itself is evil. Church tradition causes people to cast aside the most important deeds of love, as, for example, love for mother and father, and to justify this by church tradition.
+
+About everything external, about all the rules of the former law that defined the cases in which a man is defiled, Jesus said: know, all of you, that nothing can defile a man from outside; a man is defiled only by what he thinks. After this Jesus came to Jerusalem, the city that was considered holy, and into the temple in which the Orthodox held that God himself lives, and said that there is no need to offer sacrifices to God, that man is more important than the temple, that one need only love one's neighbor and help him.
+
+<!-- vol. 24, p. 824 --> Then Jesus said further that there is no need to worship God in any special place, but that one must serve the father in deed and in spirit. The spirit cannot be seen or shown. The spirit is man's consciousness of his sonship to the infinite spirit. The temple is not needed. The true temple is the world of people united by love. He said that all external worship of God is not only false and harmful when it furthers deeds of evil, like the worship of the Jews, which prescribes killings and permits neglect of parents, but that it is harmful because a man who performs external rites considers himself in the right and releases himself from deeds of love. He said that only that man strives toward the good and does deeds of love who feels his own imperfection. To do deeds of love one must consider oneself imperfect. But external worship of God leads into the deception of self-satisfaction. All external worship of God is unnecessary and must be cast aside. Deeds of love cannot be joined with the performance of rites, and deeds of love cannot be done in the form of external worship of God. Man is a son of God by the spirit and therefore must serve the father in spirit.
+
+Matt. XII, 1; Mark II, 23; Luke VI, 1. It happened once on a sabbath that Jesus was walking with his disciples through a field. The disciples got hungry and along the way plucked ears of grain, rubbed them in their hands, and ate. But according to the teaching of the Orthodox, God had established a covenant with Moses that everyone should keep the sabbath and do nothing on the sabbath. According to the teaching of the Orthodox, God had commanded that whoever worked on the sabbath should be stoned.
+
+Mt. XII, 2. The Orthodox saw that the disciples were rubbing ears of grain on the sabbath, and they say: it is not right to do this on the sabbath. On the sabbath it is forbidden to work, and you are rubbing ears of grain. God established the sabbath and commanded that breaking it be punished with death.
+
+7. Jesus heard this and says: if you understood what the words of God mean: I want love, and not sacrifice—you would not accuse where there is no guilt.
+
+8. Man is more important than the sabbath.
+
+Luke XIII, 10. It happened another time on a sabbath that, when Jesus was teaching in the assembly,
+
+11. a sick woman came up to him and asked him to help her.
+
+12. And Jesus began to treat her.
+
+<!-- vol. 24, p. 825 --> 14. Then the Orthodox church elder grew angry with Jesus for this and said to the people: in the law of God it is said: there are six days in the week for working.
+
+Luke XIV, 3. And to this Jesus asked the Orthodox lawyers: what, then, according to your law, is it forbidden even to help a man on the sabbath?
+
+6. And they did not know what to answer.
+
+Mt. XII, 11; Luke XIV, 5. Then Jesus said: deceivers! does not each of you untie his cattle from the manger and lead them to water on the sabbath? And if anyone's sheep falls into a well, why, everyone will run and pull it out, even on the sabbath.
+
+Mt. XII, 12. Surely a man is much better than a sheep. And you say that a man must not be helped. What, then, in your view, must be done on the sabbath—good or evil? Save a soul or destroy it? Good must be done always, on the sabbath too.
+
+Mt. IX, 9. Jesus once saw a tax farmer at his collecting. The tax farmer was called Matthew. Jesus began talking with him, and Matthew understood him, came to love his teaching, and invited him to his house as a guest, and gave a feast for him.
+
+10. When Jesus came to Matthew's, friends of Matthew came—tax farmers and unbelievers—and Jesus did not disdain them, and sat down, he and his disciples.
+
+11. And now the Orthodox saw this and say to Jesus' disciples: how is it that your teacher eats with tax farmers and the strayed? And according to the teaching of the Orthodox, God had commanded not to associate with unbelievers.
+
+12. Jesus heard this and says: he who boasts of his health has no need of a doctor, but he who is sick has need of one.
+
+13. Understand what the words of God mean: I want love, and not sacrifice. I cannot teach a change of faith to those who consider themselves Orthodox; I teach those who consider themselves strayed.
+
+Matt. XV, 1; Mark VII, 1. Orthodox lawyers from Jerusalem came to Jesus.
+
+Matt. XV, 2; Mark VII, 2. And they saw that his disciples, and he himself, eat bread with unwashed hands. And the Orthodox lawyers began to condemn him for this.
+
+Matt. XV, 3. For they themselves keep strictly to church tradition about how to wash dishes, and if they have not washed them, they will not eat.
+
+Mark VII, 4. And likewise they will not eat anything from the market unless they have washed it.
+
+<!-- vol. 24, p. 826 --> 5. And the Orthodox lawyers asked him: why is it that you do not live by church tradition, and take bread and eat it with unwashed hands?
+
+Matt. XV, 3. And he answered them: and how is it that you, by your church tradition, break the commandment of God?
+
+Mark VII, 10. God said to you: honor your father and mother.
+
+11. But you have invented that anyone can say: I give to God what I used to give to my parents.
+
+12. And then you may not feed your father and mother. So it is that you destroy the commandment of God by church tradition.
+
+Matt. XV, 7. Deceivers! the prophet Isaiah spoke the truth about you:
+
+8. "Because this people only in words falls down before me and honors me with its tongue, while its heart is far from me.
+
+9. And because its fear of me is only a human commandment, which it has learned by heart, for this I will do a wonderful, extraordinary thing over this people: the wisdom of its wise men will perish, and the reason of its men of reason will grow dark. Woe to those who take care to hide their desires from the Eternal, and who do their deeds in darkness."
+
+Mark VII, 8. So you too leave aside what is important in the law, what is the commandment of God, and keep your own human tradition—rinsing cups.
+
+14. And Jesus called all the people together and said: listen, all of you, and understand.
+
+15. There is nothing in the world that, entering into a man, could foul him, but what comes out of him—that is what fouls a man. Let there be love and mercy in your soul, and then everything will be clean.
+
+16. Try to understand this.
+
+17. And when he returned home, the disciples asked him what these words meant.
+
+18. And he said: can it be that you too have not understood this? Do you not understand that nothing external, nothing fleshly, can defile a man?
+
+19. Because it enters not into his soul, but into his belly. Into the belly it goes, and out of the backside it goes away with the dung.
+
+20. Only that can defile a man which comes out of a man, out of his soul.
+
+<!-- vol. 24, p. 827 --> 21. Because out of a man's soul comes evil: fornication, lewdness, murder, theft, greed, malice, deceit, insolence, envy, slander, pride, every kind of folly.
+
+23. All this evil is from a man's soul, and it alone can defile a man.
+
+John II, 13. After this the Passover drew near, and Jesus came to Jerusalem and went into the temple.
+
+14. In the porch of the temple stood cattle: cows, bulls, rams; and pens had been made with doves; money changers sat behind counters with money. All this was needed in order to offer to God. They killed and offered in the temple. In this lay the prayer of the Jews, as the Orthodox lawyers had taught them.
+
+15. Jesus went into the temple, twisted a whip, and drove all the cattle out of the porch, and let all the doves go, and scattered all the money.
+
+16. And he ordered that none of this be brought into the temple.
+
+17. He said: the prophet Isaiah said to you: the house of God is not the temple in Jerusalem, but the whole world of God's people. And the prophet Jeremiah also said to you: do not believe the lying talk that here is the house of the Eternal; do not believe it, but change your life and do not judge falsely, do not oppress the stranger, the widow, the orphan, do not shed innocent blood, and do not come into the house of God and say: now we can calmly do vile things. Do not think that a den of robbers could be the house of the father.
+
+18. And the Jews began to argue and say to him: you say that our way of pleasing God is not right; how will you prove it?
+
+19. And, turning to them, Jesus said: destroy this temple, and in three days I will awaken a new, living temple.
+
+20. And the Jews said: how will you make a new temple right away, when this one was being built forty-six years?
+
+Matt. XII, 6. And Jesus said to them: I am speaking to you of what is more important than the temple.
+
+7. You would not say this if you understood what the words of the prophet mean: "I, God, do not rejoice in your sacrifices, but I rejoice in your love among yourselves." The living temple is the whole world of people, when they love one another.
+
+John II, 23. And then in Jerusalem many people believed in what he said.
+
+24. But he himself believed in nothing external, because he knew that everything is in man.
+
+<!-- vol. 24, p. 828 --> 25. He had no need for anyone to teach him about man, because he knew that in man there is the spirit.
+
+John IV, 4. And once Jesus happened to pass through Samaria.
+
+5. He was passing by the Samaritan village of Sychar, near the place that Jacob gave to his son Joseph.
+
+6. Jacob's well was there. Jesus was tired out from the road and sat down by the well.
+
+8. And his disciples went into the town for bread.
+
+7. And a woman comes from Sychar for water. Jesus asked her for a drink.
+
+9. And she says to him: how is this, you ask me for a drink? Why, you Jews do not associate with us Samaritans.
+
+10. And he says to her: if you knew me and knew what I teach, you would not say this, but would give me a drink, and I would give you the water of life.
+
+13. Whoever drinks your water will be thirsty again.
+
+14. But whoever drinks my water will be satisfied forever, and this water of mine will bring him into eternal life.
+
+19. The woman understood that he was speaking of the divine, and says to him: I see that you are a prophet and want to teach me.
+
+20. But how can you teach me the divine, when you are a Jew and I am a Samaritan? Our people pray to God on this mountain, and you Jews say that only in Jerusalem is the house of God. You cannot teach me the divine, because you have one faith and we have another.
+
+21. And Jesus says to her: believe me, woman, the time has already come when people will pray to the father neither on this mountain nor in Jerusalem.
+
+22. Because if people pray to God, they pray to one whom they do not know; but if they pray to the father, they pray to one whom it is impossible not to know.
+
+23. The time has come when the real worshipers of God will worship not God, but the father, in spirit and in deed. Such are the worshipers the father needs.
+
+24. God is spirit, and he must be worshiped in spirit and in deed.
+
+25. The woman did not make out what he had said to her, and says: I have heard that God's messenger will come, the one who is called the anointed one. He will tell everything then.
+
+26. And Jesus says to her: it is I, the very one who is speaking with you. Expect nothing more.
+
+<!-- vol. 24, p. 829 --> John III, 22. After that Jesus came into the land of Judea and lived there with his disciples and taught.
+
+23. At that time John was teaching people near Salim and bathing them in the river Aenon,
+
+24. because John had not yet been put in prison.
+
+25. And a dispute arose between John's disciples and Jesus' disciples as to which was better: John's purification in water, or Jesus' teaching.
+
+26. And they came to John and said to him: here you purify with water, and Jesus only teaches; and everyone is going to him. What do you say about him?
+
+27. John said: a man cannot teach anything of himself, if God does not teach him.
+
+28. Whoever speaks of the earthly, that is earthly; but if anyone speaks from God, then it is from God.
+
+32, 33 and 34. There is no way to prove whether the words that are spoken are from God or not from God. God is spirit; he cannot be measured and cannot be proved. Whoever understands the words of the spirit, by that very fact proves that he is from the spirit.
+
+35. The father, loving the son, has handed everything over to him.
+
+36. Whoever believes in the son has life; and whoever does not believe in the son does not have life. God is the spirit in man.
+
+Luke XI, 37. After this one of the Orthodox came to Jesus and invited him to his house for breakfast. He went in and sat down at the table.
+
+38. The Orthodox man noticed that he had not washed before breakfast, and was surprised.
+
+39. And Jesus says to him: you Orthodox wash everything on the outside: but is it clean inside you? Be merciful to people, and everything will be clean.
+
+Luke VII, 37. And while he was sitting in the Orthodox man's house, a woman of the town came; she was an unbeliever. She learned that Jesus was in the Orthodox man's house, and she came there too and brought a vial of perfume.
+
+38. And she knelt at his feet, began to weep, and bathed his feet with tears, wiped them with her hair, and poured perfume on them from the vial.
+
+39. The Orthodox man saw this and thought to himself: he is hardly a prophet. If he really were a prophet, he would know what sort of woman is washing his feet; he would know that she is an unbeliever and would not let her touch him.
+
+40. Jesus guessed it, turned to him, and says: shall I tell you what I think?—Tell me, he says.
+
+<!-- vol. 24, p. 830 --> 41. And Jesus says: here is what: two men considered themselves in debt to one master: one for five hundred pieces of money, and the other for fifty.
+
+42. And neither the one nor the other had anything to pay with. So the master forgave them both. Well, what does your reason say: which will love the master more and look after him?
+
+43. And the man says: of course, the one who owed more.
+
+44. Jesus pointed to the woman and says: so it is with you and this woman. You consider yourself Orthodox and therefore a small debtor; she considers herself an unbeliever and therefore a great debtor. I came into your house, and you did not give me water to wash my feet; she washes my feet with tears and wipes them with her hair.
+
+45. You did not kiss me, but she kisses my feet.
+
+46. You did not give me oil to anoint my head, but she anoints my feet with costly perfume.
+
+47. He who considers himself Orthodox will not do deeds of love. But he who considers himself an unbeliever will do deeds of love. And deeds of love deliver from all errors.
+
+48. And he said to her: yes, you have been delivered from your errors. And Jesus said: the whole matter lies in faith—in what each one considers himself to be. He who by his faith considers himself good will not be good; but he who by his faith considers himself bad, he is good.
+
+Luke XVIII, 10. And Jesus said further: two men once came to the temple to pray; one was Orthodox, the other an unbelieving tax farmer.
+
+11. The Orthodox man prayed like this: I thank you, Lord, that I am not like the others: I am not a miser, not a cheat, not a debauchee, not such a scoundrel as this tax farmer.
+
+12. I fast twice a week and give a tenth of my property.
+
+13. But the tax farmer stood at a distance and did not dare to glance up at the sky, and only beat himself on the breast and kept saying: Lord! look round at me, worthless as I am.
+
+14. Well then? why, this one was better than the Orthodox man, because whoever raises himself up will be brought low, and whoever brings himself low will be raised up.
+
+Luke V, 33. After this John's disciples came to Jesus and say: why do we and the Orthodox fast much, but your disciples do not fast? And according to the Orthodox law God had commanded fasting.
+
+<!-- vol. 24, p. 831 --> 34. And Jesus said to them: while the bridegroom is at the wedding, no one is sad.
+
+35. Only when the bridegroom is not there, then they are sad.
+
+36. If there is life, then one must not be sad. External worship of God cannot be joined with deeds of love. The old teaching—external worship of God—cannot be joined with my teaching—of deeds of love toward one's neighbor. To join my teaching with the old is the same as tearing a patch from a new garment and sewing it onto an old one. You will tear the new one and not mend the old one. One must accept either all of mine or all of the old. And having accepted my teaching, one cannot keep the old: purification, fasts, sabbaths.
+
+37. Just as one cannot pour new wine into old wineskins, or else the skins will burst and the wine will run out.
+
+38. But new wine must be poured into new skins, and both the one and the other will be whole.
+
+Mt. IV, 14, 16. And in Jesus the prophecy of Isaiah was fulfilled: the people were in darkness and suddenly saw a light. People lived in the gloom of death, and for them a light shone forth.
+
+18. And another prophecy of Isaiah came true: here he is, my beloved child. My soul rejoices in him. Because in him is my spirit, and he will proclaim the truth to the nations.
+
+19. He does not argue and does not shout, and his voice is not heard in the streets.
+
+20. In order that truth may triumph over falsehood, he will not break a straw and will not blow out a night-light. In his teaching is the hope of people.
+
+25. And many people followed him.
+
+Mt. VIII, 1. And he went about the towns and villages, proclaiming the true good.
+
