@@ -743,3 +743,235 @@ Luke VIII, 18. And therefore see how you understand the parables. Understand the
 
 Matt. XIII, 31. The kingdom of heaven in the soul grows out of nothing, but gives everything. It is like a birch seed, the smallest of grains; when it grows up, it is bigger than all the trees, and the birds of the sky build their nests in them.
 
+## Chapter IV THE KINGDOM OF GOD
+
+### AND THEREFORE THE WILL OF THE FATHER IS THE LIFE AND GOOD OF ALL PEOPLE. (THY KINGDOM COME.)
+
+#### CONTENT OF CHAPTER IV
+
+Jesus pitied people because they do not know the true good, and he taught them. He said: blessed are those who have no property, no glory, and no care about these; and unhappy are those who seek wealth and glory, because the poor and oppressed are in the will of the father, while the rich and glorious seek only reward from people in this temporal life. To fulfill the will of the father, one must not be afraid of being poor and despised; one must rejoice at it, so as to show people what the true good consists in.
+
+To fulfill the will of the father, who gives life and good to all people, one must fulfill five commandments.
+
+<!-- vol. 24, p. 839 --> *The first* *commandment*. Not to wrong anyone, and to act so as not to rouse evil in anyone, because from evil comes evil.
+
+*The second commandment*. Not to flirt with women, not to leave the wife with whom one has come together, because the leaving of wives and the changing of them produces all the debauchery in the world.
+
+*The third commandment*. Not to swear an oath about anything, because nothing can be promised, since man is wholly in the power of the father, and oaths are taken for evil deeds.
+
+*The fourth commandment.* Not to resist evil, to bear wrongs and to do even more than people demand: not to judge and not to go to law, because man himself is full of mistakes and cannot teach others. By revenge a man only teaches others to do the same.
+
+*The fifth commandment*. Not to make a distinction between one's own fatherland and a foreign one, because all people are children of one father.
+
+These five commandments must be kept not in order to earn praise from people, but for oneself, for one's own blessedness. There is no need either to pray or to fast. There is no need to pray because the father knows everything that people need. And there is nothing to ask him for; one need only try to be in the will of the father. And the will of the father is that one should bear malice toward no one. There is no need to fast: people fast only for praise from people; and praise from people cannot give blessedness. One need care only about being in the will of the father, and everything else will come of itself. If one cares about the fleshly, then one can no longer care about the kingdom of heaven. And even without care about food and clothing a man will be alive. The father gives life. One need care only about being in the will of the father in the present hour. The father gives his children what they need. One may desire only the strength of the spirit, which the father gives. The five commandments define the way into the kingdom of heaven. Only this one narrow way leads into eternal life. False teachers, wolves in sheep's skins, always try to lead people off this way. One must beware of them. False teachers can always be recognized, because they teach evil in the name of good. If they teach violence, executions, they are false teachers. They can be recognized by the deeds that they teach.
+
+He fulfills the will of the father, not who calls on the name of God, but who does deeds of good. So that whoever fulfills these five commandments will have an indubitable life, which no one will <!-- vol. 24, p. 840 --> take away from him; but whoever does not fulfill them will have such a life as will soon be taken away from him, so that nothing will remain. The teaching of Jesus astonishes and attracts all the people because it recognizes all people as free. The teaching of Jesus was the fulfillment of Isaiah's prophecy that the chosen one of God brought light to people and conquered evil, and restored truth by meekness, humility, and goodness, and not by violence.
+
+Matt. IX, 35. And Jesus went about the towns and villages and taught everyone the blessedness of fulfilling the will of the father.
+
+36. Jesus pitied people because they perish not knowing what true life consists in, and rush about and torment themselves without knowing why, like abandoned sheep without a shepherd.
+
+Mt. V, 1. Once a multitude of people gathered around Jesus to hear his teaching, and he went up on a mountain and sat down. His disciples surrounded him.
+
+2. And Jesus began to teach the people what the will of the father consists in.
+
+Luke VI, 21. He said: blessed are the poor, the homeless, because they are in the will of the father. If they go hungry for a time, they will be filled; if they grieve and weep for a time, they will be comforted.
+
+22. If people despise them and push them aside and drive them away from everywhere.
+
+23. Let them rejoice at this, because the people of God have always been driven away like this. And they will receive a heavenly reward.
+
+24. But woe to the rich, because they have already received everything they wanted, and will receive nothing more.
+
+25. Now they are content, but they will also be hungry. Now they are merry, but they will also be sad.
+
+26. If everyone extols them, woe to them, because everyone extols only deceivers. Blessed are the poor, the homeless, but blessed only when they are poor not in appearance only, but also in soul, as salt is good only when it does not merely look like salt in appearance, but when it is salty in itself.
+
+Matt. V, 13. So you too, the poor, the homeless, the teachers of the world, you are blessed if you know that true happiness consists in being homeless and poor. But if you are poor only in appearance, then you, like unsalted salt, are no longer good for anything.
+
+14. You are a light to the world, and therefore do not hide your light, but show it to people.
+
+<!-- vol. 24, p. 841 --> 15. Why, having lit a light, one does not put it under the bench, but puts it on the table, so that it may give light to everyone in the room.
+
+16. So you too, do not hide your light, but show it by deeds, so that people may see that you know the truth, and, looking at your good deeds, may understand your heavenly father.
+
+17. And do not think that I am freeing you from the law. I teach not freedom from the law; I teach the fulfillment of the eternal law.
+
+18. As long as there are people under heaven, there is also the eternal law. There will be no law only when people of themselves fulfill everything according to the eternal law. And so I give you the commandments of the eternal law.
+
+19. And if anyone frees himself from even one of these short commandments and teaches others that one may free oneself from them, he will be last in the kingdom of heaven; but whoever fulfills them and thereby teaches others will be great in the kingdom of heaven.
+
+20. Because if your virtue is no greater than the virtue of the Orthodox scribes, then you will in no way be in the kingdom of heaven.
+
+Here are these commandments:
+
+21. *The first commandment*. Matt. V, 21. In the former law it is said: do not kill. And if anyone kills another, he must be judged.
+
+22. But I tell you that everyone who grows angry with his brother deserves judgment. And still more guilty is he who says an abusive word to his brother.
+
+So that if you want to pray to God, remember first whether there is any man who has something against you; and if you remember that even one man considers that you have wronged him, leave your prayer and go first and make peace with your brother; then pray. Know that God needs neither sacrifice nor prayer, but needs peace, concord, and love among you. And that you cannot either pray or think of God if there is even one man with whom you are not in a state of love.
+
+So here is *the first commandment:* do not grow angry, do not quarrel; but if you have quarreled, make peace, and act so that not one man may have a grievance against you.
+
+<!-- vol. 24, p. 842 --> Matt. XIX, 7. *The second commandment*. In the former law it is said: do not commit adultery. And if you want to send away your wife, then give her a writ of divorce; but I tell you that if you admire a woman's beauty, you are already committing adultery. All debauchery ruins the soul, and therefore it is better for you to give up the pleasure of the flesh than to ruin your life.
+
+9. And if you send away your wife, then besides being a debauchee yourself, you also drive her into debauchery, and the one who takes up with her as well. And therefore, here is *the second commandment:* Do not think that love for a woman is a good thing. Do not admire women, but live with the one with whom you have come together, and do not leave her.
+
+*The third commandment*. In the former law it is said: do not utter the name of the Lord your God in vain, do not call on your God in falsehood (Lev. XIX, 12). Do not dishonor the name of your God. Do not swear by me in untruth so as to defile your God. But I tell you.
+
+Matt. V, 34. That every oath is a defiling of God, and therefore do not swear at all.
+
+36. Man cannot promise anything, because he is wholly in the power of the father. He cannot make a single gray hair black; how, then, will he swear in advance that he will do this and that, and swear by God? Every oath is a defiling of God, because if a man should have to fulfill an oath that is contrary to the will of God, it would come out that he had promised to act against his will; and therefore every oath is evil.
+
+37. And when you are asked about anything, say yes, if yes; no, if no; but everything you add to this will be evil. And therefore *the third commandment:* Never swear to anyone about anything. Say: yes, when yes; no, when no; and know that every oath is evil.
+
+38. *The fourth commandment.* In the former law it is said: (Exod. XXI, 21 and 22): that whoever destroys a soul must give soul for soul, eye for eye, tooth for tooth, hand for hand, ox for ox, slave for slave, and much else besides.
+
+39. But I tell you: do not fight evil with evil, and not only do not take by law ox for ox, slave for slave, soul for soul, but do not resist evil at all.
+
+40. If anyone wants to take an ox from you by law, give him another; whoever wants to get your caftan from you by law, give him your shirt; whoever knocks a tooth out of one of your jaws, turn the other jaw to him.
+
+<!-- vol. 24, p. 843 --> 41. If they force you to do one piece of work for them, do two.
+
+Luke VI, 30. If they take your property—give it up. If they do not give you back money, do not ask for it, and therefore:
+
+37. Do not judge, do not go to law, do not punish, and you will not be judged and punished. Let everyone off, and you will be let off, because if you judge people, they too will judge you.
+
+Matt. VII, 1. You cannot judge, because you, all people, are blind and do not see the truth.
+
+3. How, with clogged eyes, will you make out a speck in your brother's eye? First you must clear your own eyes; but whose eyes are clean?
+
+Luke VI, 39. Can a blind man lead a blind man? Both will fall into a pit. So too those who judge and punish are like the blind leading the blind.
+
+40. Those who judge and sentence to violence, wounds, mutilation, death want to teach people. But what else can come of their teaching except that the pupil will learn and become fully like his teacher? What, then, will he do when he has learned? The very thing the teacher does: violence, killings.
+
+Matt. VII, 6. And do not think to find justice in courts. To hand over the love of justice to human courts is the same as throwing precious pearls to swine: they will trample them and tear you to pieces.
+
+And therefore *the fourth commandment:* however you are wronged, do not resist evil, do not judge and do not go to law; do not complain and do not punish.
+
+*The fifth commandment.* Matt. V, 43. In the former law it is said: do good to the people of your own nation and do harm to foreigners.
+
+44. But I tell you: love not only your fellow countrymen, but also the people of foreign nations. Let foreigners hate you, let them attack you, wrong you; praise them and do them good.
+
+Matt. V, 46. If you are good only to your fellow countrymen, why, everyone is good like that to his own fellow countrymen; and it is from this that wars come. But you, be equal toward all nations, and you will be sons of the father. All people are his children, so all are your brothers.
+
+And therefore here is *the fifth commandment:* toward foreign nations observe the same that I have told you to observe among yourselves. For the father of all people there are neither different nations nor different kingdoms: all are brothers, <!-- vol. 24, p. 844 --> all are sons of one father. Do not make distinctions between people by nations and kingdoms.
+
+*So then:* 1) Do not grow angry, and be at peace with all; 2) do not amuse yourselves with fornicating lust; 3) do not swear to anyone about anything; 4) do not resist evil, do not judge and do not go to law; and 5) do not make distinctions between different nations, and love foreigners just as your own.
+
+Matt. VII, 12. All these commandments are in one: everything that you wish people to do for you, do that for them.
+
+Matt. VI, 1. Fulfill these commandments not for human praise. If you do it for people, then your reward is from people too. But if not for people, then your reward is from the heavenly father.
+
+2. So that if you do good to people, do not trumpet it before people. That is what deceivers do, so that people will praise them. And they get what they want.
+
+3. But if you do good to people, do it so that no one sees, so that the left hand does not know what the right is doing.
+
+4. And your father will see it and will give you what you need.
+
+5. And if you want to pray, do not do as the deceivers pray. The deceivers love to pray in churches, in sight of people. They do it for people, and from people they get for it what they want.
+
+6. But if you want to pray, go in where no one would see you, and pray to your father, the spirit; and the father will see what is in your soul and will give you what you desire in the spirit.
+
+7. Whoever prays does not babble with his tongue, like the pretenders.
+
+8. Your father knows what you need before you open your mouth.
+
+9—13. Pray only like this: Our Father, without beginning and without end, like heaven!
+
+Let your being alone be holy.
+
+Let the rule be yours alone, so that your will may be done without beginning and without end on earth.
+
+Give me the food of life in the present.
+
+Smooth over and wipe out my former mistakes, just as I smooth over and wipe out all the mistakes of my brothers, so that I may not fall into temptation and may be delivered from evil.
+
+Because yours is the rule and the power and the decision.
+
+Mark XI, 25. If you pray, then before all else bear malice toward no one.
+
+<!-- vol. 24, p. 845 --> 26. And if you do not forgive people their wrongdoing, then the father will not forgive you your wrongdoing either.
+
+Matt. VI, 16. If you fast, endure it; do not show it to people; that is what deceivers do, so that people will see and praise them. And people praise them, and they get what they want.
+
+17, 18. But you, do not act so; if you are suffering want, then go about with a cheerful face, so that people will not see it; and your father will see and will give you what you need.
+
+19. Do not lay up stores for yourselves on earth. On earth the worm gnaws, and there is rust, and thieves steal; but lay up for yourselves heavenly wealth.
+
+20. Heavenly wealth neither the worm gnaws, nor rust eats, nor thieves steal.
+
+21. Where your wealth is, there your heart will be also.
+
+22. The light of the body is the eye, and the light of the soul is the heart.
+
+23. If your eye is dark, then the whole body will be in darkness. But if the light of your heart is dark, then your whole soul will be in darkness.
+
+24. One cannot serve two masters at once. You will please one and offend the other. One cannot serve God and the flesh. Either you will work for earthly life, or for God.
+
+25. Therefore do not care about what you will eat and drink and what you will clothe yourselves with. Why, life is a more wondrous thing than food and clothing, and God has given it to you.
+
+26. Look at God's creatures, at the birds: they do not sow, do not reap, do not gather in, yet God feeds them. Before God man is no worse than a bird. If God has given life to man, he will know how to feed him too.
+
+27. Why, you yourselves know that however you bustle about, you can do nothing for yourselves. You cannot lengthen your lifetime by an hour.
+
+28. And why should you care about clothing? The flowers of the field do not work, do not spin.
+
+29. Yet they are adorned so that even Solomon in all his luxury never adorned himself so.
+
+30. Well then, if God has so adorned the grass that grows today and tomorrow will be mown down, then will he not clothe you?
+
+31. Do not care and do not bustle about; do not say that we must think about what we will eat and what we will clothe ourselves with.
+
+32. This all people need, and God knows this need of yours.
+
+<!-- vol. 24, p. 846 --> 33. So do not care about the future. Live in the present day. Care about being in the will of the father. Desire that which alone is important, and everything else will come of itself. Try only to be in the will of the father.
+
+34. So do not care about the future. When the future comes, then there will be care for it. There is enough evil in the present too.
+
+Luke XI, 9. Ask—and it will be given to you. Seek—and you will find. Knock—and it will be opened to you.
+
+Matt. VII, 9, 10. Is there such a father that he would give his son a stone instead of bread, or a snake instead of a fish.
+
+11. So how is it that we, evil people, know how to give our children what they need, and your father in heaven would not give you what you truly need, if you ask him? Ask, and the heavenly father will give the life of the spirit to those who ask him.
+
+13. Narrow is the way into life, but enter by the narrow way. There is only one entrance into life: it is narrow and cramped. And all around the field is great and wide, but it leads to perdition.
+
+14. The narrow way alone leads into life; and few find it.
+
+Luke XII, 32. But do not be timid, little flock! The father has destined the kingdom for you.
+
+Matt. VII, 15. Only beware of lying prophets, teachers; they come to you in sheep's skins, but inside they are ravening wolves.
+
+16. By their fruits, by what is born of them, you will know them. Grapes are not gathered from burdock, nor apples from an aspen.
+
+17. A good tree grows good fruit. And a bad tree grows bad fruit. So, then, know them by the fruits of their teaching.
+
+Luke VI, 45. A good man brings forth everything good out of his good heart. And an evil man brings forth evil out of his evil heart, because out of the abundance of the heart the mouth speaks. And therefore, if teachers teach you to do to other people what is bad for you yourselves—teach violence, executions, wars—know that these are false teachers.
+
+Matt. VII, 21. Because not he who says: Lord, Lord! will enter the kingdom of heaven, but he who does the will of the heavenly father.
+
+22. They will say: Lord! Lord! we taught according to your teaching, and according to your teaching we drove out evil.
+
+<!-- vol. 24, p. 847 --> 23. But I disown them and say to them: no, I never acknowledged you and do not acknowledge you. Go away from me: you are doing lawlessness.
+
+24. And so everyone who has heard these commandments of mine—not to grow angry, not to be debauched, not to swear oaths, not to resist evil, not to distinguish one's own nation from foreign ones—hears these commandments and fulfills them, he, like a man of understanding, builds his house on stone.
+
+25. And his house will stand against all storms.
+
+26. But he who hears these commandments of mine and does not fulfill them, he, like a foolish man, builds his house on sand.
+
+27. As soon as a storm comes, it will knock the house down, and everything will perish.
+
+Luke IV, 32. And all the people were amazed at this teaching, because the teaching of Jesus was quite different from the teaching of the Orthodox lawyers. The Orthodox lawyers taught a law that must be obeyed; but Jesus taught that all people are free.
+
+Matt. IV, 14. And in Jesus Christ the prophecy of Isaiah was fulfilled.
+
+16. That people who lived in darkness, in the gloom of death, saw the light of life, and that he who brought this light of truth will do no violence or harm to people, that he is meek and humble.
+
+Matt. XII, 19. That in order to bring truth into the world, he does not argue, does not shout, that his loud voice is not heard.
+
+20. That he will not break a straw and will not blow out a night-light.
+
+21. And that all the hope of people is in his teaching.
+
