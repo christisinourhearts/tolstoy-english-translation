@@ -1,0 +1,28 @@
+{
+  "batch": "R002",
+  "unit": "R002.01",
+  "source_path": "corpus/works/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.md",
+  "source_sha256": "87ff4a14066b3250011bb748bb10f8fc754e5eef251af4b75de1320d82abf203",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Translated section by section (preface, introduction, chapters I-XII, conclusion) from the exact audited witness (SHA-256 verified on the committed blob). Mechanical alignment: 138/138 page markers in identical sequence; 1632/1632 nonblank source paragraphs (including headings and the 12-row prayer table) mapped one-to-one, with heading levels and verse-number prefixes matching on every line.",
+    "Source-forward audit aids: a per-paragraph cross-check of Arabic numbers, Roman chapter references, proper-name occurrence counts, ?/! counts and negation presence (48 flags, each inspected), plus a word-count ratio scan of all paragraphs of 25+ words (median 1.25; the 10 extreme pairs inspected). This found one omitted phrase (Preface, p. 812: «из учения Христа» in the Renan sentence), which was restored, and one question mark added to a source period (John IV, 20), which was restored to a period. Further small additions noticed during review (\"that you went into the wilderness\", \"then\", \"the money\", \"in front of him\") were removed before acceptance; \"may\" was corrected to \"do\" (p. 896, «и делают»).",
+    "Gospel text: Tolstoy's own Russian renderings are translated directly; no familiar English Bible wording was substituted. The Church Slavonic Lord's Prayer lines (preface table, chapter subtitles) and the conciliar formula «изволися нам и св. духу» are rendered literally in a slightly archaic register (thy/art) to mark the language switch; Tolstoy's own paraphrases beside them use plain \"your\".",
+    "Key terms: разумение = understanding (also разумение жизни = the understanding of life; сын разумения = son of understanding); начало = source (beginning where temporal); благо = the good (возвещение о благе = the proclamation of the good); жизнь истинная = true life; сын человеческий = son of man; царство Божие / царство Бога / царствие = kingdom of God; царство небесное = kingdom of heaven; воля отца = the will of the father; соблазн = temptation; личность = personality; разум = reason; разумный = rational (of a man: of understanding). Source capitalization of Бог/отец/дух/сын/святой дух is followed (God; father; spirit; son; holy spirit).",
+    "Tolstoy's deliberate Russifications are kept: православные = the Orthodox (Pharisees), старообрядцы = the Old Believers (Sadducees), архиерей = bishop (kept distinct from первосвященник = high priest), законник = lawyer, книжник = scribe, начетчик = scripture-reader, откупщик = tax farmer, купать = bathe (not baptize), церковь for the temple (Luke II, 46) = church, повесили = hanged, неверный/неверная = unbeliever (for sinner), Семен = Semyon (ch. I only; Симон elsewhere = Simon), Симон шелудивый = Simon the Mangy, Лазарь коростовый = scabby Lazarus, семечко березовое = birch seed (for mustard), кистерь = cockle, the coins гривна/копейка/полушка/рубль kept as grivna/kopeck/polushka/ruble, передний угол = front corner, теленок поеный = milk-fed calf.",
+    "Coarse or colloquial register kept rather than softened: брюхо/задница («из задницы с калом») = belly/backside with the dung; выблядки = bastards; блевотина = vomit; бешеный = mad. брюхата (Matt. I, 18) is rendered \"pregnant\"; the source word is colloquial-blunt and no English equivalent of the same register was found that would not be either euphemistic or vulgar; recorded here.",
+    "Numbers/names checked: 4 parts; 12 or 6 chapters; 1880; 100 years; 1800 years; fifty thousand variants; 12 years; 30 years; 40 days and nights; tenth hour; 38 years; 200 denarii; five loaves and two fish; seventy; 500 and 50; 100/50, 60/20; 10,000 vs 20,000; five sparrows for a kopeck; 300 rubles; thirty rubles; three hundred grivnas; a million rubles vs fifty kopecks; eighteen crushed by the tower; seven brothers; 46 years of temple-building; ninth hour; ten talents; one/ten, one/five. Persons and places as in NAMES.md.",
+    "Verse references reproduce the source's own forms, including its abbreviations (Матф./Мф./Марк./Mp./Лук./Луки/Лк./Иоан./Гл. as Matt./Mt./Mark/Mk./Luke/Luke/Lk./John/Ch.), its out-of-order verse numbers, and repeated paragraphs (e.g. John XI, 25 given twice in ch. VII).",
+    "Unresolved readings translated as read (vrazhdy/enmity in John VI, 35; references Mark XIX, 18, Mt. XXVI, 20, Luke XII, 41; dobit in John X, 31; the French Havet quotation) and non-substantive transcription artifacts are recorded in project/qa/source_suspected/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json. None is incoherent as it stands; a printed-volume check is a non-blocking follow-up.",
+    "Punctuation of indirect and rhetorical questions follows English usage where Russian uses ? or . differently; speech introduced by a colon keeps the source's lowercase start and the absence of quotation marks.",
+    "Process note: translated, audited, and edited by the same model in one working context; the source-forward and reverse passes were deliberate, but this is not an independent-model or human verification. A separate cold audit is recommended before publication-scale release."
+  ],
+  "result": "PASS"
+}

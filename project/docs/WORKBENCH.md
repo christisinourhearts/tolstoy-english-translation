@@ -206,6 +206,17 @@ Commissioned units are translated from the same audited witness under the same c
 - Translated and audited by one model in one context; a separate cold audit is recommended before publication-scale release.
 - Also published on christisinourhearts.com at `/master-and-man/`, with a Romanian translation tracked in the separate `tolstoy-romanian-translation` repository.
 
+### R002.01 — *The Gospel in Brief* (2026-10-08)
+
+- Source: `corpus/works/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.md` (vol. 24, pp. 801–938, 1881/1883), SHA-256 `87ff4a14…abf203`, verified against the committed blob in a local clone of the audited Russian repository. (On Windows, a clone with `core.autocrlf=true` changes the working-file hash; set `core.autocrlf=false` before verifying.)
+- English: `translations/works/v24_801_938_The_Gospel_in_Brief.md` (~61,600 words including front matter; source ~48,700).
+- Scope: preface, introduction (John I), twelve chapters, conclusion (First Epistle of John). Committed chapter by chapter on branch `gospel-in-brief`.
+- Gauntlet: translate → source-forward fidelity audit (per-paragraph numbers/names/references/negation cross-check and length-ratio scan, every flag inspected) → revision (one omitted phrase restored, small additions removed) → English edit → final source-to-target and reverse scan → mechanical validation. Coverage record PASS.
+- 138/138 page markers in sequence; 1632/1632 paragraphs aligned (headings, verse-number prefixes, and the 12-row prayer table line for line).
+- Terminology and Gospel-rendering policy recorded as Decision D0002; terms in `TERMINOLOGY.md`, names in `NAMES.md`.
+- Transcription artifacts and six readings translated as read but pending a printed-volume check (вражды in John VI, 35; Mark XIX, 18; Mt. XXVI, 20; Luke XII, 41; добить in John X, 31; the French Havet quotation) are recorded in `project/qa/source_suspected/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json`. The tolstoy.ru online vol. 24 page does not carry this text, so the print check is a non-blocking follow-up.
+- Translated and audited by one model in one context; a separate cold audit is recommended before publication-scale release.
+
 The P-batch NEXT ACTION above is unchanged.
 
 ## P005.01 recovery translation note
