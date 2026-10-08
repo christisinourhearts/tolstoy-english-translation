@@ -1,6 +1,6 @@
 {
   "source_path": "corpus/works/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.md",
-  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION_WITH_PRINT_CHECK_PENDING",
+  "status": "SOURCE_VERIFIED",
   "type": "transcription_typography_and_readings_to_verify",
   "findings_nonsubstantive": [
     "p. 802: «введение из І-й главы» uses Ukrainian/Cyrillic І (U+0406) for Roman/Arabic 1; English \"1st\".",
@@ -40,6 +40,34 @@
     "p. 883, John X, 31: «взялись за камни, чтобы добить его» (\"to finish him off\"); may be a transcription error for побить (\"to stone\"). Translated as read.",
     "p. 813: French quotation «Jesus Christi n'avaitrien de chritien» (Havet) — missing space corrected in English to \"n'avait rien\"; the forms \"Christi\" and \"chritien\" (for chrétien) are kept as the source has them. «A Souris» — \"Souris\" is kept as written (possibly Jules Soury); not emended."
   ],
-  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The non-substantive artifacts required no interpretation. The listed readings are coherent as they stand and were translated as read; none is resolved by emendation. The electronic volume 24 at tolstoy.ru/online/90/24/ was consulted on 2026-10-08 but its page text does not include The Gospel in Brief, so a check against the printed volume 24, pp. 801–938, remains a follow-up.",
-  "witness_pending": "Printed 90-volume edition, vol. 24 (1957), pp. 801-938"
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. Non-substantive artifacts required no interpretation. The six readings formerly pending were checked against the printed vol. 24 on 2026-10-08 and all match the print; they are translated (or, for the references, reproduced) exactly as printed. No erratum is recorded against the digital source.",
+  "witness_pending": null,
+  "print_check_attempt_2026_10_08": {
+    "by": "R002 cold audit (R002_CA01)",
+    "result": "printed volume not consulted: tolstoy.ru, rusneb.ru, archive.org and ru.wikisource.org were all refused by the session's network egress policy",
+    "internal_witnesses": {
+      "John VI, 35 vrazhdy": "Harmony (v24_007_798, vol. 24 p. 332) renders the same verse «И кто будет верить мне, не будет жаждать никогда»; strong internal evidence for жажды (thirst). Unconfirmed in print.",
+      "John X, 31 dobit'": "Harmony (vol. 24 p. 506) has the identical sentence with «чтобы побить его»; the Brief's next verse reads «хотите побить меня». Strong internal evidence for побить (to stone). Unconfirmed in print.",
+      "Mark XIX, 18": "Mark has 16 chapters; canonical parallel Mark XIV, 18. Harmony gives no reference for this composite verse. Unconfirmed.",
+      "Mt. XXVI, 20": "Harmony retelling (vol. 24 p. 787) has the same sentence without a reference; canonical Matt. XXVII, 20. Unconfirmed.",
+      "Luke XII, 41": "Harmony (vol. 24 p. 409) cites the same verse with the same numbering as «Mp. XII, 41» (Mark). Strong internal evidence that Mark is meant. Unconfirmed in print.",
+      "Havet": "vol. 24 editorial history (pp. 1001-1004) and vol. 49 diary notes confirm Ernest Havet, 'Jésus dans l'histoire', Revue des deux mondes 1863, VIII, 564-596. Exact French wording unconfirmed."
+    },
+    "recommendation": "Keep print_witness_check_pending. Check vol. 24 pp. 813, 856, 870, 883, 913-914, 932 in print. If жажды / побить are confirmed, record source errata and change the English to 'thirst' / 'stone him'."
+  },
+  "print_check": {
+    "date": "2026-10-08",
+    "witness": "Printed 90-volume edition, vol. 24 (Moscow, 1957), pp. 801-938, PDF from tolstoy.ru (http://tolstoy.ru/upload/iblock/fc8/fc861b6c67031b717c12ad598777513a.pdf)",
+    "checked_by": "the commissioner, using a local Claude Code session, relayed to the R002 cold-audit session",
+    "result": "All six readings match the printed page exactly; none is a transcription error of the digital source.",
+    "readings": {
+      "John VI, 35": "print: «…тот не будет никогда знать вражды» — confirmed; translated as read ('enmity').",
+      "Mt. XXVI, 21; Марк. XIX, 18": "print: «Мф. XXVI, 21; Марк. XIX, 18» — confirmed as printed; the reference error belongs to the edition (canonical Mark XIV, 18); kept as printed.",
+      "Мф. XXVI, 20 (Barabbas)": "print: «Мф. XXVI, 20. И когда услыхали это архиереи…» — confirmed as printed; edition's own error (canonical Matt. XXVII, 20); kept as printed.",
+      "Лук. XII, 41 (widow's mite)": "print: «Лук. XII, 41. Случилось раз…» — confirmed as printed; edition's own error (the Harmony, p. 409, cites Mark XII, 41); kept as printed.",
+      "John X, 31": "print: «взялись за камни, чтобы добить его» — confirmed; translated as read ('finish him off').",
+      "Havet": "print: «Jesus Christi n'avait rien de chritien. A Souris…» — confirmed (the digital 'n'avaitrien' lacks the printed space; English already restores it)."
+    },
+    "note_on_internal_witnesses": "The cold audit's earlier inference from Tolstoy's large Harmony (жажды, p. 332; побить, p. 506) is superseded: the Brief's printed text really reads вражды and добить. The Harmony's wording differs from the Brief; whether Tolstoy or the edition is responsible is not determinable from the print alone, and the English follows the printed Brief."
+  }
 }

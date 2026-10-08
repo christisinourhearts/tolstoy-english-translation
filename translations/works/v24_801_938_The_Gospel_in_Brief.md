@@ -417,7 +417,7 @@ Mark VII, 10. God said to you: honor your father and mother.
 
 11. But you have invented that anyone can say: I give to God what I used to give to my parents.
 
-12. And then you may not feed your father and mother. So it is that you destroy the commandment of God by church tradition.
+12. And then you need not feed your father and mother. So it is that you destroy the commandment of God by church tradition.
 
 Matt. XV, 7. Deceivers! the prophet Isaiah spoke the truth about you:
 
@@ -657,7 +657,7 @@ John III, 1, 2. After this one of the Orthodox, from among the Jewish rulers, Ni
 
 10. Then Jesus said to him: what sort of teacher are you, if you do not understand this!
 
-11. Understand that I am not interpreting some kind of mysteries; I am interpreting what we all know, I am affirming what we all see.
+11. Understand that I am not interpreting some kind of clever wisdom; I am interpreting what we all know, I am affirming what we all see.
 
 12. How will you believe in what is in heaven, if you do not believe in what is on earth, what is in yourself.
 
@@ -699,7 +699,7 @@ Mark IV, 26. So the kingdom of God is not such as you think, that God will come 
 
 29. And only when it has ripened does the master send the sickles to reap the field. So God too has given the world his son—the spirit—and the spirit grows by itself in the world, and the sons of the spirit make up the kingdom of God.
 
-Matt. XIII, 33. As a peasant woman, having put leaven into the kneading trough, mixes it with flour and no longer turns it, but waits for it to rise and swell by itself.
+Matt. XIII, 33. As a peasant woman, having put leaven into the kneading trough, mixes it with flour and no longer turns it, but waits for it to ferment and rise by itself.
 
 As long as people live, God does not enter into their life; he has given the spirit into the world, and the spirit lives by itself in people and makes up the kingdom of God. For the spirit there is neither death nor evil. Death and evil are for the flesh, not for the spirit.
 
@@ -765,7 +765,7 @@ To fulfill the will of the father, who gives life and good to all people, one mu
 
 These five commandments must be kept not in order to earn praise from people, but for oneself, for one's own blessedness. There is no need either to pray or to fast. There is no need to pray because the father knows everything that people need. And there is nothing to ask him for; one need only try to be in the will of the father. And the will of the father is that one should bear malice toward no one. There is no need to fast: people fast only for praise from people; and praise from people cannot give blessedness. One need care only about being in the will of the father, and everything else will come of itself. If one cares about the fleshly, then one can no longer care about the kingdom of heaven. And even without care about food and clothing a man will be alive. The father gives life. One need care only about being in the will of the father in the present hour. The father gives his children what they need. One may desire only the strength of the spirit, which the father gives. The five commandments define the way into the kingdom of heaven. Only this one narrow way leads into eternal life. False teachers, wolves in sheep's skins, always try to lead people off this way. One must beware of them. False teachers can always be recognized, because they teach evil in the name of good. If they teach violence, executions, they are false teachers. They can be recognized by the deeds that they teach.
 
-He fulfills the will of the father, not who calls on the name of God, but who does deeds of good. So that whoever fulfills these five commandments will have an indubitable life, which no one will <!-- vol. 24, p. 840 --> take away from him; but whoever does not fulfill them will have such a life as will soon be taken away from him, so that nothing will remain. The teaching of Jesus astonishes and attracts all the people because it recognizes all people as free. The teaching of Jesus was the fulfillment of Isaiah's prophecy that the chosen one of God brought light to people and conquered evil, and restored truth by meekness, humility, and goodness, and not by violence.
+It is not he who calls on the name of God who fulfills the will of the father, but he who does deeds of good. So that whoever fulfills these five commandments will have an indubitable life, which no one will <!-- vol. 24, p. 840 --> take away from him; but whoever does not fulfill them will have such a life as will soon be taken away from him, so that nothing will remain. The teaching of Jesus astonishes and attracts all the people because it recognizes all people as free. The teaching of Jesus was the fulfillment of Isaiah's prophecy that the chosen one of God brought light to people and conquered evil, and restored truth by meekness, humility, and goodness, and not by violence.
 
 Matt. IX, 35. And Jesus went about the towns and villages and taught everyone the blessedness of fulfilling the will of the father.
 
@@ -941,7 +941,7 @@ Matt. VII, 9, 10. Is there such a father that he would give his son a stone inst
 
 Luke XII, 32. But do not be timid, little flock! The father has destined the kingdom for you.
 
-Matt. VII, 15. Only beware of lying prophets, teachers; they come to you in sheep's skins, but inside they are ravening wolves.
+Matt. VII, 15. Only beware of lying prophets, teachers; they come to you in sheep's skins, but inside they are predatory wolves.
 
 16. By their fruits, by what is born of them, you will know them. Grapes are not gathered from burdock, nor apples from an aspen.
 
@@ -1067,7 +1067,7 @@ John IV, 5. Jesus was once going to the Samaritan town of Sychar, near the field
 
 37. Our life is the field that God has sown; and our task is to gather its fruits.
 
-38. And if we gather the fruits, we receive a reward—a life not bounded by time. It is true that we do not give ourselves life, but someone else does. And if we labor at gathering life, then we, like reapers, receive a reward. I teach you to gather this life that the father has given you.
+38. And if we gather the fruits, we receive a reward—a non-temporal life. It is true that we do not give ourselves life, but someone else does. And if we labor at gathering life, then we, like reapers, receive a reward. I teach you to gather this life that the father has given you.
 
 <!-- vol. 24, p. 852 --> John V, 1. Jesus once came to Jerusalem.
 
@@ -1383,7 +1383,7 @@ Luke VIII, 20. And one man saw them, went up to Jesus, and says: your family, yo
 
 Luke XI, 27. And a woman said: blessed is the womb that bore you, and the breasts that you sucked.
 
-28. Jesus said to this: blessed always are only those who have understood the understanding of the father and keep it.
+28. Jesus said to this: blessed always are only those who have comprehended the understanding of the father and keep it.
 
 Luke IX, 57. And a man said to Jesus: I will follow you wherever you go.
 
@@ -1395,7 +1395,7 @@ Mark IV, 35. And once Jesus happened to be sailing with his disciples in a boat.
 
 38. And he was lying in the stern and sleeping. They woke him and say: teacher! what is this, is it all the same to you that we are perishing?
 
-40. And when the storm had died down, he said: why are you so timid? There is no faith in you in the life of the spirit.
+40. And when the storm had died down, he said: why are you so timid? There is no faith in the life of the spirit in you.
 
 Luke IX, 59. To one man Jesus said: follow me. And the man said: I have an old father; bid me first bury him, then I will follow you.
 
@@ -1417,7 +1417,7 @@ Luke X, 38. After this it happened once that Jesus and his disciples stopped in 
 
 Luke IX, 23. And Jesus said to all: whoever wants to follow after me, let him renounce his own will and be ready for every privation and suffering of the flesh at any hour; only then can he follow after me.
 
-24. Because he who wants to care about his fleshly life will ruin the true life. But whoever, even if he ruins his fleshly life, fulfills the will of the father, will save the true life.
+24. Because he who wants to care about his fleshly life will ruin the true life. But whoever, in fulfilling the will of the father, ruins even his fleshly life will save the true life.
 
 25. Because what profit is it to a man if he gets hold of the whole world, but ruins or damages his own life.
 
@@ -1615,7 +1615,7 @@ Matt. XXI, 28. And Jesus said: my teaching is the fulfillment of the will of the
 
 If one son keeps saying to his father's orders, "I hear, I hear," but does not do what the father tells him, then surely he does not fulfill the will of the father.
 
-29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: not he is in the will of the father who says: I am in the will of the father—but he who does what the father wants.
+29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: the one in the will of the father is not he who says: I am in the will of the father—but he who does what the father wants.
 
 ## Chapter VII I AND THE FATHER ARE ONE
 
@@ -1643,7 +1643,7 @@ And Jesus said: my teaching is the awakening of a life that had been asleep unti
 
 My teaching is not proved by anything, but people give themselves to my teaching because it alone promises life to all people. As sheep follow a shepherd who gives the sheep food and life, so people accept my teaching because it gives life to all. And as sheep do not follow a thief who climbs over into the sheepfold, <!-- vol. 24, p. 875 --> but shy away from him, so too people cannot believe in those teachings that teach violence and executions. My teaching is the door for the sheep, and all those who follow me will find true life. As among shepherds only those are good who are themselves the masters and love the sheep and give their life for the sheep, while the hired ones are bad, those who do not love the sheep, so too only that teacher is true who does not spare himself, and that one is bad who cares only about himself. My teaching is not to spare oneself, but to give up one's fleshly life for the life of the spirit, and I teach this and fulfill it.
 
-The Jews still did not understand him and still sought external proofs of whether he was the Christ or not, and therefore whether they should believe him or not. They said: do not torment us, but tell us plainly: are you the Christ or not? And to this Jesus answered them: you must believe not words, but deeds. By the deeds that I teach you will understand whether I teach truly or not. Do what I do, and do not try to make out words. Fulfill the will of the father, and then you will all be united with me and with the father, because I, the son of man, am the same as the father. I am not the Christ, but more than the Christ; I am the same as what you call God and what I call the father. I and the father are one. And in your scripture it is said that God said to people: you are Gods. Every man by the spirit is a son of the father. And if he lives fulfilling the will of the father, then he is united with the father. If I fulfill his will, then the father is in me and I am in the father.
+The Jews still did not understand him and still sought external proofs of whether he was the Christ or not, and therefore whether they should believe him or not. They said: do not torment us, but tell us plainly: are you the Christ or not? And to this Jesus answered them: you must believe not words, but deeds. By the deeds that I teach you will understand whether I teach truly or not. Do what I do, and do not try to make out words. Fulfill the will of the father, and then you will all be united with me and with the father, because I am the son of man—the same as the father. I am not the Christ, but more than the Christ; I am the same as what you call God and what I call the father. I and the father are one. And in your scripture it is said that God said to people: you are Gods. Every man by the spirit is a son of the father. And if he lives fulfilling the will of the father, then he is united with the father. If I fulfill his will, then the father is in me and I am in the father.
 
 After this Jesus asked his disciples how they understand his teaching about the son of man. Simon Peter answered him: your teaching is that you are the son of the God of life, that God is the life of the spirit in man.
 
@@ -1917,7 +1917,7 @@ X, 1. And yet a third time Jesus taught the people. He said: people give themsel
 
 [36—38.] Every man by the spirit is a son of God. If I do not live in a godly way, then do not believe that I am a son of God; but if I do live in a godly way, then by my life believe that I am in the father, and then you will understand that the father is in me and I am in him.
 
-John XI, 25. And Jesus said: my teaching is the awakening of life. Whoever believes in my teaching, although he dies in the flesh, remains alive; and everyone, who lives and believes in me, will not die.
+John XI, 25. And Jesus said: my teaching is the awakening of life. Whoever believes in my teaching, although he dies in the flesh, remains alive; and everyone who lives and believes in me will not die.
 
 X, 20. And the Jews began to argue. Some said that he was raving.
 
@@ -2103,7 +2103,7 @@ Luke XVII, 5. Then the disciples said to Jesus: increase faith in us; tell us so
 
 Luke XVII, 9. The master will not thank the workman for doing what he ought. And the workman, if he understands that he is a workman, does not take offense, but works, trusting that he will receive what is due to him.
 
-10. So you too: fulfill the will of the father and think: we are unprofitable workmen; we have only done what we ought to have done; and do not expect a reward, but be content that you receive what is due to you.
+10. So you too: fulfill the will of the father and think: we are worthless workmen; we have only done what we ought to have done; and do not expect a reward, but be content that you receive what is due to you.
 
 What one must care about is not believing that there will be a reward and there will be life; it cannot be otherwise; but one must care about not ruining this life, not forgetting that it has been given to us so that we may bring forth its fruits, and about fulfilling the will of the father.
 
@@ -2183,7 +2183,7 @@ In order not to fall into any one of the deceptions of people, a man must think 
 
 And Jesus said: this source of life is the very Christ whom you are waiting for. The understanding of that source of life for which there are no different persons, no time and place, is the very son of man whom I teach.
 
-Everything that hides this source of life from people is temptation. There is the temptation of the scribes, of the Old Believers—do not yield to them; there are the temptations of royal power—do not yield to them; and there is also the fiercest temptation of all—of the teachers of faith who call themselves Orthodox. Beware of this temptation more than all others, because it is they, these self-styled teachers, who, having devised a false worship of God, lure you away from the true God. In place of serving the father of life by deed, they have put words and teach words, and themselves do nothing, and therefore there is nothing for you to learn from them except words. But the father needs not words <!-- vol. 24, p. 897 --> but deeds. They have nothing to teach, either, because they themselves know nothing; but for their own advantage they need to set themselves up as teachers. But you know that no one can be the teacher of others. There is one teacher for all—the sovereign of life, understanding. But these self-styled teachers, thinking to teach others, themselves deprive themselves of true life and prevent others from coming to know it. They teach people to please their God by external rites and think that by an oath they can bring people to faith. They are occupied only with externals. All they want is that it should look like faith, and what is in the hearts of people they do not think about. And therefore they are like gaudy coffins: outwardly fair, but inside an abomination. In words they honor the saints and martyrs, but they are the very people who formerly killed and tormented the saints, and now kill and torment them. From them come all the temptations in the world, because under the appearance of good they set forth evil. Their temptation is the root of all temptations, because they have desecrated what is holy in the world. It will be long before they turn, and they will go on with their deceptions and will increase the evil in the world; but the time will come, and all the temples will be destroyed, all external worship of God, and people will understand and will be united by love in the service of the one father of life by the fulfillment of his will.
+Everything that hides this source of life from people is temptation. There is the temptation of the scribes, of the Old Believers—do not yield to them; there are the temptations of royal power—do not yield to them; and there is also the fiercest temptation of all—of the teachers of faith who call themselves Orthodox. Beware of this temptation more than all others, because it is they, these self-styled teachers, who, having devised a false worship of God, lure you away from the true God. In place of serving the father of life by deed, they have put words and teach words, and themselves do nothing, and therefore there is nothing for you to learn from them except words. But the father needs not words <!-- vol. 24, p. 897 --> but deeds. They have nothing to teach, either, because they themselves know nothing; but for their own advantage they need to set themselves up as teachers. But you know that no one can be the teacher of others. There is one teacher for all—the sovereign of life, understanding. But these self-styled teachers, thinking to teach others, themselves deprive themselves of true life and prevent others from coming to know it. They teach people to please their God by external rites and think that by an oath they can bring people to faith. They are occupied only with externals. All they want is that it should look like faith, and what is in the hearts of people they do not think about. And therefore they are like dressed-up coffins: outwardly fair, but inside an abomination. In words they honor the saints and martyrs, but they are the very people who formerly killed and tormented the saints, and now kill and torment them. From them come all the temptations in the world, because under the appearance of good they set forth evil. Their temptation is the root of all temptations, because they have desecrated what is holy in the world. It will be long before they turn, and they will go on with their deceptions and will increase the evil in the world; but the time will come, and all the temples will be destroyed, all external worship of God, and people will understand and will be united by love in the service of the one father of life by the fulfillment of his will.
 
 Mt. XIX, 13. Once some children were brought to Jesus, but the disciples began to drive the children away.
 
@@ -2455,7 +2455,7 @@ XXIV, 1. And Jesus went away from the temple. Then his disciples said to him: we
 
 #### CONTENT OF CHAPTER X
 
-The Jews saw that Jesus' teaching was destroying the state, the faith, and the nationality, and at the same time they saw that they could not refute his teaching, and therefore they resolved to kill him. His innocence and righteousness held them back, but the high priest Caiaphas devised an argument by which Jesus ought to be killed even if he were guilty of nothing. Caiaphas said: we need not reason about whether this man is righteous or not righteous; we must reason about this: whether we want our people to remain a separate Jewish people, or want it to perish and be scattered.
+The Jews saw that Jesus' teaching was destroying the state, the faith, and the nationality, and at the same time they saw that they could not refute his teaching, and therefore they resolved to kill him. Innocence and justice held them back, but the high priest Caiaphas devised an argument by which Jesus ought to be killed even if he were guilty of nothing. Caiaphas said: we need not reason about whether this man is just or not just; we must reason about this: whether we want our people to remain a separate Jewish people, or want it to perish and be scattered.
 
 The people will perish and be scattered if we leave this man alone and do not kill him. This argument decided the matter, and the Orthodox sentenced Jesus to death and gave notice to the people that he was to be seized as soon as he appeared in Jerusalem.
 
@@ -2633,7 +2633,7 @@ John XIII, 4. And after this Jesus got up from the table, girded himself with a 
 
 17. If you have understood this and will do it, you will be blessed.
 
-18. When I said that one of you will betray me, I was not speaking of all of you, because only one of you, of those whose feet I have washed and who have eaten bread with me—one of you will destroy me.
+18. When I said that one of you will betray me, I was not speaking of all of you, because only one of you, of those whose feet I have washed, he who has eaten bread with me—one of you will destroy me.
 
 21. And having said this, Jesus was troubled in spirit, and said once more: yes, yes, one of you will betray me.
 
@@ -2927,9 +2927,9 @@ John XVII, 1. After this Jesus raised his eyes to the sky and said: my father! y
 
 #### CONTENT OF CHAPTER XII
 
-When Jesus had finished his talk with his disciples, he got up and, instead of fleeing or defending himself, went to meet Judas, <!-- vol. 24, p. 925 --> who had brought soldiers to take him. Jesus went up to him and asked him why he was there. But Judas did not answer, and the crowd of soldiers surrounded Jesus. Peter rushed to defend his teacher and, snatching out a knife, began to fight; but Jesus stopped Peter and told him that he who fights with a knife must himself perish by the knife, and told him to give back the knife. And then Jesus said to those who had come to take him: I went about alone among you before and was not afraid, and now too I am not afraid of you, and I give myself up to you. You can do what you want. And when all the disciples had run away, Jesus remained alone. The commander of the soldiers ordered Jesus to be bound and taken to Annas. Annas had formerly been bishop and lived in the same courtyard as Caiaphas. And Caiaphas was bishop at that time. It was he who had devised the argument by which they decided to kill Jesus: that if he were not killed, the whole people would perish. Jesus, feeling himself in the will of the father, was ready for death and did not resist when they took him, and was not afraid when they led him away; but that same Peter who had just promised Jesus that he would not deny him and would die for him, the very one who had wanted to defend Jesus, now, when he saw that Jesus was being led to execution, became afraid that he too would be executed, and to the questions of the men in the courtyard whether he had not been with Jesus too, he denied it and went away from him; and only afterward, when the cock crowed, did Peter understand all that Jesus had told him. He understood that there are two temptations of the flesh: fear and violence, and that Jesus had struggled with them when he prayed in the garden and invited his disciples to pray. And now he had fallen into both temptations of the flesh, against which Jesus had warned him: he had wanted to defend the truth by violence, had wanted to fight and do evil, and now he had not withstood the fear of fleshly sufferings and had denied his teacher. Jesus did not give in to the temptation of violence when the disciples got two knives ready to defend him, nor to the temptation of fear before people—in Jerusalem, before the pagans, and now before the soldiers, when they bound him and led him to judgment.
+When Jesus had finished his talk with his disciples, he got up and, instead of fleeing or defending himself, went to meet Judas, <!-- vol. 24, p. 925 --> who had brought soldiers to take him. Jesus went up to him and asked him why he was there. But Judas did not answer, and the crowd of soldiers surrounded Jesus. Peter rushed to defend his teacher and, snatching out a knife, began to fight; but Jesus stopped Peter and told him that he who fights with a knife must himself perish by the knife, and told him to give back the knife. And then Jesus said to those who had come to take him: I went about alone among you before and was not afraid, and now too I am not afraid of you, and I give myself up to you. You can do what you want. And when all the disciples had run away, Jesus remained alone. The commander of the soldiers ordered Jesus to be bound and taken to Annas. Annas had formerly been bishop and lived in the same courtyard as Caiaphas. And Caiaphas was bishop at that time. It was he who had devised the argument by which they decided to kill Jesus: that if he were not killed, the whole people would perish. Jesus, feeling himself in the will of the father, was ready for death and did not resist when they took him, and was not afraid when they led him away; but that same Peter who had just promised Jesus that he would not deny him and would die for him, the very one who had wanted to defend Jesus, now, when he saw that Jesus was being led to execution, became afraid that he too would be executed, and to the questions of the yard servants whether he had not been with Jesus too, he denied it and went away from him; and only afterward, when the cock crowed, did Peter understand all that Jesus had told him. He understood that there are two temptations of the flesh: fear and violence, and that Jesus had struggled with them when he prayed in the garden and invited his disciples to pray. And now he had fallen into both temptations of the flesh, against which Jesus had warned him: he had wanted to defend the truth by violence, had wanted to fight and do evil, and now he had not withstood the fear of fleshly sufferings and had denied his teacher. Jesus did not give in to the temptation of violence when the disciples got two knives ready to defend him, nor to the temptation of fear before people—in Jerusalem, before the pagans, and now before the soldiers, when they bound him and led him to judgment.
 
-Jesus was brought to Caiaphas. Caiaphas began to question him about what his teaching consisted in. But Jesus, knowing that Caiaphas was asking him not in order to find out what the teaching was, but only in order to accuse him, did not answer, but said: I have hidden nothing and hide nothing; if you want to know what my teaching consists in, ask those who have heard it and understood it. For this the bishop's guard struck Jesus on the cheek, and Jesus asked him why he was striking him. But the man did not answer him, and the bishop went on <!-- vol. 24, p. 926 --> judging. They brought witnesses, and the witnesses testified that Jesus had boasted that he would do away with the Jewish faith. And the bishops questioned Jesus, but he, seeing that he was being questioned not in order to find out anything, but only in order to make a show of a just trial, answered nothing.
+Jesus was brought to Caiaphas. Caiaphas began to question him about what his teaching consisted in. But Jesus, knowing that Caiaphas was asking him not in order to find out what the teaching was, but only in order to accuse him, did not answer, but said: I have hidden nothing and hide nothing; if you want to know what my teaching consists in, ask those who have heard it and understood it. For this the bishop's guard struck Jesus on the cheek, and Jesus asked him why he was striking him. But the man did not answer him, and the bishop went on <!-- vol. 24, p. 926 --> judging. They brought witnesses, and the witnesses testified that Jesus had boasted that he had done away with the Jewish faith. And the bishops questioned Jesus, but he, seeing that he was being questioned not in order to find out anything, but only in order to make a show of a just trial, answered nothing.
 
 Then the bishop asked him: tell me, are you the Christ, the son of God? Jesus said: yes, I am a man, a son of God, and now, in tormenting me, you will see that a man can be equal to God. And the bishop rejoiced at these words and said to the other judges: are these words enough to condemn him? And the judges said: they are enough, and we condemn him to death. And when they had said this, all the people fell upon Jesus and began to beat him, to spit in his face, and to abuse him. He was silent.
 
@@ -3035,7 +3035,7 @@ John XVIII, 33. Pilate heard them out and ordered Jesus to be brought to him in 
 
 <!-- vol. 24, p. 931 --> 35. Pilate said: I am not a Jew, so you cannot be my king; but your own people have brought you to me. What sort of man are you?
 
-36. Jesus answered: I am a king, but my kingdom is not earthly. If I were an earthly king, my subjects would fight for me and would not have let me fall into the bishops' hands. But here you see that my kingdom is not earthly.
+36. Jesus answered: I am a king, but my kingdom is not earthly. If I were an earthly king, my subjects would fight for me and would not have given way to the bishops. But here you see that my kingdom is not earthly.
 
 37. Pilate said to this: but all the same you consider yourself a king? Jesus said: not only I, but you too cannot help considering me a king. I teach only this: to reveal to all the truth of the kingdom of heaven. And everyone who lives by truth is a king.
 

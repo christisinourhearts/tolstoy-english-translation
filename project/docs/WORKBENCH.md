@@ -215,7 +215,10 @@ Commissioned units are translated from the same audited witness under the same c
 - 138/138 page markers in sequence; 1632/1632 paragraphs aligned (headings, verse-number prefixes, and the 12-row prayer table line for line).
 - Terminology and Gospel-rendering policy recorded as Decision D0002; terms in `TERMINOLOGY.md`, names in `NAMES.md`.
 - Transcription artifacts and six readings translated as read but pending a printed-volume check (вражды in John VI, 35; Mark XIX, 18; Mt. XXVI, 20; Luke XII, 41; добить in John X, 31; the French Havet quotation) are recorded in `project/qa/source_suspected/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json`. The tolstoy.ru online vol. 24 page does not carry this text, so the print check is a non-blocking follow-up.
-- Translated and audited by one model in one context; a separate cold audit is recommended before publication-scale release.
+- Translated and audited by one model in one context.
+- **Independent cold audit done (R002_CA01, 2026-10-08)** on branch `gospel-in-brief-cold-audit`. It covered the full text with a source-forward pass (not sampled), then an English-only read and a complete English–Romanian cross-check. It found and fixed 19 defects in chapter commits: 2 omissions, 1 addition, 7 reversals/shifted meaning, 0 reference errors, 3 terminology (incl. KJV reversion), 2 D0001, 4 style. Verdict **PASS AFTER REVISION**. Report: `project/qa/reports/R002_COLD_AUDIT.md`; record: `project/qa/cold_audit/corpus__works__v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json`; manifest `cold_audit_status: pass_after_revision`.
+- **Print check done (2026-10-08):** the commissioner checked the printed vol. 24 PDF from tolstoy.ru, and all six flagged readings match the print. They are confirmed as printed: вражды, добить, the edition's own wrong references (Mark XIX, 18; Mt. XXVI, 20; Luke XII, 41), and the Havet quotation. The cold audit's earlier *Harmony*-based guess (жажды, побить) is superseded. Source-suspected file `SOURCE_VERIFIED`; no open source questions for R002.01.
+- The English–Romanian cross-check found points where the Romanian translation needs fixing (see the report's discrepancy list). They were not edited from this repository.
 
 The P-batch NEXT ACTION above is unchanged.
 
