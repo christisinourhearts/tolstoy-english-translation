@@ -2921,3 +2921,354 @@ John XVII, 1. After this Jesus raised his eyes to the sky and said: my father! y
 
 26. And I have explained to them what you are. You are this: that the love with which you have loved me may be in them. You have given them life; therefore you have loved them. I have taught them to know this and to love you, so that your love for them may return from them to you.
 
+## Chapter XII THE VICTORY OF THE SPIRIT OVER THE FLESH
+
+### AND THEREFORE FOR A MAN WHO LIVES NOT THE PERSONAL BUT THE COMMON LIFE IN THE WILL OF THE FATHER, THERE IS NO EVIL. FLESHLY DEATH IS UNION WITH THE FATHER. (FOR THINE IS THE KINGDOM, THE POWER AND THE GLORY.)
+
+#### CONTENT OF CHAPTER XII
+
+When Jesus had finished his talk with his disciples, he got up and, instead of fleeing or defending himself, went to meet Judas, <!-- vol. 24, p. 925 --> who had brought soldiers to take him. Jesus went up to him and asked him why he was there. But Judas did not answer, and the crowd of soldiers surrounded Jesus. Peter rushed to defend his teacher and, snatching out a knife, began to fight; but Jesus stopped Peter and told him that he who fights with a knife must himself perish by the knife, and told him to give back the knife. And then Jesus said to those who had come to take him: I went about alone among you before and was not afraid, and now too I am not afraid of you, and I give myself up to you. You can do what you want. And when all the disciples had run away, Jesus remained alone. The commander of the soldiers ordered Jesus to be bound and taken to Annas. Annas had formerly been bishop and lived in the same courtyard as Caiaphas. And Caiaphas was bishop at that time. It was he who had devised the argument by which they decided to kill Jesus: that if he were not killed, the whole people would perish. Jesus, feeling himself in the will of the father, was ready for death and did not resist when they took him, and was not afraid when they led him away; but that same Peter who had just promised Jesus that he would not deny him and would die for him, the very one who had wanted to defend Jesus, now, when he saw that Jesus was being led to execution, became afraid that he too would be executed, and to the questions of the men in the courtyard whether he had not been with Jesus too, he denied it and went away from him; and only afterward, when the cock crowed, did Peter understand all that Jesus had told him. He understood that there are two temptations of the flesh: fear and violence, and that Jesus had struggled with them when he prayed in the garden and invited his disciples to pray. And now he had fallen into both temptations of the flesh, against which Jesus had warned him: he had wanted to defend the truth by violence, had wanted to fight and do evil, and now he had not withstood the fear of fleshly sufferings and had denied his teacher. Jesus did not give in to the temptation of violence when the disciples got two knives ready to defend him, nor to the temptation of fear before people—in Jerusalem, before the pagans, and now before the soldiers, when they bound him and led him to judgment.
+
+Jesus was brought to Caiaphas. Caiaphas began to question him about what his teaching consisted in. But Jesus, knowing that Caiaphas was asking him not in order to find out what the teaching was, but only in order to accuse him, did not answer, but said: I have hidden nothing and hide nothing; if you want to know what my teaching consists in, ask those who have heard it and understood it. For this the bishop's guard struck Jesus on the cheek, and Jesus asked him why he was striking him. But the man did not answer him, and the bishop went on <!-- vol. 24, p. 926 --> judging. They brought witnesses, and the witnesses testified that Jesus had boasted that he would do away with the Jewish faith. And the bishops questioned Jesus, but he, seeing that he was being questioned not in order to find out anything, but only in order to make a show of a just trial, answered nothing.
+
+Then the bishop asked him: tell me, are you the Christ, the son of God? Jesus said: yes, I am a man, a son of God, and now, in tormenting me, you will see that a man can be equal to God. And the bishop rejoiced at these words and said to the other judges: are these words enough to condemn him? And the judges said: they are enough, and we condemn him to death. And when they had said this, all the people fell upon Jesus and began to beat him, to spit in his face, and to abuse him. He was silent.
+
+The Jews did not have the right to punish people by death; they needed permission from the Roman governor; and therefore, having condemned him in their own way and having mocked him, they took him to the Roman governor Pilate so that he would execute Jesus. Pilate asked them why they wanted to kill him. They said: because he is an evil man. Pilate says: if he is an evil man, then judge him by your own law. They said: we want you to execute him, because he is guilty before the Roman Caesar: he is a rebel, he stirs up the people, he forbids paying taxes to Caesar, and he calls himself king of the Jews. Pilate called Jesus to him and said: what does it mean, then, that you are king of the Jews? Jesus said: do you really want to know what my kingdom means? Or do you want to question me for show? Pilate said: I am not a Jew, and it is all the same to me whether you call yourself king of the Jews or not; but I am asking what sort of man you are and why they say that you are a king. Jesus said: they are telling the truth that I call myself a king. I really am a king, but my kingdom is not earthly but heavenly. Earthly kings fight and do battle, and they have armies; but, you see, they have bound me and beaten me, and I did not resist them. I am a heavenly king; I am almighty in spirit.
+
+Pilate said: so, then, it is true that you consider yourself a king? Jesus said: you know this yourself. Everyone who lives by truth is free, and therefore a king. I live only for this, and teach only this: to reveal to people the truth that they are free in spirit. Pilate said: you teach truth, but no one knows what truth is, and each has his own truth; and, having said this, he turned and went away from Jesus, back to the Jews. Going out to <!-- vol. 24, p. 927 --> the Jews, Pilate said: I have found nothing criminal in this man. Why, then, execute him? The bishops said: he must be executed because he stirs up the people to revolt. Then Pilate began to question Jesus in the presence of the bishops; but Jesus, seeing that this questioning was only for form's sake, answered nothing. Then Pilate said: I alone cannot condemn him; take him to Herod.
+
+At the trial before Herod, Jesus likewise answered nothing to the accusations of the bishops, and Herod, taking Jesus for an empty man, ordered him to be dressed in red clothing as a joke and sent him back to Pilate. Pilate pitied Jesus; he began to try to persuade the bishops to pardon Jesus, at least for the sake of the feast; but the bishops would not give way, and all of them, and the people after them, shouted that Jesus should be crucified on a cross. Pilate tried a second time to persuade them to release Jesus, but the bishops and the people shouted that he must be executed. They said: he is guilty in that he calls himself a son of God. Pilate called Jesus again and asked him: what does it mean that you call yourself a son of God? Who are you? Jesus answered nothing. Then Pilate said: why do you not answer me, when I have the power to execute you or to release you? Jesus answered: you have no power over me. Power is only from above. And Pilate tried for a third time to persuade the Jews to release Jesus, but they said to him: if you do not execute the man whom we have pointed out to you as a rebel against Caesar, then you yourself are no friend but an enemy to Caesar. And, hearing these words, Pilate submitted and ordered Jesus to be executed. But first he stripped Jesus and flogged him, and then dressed him again in jester's clothes; and they beat him, and laughed, and mocked him. And then they gave him the cross to carry and led him to the place of the skull, and there crucified him on the cross.
+
+And when Jesus was hanging on the cross, all the people mocked him. And to this abuse he answered: father! do not hold it against them: they do not know what they are doing. And then, when he was already near to death, he said: my father! into your power I give my spirit. And, bowing his head, he gave up the spirit.
+
+Mt. XXVI, 46. And after this Jesus said: now get up and let us go; the one who will betray me is already coming.
+
+47. And just as he said this, suddenly Judas appeared, one of the twelve disciples, and with him a great crowd of people with clubs and knives.
+
+<!-- vol. 24, p. 928 --> 48. Judas said to them: I will lead you to where he is with his disciples; and so that you may know him from all the rest, watch: the one I kiss first, he is the one.
+
+49. And at once he went up to Jesus and said: greetings, teacher! and kissed him.
+
+50. And Jesus said to him: comrade! why are you here? Then the guards surrounded Jesus and were about to take him.
+
+51. And here Peter snatched a knife from the bishop's servant and slashed his ear.
+
+52. Jesus said: one must not resist evil. Leave this. And he said to Peter: give the sword back to the one you took it from. Whoever takes up the sword will perish by the sword.
+
+55. And after this Jesus turned to the whole crowd and said: why have you come out against me with weapons, as against a robber? Why, every day I was among you in the temple and taught you, and you did not take me.
+
+Luke XXII, 53. But now is your hour, and the power of darkness.
+
+Mt. XXVI, 56. Then, seeing that he had been taken, all the disciples ran away.
+
+John XVIII, 12. Then the commander told the soldiers to take Jesus and bind him. The soldiers bound him and
+
+13. took him first to Annas; this was the father-in-law of Caiaphas, and Caiaphas was high priest that year and lived in the same courtyard as Annas. This was the very Caiaphas who had devised how to destroy Jesus. It was he who had devised that it was useful for the people to destroy Jesus, because if Jesus were not destroyed, it would be worse for the whole people.
+
+Mark XIV, 53. And Jesus was brought into the courtyard of the house where the high priest lived.
+
+Mt. XXVI, 58. When Jesus was being led there, one of Jesus' disciples, Peter, followed him at a distance and watched where they would take him. When Jesus was brought into the high priest's courtyard, Peter too went in there, to see how it would all end.
+
+69. And a girl in the courtyard saw Peter and says to him: you too were with Jesus of Galilee.
+
+70. Peter was afraid that he too would be accused, and said loudly in front of all the people: I do not know what you are talking about.
+
+71. Then, when Jesus was led into the house, Peter too went with the people into the entrance hall. In the entrance hall a woman was warming herself by the fire, and Peter went up. The woman looked at Peter and says to the people: <!-- vol. 24, p. 929 --> look, this man, it seems, was with Jesus of Nazareth too.
+
+72. Peter was frightened still more and swore that he had never been with Jesus and did not know what sort of man this Jesus was.
+
+73. A little later some people came up to Peter and say: but it is plain from everything that you too are one of those rebels. One can tell by your speech that you are from Galilee.
+
+74. Then Peter began to swear and to call God to witness that he had never known or seen Jesus. And just as he said this, a cock crowed.
+
+75. And Peter remembered the words that Jesus had said to him when Peter swore that, even if all denied him, he would not deny him: before the cocks crow tonight you will deny me three times. And Peter went out of the courtyard and wept bitterly. He wept because he had not been able to rise in spirit so as not to fall into temptation. He had fallen into the one temptation, of fighting, when he began to defend Jesus, and into the other temptation, of fear of death, when he denied Jesus.
+
+Mark XIV, 53. And the Orthodox bishops, scripture-readers, and rulers gathered at the high priest's. And when all had gathered,
+
+John XVIII, 19. they brought Jesus in, and the high priest asked him what his teaching was and who his disciples were.
+
+20. And Jesus answered: I have always spoken everything to the world before everyone, and I speak so, and I have hidden nothing from anyone and hide nothing.
+
+21. Why, then, do you ask me? Ask those who have heard and understood my teaching. They will tell you.
+
+22. When Jesus had said this, one of the bishop's servants struck Jesus in the face and said: who do you think you are talking to? Is that how one answers a bishop?
+
+23. Jesus said: if I have spoken badly, say that I have spoken badly. But if I have said nothing bad, then there is no reason to strike me.
+
+Mt. XXVI, 59. The Orthodox bishops tried to accuse Jesus, and at first they found no evidence against him such as he could be condemned for.
+
+60. Then they found two informers.
+
+61. These informers said of Jesus: we ourselves heard this man say: I, he says, will do away with this handmade temple of yours and in three days will build another temple to God—not handmade.
+
+Mark XIV, 59. But even this evidence was too little to convict him.
+
+<!-- vol. 24, p. 930 --> Mt. XXVI, 62. And therefore the bishop began to challenge Jesus and said: why do you not answer their testimony?
+
+63. Jesus was silent and said nothing. Then the bishop said to him: then tell me, are you the Christ, the son of God?
+
+64. Jesus answered him and said: yes, I am the Christ, the son of God. And you yourselves will now see that the son of man is equal to God.
+
+65. Then the bishop shouted: you blaspheme God. And now we need no evidence. We all hear now that you are a blasphemer.
+
+66. And the bishop turned to the assembly and said: now you yourselves have heard that he blasphemes God. To what do you sentence him for this? And all said: we sentence him to death.
+
+67. And then all the people and all the guards set upon Jesus and began to spit in his face and to slap his cheeks and to scratch him. They covered his eyes, struck him in the face, and asked: come on, you prophet, guess: who hit you? And Jesus was silent.
+
+Mt. XXVII, 2. Having mocked him, they led him bound to Pontius Pilate.
+
+John XVIII, 28. And they brought him to the government house.
+
+29. Pilate, the governor, came out to them and asked: what do you accuse this man of?
+
+30. They said: this man does evil; that is why we have brought him to you.
+
+31. And Pilate says to them: if he does evil to you, then judge him yourselves by your law. But they said: we have brought him to you so that you will execute him, for we are not permitted to kill anyone.
+
+32. And so what Jesus had expected came true. He had said that one must be ready to die on the cross at the hands of the Romans, and not by one's own death and not at the hands of the Jews.
+
+Luke XXIII, 2. And when Pilate asked them what they accused him of, they said that he was guilty of stirring the people to revolt, forbidding the payment of taxes to Caesar, and setting himself up as the Christ and king.
+
+John XVIII, 33. Pilate heard them out and ordered Jesus to be brought to him in the government house. When Jesus came in to him, Pilate said to him: so you are the king of the Jews?
+
+34. Jesus said to him: do you really suppose that I am a king, or are you only repeating what others have told you?
+
+<!-- vol. 24, p. 931 --> 35. Pilate said: I am not a Jew, so you cannot be my king; but your own people have brought you to me. What sort of man are you?
+
+36. Jesus answered: I am a king, but my kingdom is not earthly. If I were an earthly king, my subjects would fight for me and would not have let me fall into the bishops' hands. But here you see that my kingdom is not earthly.
+
+37. Pilate said to this: but all the same you consider yourself a king? Jesus said: not only I, but you too cannot help considering me a king. I teach only this: to reveal to all the truth of the kingdom of heaven. And everyone who lives by truth is a king.
+
+38. Pilate said: you say: truth. What is truth? And, having said this, he turned and went back to the bishops. He went out to them and said to them: in my view, this man has done nothing wrong.
+
+Mark XV, 3. But the bishops stood their ground and said that he does much evil and stirs up the people to revolt, and has roused all Judea to revolt, starting from Galilee itself.
+
+4. Then Pilate began to question Jesus in the presence of the bishops, but Jesus did not answer. Pilate said to him: do you see how they are accusing you? why do you not defend yourself?
+
+5. But Jesus remained silent and did not say one word more, so that Pilate was amazed at him.
+
+Luke XXIII, 6. Pilate remembered that Galilee was under the power of King Herod, and asked: is he from Galilee? They told him: yes.
+
+7. Then he said: if he is from Galilee, then he is under Herod's power. I will send him to him. Herod was then in Jerusalem; and Pilate, to be rid of them, sent Jesus to Herod.
+
+8. When Jesus was brought to Herod, Herod was very glad to see Jesus. He had heard much about him and wanted to find out what sort of man this was.
+
+9. Herod called him in and began to question him about everything he wanted to know; but Jesus answered him nothing.
+
+10. And the bishops and teachers, just as before Pilate, accused Jesus strongly before Herod too, and said that he was a rebel
+
+11. And Herod took Jesus for an empty man and, to make fun of him, ordered him to be dressed in red clothes and sent him back to Pilate.
+
+12. Herod was pleased that Pilate had shown him respect by sending Jesus to his judgment, and because of this they made peace, whereas before they had been at odds.
+
+<!-- vol. 24, p. 932 --> 13. So, when Jesus was brought to Pilate again, Pilate again called the bishops and the Jewish rulers.
+
+14. And he said to them: you brought this man to me because he stirs up the people to revolt, and I have questioned him before all of you and do not see that he is a rebel.
+
+15. I sent him with you to Herod, and, you see, there too nothing harmful was found in him. And, in my view, there is no reason to punish him with death; would it not be better to punish him and let him go?
+
+Mt. XXVI, 20. And when the bishops heard this, they all shouted: no, execute him, execute him the Roman way; stretch him on a cross.
+
+21. Pilate heard them out and said to the bishops: well, all right, only you have a custom of pardoning one evildoer for the feast of the Passover. Now, I have in prison Barabbas, a murderer and a rebel. So one of the two must be released: Jesus or Barabbas? Pilate wanted to save Jesus, but the bishops had so worked on the people that everyone shouted: Barabbas! Barabbas!
+
+22. And Pilate says: and what is to be done with Jesus? Again they shouted: the Roman way—on the cross, on the cross with him!
+
+23. And Pilate began to try to persuade them. He said: why do you press so hard against him? He has done nothing such that he should be punished with death, and he has done you no harm.
+
+John XIX, 4. I will release him, because I find no guilt in him.
+
+6. The bishops and their servants shouted: crucify, crucify him! And Pilate said to them: if so, then take him and crucify him yourselves; but I see no guilt in him.
+
+7. The bishops answered: we demand what is due by the law. By the law he must be executed for having made himself a son of God.
+
+8. When Pilate heard this word, he was troubled, because he did not know what this word "son of God" meant.
+
+9. And, going back into the government house, Pilate called Jesus again and asked him: who are you and where are you from? But Jesus did not answer him.
+
+10. Then Pilate said: why do you not answer me? do you not see that you are in my power and that I can crucify you or release you.
+
+11. Jesus answered him: you have no power at all. There is power only from above.
+
+12. Pilate still wished to release Jesus.
+
+<!-- vol. 24, p. 933 --> 15. And he said: how is it that you want to crucify your king?
+
+12. But the Jews said to him: if you release Jesus, you will show by this that you are an unfaithful servant to Caesar, because whoever makes himself a king is an enemy to Caesar.
+
+John XIX, 15. Our king is Caesar! crucify him.
+
+13. And when Pilate heard this word, he understood that he could no longer avoid executing Jesus.
+
+Mt. XXVII, 24. Then Pilate went out to the Jews, took water, washed his hands, and said: I am not guilty of the blood of this righteous man.
+
+25. And all the people shouted: let his blood be on us and on our children.
+
+Luke XXIII, 23. So the bishops prevailed.
+
+John XIX, 13. Then Pilate sat down in his judgment seat.
+
+Mt. XXVII, 26, 27. And he ordered Jesus first to be flogged.
+
+28 and 29. When he had been flogged, the soldiers, the ones who had flogged him, put a wreath on his head and gave him a stick in his hands, and threw a red cloak over his back, and began to make sport of him: they bowed down to his feet in mockery and said: hail, king of the Jews! and they struck him on the cheeks and on the head and spat in his face.
+
+John XIX, 16. And the bishops shouted: crucify him! Our king is Caesar. Crucify him. Then Pilate ordered him to be crucified.
+
+Mt. XXVII, 31. Then they took the red clothing off Jesus, put his own clothes on him, and ordered him to carry the cross to the place Golgotha, so as to crucify him there. And he carried his cross and so came to the place Golgotha.
+
+John XIX, 18. And there they stretched (crucified) Jesus on the cross, and two other men as well; those two were on either side, and Jesus in the middle.
+
+Luke XXIII, 34. When they were crucifying Jesus, he said: father! forgive them: they do not know what they are doing.
+
+35. And when Jesus was already hanging on the cross, the people stood round him and mocked him.
+
+Mark XV, 22. They came up, nodded their heads at him, and said: come on, you wanted to destroy the temple of Jerusalem and build it again in three days.
+
+30. Come on, save yourself: come down from the cross.
+
+31. And the bishops, the pastors, stood right there and jeered at him and said: he saved others, but cannot save himself.
+
+<!-- vol. 24, p. 934 --> 32. Come on, show that you are the Christ; come down from the cross, and then we will believe you. He said that he was the son of God, and said that God would not abandon him. Well, what now? God has abandoned him. And the people, and the bishops, and the soldiers mocked him, and even one of the robbers crucified with him—he too mocked him.
+
+Luke XXIII, 39. One of the robbers, mocking, said to him: if you are the Christ, save yourself and us.
+
+40. But the other robber heard this and said: you do not fear God: you are on a cross yourself, and still you mock an innocent man.
+
+41. You and I have been executed for what we did, but this man has done nothing wrong.
+
+42. And, turning to Jesus, this robber said to him: lord! remember me in your kingdom.
+
+43. And Jesus said to him: even now you are blessed with me.
+
+Mt. XXVII, 46. At the ninth hour Jesus, worn out, said loudly: eli, eli, lama sabakh. This means: My God, my God, why have you abandoned me?
+
+47. And when the people heard this, they began to talk and to laugh: he is calling the prophet Elijah; let us see how Elijah will come.
+
+48. Then Jesus said: drink. And a man took a sponge, soaked it in vinegar (a tub stood there), and handed it to Jesus on a reed. Jesus sucked the sponge and said in a loud voice: it is finished! father, into your hands I give my spirit. And, bowing his head, he gave up the spirit.
+
+## CONCLUSION THE FIRST EPISTLE OF JOHN THE THEOLOGIAN
+
+Ch. I, 1, 2, 3. The proclamation of the good of Jesus Christ is the proclamation of the understanding of life, by which people have communion with the father of life and therefore eternal life.
+
+4. This is the proclamation of the true good.
+
+5. The understanding of life consists in this: that God is life and good, and that in life and good there is no death and evil.
+
+6. If we were to say that we have been united with God, yet live in evil and death, then we are either deluding ourselves or lying brazenly.
+
+7. Only if we live the same life that Jesus lived, only then are we united with him.
+
+<!-- vol. 24, p. 935 --> Ch. II, 1. We must take the life of Jesus Christ as the example of true life.
+
+2. He has delivered us and the whole world from untruth. Only he is a Christian who acknowledges the teaching of Christ and fulfills his commandments.
+
+4. He who says that he acknowledges the teaching of Jesus Christ, but does not fulfill his commandments, is a brazen deceiver, and there is no truth in him.
+
+5. But he who fulfills his commandments has love for his neighbor. Only through this love are we united with God.
+
+6. He who says that he has been united with Jesus Christ must also live just as Jesus lived.
+
+9. He who says of himself that he is in life and good, but hates his living brother, is not in life and good, but in death and evil, and does not himself know what he is doing. And he is blind who hates that life which is in him.
+
+15. In order not to be blind, one must remember that everything worldly, everything of everyday life, is lust of the flesh or of vainglory, and all this is not from God.
+
+16. That everything worldly is passing and dies.
+
+17. And only love and good deeds done from love are eternal.
+
+23. Only he who acknowledges his spirit as a son of the father, only he is united with the father.
+
+24. And therefore hold firmly to the understanding that you are by the spirit sons of the father, God. Having this assurance, you will receive eternal life.
+
+Ch. III, 1. God has given us the possibility of being his sons and the same as he himself is.
+
+2. So that in this life we become his sons. Although we do not know what will become of us afterward, we know that we are the same as he, and can be united with him.
+
+3. The hope of this eternal life delivers a man from mistakes and makes him pure, the same as the father is.
+
+4. Everyone who does an evil deed acts against the will of the father.
+
+5. Jesus Christ appeared to us in order to teach us deliverance from sins and union with God.
+
+6. And therefore he who has been united with him can no longer sin. Only he sins who does not know him.
+
+7. And he who lives in God does what is right.
+
+8. He who is not united with God does not do what is right.
+
+<!-- vol. 24, p. 936 --> 9. He who has acknowledged his birth from God cannot do falsehood.
+
+10. And therefore people are divided into the godly and the ungodly, into those who know what is right and love their brothers, and those who do not know what is right and do not love their brothers.
+
+11. Because, according to the proclamation of Jesus Christ, we cannot fail to love our brothers.
+
+14. By the proclamation of Jesus Christ we know that we will pass from death into life if we begin to love, and that he who does not love his brother remains in death.
+
+15. We know that he who does not love his living brother does not love life. And he who does not love life cannot have life.
+
+16. By the proclamation of Jesus Christ we know that life is given us out of love for us, and therefore we too must give our life out of love for our neighbor, that is, sacrifice our life for the good of our neighbors.
+
+17. So that he who has life and sees that his brother is in need, and does not give his life to his brother—in him there is no divine love.
+
+18. One must love not in words, but in deeds and in truth.
+
+19. And he who loves in this way has a tranquil heart, because he is united with the father.
+
+20. If his heart struggles, then he submits his heart to God.
+
+21. Because God is more important than the desires of the heart. But if the heart does not struggle, then he is blessed.
+
+22. Because he does everything he can, the very best, and fulfills all that he is commanded.
+
+23. And he is commanded to believe that he is a son of God, and to love his brother.
+
+Ch. IV, 4. Those who act so are united with God and rise above the world, because what is in them is greater and more important than the whole world.
+
+7. And therefore let us love one another. Love is from God, and everyone who loves is a son of God and knows God.
+
+8. But he who does not love does not know God, because God is love.
+
+9. That God is love we know from this: that he sent his spirit, the same as himself, into the world and through it gave us life.
+
+<!-- vol. 24, p. 937 --> 10. We did not exist, and God did not need us, yet he gave us life and good; so he loves us.
+
+12. No one can know God. But all that we can know of him is that he has loved us and by this love has given us life.
+
+11. And therefore, in order for us to be in communion with God, we must be the same as he is and do the same as he does, that is, love people.
+
+12. If we love one another, then God is in us, and we remain in him.
+
+16. Having understood God's love for us, we believe that God is love, and that he who loves is united with God.
+
+17. And having understood this, we do not fear death, because in this world we have become the same as God.
+
+18. Our life has become love, and we have been freed from fear and from all sufferings.
+
+19. We love because God loves us.
+
+20. And we love not God, whom it is impossible to love, because no one sees him, but we love our brother, whom it is possible to love. He who says that he loves God but hates his brother deceives himself, because if he does not love his brother, whom he sees, how can he love God, whom he does not see?
+
+21. And so we have been given the commandment to love God in our brother.
+
+Ch. V, 3. The love of God consists in fulfilling his commandments.
+
+4. And his commandments are not hard for one who, acknowledging his birth from God, rises above the world.
+
+Our faith raises us above the world. And our true faith consists in the teaching of Jesus, the son of God. He has taught us that one must be in the world not with the flesh alone, but with the spirit as well.
+
+8. And the spirit is in us and confirms us in the truth of his teaching.
+
+9. If we believe what people affirm, then how can we not believe that spirit which is in us?
+
+10. He who believes that there is in him the spirit of life, the spirit that has come down from above, has satisfaction in himself. But he who does not believe that his life is the spirit that has come down from above, from the father, makes God a deceiver.
+
+11. The spirit affirms that the life in us is eternal life.
+
+12. He who believes that this spirit is a son of the eternal spirit and the same as he has eternal life.
+
+<!-- vol. 24, p. 938 --> 14. And for him who believes this there are no obstacles in life, and all that he desires according to the will of the father will be accomplished for him.
+
+18. And therefore he who believes that he is a son of God does not live in falsehood and is pure of evil.
+
+19, 20. Because he knows that the world of everyday life is a deception, and that in himself, in man, there is reason by which to know what truly exists.
+
+*But what truly exists is only the spirit*—*the son of the father.*
