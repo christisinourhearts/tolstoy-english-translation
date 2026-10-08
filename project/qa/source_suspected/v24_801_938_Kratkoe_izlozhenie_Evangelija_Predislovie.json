@@ -41,5 +41,18 @@
     "p. 813: French quotation «Jesus Christi n'avaitrien de chritien» (Havet) — missing space corrected in English to \"n'avait rien\"; the forms \"Christi\" and \"chritien\" (for chrétien) are kept as the source has them. «A Souris» — \"Souris\" is kept as written (possibly Jules Soury); not emended."
   ],
   "disposition": "Retain the audited Russian source and SHA-256 unchanged. The non-substantive artifacts required no interpretation. The listed readings are coherent as they stand and were translated as read; none is resolved by emendation. The electronic volume 24 at tolstoy.ru/online/90/24/ was consulted on 2026-10-08 but its page text does not include The Gospel in Brief, so a check against the printed volume 24, pp. 801–938, remains a follow-up.",
-  "witness_pending": "Printed 90-volume edition, vol. 24 (1957), pp. 801-938"
+  "witness_pending": "Printed 90-volume edition, vol. 24 (1957), pp. 801-938",
+  "print_check_attempt_2026_10_08": {
+    "by": "R002 cold audit (R002_CA01)",
+    "result": "printed volume not consulted: tolstoy.ru, rusneb.ru, archive.org and ru.wikisource.org were all refused by the session's network egress policy",
+    "internal_witnesses": {
+      "John VI, 35 vrazhdy": "Harmony (v24_007_798, vol. 24 p. 332) renders the same verse «И кто будет верить мне, не будет жаждать никогда»; strong internal evidence for жажды (thirst). Unconfirmed in print.",
+      "John X, 31 dobit'": "Harmony (vol. 24 p. 506) has the identical sentence with «чтобы побить его»; the Brief's next verse reads «хотите побить меня». Strong internal evidence for побить (to stone). Unconfirmed in print.",
+      "Mark XIX, 18": "Mark has 16 chapters; canonical parallel Mark XIV, 18. Harmony gives no reference for this composite verse. Unconfirmed.",
+      "Mt. XXVI, 20": "Harmony retelling (vol. 24 p. 787) has the same sentence without a reference; canonical Matt. XXVII, 20. Unconfirmed.",
+      "Luke XII, 41": "Harmony (vol. 24 p. 409) cites the same verse with the same numbering as «Mp. XII, 41» (Mark). Strong internal evidence that Mark is meant. Unconfirmed in print.",
+      "Havet": "vol. 24 editorial history (pp. 1001-1004) and vol. 49 diary notes confirm Ernest Havet, 'Jésus dans l'histoire', Revue des deux mondes 1863, VIII, 564-596. Exact French wording unconfirmed."
+    },
+    "recommendation": "Keep print_witness_check_pending. Check vol. 24 pp. 813, 856, 870, 883, 913-914, 932 in print. If жажды / побить are confirmed, record source errata and change the English to 'thirst' / 'stone him'."
+  }
 }
