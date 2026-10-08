@@ -417,7 +417,7 @@ Mark VII, 10. God said to you: honor your father and mother.
 
 11. But you have invented that anyone can say: I give to God what I used to give to my parents.
 
-12. And then you may not feed your father and mother. So it is that you destroy the commandment of God by church tradition.
+12. And then you need not feed your father and mother. So it is that you destroy the commandment of God by church tradition.
 
 Matt. XV, 7. Deceivers! the prophet Isaiah spoke the truth about you:
 
