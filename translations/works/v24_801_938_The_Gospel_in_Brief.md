@@ -589,3 +589,157 @@ Mt. IV, 14, 16. And in Jesus the prophecy of Isaiah was fulfilled: the people we
 
 Mt. VIII, 1. And he went about the towns and villages, proclaiming the true good.
 
+## Chapter III THE SOURCE OF UNDERSTANDING
+
+### FROM THE SPIRIT OF THE FATHER HAS COME THE LIFE OF ALL PEOPLE. (HALLOWED BE THY NAME.)
+
+#### CONTENT OF CHAPTER III
+
+Jesus' disciples ask Jesus what that kingdom of God which he preaches consists in. Jesus answers: the kingdom of God that I preach is the same one that <!-- vol. 24, p. 832 --> John preached. It consists in this: that all people, in spite of any misfortunes of the flesh, can be blessed.
+
+And Jesus says to the people: John was the first to preach to the people a kingdom of God not in the external world, but in the soul of people; the Orthodox went to listen to him but understood nothing, because they understand only what they themselves invent about an external God, and they preach their inventions and are surprised that no one listens to them. But John preached the truth of the kingdom of God within people, and therefore he did more than anyone. He brought it about that from his time the law and the prophets and all external worship of God became unnecessary. From the time of his teaching it was revealed that the kingdom of God is in the soul of people and that every man, according to his strength, can be in the kingdom, in the will of God the father.
+
+To the question of when the kingdom of God will come, Jesus says that the kingdom of God is invisible and is not found in the external, but is in the souls of people. The beginning and end of everything is in the soul of man.
+
+And explaining the meaning of the kingdom of God, Jesus says: Every man, besides his fleshly life, besides his conception, which he understands, from a fleshly father in the womb of a fleshly mother, is conscious in himself of a spirit that is free, rational, and independent of the flesh. It is this spirit, infinite and come forth from the infinite, that is the source of all and that which we call God. We know it only within ourselves. This spirit is the source of our life, and it must be set above everything; we must live by it. Having made this spirit the foundation of life, we receive true, infinite life. That father spirit who sent this spirit into people could not have sent it in order to deceive people, so that people, conscious of an infinite life within themselves, should lose it. If this infinite spirit is in man, then it must give infinite life. And therefore a man who places his life in this spirit has infinite life. A man who does not place his life in this spirit does not have life. People can choose life and death for themselves. Life is in the spirit, death in the flesh. The life of the spirit is good, light; the life of the flesh is evil, darkness. To believe in the spirit means to do deeds of good; not to believe means to do deeds of evil. Good is life, evil is death. God, the external creator, the source of all sources, we do not know. All that we can imagine about him is that he has sown the spirit in people, and sown it as a sower sows, everywhere, not picking out the ground, and the seed that has fallen on good ground grows, and on unsuitable ground it perishes. Only the spirit gives life to people, <!-- vol. 24, p. 833 --> and it depends on people whether to keep it or to lose it. For the spirit, evil does not exist. Evil is a semblance of life. There is only the living and the not living. Evil is the not living. Such is the conception of the whole world of people; but for each man there is the consciousness of the kingdom of heaven in his soul. Each man can, of his own free will, enter it or not enter it. To enter it one must believe in the life of the spirit. He who believes in the life of the spirit has infinite life.
+
+Matt. XI, 2, 3. After this John's disciples came to ask Jesus whether he was the one John speaks of; whether he is opening the kingdom of God and whether he is renewing people by the spirit?
+
+4. Jesus answers and says: look, listen, and tell John whether the kingdom of God has come and whether people are being renewed by the spirit. Tell him how I preach the kingdom of God.
+
+5. In the prophecies it is said that when the kingdom of God comes, all people will be blessed. Well, then, tell him that my kingdom of God is such that the poor are blessed.
+
+6. And that everyone who understands me becomes blessed.
+
+7. And having sent John's disciples away, Jesus began to speak to the people about what kingdom of God John had proclaimed. He said: when you went to John in the wilderness to be baptized, what did you go out to see? The Orthodox lawyers went too, but they did not understand what John proclaimed. And they counted him as nothing.
+
+16. This breed, the Orthodox lawyers, consider to be true only what they themselves invent and hear from one another, and that law which they themselves have invented.
+
+18. But what John said, what I say, they do not hear and do not understand. Of what John said, they understood only that he fasted in the wilderness, and they say: there is a devil in him.
+
+19. Of what I say, they have understood only that I do not fast, and they say: he eats and drinks with tax farmers and debauchees; he is their friend.
+
+17. They are like children in the street, chattering with one another and wondering that no one listens to them.
+
+19. And their wisdom can be seen from their deeds.
+
+8. If you had wanted to look at a man dressed up in rich clothes, why, those men live here, in palaces.
+
+9. So what was it you had not seen in the wilderness? Do you think you went because John was a prophet just like the others? <!-- vol. 24, p. 834 --> Do not think that. John was not a prophet like the others; he was greater than all the prophets. They foretold what may be. He proclaimed to people what is: that the kingdom of God both was and is on earth.
+
+11. Truly I tell you: no man has been born greater than John. He announced the kingdom of God on earth, and therefore he is higher than all.
+
+Luke XVI, 16. The law and the prophets—all this was needed until John. But from John until this time it is being proclaimed that the kingdom of God is on earth, and that whoever makes an effort enters it.
+
+Luke XVII, 20. And the Orthodox came to Jesus and began to ask him how, then, and when the kingdom of God will come. And he answered them: the kingdom of God that I preach is not such as the former prophets preached. They said that God will come with various visible manifestations, but I speak of a kingdom of God whose coming cannot be seen with the eyes.
+
+23. And if they say to you: look, it has come, or it will come, or look, it is here—do not believe them. The kingdom of God is not in time or in any place.
+
+24. It is like lightning—both here, and there, and everywhere.
+
+21. And it has neither time nor place, because the kingdom of God, the one that I preach, is within you.
+
+John III, 1, 2. After this one of the Orthodox, from among the Jewish rulers, Nicodemus, came to Jesus at night and says: you do not tell us to keep the sabbaths, you do not tell us to keep cleanness, you do not tell us to offer sacrifices or to fast; you have done away with the temple; of God you say that he is spirit, and of the kingdom of God you say that it is within us. What sort of kingdom of God is this?
+
+3. And Jesus answered him: understand this: if a man is conceived from heaven, then there must be something heavenly in him.
+
+4. Nicodemus did not understand this and said: how can a man, if he was conceived from the flesh of a father and has grown old, climb into his mother's belly again and be conceived from the beginning?
+
+5. And Jesus answered him: understand what I am saying. I am saying that a man, besides the flesh, is conceived also from the spirit, and therefore every man is conceived from flesh and spirit, and therefore the kingdom of heaven can be in him.
+
+6. From the flesh—flesh. Spirit cannot be born of the flesh: spirit can come only from spirit.
+
+<!-- vol. 24, p. 835 --> 8. Spirit is that which lives in you, and lives freely and rationally, and that of which you know neither the beginning nor the end, and every man feels this in himself.
+
+7. And therefore, why were you surprised that I told you we must be conceived from heaven?
+
+9. Nicodemus said: all the same, I do not believe that this could be so.
+
+10. Then Jesus said to him: what sort of teacher are you, if you do not understand this!
+
+11. Understand that I am not interpreting some kind of mysteries; I am interpreting what we all know, I am affirming what we all see.
+
+12. How will you believe in what is in heaven, if you do not believe in what is on earth, what is in yourself.
+
+13. Why, no one has been in heaven, but there is only, on earth, man, who has come down from heaven and is himself heavenly.
+
+14. It is this very heavenly son in man that must be raised up, so that everyone may believe in him and not perish, but have heavenly life.
+
+16. Why, it was not for the ruin of people, but for the good of people, that God gave people his son, the same as himself. He gave him, after all, so that everyone may believe in him and not perish, but have infinite life.
+
+17. Why, it was not in order to destroy the world of people that he brought forth his son—life—into the world of people, but he brought forth his son—life—so that the world of people might be alive by him.
+
+18. Whoever places his life in him does not die, but whoever does not place his life in him destroys himself by not having relied on what is life.
+
+19. Division (death) consists precisely in this: that life has come into the world, but people themselves go away from life. Life is the light of people. The light has come into the world, but people have preferred darkness to the light and do not go to the light.
+
+20. And therefore whoever does what is bad does not go to the light, so that his deeds are not seen, and he deprives himself of life.
+
+21. But whoever lives in truth goes to the light, so that his deeds are in the light, and he has life and is united with God.
+
+The kingdom of God must be understood not as you think, that the kingdom of God will come for all people at some time and in some place, but thus: that in the whole world always some people, those who rely on the heavenly son of man, <!-- vol. 24, p. 836 --> become sons of the kingdom, and others, who do not rely on him, are destroyed. The father of that spirit which is in man is the father only of those who recognize themselves as his sons. And therefore for him there exist only those who have kept in themselves what he gave them.
+
+Matt. XIII, 3. And after this Jesus began to explain to the people what the kingdom of God is, and he explained it in parables. He said: the father spirit sows the life of understanding in the world, just as a master sows seeds on his field.
+
+4. He sows over the whole field, not picking out which falls where. And so some grains fall on the road, and the birds fly down and peck them up.
+
+5. And others fall on stones, and on the stones, though they sprout, they wither, because there is nowhere to take root.
+
+7. And still others fall in the wormwood, and the wormwood chokes the grain, and the ear comes up but does not fill.
+
+8. And others fall on good ground; these come up and make up for the lost grains, and form ears and fill; and one ear yields a hundredfold, another sixtyfold, another thirtyfold.
+
+So too God has scattered the spirit in people; in some it is lost, and in others it bears a hundredfold. It is these people who make up the kingdom of God.
+
+Mark IV, 26. So the kingdom of God is not such as you think, that God will come to reign over you. God has only sown the spirit, and the kingdom of God will be in those who keep it.
+
+27. God does not rule people, but, like a master, throws the seeds into the ground and himself does not think about them.
+
+28. The seeds swell by themselves, sprout, come up green, form the stalk and the ear, and fill the grain.
+
+29. And only when it has ripened does the master send the sickles to reap the field. So God too has given the world his son—the spirit—and the spirit grows by itself in the world, and the sons of the spirit make up the kingdom of God.
+
+Matt. XIII, 33. As a peasant woman, having put leaven into the kneading trough, mixes it with flour and no longer turns it, but waits for it to rise and swell by itself.
+
+As long as people live, God does not enter into their life; he has given the spirit into the world, and the spirit lives by itself in people and makes up the kingdom of God. For the spirit there is neither death nor evil. Death and evil are for the flesh, not for the spirit.
+
+<!-- vol. 24, p. 837 --> XIII, 24. Here is what the kingdom of God may be likened to: a master sowed good seeds on his field. The master is the spirit, the father; the field is the world; the good seeds are the sons of the kingdom of God.
+
+25. Now the master lay down to sleep, and an enemy came and sowed cockle on the field. The enemy is temptation; the cockle is the sons of temptation.
+
+27, 28. Now the workmen came to the master and say: or did you sow bad seed? A lot of cockle has come up in your field. Send us, we will weed it out.
+
+29. But the master says: no need; or else you will start weeding out the cockle and trample the wheat as well.
+
+30. Let them grow together. The harvest will come, then I will tell the reapers to pick out the cockle, and I will burn it, and the wheat I will put away in the barn.
+
+The harvest is the end of human life, and the reapers are the heavenly powers. And they will burn the cockle, and the wheat will be cleaned and gathered. So too at the end of life all that was the deception of time will vanish, and there will remain only the real life—in the spirit. For the spirit of the father there is no evil. The spirit keeps what it needs, and what is not from it does not exist for it.
+
+47. The kingdom of God is like a dragnet. The net is drawn through the sea and catches every kind of fish.
+
+48. And then, when they pull it out, they pick out the worthless ones and throw them into the sea. So it will be at the end of the age as well: the heavenly power will pick out the good, and the bad will be thrown away.
+
+10. And when he had finished speaking, his disciples began to ask him: how are these parables to be understood?
+
+11. And he said to them: these parables must be understood in two ways. All these parables, you see, I speak because there are some, like you, my disciples, who alone understand what the kingdom of God consists in; who understand that the kingdom of God is within each man, who understand how to enter it; and others do not understand this. The others look and do not see, and listen and do not understand.
+
+15. Because their heart has grown fat. So I speak these parables in two ways, to both the one and the other. To those I speak of God, of what his kingdom is for God, and they can understand this. But to you I speak of what the kingdom of God is for you—the one that is within you.
+
+18. And you, see that you understand the parable of the sower properly. For you the parable means this.
+
+19. Everyone who has understood the meaning of the kingdom of God but has not taken it into his heart—to him evil comes and steals away what was sown; this is the seed on the road.
+
+<!-- vol. 24, p. 838 --> 20. What was sown on stone is he who at once receives it with joy.
+
+21. But there is no root in him, and he receives it only for a time; and when hardship comes, persecution on account of the meaning of the kingdom, at once he renounces it.
+
+22. What was sown in the wormwood is he who has understood the meaning of the kingdom, but worldly cares and greed for wealth choke the meaning in him, and he gives no fruit.
+
+23. And on good ground—this is he who has understood the meaning of the kingdom and has taken it into his heart. This one bears fruit, one a hundredfold, one sixtyfold, one thirtyfold.
+
+12. For whoever holds, to him much will be given; and whoever does not hold, from him the last he has will be taken away.
+
+Luke VIII, 18. And therefore see how you understand the parables. Understand them so as not to give way to deceptions, offenses, and cares, but so as to bring forth fruit thirtyfold, sixtyfold, and a hundredfold.
+
+Matt. XIII, 31. The kingdom of heaven in the soul grows out of nothing, but gives everything. It is like a birch seed, the smallest of grains; when it grows up, it is bigger than all the trees, and the birds of the sky build their nests in them.
+
