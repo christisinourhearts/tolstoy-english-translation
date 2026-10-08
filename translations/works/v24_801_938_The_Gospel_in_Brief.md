@@ -657,7 +657,7 @@ John III, 1, 2. After this one of the Orthodox, from among the Jewish rulers, Ni
 
 10. Then Jesus said to him: what sort of teacher are you, if you do not understand this!
 
-11. Understand that I am not interpreting some kind of mysteries; I am interpreting what we all know, I am affirming what we all see.
+11. Understand that I am not interpreting some kind of clever wisdom; I am interpreting what we all know, I am affirming what we all see.
 
 12. How will you believe in what is in heaven, if you do not believe in what is on earth, what is in yourself.
 
@@ -699,7 +699,7 @@ Mark IV, 26. So the kingdom of God is not such as you think, that God will come 
 
 29. And only when it has ripened does the master send the sickles to reap the field. So God too has given the world his son—the spirit—and the spirit grows by itself in the world, and the sons of the spirit make up the kingdom of God.
 
-Matt. XIII, 33. As a peasant woman, having put leaven into the kneading trough, mixes it with flour and no longer turns it, but waits for it to rise and swell by itself.
+Matt. XIII, 33. As a peasant woman, having put leaven into the kneading trough, mixes it with flour and no longer turns it, but waits for it to ferment and rise by itself.
 
 As long as people live, God does not enter into their life; he has given the spirit into the world, and the spirit lives by itself in people and makes up the kingdom of God. For the spirit there is neither death nor evil. Death and evil are for the flesh, not for the spirit.
 
