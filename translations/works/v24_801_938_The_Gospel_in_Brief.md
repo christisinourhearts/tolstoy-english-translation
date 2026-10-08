@@ -975,3 +975,357 @@ Matt. XII, 19. That in order to bring truth into the world, he does not argue, d
 
 21. And that all the hope of people is in his teaching.
 
+## Chapter V TRUE LIFE
+
+### THE FULFILLMENT OF THE PERSONAL WILL LEADS TO DEATH, THE FULFILLMENT OF THE WILL OF THE FATHER GIVES TRUE LIFE. (THY WILL BE DONE.)
+
+#### CONTENT OF CHAPTER V
+
+The wisdom of life consists in recognizing one's life as the son of the spirit of the father.
+
+People set themselves aims of fleshly life and, in attaining these aims, torment themselves and others. Having recognized the teaching about the life of the spirit, and submitting and humbling themselves in the flesh, people will find full satisfaction <!-- vol. 24, p. 848 --> in the life of the spirit, that very life which alone is destined for them.
+
+Jesus once happened to ask a woman of another faith for a drink. The woman refused him on the pretext that she was of a different faith from him. To this Jesus said to her: if you understood that it is a living man asking you for a drink, one in whom is the spirit of the father, then you would not have refused, but would have sought, by doing good, to be united in spirit with the father, and the spirit of the father would have given you water, not such that one will be thirsty again after it, but such as will give eternal life. One cannot pray to God anywhere; one can only serve those in whom is his spirit, serve him by deeds of love.
+
+And Jesus said to his disciples: the true food of man lies in fulfilling the will of the father, the spirit. The fulfillment of this will is always possible. Our whole life is a gathering of the fruits of the life that the father has sown in us. The fruits are the good that we do to people. There is no need to wait for anything; one must not stop living, doing good to people.
+
+After this Jesus happened to be in Jerusalem. In Jerusalem there was a bathing pool, beside which a sick man lay, doing nothing, waiting to be healed by a miracle. Jesus went up to the weak man and said to him: do not wait to be healed by a miracle, but live yourself, as much as there is strength in you, and do not be mistaken about the meaning of life. The weak man obeyed Jesus, got up, and walked. Seeing this, the Orthodox began to reproach Jesus for what he had said, and because he had raised the paralyzed man on the sabbath. Jesus said to them: I have done nothing new. I have done only what our common father, the spirit, does. He lives and gives life to people, and I have done the same. And this is the calling of every man. Every man has freedom and can live or not live. To live means to fulfill the will of the father, that is, to do good to others; not to live means to fulfill one's own will and not to do good to others. It is in the power of each to do the one or the other and to receive life or to destroy it.
+
+The true life of people is like this. A master gives his slaves a share of his precious property and tells each one to work on what he has given him. Some work, others do not and hide what was given them. The master asks for an accounting, and to those who worked he gives still more than they had, and from those who did not work he takes away the last they have.
+
+<!-- vol. 24, p. 849 --> The precious share of the master's property is the spirit of life in man, the son of the father, the spirit. He who in life works for the life of the spirit receives a life that does not end; he who does not work is deprived of the life that was given him.
+
+True life is only the common life of all, and not the life of one. All must work for the life of others.
+
+After this Jesus went to a desert place, and many people followed him. Toward evening the disciples came and said: what shall we feed all these people with? Among the people there were some who had nothing, and there were some who had brought bread and fish along. Then Jesus said to the disciples: give all the bread you have. He took the loaves, gave them to the disciples, and they gave them to others, and the others began to do the same. And all ate from what was another's, and all did not finish what there was, and all were satisfied. And Jesus said: so this is what you must do. What is needed is not for each to get food for himself, but what the spirit in man commands: to give to others what there is. The real food of man is the spirit of the father. People are alive only by the spirit.
+
+Everything that is life must be served, because life lies not in doing one's own will, but the will of the father of life. And the will of the father of life is that all the life of the spirit which is in each should remain in him, and that all should keep the life of the spirit in themselves until the hour of death. The father, the source of all life, is spirit. Life is only in fulfilling the will of the father, and therefore, to fulfill the will of the spirit, one must give up one's flesh. The flesh is food for the life of the spirit. Only by giving up its flesh does the spirit live.
+
+After this Jesus chose disciples and sent them everywhere to preach his teaching about the life of the spirit. In sending them he said: you are to preach the life of the spirit, and therefore cast off beforehand all the lusts of the flesh—have nothing of your own. Be ready for persecution, privation, suffering. Those who love the life of the flesh will hate you, and will torment and kill you, but do not be afraid. If you fulfill the will of the father, then you have the life of the spirit, and no one can take it away from you.
+
+The disciples went, and when they returned they announced that everywhere the teaching of evil had been conquered by them.
+
+Then the Orthodox said to Jesus that his teaching, even if it conquers evil, is itself evil, since the people who fulfill it must endure suffering. To this Jesus said: evil cannot conquer evil. If evil is conquered, then it <!-- vol. 24, p. 850 --> is conquered only by good. Good is the will of the father, the spirit, common to all people. Every man knows what is good for himself. If he does this for other people, if he does what is the will of the father, the spirit, then he does good. And therefore the fulfillment of the will of the father, the spirit, is good, even if it is bound up with the suffering and death of those who fulfill it.
+
+Matt. XI, 25. And Jesus rejoiced at the power of the spirit and said: I acknowledge the spirit of the father as the source of all that is heavenly and earthly, because what was hidden from the clever and the wise is revealed to the foolish simply because they acknowledge themselves sons of the father.
+
+28. Everyone cares about the good of the flesh; they have harnessed themselves to a cart they cannot pull and have put on themselves a yoke that was not made to fit them. Understand my teaching and follow it, and you will know peace and joy in life. I give you another yoke and another cart: the spiritual life.
+
+29. Harness yourselves to it, and you will learn from me tranquillity and blessedness. Be tranquil and meek in heart, and you will find blessedness in your life.
+
+30. Because my teaching is a yoke made to fit you, and the fulfillment of my teaching is a light cart, and a yoke made to fit you.
+
+John IV, 5. Jesus was once going to the Samaritan town of Sychar, near the field that Jacob gave to his son Joseph.
+
+6. And Jacob's well was there. Jesus was tired from the road and sat down by the well.
+
+7. And a woman came from Samaria for water. And Jesus said to her: give me a drink.
+
+8. And Jesus' disciples had gone off into the town to buy food.
+
+9. And the Samaritan woman said to him: how is it that you, a Jew, ask me for a drink? Why, Jews do not associate with Samaritans.
+
+10. And Jesus said to her: If you understood what God has given to people and who is asking you for a drink, I would give you water of life.
+
+11. And the woman said: you have no bucket, and the well is deep; how will you give me water of life?
+
+12. Are you greater than our father Jacob? He gave this well and drank from it himself, and his children, and his cattle.
+
+<!-- vol. 24, p. 851 --> 13. And Jesus answered: whoever drinks this water will thirst again, but whoever drinks the water that I will give will never know thirst again.
+
+14. But the water that I will give will give birth in him to a spring of water flowing into eternal life.
+
+15. And the woman said: give me such water, so that I need not drink and need not go for water.
+
+16. And Jesus said: go call your husband and come here.
+
+19. And the woman said to him: I see that you are a prophet.
+
+20. Our fathers pray to God here, on this mountain, but you say that in Jerusalem is the place of God where one must pray.
+
+21. And Jesus said to her: believe me, woman, people pray to the father neither on this mountain nor in Jerusalem.
+
+23. The time has come when people pray in the real way, to the father, in the life of the spirit and in deed. And such are the worshipers the father needs.
+
+24. The father is spirit, and one must pray to him in spirit and in deed.
+
+25. And the woman said: I know that the messiah will come, and when he comes he will tell us everything.
+
+26. And Jesus said: I am telling you everything.
+
+28. And the woman went and called the people.
+
+31. At that time the disciples returned with bread and asked Jesus whether he wanted to eat.
+
+32. And he said: I have food that you do not know.
+
+33. They thought that someone had brought him something to eat.
+
+34. But he said: my food is to do the will of the one who gave me life, and to accomplish what he has entrusted to me.
+
+35 and 36. Do not say: there is still time, as the plowman says, waiting for the harvest: He who fulfills the will of the father is always satisfied and knows neither hunger nor thirst. The fulfillment of the will of God always satisfies a man; it carries its reward in itself. One cannot say: I will fulfill the will of the father later. As long as there is life, the fulfillment of the will of the father is always possible and necessary.
+
+37. Our life is the field that God has sown; and our task is to gather its fruits.
+
+38. And if we gather the fruits, we receive a reward—a life not bounded by time. It is true that we do not give ourselves life, but someone else does. And if we labor at gathering life, then we, like reapers, receive a reward. I teach you to gather this life that the father has given you.
+
+<!-- vol. 24, p. 852 --> John V, 1. Jesus once came to Jerusalem.
+
+2. And there was at that time in Jerusalem a bathing pool.
+
+4. And it was said of this pool that an angel comes down into it, and because of this the water in the pool begins to stir, and that whoever, if he is the first after the water has stirred up, plunges into the pool will recover, whatever he is sick with.
+
+2. And around the pool sheds had been built.
+
+3. And under these sheds sick people lay and waited for the water in the pool to stir up, so as to plunge into it.
+
+5. And there was a man there who had been in weakness for thirty-eight years. Jesus asked what was the matter with him. And the man told him that he had been ailing for thirty-eight years now and kept waiting to get into the pool first when the water stirred up, so as to be cured, but for thirty-eight years now he had not been able to get in first; others always went into the pool before him and bathed.
+
+6. And Jesus saw that he was old, and said to him: do you want to recover?
+
+7. The man said: I do, but I have no one to carry me into the water in time. Someone always goes in before me.
+
+8. And Jesus said to him: wake up, pick up your bed, and walk.
+
+9. And the weak man took his bed and walked. And it was the sabbath.
+
+10. And the Orthodox said: you must not gather up your bed—today is the sabbath.
+
+11. He said: the one who raised me up also told me to gather up my bed.
+
+15. The paralyzed man went and told the Orthodox that it was Jesus who had cured him.
+
+16. And the Orthodox grew angry and persecuted Jesus because he did such things on the sabbath.
+
+17. And Jesus said: what the father always does, that I do too.
+
+19. Truly I tell you: the son can do nothing of himself. He does only what he has understood from the father. What the father does, he does too.
+
+20. The father loves the son, and by this very thing has taught him everything that the son needs to do.
+
+21. The father gives life to the dead; so too the son gives life to whom he wills, because, as the work of the father is life, so too the work of the son must be life.
+
+22. The father has not condemned people to death, but has given people the power, by their own will, to die or to live.
+
+<!-- vol. 24, p. 853 --> 23. And they will live if they honor the son as the father.
+
+24. Truly I tell you: that he who has understood the meaning of my teaching and has believed in the common father of all people already has life and is delivered from death.
+
+25. Those who have understood the meaning of human life have already gone away from death and will live always.
+
+26. Because as the father lives of himself, so too he has given the son life in himself.
+
+27. And he has given him freedom. It is by this that he is the son of man.
+
+28. From now on all mortals will be divided in two.
+
+29. Some, those who do good, will find life; and those who do evil will be destroyed.
+
+30. And it is not I who decide this; it is what I have understood from the father. And my judgment is right, because I judge so not in order to do what I want, but in order that all may do what the father of all wants.
+
+31. If I assured everyone that my teaching is true, this would not confirm my teaching.
+
+36. But there is something that confirms my teaching: the deeds that I teach. They show that I teach not from myself, but from the father of all people.
+
+37. And my father, the one who taught me, confirms the truth of my commandments in the souls of all. But you do not want to understand and to know his voice.
+
+38. And you do not hold to the meaning of this voice. That there is in you the spirit that came down from heaven—this you do not believe.
+
+39. Look into the meaning of your scriptures. You will find in them the same as in my teaching—commandments to live not for oneself only, but to do good to people.
+
+40. Why, then, do you not want to believe in my commandments, in those which give life to all people?
+
+40. I teach you in the name of the father common to all people, and you do not accept my teaching; but if someone teaches you in his own name, you will believe him.
+
+44. One cannot believe what people say to one another; one can believe only that in each man there is a son, the same as the father.
+
+Luke XIX, 11, 12. And so that people should not think that the kingdom of heaven is something visible, but should understand that the kingdom <!-- vol. 24, p. 854 --> of God consists in fulfilling the will of the father, and that the fulfillment of the will of the father depends on the effort of each man; so that people should understand that life is given not for oneself personally, but for fulfilling the will of the father, and that only the fulfillment of the will of the father saves from death and gives life—Jesus told a parable.
+
+He said: There was a certain rich man, and he had to go away from his home.
+
+13. Before leaving, he called his slaves and handed out to them ten talents—one to each—and said to them: while I am away, let each of you work on what I have given.
+
+14. But it happened that when he had gone away, some of the inhabitants of that town said: we do not want to serve him any longer.
+
+15. Now when the rich man returned from his absence, he called those slaves to whom he had given money and told them to report what each had done with his money.
+
+16. The first came and says: here, master, on your one I have earned ten.
+
+17. And the master said to him: good, kind servant; you were faithful in a little, I will set you over much; be one with me in all my wealth.
+
+18. Another slave came and said: here, master, on your talent I have earned five.
+
+19. And the master said to him: well done, kind slave; be one with me in all my property.
+
+20. Yet another came and says: here is your talent; I hid it in a handkerchief and buried it.
+
+21. Because I was afraid of you. You are a strict man: you take where you did not lay down, and gather where you did not sow.
+
+22; Matt. 25, 26. And the master said to him: stupid slave! by your own words I will judge you. You say that from fear of me you hid your talent in the ground and did not work on it. If you knew that I am strict and take where I have not given, then why did you not do what I told you to do?
+
+Luke XIX, 23; Matt. XXV, 26 and 27. If you had worked with my talent, the property would have increased, and you would have fulfilled what I told you. But now you have not done what the talent was given you for, and therefore you may not possess it.
+
+Luke XIX, 24; Matt. XXV, 28. And the master ordered the talent to be taken from the one who had not worked on it and given to the one who had worked more.
+
+<!-- vol. 24, p. 855 --> Luke XIX, 25. And then the servants said to him: sir, those have plenty as it is.
+
+26. But the master said: give to those who have worked much, because to him who looks after what there is, more will be added, and from him who does not look after it, even the last will be taken away.
+
+Matt. XXV, 30. Those who did not want to be under my power, drive them out, so that they may be no more.
+
+The master is the source of life, the father, the spirit. His slaves are people. The talents are the life of the spirit. As the master does not himself work on his property, but tells his slaves to work, each one for himself, so too the father, the spirit, has put the spirit of life into people, has given them the command to work for the life of people, and has left them alone. Those who sent word that they do not recognize the master's power are those who do not recognize the spirit of life. The master's return and his demand for an accounting is the destruction of the fleshly life and the deciding of people's fate: whether they still have life besides the one that was given them. Some, those slaves who fulfill the master's will, work on what was given them and earn money with money; these are those people who, having received life, understand that life is the will of the father and must serve the life of others. The stupid and wicked slave who hid his talent and did not work on it—these are those people who fulfill only their own will, and not the will of the father, and do not serve the life of others. The slaves who fulfilled the will and worked to increase the master's property become sharers in all the master's property, and the slaves who did not fulfill the will and did not work for the master are deprived of what had been given them. People who have fulfilled the will of the father and served life become sharers in the life of the father and receive life, in spite of the destruction of the fleshly life. Those who have not fulfilled the will and not served life are deprived of the life they had and are destroyed. Those who did not want to recognize the master's power do not exist for the master; he drives them out. People who do not recognize the life of the spirit in themselves do not exist for the father.
+
+John VI, 1. After this Jesus went to a desert place.
+
+2. And many people followed him.
+
+3. And he went up on a mountain and sat there with his disciples.
+
+5. And he saw that many people were coming, and said: where could we get bread to feed all these people?
+
+<!-- vol. 24, p. 856 --> 7. Philip said: even two hundred denarii would not be enough to give everyone even a little.
+
+Mt. XIV, 17; John VI, 9. We have only a little bread and fish. And another disciple said: they have bread; I saw a boy here with five loaves and two little fish.
+
+John VI, 10. And Jesus said: tell them all to lie down on the grass.
+
+11. And Jesus took the loaves that he had, and gave them to the disciples and told them to give to others; and so everyone began to give one another what there was, and all were satisfied, and much was still left over.
+
+26. The next day the people came to Jesus again, and he said to them: you see, you come to me not because you saw miracles, but because you ate bread and were satisfied.
+
+27. And he said to them: work not for perishable food, but for eternal food, such as only the spirit of the son of man gives, sealed by God.
+
+28. The Jews said: what, then, must be done in order to do the work of God?
+
+29. And Jesus said: the work of God lies in believing in that life which he has given you.
+
+30. They say: give us a proof, so that we may believe you about what you are doing.
+
+31. Our fathers ate manna in the wilderness. God gave them bread from heaven to eat; so it is written.
+
+32. Jesus answered them: the true heavenly bread is the spirit of the son of man, the one that the father gives.
+
+33. Because the nourishment of man is the spirit that came down from heaven. It is this that gives life to the world.
+
+35. My teaching gives true nourishment to people. He who follows me will not go hungry, and he who believes in my teaching will never know enmity.
+
+36. But I have already told you that you have seen this and do not believe.
+
+37. All the life that the father has given the son, all of it will be found in my teaching, and everyone who believes in it will be a sharer in it.
+
+38. Since I came down from heaven not in order to do what I want, but to do the will of the father, the one who gave me life.
+
+39. And the will of the father who sent me is that I should preserve all the life that he has given me and should lose nothing of it.
+
+40. And therefore the will of the father who sent me is this: that everyone who sees the son and believes in him should have eternal life. And my teaching will give life on the last day.
+
+<!-- vol. 24, p. 857 --> 41. The Jews were troubled that he had said that my teaching came down from heaven.
+
+42. They said: why, this is Jesus, the son of Joseph; we know his father and mother; how, then, does he say that his teaching came down from heaven?
+
+43. And Jesus said to them: do not judge about who I am and where I have come from.
+
+44. My teaching is true not because I, like Moses, will assure you that God spoke with me on Sinai, but it is true because it is in you too. Everyone who believes my commandments believes not because I say so, but because our common father draws him to himself, and my teaching gives him life until the last day.
+
+45. And in the prophets it is written that all will be taught by God. Everyone who understands the father and learns to understand his will, by this very thing gives himself to my teaching.
+
+46. That anyone has seen or sees God—this has never been; but he who is from God, he has seen and sees the father.
+
+47. He who believes me has eternal life.
+
+48. My teaching is the nourishment of life.
+
+49. Your fathers ate manna, food straight from heaven, and even so they died.
+
+50. But the true nourishment of life, which has come down from heaven, is such that whoever is nourished by it will not die.
+
+51. My teaching is the nourishment of life that has come down from heaven. Whoever is nourished by it lives forever. And this nourishment that I teach is my flesh, which I give up for the life of all people.
+
+52. The Jews did not understand at all what he had said, and began to argue about how one can give up one's flesh for the nourishment of people, and why.
+
+53. And Jesus said to them: if you do not give up your flesh for the life of the spirit, then there will be no life in you.
+
+54. He who does not give up his flesh for the life of the spirit has no real life.
+
+55. Only that in me which gives up the flesh for the spirit lives. And therefore our flesh is the true food for the real life.
+
+56. Only that which in me consumes my body, that which gives up the fleshly life for the true life, only that is I, truly I; that is in me, and I in it.
+
+57. And just as by the will of the father I live in the flesh, so exactly by my will that which lives in me will live.
+
+<!-- vol. 24, p. 858 --> 60. And some disciples, hearing this, said: these are harsh words, and they are hard to understand.
+
+61. And Jesus said to them: you are so confused that what I say about what man has been, and is, and always will be seems hard to you.
+
+63. Man is spirit in the flesh, and only the spirit gives life, but the flesh does not give life. In the words that seem so abstruse to you, I have, after all, said nothing more than that the spirit is life.
+
+Luke X, 1. Then Jesus chose seventy men from among those close to him and sent them to the places where he himself wanted to go.
+
+2. He said to them: many people do not know the good of real life; I pity them all and want to teach them all. But as a master cannot manage the harvest of his field alone, so I too will not have time.
+
+3. Go through the different towns and everywhere spread the word about the fulfillment of the will of the father. Say that the will of the father is in five commandments: 1st, not to grow angry; 2nd, not to be debauched; 3rd, not to swear oaths; 4th, not to resist evil; and 5th, not to make distinctions between people. And therefore fulfill these commandments yourselves in everything.
+
+Matt. X, 16. I send you as sheep among wolves. Be wise as snakes and pure as doves.
+
+Luke X, 4. First of all, have nothing of your own, take nothing with you: neither bag, nor bread, nor money, only the clothes on your body and shoes.
+
+Then make no distinctions between people; do not choose the hosts in whose houses you stay.
+
+Mark VI, 10. Whatever house you come to first, stay in that one. When you come into a house, greet the hosts.
+
+11. If they receive you, stay; if they do not receive you, go to another house.
+
+Matt. X, 22. For what you will say, they will hate you and will attack you and drive you out.
+
+23. And when they drive you out, go to another village, and when they drive you out of that one, go to yet another.
+
+They will drive you as wolves drive sheep, but do not lose heart; endure to the last hour. And they will take you to courts and try you, and they will flog you, and they will take you before the authorities so that you may justify yourselves before them.
+
+19. And when they take you to courts, do not lose heart and do not think up what to say: the spirit of the father will say in you what needs to be said.
+
+<!-- vol. 24, p. 859 --> 23. You will not yet have gone round all the towns before people will understand your teaching and turn to it.
+
+26. So do not be afraid. What is hidden in the souls of people will come out.
+
+27. What you say to two or three will spread among thousands.
+
+28. And above all, do not be afraid of those who can kill your body: they can do nothing to your souls. So do not be afraid of them. But be afraid that bodies and souls may be destroyed if you depart from fulfilling the will of the father; that is what you must be afraid of.
+
+29. Five sparrows are sold for a kopeck, and even they do not die without the will of the father.
+
+30. And not a hair falls from the head without the will of the father.
+
+31. So what have you to fear, if you are in the will of the father.
+
+34. Not everyone will believe in my teaching. And those who do not believe will hate it, because it deprives them of what they love, and there will be discord.
+
+Luke XII, 49. My teaching, like fire, will set the world ablaze.
+
+51. And because of this there must be discord in the world.
+
+52. There will be discord in every house.
+
+53. Father with son, mother with daughter—and the members of a family will become haters of the one who understands my teaching, and they will kill them.
+
+Luke XIV, 26. Because for the one who understands my teaching nothing will have any meaning: neither father, nor mother, nor wife, nor children, nor all his property.
+
+Matt. XII, 15. And then learned Orthodox men came from Jerusalem and went to Jesus. Jesus was in a village, and a multitude of people had crowded into the house and stood around.
+
+24. The Orthodox began telling the people not to listen to Jesus' teaching, that Jesus is raving, that if people live by his commandments, there will be still more evil among the people than now. They said that he drives out evil by evil.
+
+26. Jesus called them and said: you say that I drive out evil by evil. But no power can destroy itself. If it destroyed itself, it would not exist.
+
+27. You drive out evil by threats, executions, killings, and evil is still not destroyed, precisely because it cannot go against itself; but I drive out evil not by what you use—therefore not by evil.
+
+<!-- vol. 24, p. 860 --> 28. I drive out evil by calling people to fulfill the will of the spirit, the father, who gives life to all. The five commandments express the will of the spirit, which gives good and life.
+
+29. And therefore they destroy evil. And this is for you the proof that they are true. If people were not sons of one spirit, it would be impossible to conquer evil, just as it is impossible to enter a strong man's house and plunder it. To plunder a strong man's house, one must first bind the strong man. And people are bound in just this way by the unity of the spirit of life.
+
+31. And therefore I tell you that every human mistake and every false interpretation will not be held against them; but a false interpretation about the holy spirit, which gives life to all, will not be forgiven people.
+
+32. If anyone says a word against a man, that is nothing much; but if anyone says a word against what is holy in man, about the spirit, that cannot go unpunished for him. Abuse me as much as you like, but do not call evil those commandments of life that I have revealed to you. It cannot go unpunished for a man that he calls good evil.
+
+30. One must be at one with the spirit of life or against it. One must serve the spirit of life and of good in all people, and not in oneself alone.
+
+33. Either you consider that life and the good are good for the whole world—then love life and the good for all; or consider life and the good to be evil, and then do not love life and the good for yourselves either; either consider the tree good and its fruit good, or consider the tree bad and its fruit bad. Because a tree is valued by its fruit.
+
