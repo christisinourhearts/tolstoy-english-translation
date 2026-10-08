@@ -12,7 +12,7 @@ diaries, notebooks, educational writings, and *Circle of Reading* selections.
 - [Primer](translations/primer/) — material from *Azbuka* and *The New Primer*
 - [Circle of Reading](translations/circle_of_reading/) — Tolstoy's *Krug chteniya*
 
-The repository currently contains **330 translated Markdown files**.
+The repository currently contains **331 translated Markdown files**.
 Each filename uses an English title while retaining the edition volume and page
 prefix—for example, `v21_026_026_Nastya_Had_a_Doll.md`.
 
