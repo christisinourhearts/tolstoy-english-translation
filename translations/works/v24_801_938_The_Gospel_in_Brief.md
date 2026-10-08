@@ -1329,3 +1329,291 @@ Matt. XII, 15. And then learned Orthodox men came from Jerusalem and went to Jes
 
 33. Either you consider that life and the good are good for the whole world—then love life and the good for all; or consider life and the good to be evil, and then do not love life and the good for yourselves either; either consider the tree good and its fruit good, or consider the tree bad and its fruit bad. Because a tree is valued by its fruit.
 
+## Chapter VI FALSE LIFE
+
+### AND THEREFORE, TO RECEIVE TRUE LIFE, MAN MUST ON EARTH RENOUNCE THE FALSE LIFE OF THE FLESH AND LIVE BY THE SPIRIT. (AND ON EARTH, AS IN HEAVEN.)
+
+#### CONTENT OF CHAPTER VI
+
+For the life of the spirit there can be no distinction between members of one's family and strangers.
+
+Jesus says that his mother and brothers mean nothing to him as mother and brothers; only those are close to him who fulfill the will of the common father.
+
+<!-- vol. 24, p. 861 --> The blessedness and life of man depend not on family relations, but on the life of the spirit.
+
+Jesus says that blessed are those who hold to the understanding of the father. For a man who lives by the spirit there is no home. Animals have homes, but man lives by the spirit and therefore cannot have a home. Jesus says that he has no place appointed for him. For the fulfillment of the will of the father no particular place is needed; it is possible everywhere and always.
+
+Fleshly death cannot be terrible for a man who has given himself to the will of the father, because the life of the spirit does not depend on the death of the flesh. Jesus says that he who believes in the life of the spirit cannot be afraid of anything.
+
+No cares can prevent a man from living by the spirit. To the words of a man that he will fulfill Jesus' teaching later, but that first he must bury his father, Jesus answers: only the dead can care about burying the dead; but the living live always by fulfilling the will of the father.
+
+Cares about family and household affairs cannot hinder the life of the spirit. He who cares about what will come of the fulfillment of the will of the father for his fleshly life does the same as a plowman who plows and looks not ahead but back.
+
+The cares about the joys of fleshly life, which seem so important to people, are a dream. The one real business of life is the proclamation of the will of the father, attention to it, and the fulfillment of it. To Martha's reproach that she alone is taking care of supper, while her sister Mary, not helping her, listens to the teaching, Jesus answers: you reproach her in vain. Take care, if you need what care gives, but leave those who have no need of fleshly pleasures to do the one thing that is needed for life.
+
+Jesus says: he who wants to receive true life, which consists in fulfilling the will of the father, must before all else renounce his personal desires. Not only must he not build his life as he wishes, but he must be ready at any hour to bear every privation and suffering.
+
+He who wants to arrange his fleshly life as he wishes will ruin the true life of fulfilling the will of the father.
+
+And there is no profit in acquiring for the fleshly life, if this acquisition ruins the life of the spirit.
+
+More than anything, the life of the spirit is ruined by love of gain, by the acquiring of riches. People forget that, however much <!-- vol. 24, p. 862 --> wealth and property they may acquire, they can die at any hour, and their property is not needed for their life. Death hangs over each of us. Illness, killings by people, accidents can end life at any second. Fleshly death is an inevitable condition of every second of life. If a man lives, he must look on every hour of his life as a reprieve that has been granted him by someone's mercy. And this must be remembered, and we must not say that we do not know it. We know and foresee everything that happens on earth and in heaven, but that death which, we know, awaits us every second—this we forget. But if we do not forget this, then we cannot give ourselves to the life of the flesh, cannot count on it. In order to follow my teaching, one must reckon up the profits of serving the fleshly life, one's own will, and the profits of fulfilling the will of the father. Only he who has reckoned this clearly, only he can be my disciple. And whoever reckons it up will not grudge the imaginary good and the imaginary life for the sake of receiving the true good and the true life. True life is given to people, and people know it and hear its call, but, constantly carried away by momentary cares, they deprive themselves of it. True life is like a feast that a rich man gave and invited guests to. He calls the guests just as the voice of the spirit of the father calls all people to itself. But of the guests, some busied themselves with trade, others with farming, others with family affairs, and did not go to the feast; only the poor, who have no fleshly cares, went to the feast and received happiness. So too people, distracted by the cares of fleshly life, deprive themselves of true life. He who does not entirely renounce all the cares and fears of fleshly life cannot fulfill the will of the father, because one cannot serve oneself a little and the father a little. One must reckon whether it is profitable to serve one's flesh, whether one can arrange one's life as one wishes. One must do the same as a man does when he builds a house or is about to go to war. He will reckon whether he can finish, whether he can win. And if he sees that he cannot, then he no longer wastes either labor or troops. Otherwise he will ruin them for nothing and be a laughingstock to people. If it were possible to arrange the fleshly life as one wishes, then one would have to serve the flesh. But since it is not possible, then it is better to leave everything fleshly and to serve the spirit. Otherwise it will be neither one thing nor the other. You will not arrange the fleshly life, and you will lose the life of the spirit. And therefore, in order to fulfill the will of the father, one must entirely cast off the fleshly life.
+
+<!-- vol. 24, p. 863 --> The fleshly life is that wealth entrusted to us, belonging to another, imaginary, which we must use so as to obtain our own true wealth.
+
+If a steward lives with a rich man and knows that, however long he may serve the master, the master will pay him off and leave him with nothing, then this steward will act wisely if, while he is still managing another's wealth, he does good to people. Then, even if the master dismisses him, those to whom he has done good will take him in and feed him. People must do the same with their fleshly life. The fleshly life is that wealth belonging to another which they manage only for a time. If they use this wealth of another's well, then they will receive their own true wealth.
+
+If we do not give up our false property, then the true will not be given to us. One cannot serve the false life of the flesh and the spirit; one must serve the one or the other. One cannot serve wealth and God. What is great before people is an abomination before God. Before God wealth is evil. The rich man is guilty already in that he eats much and luxuriously while the poor go hungry at his door. And everyone knows that property which you do not give to others is a failure to fulfill the will of the father.
+
+Once one of the Orthodox, a ruler and a rich man, came up to Jesus and began to boast that he had fulfilled all the commandments of the law. Jesus reminded him that there is a commandment to love all people as oneself, that in this consists the will of the father. The ruler said that he had fulfilled this too. Then Jesus said to him: that is not true: if you wanted to fulfill the will of the father, you would not have property. One cannot fulfill the will of the father if one has property of one's own that one does not give to others.
+
+And Jesus said to his disciples: it seems to people that it is impossible to live without property, but I tell you that true life consists in giving what is one's own to others.
+
+One man, Zacchaeus, heard Jesus' teaching and believed it, and, having invited Jesus into his house, said to him: I give half my property to the poor, and I will give back fourfold to anyone I have wronged. And Jesus said: here is a man who fulfills the will of the father, because there is no position in which the will of God has been fulfilled; but our whole life is the fulfilling of it, and this man is fulfilling the will of the father.
+
+Good cannot be measured by anything; one cannot say who has done more, who less. The widow who gives her last polushka <!-- vol. 24, p. 864 --> gives more than a rich man who gives thousands. Nor can it be measured by what is useful and useless.
+
+Let the model of how good must be done be that woman who pitied Jesus and senselessly poured out on his feet costly oil worth 300 rubles. Judas said that she had acted foolishly, that many could have been fed with that. But Judas was a thief; he lied, and while speaking of fleshly usefulness he was not thinking of the poor. What is needed is not usefulness, not quantity, but always, every minute, the fulfillment of the will of the father—always, every minute, to love others and to give them what is one's own.
+
+Luke VIII, 19; Matt. XII, 46. And once Jesus' mother and brothers came to him and could not manage to see him, because there were many people around Jesus.
+
+Luke VIII, 20. And one man saw them, went up to Jesus, and says: your family, your mother and brothers, are standing outside; they want to see you.
+
+21. And Jesus said: my mother and my brothers are those who have understood the will of the father and fulfill it.
+
+Luke XI, 27. And a woman said: blessed is the womb that bore you, and the breasts that you sucked.
+
+28. Jesus said to this: blessed always are only those who have understood the understanding of the father and keep it.
+
+Luke IX, 57. And a man said to Jesus: I will follow you wherever you go.
+
+58. And Jesus said to him in answer: there is nowhere to follow me to: I have neither a house nor a place where I live. Only the beasts have lairs and burrows, but man is at home everywhere, if he lives by the spirit.
+
+Mark IV, 35. And once Jesus happened to be sailing with his disciples in a boat. He said: let us cross to the other side.
+
+37. A storm arose on the lake and began to swamp them, so that it nearly sank them.
+
+38. And he was lying in the stern and sleeping. They woke him and say: teacher! what is this, is it all the same to you that we are perishing?
+
+40. And when the storm had died down, he said: why are you so timid? There is no faith in you in the life of the spirit.
+
+Luke IX, 59. To one man Jesus said: follow me. And the man said: I have an old father; bid me first bury him, then I will follow you.
+
+<!-- vol. 24, p. 865 --> 60. And Jesus said to him: let the dead bury the dead, but you, if you want to be alive, fulfill the will of the father and spread the word of it.
+
+61. And yet another man said: I want to be your disciple and will fulfill the will of the father, as you command, but let me first settle my household.
+
+62. And Jesus said to him: if a plowman looks back, he cannot plow. However much you look back, as long as you are looking back you cannot plow. You must forget about everything except the furrow you are driving; only then can you plow. If you are reasoning about what will come of it for the fleshly life, then you have not understood the real life and cannot live by it.
+
+Luke X, 38. After this it happened once that Jesus and his disciples stopped in a village. And a woman, Martha, invited him into her house.
+
+39. And Martha had a sister, Mary, and she sat down at Jesus' feet and listened to his teaching.
+
+40. But Martha was bustling about to have a good meal ready. And Martha came up to Jesus and says: it is nothing to you that my sister has left me to serve alone. Tell her to work with me too.
+
+41. And in answer Jesus said to her: Martha, Martha, you care and bustle about many things, but only one thing is needed.
+
+42. And Mary has chosen that one thing that is needed and that no one will take away from her. For life only the one food of the spirit is needed.
+
+Luke IX, 23. And Jesus said to all: whoever wants to follow after me, let him renounce his own will and be ready for every privation and suffering of the flesh at any hour; only then can he follow after me.
+
+24. Because he who wants to care about his fleshly life will ruin the true life. But whoever, even if he ruins his fleshly life, fulfills the will of the father, will save the true life.
+
+25. Because what profit is it to a man if he gets hold of the whole world, but ruins or damages his own life.
+
+Luke XII, 15. And Jesus said: beware of wealth, because your life does not come from your having more than others.
+
+16. There was a rich man, and a great deal of grain grew for him.
+
+17, 18. And he thinks to himself: let me rebuild my granaries, build big ones, and gather all my riches into them.
+
+<!-- vol. 24, p. 866 --> 19. And I will say to my soul: there, soul, you have plenty of everything; rest, eat, drink, and live for your own pleasure.
+
+20. And God said to him: fool, this very night they will take your soul, and everything you have laid by will remain for others.
+
+21. So it goes with everyone who makes provision for the fleshly life and does not live in God.
+
+Luke XIII, 2. And Jesus said to them: here you are telling how Pilate killed some Galileans. What, then, were these Galileans in any way worse than other people, that this happened to them?
+
+3. Not at all. We are all such, and we will all perish the same way, if we do not find salvation from death.
+
+4. Or those eighteen men whom the tower crushed when it fell down—were they special, worse than all the other inhabitants of Jerusalem?
+
+5. Not at all. If we are not saved from death, then today or tomorrow we will perish in just the same way.
+
+6. If we have not yet perished like them, then we must think about ourselves like this: an apple tree grows in a man's garden. The master comes into the garden, looked at the apple tree, and sees: there is no fruit on it.
+
+7. And the master says to the gardener: here I have been coming for three years, and this apple tree is still barren. It must be cut down; why should it spoil the place for nothing?
+
+8. But the gardener says: let us wait a little longer, master; let me dig around it, lay manure around it, and we will see next summer. Perhaps it will bear fruit. And if it does not bear by next summer either, well, then we will cut it down.
+
+So it is with us too: as long as we are alive in the flesh and do not bear the fruit of the life of the spirit, we too are a barren apple tree. Only by someone's mercy have we been left until next summer. And if we do not bear fruit, we will perish in the same way as the man who built the granary; as the Galileans, as the eighteen crushed by the tower, and as all who do not bear fruit perish, dying by death forever.
+
+Luke XII, 54. To understand this no wisdom is needed; everyone sees it for himself. Why, not only in household matters, but even in what goes on in the whole world, we know how to reason and to guess ahead. If the wind is from the west, we say: that means rain—and so it is.
+
+55. And if the wind is from the south, we say: that means fair weather—and so it is.
+
+56. Well then, we know how to tell the weather, yet we cannot guess ahead that we will all die and perish, and that the one salvation for us is the life of the spirit, the fulfillment of its will.
+
+<!-- vol. 24, p. 867 --> Luke XIV, 25. And many people went with Jesus, and he said once more to all:
+
+26. He who wants to be my disciple, let him count as nothing father, and mother, and wife, and children, and brothers, and sisters, and all his property, and let him be ready for anything at any hour.
+
+27. And only he who does as I do, only he follows my teaching, and only he is saved from death.
+
+28. Because everyone, before beginning anything, reckons up whether what he is doing is profitable; and if it is profitable, he does it, and if it is not profitable, he drops it. Why, everyone who builds a house first sits down and reckons up how much money is needed, how much he has, and whether it will be enough to finish.
+
+29. So that it does not happen that he has begun to build and not finished, and people laugh.
+
+30. In the same way, he who wants to live by the fleshly life must first reckon up whether he can finish what he is busy with.
+
+31. And every king, if he wants to make war, first thinks whether he can go to war with ten thousand against twenty thousand.
+
+32. If he reckons that he cannot, he will send envoys and make peace, and will not go to war any longer. So too let every man, before giving himself to the fleshly life, think: can he make war against death? or is death stronger than he? and then, would it not be better for him to make peace beforehand.
+
+33. So, then, every one of you must first sort out what he considers his own: family, money, property. And when he reckons up what use there is in this, and understands that there is none, only then can he be my disciple.
+
+15. And hearing this, one man said: it is all well if there is a life of the spirit. But what if we give everything away and there is no such life after all.
+
+16. To this Jesus said: that is not true; everyone knows the life of the spirit. You all know that the fulfillment of the will of the father gives life. You know this, but you do not do it, not because you doubt, but because you are distracted from the true life by false cares and make excuses to get out of it. Here is what you do: a master prepared a dinner and sent to call the guests, but the guests began to decline.
+
+18. One said: I have bought land; I must go and look at it.
+
+19. Another said: I have bought oxen; I must try them out.
+
+20. A third said: I have got married and am going to celebrate the wedding.
+
+<!-- vol. 24, p. 868 --> 21. And the workmen came and told the master that no one was coming. The master then sent the workmen to call the poor. The poor did not decline, and they came.
+
+22. And when they had come, there was still room left.
+
+23. And the master sent to call more and says: go and persuade everyone to come to my dinner, so that I may have more people; but those who declined for lack of time did not get to the dinner.
+
+Luke XVI, 1. Everyone knows that the fulfillment of the will of the father gives life, but they do not go, because the deception of wealth distracts them.
+
+He who gives up false, temporary wealth for the true life in the will of the father will do the same as a clever steward would do.
+
+There was a man who was steward to a rich master, and the steward sees that at any moment the master will drive him off, and the steward will be left without bread or shelter.
+
+3. And the steward thought to himself: let me do this: I will quietly hand out some of the master's goods to the peasants, I will reduce their debts, and then, if the master drives me out, the peasants will remember the good I did and will not abandon me.
+
+5. And so the steward did: he called the peasants, the master's debtors, and rewrote their receipts for them.
+
+6. Whoever owed 100, he wrote 50; whoever owed 60, he wrote 20; and the same for the others.
+
+8. And now the master learned of this and says to himself: well, what of it? why, he has acted cleverly. Otherwise he would have had to go begging. He has caused me a loss, but by his reckoning he has acted cleverly. Because in the fleshly life we all understand where the sound reckoning lies, but in the life of the spirit we do not want to understand.
+
+9. That is how we too must act with unrighteous and false wealth: give it away in order to receive the life of the spirit.
+
+10. And if we grudge such trifles as wealth for the life of the spirit, then it will not be given to us.
+
+11. If we do not give up false wealth, then our own life will not be given to us.
+
+13. One cannot serve two lords at once: God and wealth; the will of the father and one's own will. Either the one or the other.
+
+14. And the Orthodox heard this. And the Orthodox loved wealth, and they mocked Jesus.
+
+<!-- vol. 24, p. 869 --> 15. And he said to them: do you think that because people honor you for your wealth, you are really honorable? No, God does not look at the outside, but looks at the heart. What is high before people is vomit before God.
+
+16. Now the kingdom of heaven is on earth, and great are those who enter it. And it is not the rich who enter it, but those who have nothing. And it was always so according to your law, too: according to Moses, and according to the prophets too.
+
+17. Listen to what the rich and the poor are according to your faith.
+
+19. There was a rich man. He dressed up, caroused, and made merry every day.
+
+20. And there was a tramp, Lazarus, covered in scabs.
+
+21. And Lazarus used to come to the rich man's yard, thinking: may there not be some scraps left over from the rich man? but even the scraps did not come to Lazarus: the rich man's dogs ate everything up, and licked Lazarus's sores besides.
+
+22. And they both died—both Lazarus and the rich man.
+
+23. And now in hell the rich man saw, far, far away, Abraham, and he looks—and scabby Lazarus is sitting with him.
+
+24. And the rich man says: Father Abraham, there is scabby Lazarus sitting with you: he used to lie about under my fence. I do not dare trouble you. Send scabby Lazarus to me; let him wet his finger in water and give me something to cool my throat. Because I am burning in the fire.
+
+25. But Abraham says: why should I send Lazarus to you in the fire? In that world you had whatever you wished, while Lazarus saw only grief, so now he ought to rejoice.
+
+26. And even if I wanted to do it, it is impossible, because between us and you there is a great chasm, and it cannot be crossed. We are living, and you are dead.
+
+27. Then the rich man says: well, then, Father Abraham, at least send scabby Lazarus to my house.
+
+28. I have five brothers; I pity them. Let him tell them everything and show them how harmful wealth is. Otherwise they too might come into this torment.
+
+29. But Abraham says: they know as it is that it is harmful. Moses told them this, and all the prophets too.
+
+30. And the rich man says: it would still be better if someone rose from the dead and came to them; they would come to their senses better.
+
+30. But Abraham said: if they do not listen to Moses and the prophets, then even if a dead man rises, they will not listen to him either.
+
+<!-- vol. 24, p. 870 --> Mark X, 17. That one must share with one's brother and do good to people—this everyone knows. And the whole law of Moses, and all the prophets, said only this same thing. You know this, but you cannot do it, because you love wealth.
+
+And a rich ruler from among the Orthodox came up to Jesus and said to him: you, good teacher, what must I do to receive eternal life?
+
+18. Jesus said: why do you call me good? Only the father is good. But if you want to have life, then fulfill the commandments.
+
+19. And the ruler says: there are many commandments—which ones? And Jesus says: do not kill, do not fornicate, do not steal, do not lie, and also honor your father, fulfill his will, and love your neighbor as yourself.
+
+20. And the Orthodox ruler says: all these commandments I have fulfilled since childhood, but I am asking further what needs to be done according to your teaching.
+
+21. Jesus looked at him, at his rich clothes, smiled, and says: one little thing you have not finished doing; you have not fulfilled what you say. If you want to fulfill these commandments: do not kill, do not fornicate, do not steal, and do not lie, and, chiefly, the commandment—love your neighbor as yourself—then sell all your property at once and give it to the poor; then you will fulfill the will of the father.
+
+22. The ruler heard this, frowned, and went away, because he grudged his property.
+
+23. And Jesus said to his disciples: there, you see that it is in no way possible to be rich and to fulfill the will of the father.
+
+24. The disciples were horrified at these words. But Jesus repeated it once more and says: yes, children, it is impossible for one who has property of his own to be in the will of the father.
+
+25. A camel will sooner go through the eye of a needle than one who relies on wealth will fulfill the will of the father.
+
+26. And they were still more horrified and say: how can it be, then? Then one cannot even preserve one's life.
+
+27. But he says: it seems to a man that he cannot preserve his life without property, but God preserves the life of a man even without property.
+
+Luke XIX, 1. Once Jesus was passing through the town of Jericho.
+
+2. And in this town there was a chief of the tax farmers, a rich man, and his name was Zacchaeus.
+
+<!-- vol. 24, p. 871 --> 3. This Zacchaeus had heard about Jesus' teaching and believed in it. And when he learned that Jesus was in Jericho, he wanted to see him. There were so many people around that it was impossible to push one's way through to him. And Zacchaeus was small of stature.
+
+4. Then he ran on ahead and climbed a tree, so as to see Jesus when he passed by the tree.
+
+5. And sure enough, passing by, Jesus saw him and, learning that he believed his teaching, said: come down from the tree and go home; I will come to you.
+
+6. Zacchaeus climbed down, ran home, prepared a welcome for Jesus, and received him with joy.
+
+7. The people began to judge and to say about Jesus: there, he has gone into the house of a tax farmer, a rogue.
+
+8. And meanwhile Zacchaeus said to Jesus: here, sir, is what I will do. Half of my property I will give to the poor, and out of the rest I will pay back fourfold all those whom I have wronged.
+
+9. And Jesus said: now you are saved: you were dead and have become alive, you were lost and are found, because you have shown your faith by deed, as Abraham did when he was willing to slaughter his son.
+
+10. Because the whole life of man lies in this: to seek out and to save in one's soul what is perishing. A sacrifice cannot be measured by its size.
+
+Luke XII, 41. It happened once that Jesus and his disciples were sitting opposite the collection box. People put their property into the box for God. And rich people came up to the box and put in a great deal.
+
+42. And a poor woman, a widow, came up and put in two polushkas.
+
+43. And Jesus pointed to her and said to his disciples: there, you see that this widow, a poor woman, put in two polushkas; yet she put in more than all.
+
+44. Because those people put in what they do not need for life, but this woman put in everything she had; she put in her whole life.
+
+Matt. XXVI, 6. Jesus happened to be in the house of Simon the Mangy.
+
+7. And a woman came into the house. And this woman had a jug of costly pure oil worth 300 rubles. Jesus had told his disciples that his death was near. The woman heard this and pitied him, and wanted to show him her love and to anoint his head with oil. And she forgot everything, and what the oil cost, and broke the whole jug, and anointed his head and feet, and poured out all the oil.
+
+<!-- vol. 24, p. 872 --> 8. And the disciples began to judge among themselves that she had done a bad thing. And Judas, the one who afterward betrayed Jesus, said: look how much good stuff has been wasted for nothing!
+
+9. This oil could have been sold for three hundred rubles, and how many poor people provided for! And the disciples began to reproach the woman, and she was troubled and did not know whether she had done well or badly.
+
+10. Then Jesus said to them: you trouble the woman for nothing: she has truly done good, and you bring up the poor for nothing.
+
+11. If you want to do good to the poor, do it—they are always there. Why, then, talk about them? If you pity the poor, go, pity them, do good to them; but she pitied me and did real good, because she gave everything she had. Which of you can know what is needed and what is not? How do you know that it is not needed to pour oil on me? She has poured oil on me, if only to prepare my body for burial, and for that it is needed.
+
+13. She has truly fulfilled the will of the father; she forgot herself and pitied another, forgot fleshly reckonings and gave everything she had.
+
+Matt. XXI, 28. And Jesus said: my teaching is the fulfillment of the will of the father, and the will of the father can be fulfilled only by deed, and not by words.
+
+If one son keeps saying to his father's orders, "I hear, I hear," but does not do what the father tells him, then surely he does not fulfill the will of the father.
+
+29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: not he is in the will of the father who says: I am in the will of the father—but he who does what the father wants.
+
