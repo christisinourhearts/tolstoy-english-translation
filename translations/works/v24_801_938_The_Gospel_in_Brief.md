@@ -1617,3 +1617,329 @@ If one son keeps saying to his father's orders, "I hear, I hear," but does not d
 
 29. But if another son even says, "I won't obey," but then goes and does as his father ordered, then surely he has fulfilled the will of the father. So it is among people too: not he is in the will of the father who says: I am in the will of the father—but he who does what the father wants.
 
+## Chapter VII I AND THE FATHER ARE ONE
+
+### THE TRUE NOURISHMENT OF INFINITE LIFE IS THE FULFILLMENT OF THE WILL OF THE FATHER AND UNION WITH HIM. (GIVE US OUR DAILY BREAD.)
+
+#### CONTENT OF CHAPTER VII
+
+In answer to the Jews' demand for proofs of the truth of his teaching, Jesus says: the truth of my teaching is proved by this, that I teach not from myself, but from the father common to all. I teach what is good for the father of all people and therefore for all people.
+
+<!-- vol. 24, p. 873 --> Do what I say, fulfill the five commandments, and you will see that what I say is true. The fulfillment of the five commandments drives all evil out of the world, and therefore it is certain that they are true. It is clear that he who teaches what is not his personal will, but the will of the one who sent him—it is clear that he teaches the truth. The law of Moses teaches the fulfillment of the will of people, and therefore it is full of contradictions; but my teaching teaches the fulfillment of the will of the father, and therefore it all comes down to unity.
+
+The Jews did not understand him and sought external proofs of whether he himself was the Christ of whom it is written in the prophecies. To this he said to them: do not try to make out who I am and whether it is of me that it is written in your prophecies, but look into my teaching, into what I say about the father common to us. You need not believe me as a man, but you must believe what I say in the name of the father common to all people. You must not try to make out by externals where I come from, but must follow my teaching. He who follows my teaching will receive true life. There can be no proofs of my teaching. It is light. And as light cannot be lit up, so the truth of truth cannot be proved. My teaching is light; and whoever sees it has light and life, and there is nothing to prove to him. But whoever is in darkness must go to the light.
+
+But the Jews asked him again: who is he according to the flesh? He said to them: I am what I told you from the beginning. I am a man, a son of the father of life. Only he who understands the very same thing about himself and fulfills the will of the common father, only he will cease to be a slave and will become free. Because only the error that takes the fleshly life for the real life makes us unfree. He who understands the truth, that life is only in fulfilling the will of the father, only he will become free and immortal. Just as a slave does not remain in the master's house always, but the son remains always, so too a man who lives as a slave of the flesh does not remain in life always; but a man who fulfills the will of the father in spirit remains in life always.
+
+To understand me, you must understand that my father is not the same as your father, the one whom you call God. Your father is a fleshly God, but my father is the spirit of life. Your father God is a vengeful God, a man-killer, one who executes people; but my father gives life. And therefore we are children of different fathers. I seek the truth, and you want to kill me for it, to please your God. Your God is the devil, the source of evil, and if you <!-- vol. 24, p. 874 --> serve him, then you serve the devil. But my teaching is that we are sons of the father of life, and whoever believes my teaching will not see death. The Jews said: how can a man not die, if all the people most pleasing to God—even Abraham—died? How can you say that you and those who believe your teaching will not die?
+
+To this Jesus answered: I say nothing from myself. I speak of that very source of life which you call God and which is in people. This source I know and cannot fail to know, and I know its will and fulfill it; and it is of this source of life that I say that it was, and is, and will be, and that for it there is no death. The demand for proofs of the truth of my teaching is like people demanding proofs from a blind man of why and how he came to see the light.
+
+A healed blind man, remaining the same man he was before, could say only that he was blind and now sees. Exactly the same, and nothing more, can be said by the man who did not understand the meaning of his life before and has understood it. Such a man would say only that formerly he did not know the true good of life, and now he knows it. And just as a healed blind man, if he is told that he has been healed improperly, that the man who healed him is a sinner, that he must be healed in another way—the healed man can say nothing else but this: I know nothing about the properness of the healing or the sinfulness of the healer; as for another, better healing, I know one thing: I was blind, and now I see.
+
+In exactly the same way, one who has grasped the meaning of the teaching about the true good, the fulfillment of the will of the father, can say nothing about whether this teaching is proper, whether the one who revealed it is a sinner, and whether an even better good can be known—he will say: before, I did not see the meaning of life, and now I see it, and I know nothing more.
+
+And Jesus said: my teaching is the awakening of a life that had been asleep until then; whoever believes my teaching awakens to eternal life and lives after death.
+
+My teaching is not proved by anything, but people give themselves to my teaching because it alone promises life to all people. As sheep follow a shepherd who gives the sheep food and life, so people accept my teaching because it gives life to all. And as sheep do not follow a thief who climbs over into the sheepfold, <!-- vol. 24, p. 875 --> but shy away from him, so too people cannot believe in those teachings that teach violence and executions. My teaching is the door for the sheep, and all those who follow me will find true life. As among shepherds only those are good who are themselves the masters and love the sheep and give their life for the sheep, while the hired ones are bad, those who do not love the sheep, so too only that teacher is true who does not spare himself, and that one is bad who cares only about himself. My teaching is not to spare oneself, but to give up one's fleshly life for the life of the spirit, and I teach this and fulfill it.
+
+The Jews still did not understand him and still sought external proofs of whether he was the Christ or not, and therefore whether they should believe him or not. They said: do not torment us, but tell us plainly: are you the Christ or not? And to this Jesus answered them: you must believe not words, but deeds. By the deeds that I teach you will understand whether I teach truly or not. Do what I do, and do not try to make out words. Fulfill the will of the father, and then you will all be united with me and with the father, because I, the son of man, am the same as the father. I am not the Christ, but more than the Christ; I am the same as what you call God and what I call the father. I and the father are one. And in your scripture it is said that God said to people: you are Gods. Every man by the spirit is a son of the father. And if he lives fulfilling the will of the father, then he is united with the father. If I fulfill his will, then the father is in me and I am in the father.
+
+After this Jesus asked his disciples how they understand his teaching about the son of man. Simon Peter answered him: your teaching is that you are the son of the God of life, that God is the life of the spirit in man.
+
+And Jesus said to him: not I alone, but all people as well; and it was not I who revealed this to people, but the common father of people. On this understanding the true life of people is founded. For this life there is no death.
+
+John VII, 1. After this the Jews tried to have Jesus condemned to death, and Jesus went away to Galilee and lived with his family.
+
+2. The Jewish feast of the renewal of the tabernacle came round.
+
+3. And Jesus' brothers got ready to go to the feast and began calling Jesus to come with them.
+
+5. They did not believe in the teaching and said to him: here you say that the Jewish service of God is not right, and that you know <!-- vol. 24, p. 876 --> the real service of God by deed. If you really think that no one besides you knows the true service of God, then come with us to the feast; there will be many people there—so there, before all the people, declare that the teaching of Moses is false. If everyone believes you, then your disciples too will see that you are right.
+
+4. Otherwise, why hide? You say that our service of God is false, that you know the true service of God. Well then, show it to everyone.
+
+6. And Jesus said to them: for you there is a special time and place for the service of God, but for me there is no special time for the service of God. Always and everywhere I work for God.
+
+7. It is this very thing that I show people; I show them that their service of God is false, and it is for this that they hate me.
+
+8. You go to the feast, and I will go when I think fit.
+
+9. And his brothers went away, but he stayed behind and came later, in the middle of the feast.
+
+11. And the Jews were troubled that he did not honor their feast and had not come.
+
+12. And there was much arguing about his teaching. Some said that he speaks the truth, and others said that he only troubles the people.
+
+14. In the middle of the feast Jesus went into the temple and began to teach the people that their service of God was false, that God must be served not in the temple and by sacrifices, but in spirit and in deed, by fulfilling the five commandments.
+
+15. Everyone listened to him and marveled that he, without having studied, knows all wisdom.
+
+16. And Jesus, hearing that they were surprised at his wisdom, said to them: my teaching is not mine, but that of the one who sent me.
+
+17. If anyone wants to fulfill the will of that spirit which sent us into life, he will know that it is not I who invented this, but that this teaching is from God.
+
+18. Because he who has invented something from himself seeks what seems right to him; but he who seeks what seems right to the one who sent him is just, and there is no untruth in him.
+
+19. Your law of Moses is not the law of the father, and that is why those who follow it do not fulfill the law of the father, and do evil and falsehood.
+
+21. I teach you the fulfillment of the one will of the father, and in my teaching there can be no contradiction.
+
+<!-- vol. 24, p. 877 --> 22, 23. But your written law of Moses is all full of contradictions.
+
+24. Do not judge by externals, but judge by the spirit.
+
+25. And many said: and yet they said that he is a false prophet, but here he is condemning the law, and no one says anything to him.
+
+26. Perhaps he really is the true one; perhaps the rulers too have acknowledged him.
+
+27. Only on one count one cannot believe him: it is said that when the messenger from God comes, no one will know where he comes from, but we know where he was born and all his relatives. The people still did not understand his teaching and kept seeking proofs.
+
+28. Then Jesus said to them: you know me and where I come from in the fleshly way, but you do not know where I come from in the spirit. The one from whom I come in the spirit—him you do not know, and he is the only one who needs to be known.
+
+29. If I said that I am the Christ, you would believe me, a man, and would not believe the father, who is in me and in you. But one must believe the father alone.
+
+33. I am here among you for no long time of my life; I am showing you the way to that source of life from which I came forth.
+
+34. But you have asked me for proofs and want to condemn me. If you do not know this way, then when I am gone you will in no way find it. You must not pass judgment on me; you must follow me. Whoever does what I say will know whether what I tell you is true.
+
+38. He for whom the fleshly life has not become food for the spirit does not seek the truth as a thirsty man seeks water; he cannot understand me. But he who thirsts for the truth, let him come to me and drink. And he who believes in my teaching will receive true life.
+
+39. He will receive the life of the spirit.
+
+40. And many believed in his teaching and said: what he says is the truth and is from God.
+
+42. Others did not understand him and kept searching the prophecies for proofs that he was sent from God.
+
+43. And many argued with him, but no one could refute him.
+
+44. The learned Orthodox sent their assistants to dispute with him.
+
+45. But their assistants returned to the Orthodox bishops and said: we can do nothing with him. And the bishops said: why did you not convict him?
+
+<!-- vol. 24, p. 878 --> 46. And they answered: never has any man spoken as he does.
+
+47. Then the Orthodox said: it means nothing that he cannot be refuted and that the people believe in his teaching.
+
+48. We do not believe, and none of the rulers believes.
+
+49. But the accursed people—they were always stupid and unlearned; they believe anyone.
+
+50. And Nicodemus, the one to whom Jesus had explained his teaching, said to the bishops:
+
+51. One cannot condemn a man without hearing him and understanding what he is leading to.
+
+52. But they said to him: there is nothing to judge or to listen to. We know that a prophet cannot come from Galilee.
+
+John VIII, 12. Another time Jesus was talking with the Orthodox and said to them: there can be no proofs of the truth of my teaching, just as there can be no lighting up of light. My teaching is the real light, by which people see what is good and what is bad, and therefore my teaching cannot be proved; it proves everything else. Whoever follows me will not be in darkness, but will have life. Life and light are one and the same.
+
+13. But the Orthodox said: you alone say this.
+
+14. And he answered them: even if I alone say this, still the truth is mine, because I know where I have come from and where I am going. According to my teaching there is a meaning of life, but according to yours there is none.
+
+18. Besides, I do not teach alone; my father, the spirit, teaches the very same thing.
+
+19. They said: where is your father? He said: you do not understand my teaching and therefore do not know my father.
+
+21. You do not know where you come from and where you are going. I am leading you, but you, instead of following me, try to make out who I am, and therefore you cannot come to the salvation and life to which I am leading you.
+
+24. And you will perish if you remain in this error and do not follow me.
+
+25. And the Jews asked: who are you? He said: from the very beginning I have been telling you:
+
+26. I am the son of man, who acknowledges the spirit as his father; and what I have understood from the father, that I say to the world.
+
+28. And when you exalt the son of man in yourselves, then you will know what I am, because I do and say nothing from myself, as a man; but what my father has taught me, that I say, that I teach.
+
+<!-- vol. 24, p. 879 --> 29. And the one who sent me is always with me, and the father will not leave me, because I do his will.
+
+31. He who holds to my understanding, who fulfills the will of the father, will be truly taught by me. For the knowledge of truth one must do good to people. He who does evil to people loves darkness and goes to it; he who does good to people goes to the light. And therefore, to understand my teaching, one must do deeds of good.
+
+32. He who does good will know the truth; he will be free from evil and death.
+
+34. Because everyone who errs becomes the slave of his error.
+
+35. And as a slave does not live in the master's house always, but the master's son is always in the house, so too a man, if he has gone astray in life and becomes the slave of his errors, does not live always, but dies. Only he who is in the truth, only he remains alive always. And the truth is to be not a slave, but a son. So that if you err, you will be slaves and will die.
+
+36. But if you are in the truth, you will be free sons and will be alive.
+
+37. You say of yourselves that you are sons of Abraham, that you know the truth. But here you want to kill me, because you do not understand my teaching.
+
+38. And it comes out that I say what I have understood from my father, but you want to do what you have understood from your father.
+
+39. They said: our father is Abraham. Jesus said to them: if you were sons of Abraham, you would do his deeds.
+
+40. But here you want to kill me because I have told you what I have understood from God. Abraham did not do so. So you serve not God, but your own father—another one.
+
+41. They said to him: we are not bastards; we are all children of one father, all God's.
+
+42. And Jesus said to them: if your father were one with mine, then you would love me, because I came forth from the father. I was not, after all, born of myself.
+
+43. You are not children of one father with me; that is why you do not understand my words, and my understanding does not find room in you. If I am from the father and you are from the same father, then you cannot wish to kill me. But if you wish to kill me, then we are not from one father.
+
+<!-- vol. 24, p. 880 --> 44. I am from the father of good, God, but you are from the devil, from the father of evil. You want to do the lusts of your father the devil; he always was a murderer and a liar, and there is no truth in him. If he says anything, the devil, he speaks what is his own personal concern, and not what is common to all, and he is the father of lies. Therefore you are servants of the devil and his sons.
+
+46. There, you see how easy it is to convict you of error. But if I am in error, then convict me. And if there is no error in me, then why do you not believe me?
+
+48. And the Jews began to abuse him and said that he was mad.
+
+49. He said: I am not mad, but I honor the father, and you want to kill me; so you are not my brothers, but children of another father.
+
+50. It is not I who affirm that I am right, but the truth speaks for me.
+
+51. And therefore I repeat to you: he who grasps my teaching and carries it out will not see death.
+
+52. And the Jews said: well, are we not telling the truth that you are a mad Samaritan? You convict yourself. The prophets died, Abraham died, and you say that whoever carries out your teaching will not see death.
+
+53. Abraham died, and you will not die? Or are you greater than Abraham?
+
+54. The Jews kept reasoning about whether he, Jesus from Galilee, was an important prophet or not, and forgot all that he had told them: that he says nothing about himself as a man, but speaks of the spirit that was in him. And Jesus said: I do not make anything of myself. If I spoke of myself, of what seems right to me, then all that I said would mean nothing; but there is that source of all which you call God—it is of him that I speak.
+
+55. But you have not known and do not know the real God, and I know him. And I cannot say that I do not know him. I would be a liar, just like you, if I said that I do not know him. I know him and know his will and fulfill it.
+
+56. Abraham, your father, saw and rejoiced at my understanding.
+
+57. The Jews said: you are fifty years old; how could you have lived in Abraham's time?
+
+58. He said: before Abraham was, there was the understanding of good, that of which I am speaking to you.
+
+59. The Jews seized stones to stone him, but he went away from them.
+
+<!-- vol. 24, p. 881 --> John IX, 1. And on the way Jesus saw a man dark from birth.
+
+2. And the disciples asked: who is to blame that this man is dark from birth? he, or his parents, for not having taught him?
+
+3. And Jesus answered: neither his parents are to blame nor he himself, but the work of God lies in this: that there should be light where there was darkness.
+
+5. If there is my teaching, then it is light to the world.
+
+6, 7. And Jesus revealed to the dark man the teaching that he is a son of the God of the spirit, and, having come to know this teaching, the dark man came to know the light.
+
+8, 9. And those who had known this man before did not recognize him. He looked like the former man, but had become a different man.
+
+11. But he said: I am the same, but Jesus revealed that I am a son of God, and the light was revealed to me, and I saw what I had not seen before.
+
+13. They called this man before the Orthodox teachers.
+
+14. And it was the sabbath.
+
+15. And the Orthodox asked him how he had come to understand everything, when before he was dark. He said: I do not know how, but I know that now I understand everything.
+
+16. They said: you do not understand this in God's way, because Jesus did this on the sabbath; and besides, a worldly man cannot enlighten people. And they began to argue.
+
+17. And then they asked the enlightened man: what do you think of him? He said: I think that he is a prophet.
+
+18. The Jews did not believe that he had been dark before and had now been enlightened, until they called his parents and asked them.
+
+19. Is this your son, the one who was dark from birth? How, then, has he now been enlightened?
+
+20. His parents said: we know that this is our son and that he was dark from birth.
+
+21. But how he has now been enlightened, we do not know. He is grown up; ask him himself.
+
+24. The Orthodox called that man a second time and said: pray to our real God; and that man who enlightened you is a worldly man and not from God; we know this for certain.
+
+25. And the enlightened man said: whether that man is from God or not, this I do not know. One thing I know: that before I did not see the light, and now I see.
+
+<!-- vol. 24, p. 882 --> 26. And the Orthodox asked again: what did he do to you, how did he enlighten you?
+
+27. He said: I have told you already, but you do not believe. If you want to be his disciples, then I will tell you again.
+
+28. And they began to abuse him and said: you are his disciple, but we are disciples of Moses.
+
+29. God himself spoke with Moses. But about this man we do not even know where he comes from.
+
+30. And the man answered and said: this is just what is astonishing, that he has enlightened me, and you do not know where he comes from.
+
+31. God does not listen to sinners, but to those who honor God and fulfill his will.
+
+33. It can never be that a man who is not from God could enlighten a dark man. If he were not from God, he could do nothing.
+
+34. And the Orthodox grew angry and said: you are sunk in errors through and through, and you want to teach us. And they drove him out.
+
+John XI, 25. And Jesus said: my teaching is the awakening of life. Whoever believes in my teaching, although he dies in the flesh, remains alive; and everyone who lives and believes in me will not die.
+
+X, 1. And yet a third time Jesus taught the people. He said: people give themselves to my teaching not because I myself prove it. Truth cannot be proved. Truth proves everything else. But people give themselves to my teaching because it is one, and familiar to people, and promises life.
+
+2, 3. My teaching is for people like the familiar voice of the shepherd for the sheep, when he comes in to them by the door and gathers them to lead them to pasture.
+
+5. But no one believes your teaching, because it is alien to people, and people see your lusts in it. It is for people the same as, for sheep, the sight of a man who does not come in by the door but climbs over the fence. The sheep do not know him, but sense that he is a robber.
+
+7. My teaching is the one true one, as the one door for the sheep.
+
+8. All your teachings of the law of Moses are all lies, all like thieves and robbers to the sheep.
+
+9. Whoever gives himself to my teaching will find true life, just as the sheep will go out and find food if they follow the shepherd.
+
+<!-- vol. 24, p. 883 --> 10. Because a thief comes only in order to steal, rob, and destroy, but a shepherd comes in order to give life. And my teaching alone promises and gives true life.
+
+11. There are shepherds for whom the sheep make up their life and who give their life for the sheep—these are real shepherds.
+
+12. And there are hirelings, such as do not care about the sheep, because they are hirelings and the sheep are not theirs; such that if a wolf comes, they abandon the sheep and run from them, and the wolf destroys the sheep.
+
+13. These are not real ones; so too there are teachers who are not real, such as care nothing for the life of people, and real ones—such as give their soul for the life of people.
+
+14. I am such a teacher.
+
+17. My teaching is to give one's life for people.
+
+18. No one will take it away from me, but I myself freely give it for people, so as to receive true life. This commandment I have received from my father.
+
+15. And as the father knows me, so I know the father, and therefore I lay down my life for people.
+
+17. It is for this that the father loves me: that I fulfill his commandments.
+
+16. And all people, not only here and now, but all will understand my voice, and all will come together into one, and all people will be one and their teaching one.
+
+24. And the Jews surrounded him and said: everything you say is hard to understand and does not agree with our scripture. Do not torment us, but tell us simply and plainly: are you that messiah who, according to our scripture, is to come into the world?
+
+25. And Jesus answered them: I have already told you who I am, but you do not believe. If you do not believe my words, then believe my deeds; by them you will understand who I am and what I have come for.
+
+26. But you do not believe, because you do not follow me.
+
+27. Whoever goes after me and does what I say understands me.
+
+28. And whoever understands my teaching and fulfills it receives real life.
+
+29. My father has united them with me, and no one can separate us.
+
+30. I and the father are one.
+
+31. And the Jews took offense at this and took up stones to finish him off.
+
+<!-- vol. 24, p. 884 --> 32. But he said to them: I have shown you many good deeds; I have revealed them by the teaching about my father; for which of these good deeds do you want to stone me?
+
+33. They said: we want to stone you not for good, but because you, a man, make yourself God.
+
+34. And Jesus answered them: why, this very thing is said in your scripture. It is said that God himself said to bad rulers: you are Gods.
+
+35. If he called even depraved people Gods, then why do you consider it blasphemy to call a son of God that which God, loving, has sent into the world.
+
+[36—38.] Every man by the spirit is a son of God. If I do not live in a godly way, then do not believe that I am a son of God; but if I do live in a godly way, then by my life believe that I am in the father, and then you will understand that the father is in me and I am in him.
+
+John XI, 25. And Jesus said: my teaching is the awakening of life. Whoever believes in my teaching, although he dies in the flesh, remains alive; and everyone, who lives and believes in me, will not die.
+
+X, 20. And the Jews began to argue. Some said that he was raving.
+
+21. Others said: a madman cannot enlighten people.
+
+39. And the Jews did not know what to do with him, and could not condemn him.
+
+40. And he went again beyond the Jordan and stayed there.
+
+41. And many believed in his teaching and said that it is true, just as John's teaching was.
+
+42. And so many believed in his teaching.
+
+Mt. XVI, 13. And once Jesus asked his disciples: tell me, how do people understand my teaching about the son of God and the son of man?
+
+14. They said: some understand it as the teaching of John, others as the prophecy of Isaiah, still others say that it is like the teaching of Jeremiah; they understand that you are a prophet.
+
+15. He said: and how do you understand my teaching?
+
+16. And Simon Peter said to him: as I see it, your teaching is that you are the chosen son of the God of life. You teach that God is the life in man.
+
+17. And Jesus said to him: happy are you, Simon, that you have understood this. A man could not have revealed this to you, but you have understood it because <!-- vol. 24, p. 885 --> God in you has revealed it to you. Not fleshly reasoning, and not I with my words, revealed this to you, but God my father revealed it to you directly.
+
+18. And on this is founded that gathering of chosen people for whom there is no death.
+
