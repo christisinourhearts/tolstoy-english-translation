@@ -1943,3 +1943,221 @@ Mt. XVI, 13. And once Jesus asked his disciples: tell me, how do people understa
 
 18. And on this is founded that gathering of chosen people for whom there is no death.
 
+## Chapter VIII LIFE NOT IN TIME
+
+### AND THEREFORE TRUE LIFE IS ONLY LIFE IN THE PRESENT (GIVE US IN THE PRESENT.)
+
+#### CONTENT OF CHAPTER VIII
+
+To the disciples' doubts about what their reward will be for renouncing the fleshly life, Jesus answers: for a man who has understood the meaning of the teaching there can be no reward, first, because a man who renounces his relatives, those close to him, and his property in the name of this very teaching gains a hundred times more people close to him and more property; and second, because a man who seeks a reward seeks to have more than another, and this is the very opposite of the teaching of the fulfillment of the will of the father. For the kingdom of heaven there is no greater and lesser: all are equal. Those who seek a reward for good are like workmen who would demand a higher wage for themselves than the one the master had agreed with them on, only because, by their own judgment, they are more deserving than others. For one who understands the teaching there are no rewards and punishments, no humbling and exalting. According to Jesus' teaching no one can be higher or more important than another. Everyone can fulfill the will of the father, but no one becomes senior to another, or more important, or better, because of it. Only kings and those who serve them reckon in this way. According to my teaching, Jesus says, there can be no seniors, because he who wants to be better must be the servant of all; because the teaching is this: that life is given to man not in order that he may be served, but in order that he may give his whole life to the service of other people. And he who does not follow this and does not exalt himself will fall lower than where he was.
+
+In order not to think about rewards and exalting oneself, one must understand what the meaning of life consists in. The meaning of life <!-- vol. 24, p. 886 --> lies in fulfilling the will of the father; and the will of the father is that what he has given should return to him. As a shepherd leaves the whole flock and goes to look for a lost sheep, and as a woman will turn everything over to find a lost kopeck, so too the activity of the father appears to us in this, that he draws to himself what was his.
+
+One must understand what true life consists in. True life always shows itself in this: that what was lost returns to its own, that what was asleep awakens. People who have true life, who have returned to their source, if they have true life, cannot reckon in the human way about who is better and who is worse, but, being sharers in the life of the father, can only rejoice at the return of the lost to the father. If a son, having gone astray and left his father, repented and returned to the father, could the other sons of the father really envy the father's joy and not rejoice at their brother's return?
+
+In order to believe the teaching, to change one's life and to fulfill the teaching, what is needed is not external proofs, not the promise of rewards, but a clear understanding of what true life is. If people think that they are the sovereign masters of life, that life is given them for the pleasure of the flesh, then obviously every deed of sacrifice for another will seem to them an act deserving a reward, and without a reward they will not yield anything. If quitrent tenants, who had forgotten that the garden was given them on condition of giving the fruits to the master, were asked for the quitrent without a reward, they would drive away the quitrent collector, and if they were reminded of the quitrent again and again, they would kill him. That is the view too of those people who recognize themselves as the masters of life and do not understand that life is a gift of understanding, which requires the fulfillment of its will. In order to believe and to act, one must understand that man can do nothing of himself; that if he gives up his fleshly life for good, he does nothing for which he ought to be thanked and rewarded. One must understand that in doing good a man does only what he is obliged to do, what he cannot fail to fulfill. Only by understanding his life in this way can a man believe in such a way as to do true deeds of good.
+
+In this understanding of life consists the kingdom of heaven that I preach. This kingdom of heaven is invisible, not such as appears somewhere so that one could point to it. The kingdom of heaven is in the understanding of people. The whole world has lived and lives in the old way: they eat, drink, trade, marry, die; and side by side <!-- vol. 24, p. 887 --> with this, in the souls of people, the kingdom of heaven lives. The kingdom of heaven is the understanding of life, like a tree in spring, growing of itself.
+
+The true life of fulfilling the will of the father is not the one that has passed, not the one that will be, but life now. And therefore, for life, one must never slacken. People have been set to guard not the past life, not the future, but the one in which they are living, and in it to fulfill the will of the father of all. If they let this life slip by without fulfilling the will of the father, they will not bring it back; just as a watchman, set to keep watch all night, will not fulfill his task if he falls asleep even for a minute, because in that minute a thief may come. And therefore a man must carry all his strength into this hour; only in it is the fulfillment of the will of the father. And the will of the father is the life and good of all people, and therefore the fulfillment of the will is the good of all people. Only those live who do good. Good to people is the life that unites with the common father.
+
+Mt. X, 38. Jesus said: whoever is not ready for all fleshly sufferings and privations has not understood me.
+
+39. Whoever acquires all that is best for the fleshly life will ruin the true life. But whoever ruins his fleshly life by fulfilling my teaching will receive true life.
+
+XIX, 27. And at these words Peter said to him: here we have listened to you, cast away all cares, all property, and followed you. What reward will we have for this?
+
+Mark X, 29, 30. Jesus said to him: everyone who has given up house, sisters, brothers, father, mother, wife, children, fields for my teaching receives a hundred times more sisters, and brothers, and fields, and everything that is needed, and besides that, already in this life, receives a life outside time.
+
+31. There are no rewards in the kingdom of heaven. The kingdom of heaven is the aim and the reward. In the kingdom of heaven all are equal: there are neither first nor last.
+
+Mt. XX, 1. Because the kingdom of heaven is like this. The master of a house went out in the morning to hire workers for his garden.
+
+2. He hired workers at a grivna a day, and came to the garden and set them to work.
+
+3. And again he went out, at noon, and hired more and sent them to work in the garden; and toward evening he hired more again and sent them to work. And with all of them he agreed on a grivna.
+
+<!-- vol. 24, p. 888 --> 8. The time came for paying off, and the master told them to pay everyone the same. First those who had come last, and after them the first.
+
+9. Now the first saw that the last were being given a grivna each.
+
+10. And they thought that they would be given more; but the first too were given a grivna.
+
+11. They took it and say:
+
+12. What is this? those worked only one shift, and we all four; how can we be paid the same? this is unfair.
+
+13. But the master came up and says: what are you grumbling about? have I wronged you? What I hired you for, that I give you. Why, we had an agreement for a grivna, didn't we?
+
+14. Take what is yours and go. And if I want to give the last the same as you, am I not master of what is mine?
+
+15. Or is it that, seeing that I am kind, you have become envious?
+
+Mt. XX, 16. In the kingdom of heaven there are neither first nor last—it is the same for all.
+
+20 and Mark X, 35. Once two of his disciples came up to Jesus, James and John, and say: teacher! promise us that you will do for us what we ask of you.
+
+21. He says: what do you want? They say: that we may be equal with you.
+
+22. Jesus said to them: you yourselves do not know what you are asking. You can live just as I do; you can purify yourselves of the fleshly life just as I do; but to make you the same as I am is not in my power.
+
+23. Each man can enter into the will of the father by his own effort.
+
+24. Hearing this, the other disciples grew angry with the two brothers because they wanted to be the same as the teacher and the seniors among the disciples.
+
+25. But Jesus called them over and said: if you, brothers John and James, asked me to make you the same as I am in order to be the senior disciples, then you were mistaken; and if you, the other disciples, are angry with them because these two want to be senior to you, then you too are mistaken. Only in the world do kings and rulers reckon who is senior, so as to govern the nations.
+
+26. But among you there can be neither seniors nor juniors. Among you, in order to be greater than another, one must be the servant of all.
+
+<!-- vol. 24, p. 889 --> 27. Among you, whoever wants to be first, let him consider himself last.
+
+Mark X, 45. Because the will of the father concerning the son of man is this: that he lives not in order to be served, but in order himself to serve all and to give up his fleshly life as a ransom for the life of the spirit.
+
+Mt. XVIII, 11, 12. And Jesus said to the people: the father seeks the salvation of what is perishing. He rejoices over it just as a shepherd rejoices when he finds the one sheep that was lost. When one is lost, he leaves the ninety-nine and goes to save the lost one.
+
+Luke XV, 8. And if a peasant woman loses a kopeck, why, she will sweep out the whole hut and search until she finds it.
+
+10. The father loves the son and calls him to himself.
+
+XIV, 8. And he told them another parable, about how those who live in the will of God cannot exalt themselves. He said: if you are invited to dinner, do not sit down in the front corner; otherwise you will clamber into the front corner, and someone more honored than you will come, and the host will say:
+
+9. Get out of there, and let someone better than you sit there. Then you will be worse ashamed.
+
+10. Better sit down in the very last place. Then the host will find you and call you to the place of honor; then you will have honor.
+
+11. So too in the kingdom of God there is no place for pride. Whoever exalts himself thereby brings himself down; and whoever humbles himself thereby raises himself up in the kingdom of God.
+
+XV, 11. A man had two sons.
+
+12. And the younger says to his father: father! give me my share. And the father gave him his share.
+
+13. The younger took his part and went off to a foreign land and squandered all his property and fell into want.
+
+15. And in the foreign land he ended up as a swineherd.
+
+16. And he was so hungry that he ate acorns with the pigs.
+
+17. And once he began to think about his life and says: why did I take my share and go away from my father? My father had plenty of everything. At my father's even the workmen eat their fill. But here I am eating the same feed as the pigs.
+
+18. Let me go to my father, fall at his feet, and say: I have done wrong before you, father, and am not worthy to be your son. Take me on at least as a farmhand.
+
+20. He thought it over and went to his father. And as soon as he began to come near, his father recognized him at once from far off, and himself ran out to meet him, embraced him, and began to kiss him.
+
+<!-- vol. 24, p. 890 --> 21. And the son says: father, I have done wrong before you; I am not worthy to be your son.
+
+22. But the father would not even listen, and says to the workmen: quick, bring the very best clothes and the very best boots; dress him and put the boots on him.
+
+23. And run, catch the milk-fed calf and kill it; we will make merry over this:
+
+24. That this son of mine was dead, and now has become alive; he was lost, and now he is found.
+
+25. The elder brother came in from the field, and as he began to come near, he hears: at home there are songs and music.
+
+26. He called a boy over and says: what is this merrymaking we are having?
+
+27. And the boy says: haven't you heard? your brother has come back. And your father is rejoicing and has ordered the milk-fed calf to be killed for joy that his son has come back.
+
+28. The elder brother was offended and did not go into the house. And his father came out to him and calls him.
+
+29. And he said to his father: look, father, how many years I have been working for you, and I never disobey your orders, yet you never slaughtered a milk-fed calf for me.
+
+30. But my younger brother went away from home and squandered all his property on drinking with drunkards, and you have now slaughtered a calf for him.
+
+31. And the father says: why, you are always with me, and all that is mine is yours.
+
+32. And you ought not to be offended, but to rejoice that your brother was among the dead and has become alive, was lost and is found.
+
+Mark XII, 1. A master planted a garden, worked it, set it in order, did everything so that the garden would yield as much fruit as possible.
+
+2. And he sent workmen into this garden to work, to gather the fruit, and to pay him for the garden as agreed.
+
+The master is the father, the garden is the world, the workmen are people. The father sent his son, the son of man, into the world only so that people should give back to the father the understanding of life that he had put into them.
+
+The time came, and the master sent a workman for the quitrent. The father unceasingly told people that they must fulfill his will.
+
+3. The workmen drove away the master's messenger empty-handed and went on living, imagining that the garden was their own, that they were sitting in it by their own grace. People drove away from themselves the reminder <!-- vol. 24, p. 891 --> of the will of the father and went on living each for himself, imagining that they live for the joys of the fleshly life.
+
+4, 5 and 6. Then the master sent more, and again he sent his favorites, his son, to remind the workmen of their duty.
+
+7. But the workmen went completely out of their minds and imagined that if they killed the master's son, who reminds them that the garden is not theirs, they would be left in peace altogether.
+
+3. And so they killed him.
+
+People do not love even to be reminded of that spirit which lives in them and points out to them that it is eternal and they are not eternal; and they killed, as far as they could, the consciousness of the spirit; they wrapped in a handkerchief and buried the grivna given them.
+
+Mt. XXI, 40. What, then, is the master to do?
+
+41. Nothing else but to drive out those workmen and send others. What is the father to do? Sow until there is fruit. That is what he does.
+
+42. People have not understood and do not understand that the consciousness of the spirit which is in them and which they hide because it hinders them—that this understanding is their life. They throw away the stone on which everything rests.
+
+43. And those who do not take the life of the spirit as their foundation do not enter the kingdom of heaven and do not receive life. In order to have faith and to receive life, one must understand one's position, and not wait for rewards.
+
+Luke XVII, 5. Then the disciples said to Jesus: increase faith in us; tell us something such that we may believe more strongly in the life of the spirit and not grudge the fleshly life? Look how much must be given up, and everything must be given up for the life of the spirit. Yet there is no reward, you say yourself.
+
+6. And to this Jesus said to them: if you had faith such as the faith that a big tree grows from a birch seed—if you believed in the same way that there is in you the single germ of the spirit from which true life grows—you would not be asking me to increase faith in you. Faith lies not in believing in something astonishing; faith lies in understanding one's position and what salvation consists in. If you understand your position, then you will not wait for a reward, but will believe in what has been entrusted to you.
+
+7. When a master returns from the field with his workman, why, he does not seat the workman at the table.
+
+<!-- vol. 24, p. 892 --> 8. But he tells him to see to the cattle and to get supper ready for him, and only afterward does he say to the workman: sit down, drink and eat.
+
+Luke XVII, 9. The master will not thank the workman for doing what he ought. And the workman, if he understands that he is a workman, does not take offense, but works, trusting that he will receive what is due to him.
+
+10. So you too: fulfill the will of the father and think: we are unprofitable workmen; we have only done what we ought to have done; and do not expect a reward, but be content that you receive what is due to you.
+
+What one must care about is not believing that there will be a reward and there will be life; it cannot be otherwise; but one must care about not ruining this life, not forgetting that it has been given to us so that we may bring forth its fruits, and about fulfilling the will of the father.
+
+XII, 35 and 36. And therefore be always ready, like servants waiting for their master, so as to open to him at once when he comes.
+
+37 and 38. The servants do not know when he will return, early or late, and must always be ready. And if they meet the master, then they have fulfilled his will, and it is well with them. The very same holds in life. Always, every minute of the present, one must live by the life of the spirit, not thinking about the past and the future and not saying to oneself: then, or there, I will do such-and-such.
+
+39. If the master knew when the thief would come, he would not sleep; so you too, never sleep, because for the life of the son of man there is no time, and he lives only in the present and does not know when the beginning and end of his life are.
+
+Mt. XXIV, 45 and 46. Our life is the same as the life of a slave whom his master has left in charge of his house. And it is well with that slave if he always does his master's will.
+
+48. But if he says: the master will not come soon, and forgets the master's business,
+
+50. then the master will return unexpectedly.
+
+51. And will drive him out.
+
+Mark XIII, 33. So do not lose heart, but always live by the spirit in the present. For the life of the spirit there is no time.
+
+Luke XXI, 34. Watch yourselves, so as not to weigh yourselves down and befog yourselves with drunkenness, gluttony, cares, so as not to miss the time of salvation. The time of salvation is cast like a net <!-- vol. 24, p. 893 --> over all; it is always. And therefore, before all else, live by the life of the son of man.
+
+Mt. XXV, 1. The kingdom of heaven is like this: Ten girls went out with little lamps to meet the bridegroom.
+
+2. Five were sensible, and five foolish.
+
+3. The foolish took their lamps but did not take oil.
+
+4. But the sensible took their lamps and oil in reserve.
+
+5. While they were waiting for the bridegroom, they dozed off.
+
+6. When the bridegroom came,
+
+7. The foolish saw that they had little oil.
+
+10. And they went off to try to buy some, and while they were gone the bridegroom came. And the sensible girls, who had oil, went in with him, and the doors were shut.
+
+The girls had only to go out to meet the bridegroom with lamps, but they forgot that what matters is not that the lamps should burn, but that they should burn at the right time. And for them to burn, they had to burn without stopping. Life is only for exalting the son of man, and the son of man is always. He is not in time, and therefore, in serving him, one must live outside time, in the present alone.
+
+Luke XIII, 24. And therefore make efforts in the present to enter into the life of the spirit; if you do not make an effort, you will not enter.
+
+25. You will say: we said such-and-such; but there will be no good deeds, and there will be no whole life.
+
+Mt. XVI, 27. Because the son of man, as the one spirit, will prove to be for each what each has done for him.
+
+XXV, 32. All people will be divided by how they serve the son of man. And by their deeds they will be divided in two, as in a flock the sheep are divided from the goats. Some will be alive, others will perish.
+
+34. Those who served the son of man will receive what belonged to them from the beginning of the world, that life which they have preserved. And they preserved life by serving the son of man.
+
+35. They fed the hungry, clothed the naked, took in the stranger, visited the prisoner.
+
+They lived by the son of man; they felt that he is one in all people, and therefore they loved him.
+
+But those who did not live by the son of man did not serve him, did not understand that he is one in all, and therefore were not united with him, and lost life in him, and perished.
+
+<!-- vol. 24, p. 894 -->
+
