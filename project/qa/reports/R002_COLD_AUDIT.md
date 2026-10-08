@@ -10,7 +10,7 @@ After revision the unit contains:
 - **0 unsupported substantive additions**;
 - **0 reversed relations, lost negations or shifts of modality**;
 - **0 wrong speakers, subjects or referents**;
-- **0 verse-reference or number errors introduced by the translation** (the source's own suspect references are kept as read and flagged; see below);
+- **0 verse-reference or number errors introduced by the translation** (three wrong references belong to the printed edition and are reproduced as printed; see the print check);
 - **0 structural losses** (138/138 page markers and every heading, verse prefix and table row are unchanged).
 
 The defects were scattered rather than systematic. None changed the argument of a chapter. The most serious ones changed a modal verb, a tense, a referent or a key predication inside a single verse (see *Most serious findings*).
@@ -45,7 +45,7 @@ Paragraph numbers (`#n`) below are 0-based block indexes in the aligned files, s
 | Omissions | 2 | 2 | #332 «закисла»; #1446 «дворников» |
 | Additions | 1 | 1 | #1210 unsupported "His" |
 | Reversals / shifted meaning (incl. modality, tense, referent) | 7 | 7 | #191, #311, #691, #804, #1299, #1447, #1500 |
-| Reference errors (introduced by the translation) | 0 | 0 | 3 suspect source references kept as read (see print check) |
+| Reference errors (introduced by the translation) | 0 | 0 | 3 wrong references are the printed edition's own, reproduced as printed |
 | Terminology (incl. KJV reversion, D0002) | 3 | 3 | #453 "ravening", #1034 "unprofitable", #674 понять/разумение rule; "righteous" in #1210 is counted under Additions |
 | D0001 smoothing / intensification | 2 | 2 | #516, #1074 |
 | Style / grammar (English-only read) | 4 | 4 | #365, #680, #790, #941 |
@@ -200,20 +200,22 @@ Each entry gives the Russian, the old English, the new English and the reason.
 
 ## Print check of the six flagged readings
 
-**The printed volume could not be consulted.** The session's network egress policy blocks `tolstoy.ru`, `rusneb.ru`, `archive.org` and `ru.wikisource.org`. Each was tried and each was refused at the proxy. No other public scan of vol. 24 (1957) was reachable.
+**Done. All six readings are confirmed against the printed vol. 24.**
 
-As a substitute, each reading was checked against **two independent witnesses inside the audited corpus itself**. Both come from the same printed vol. 24 and the same TEI source, but they were set separately: Tolstoy's large *Harmony and Translation of the Four Gospels* (`v24_007_798_Soedinenie_i_perevod_chetyreh_evangelij.md`, vol. 24, pp. 7–798), whose right-hand column is Tolstoy's own rendering of each verse, and the vol. 24 editorial apparatus. The French *Abrégé de l'Évangile* (pp. 941–969) covers only chapters IV–VIII in abridged form and gave no evidence on these readings. This internal evidence is **strong for two readings**, but it is **not** a print confirmation, so the flags stay open.
+The audit session itself could not reach a scan: the network egress policy blocked `tolstoy.ru`, `rusneb.ru`, `archive.org` and `ru.wikisource.org`. On 2026-10-08 the commissioner downloaded the printed volume as a PDF from tolstoy.ru (vol. 24, Moscow 1957; <http://tolstoy.ru/upload/iblock/fc8/fc861b6c67031b717c12ad598777513a.pdf>) and checked pp. 801–938 locally. Every reading matches the printed page, so **none of them is a transcription error in the digital source**.
 
-| # | Reading | Evidence found | Status | English |
+| # | Reading | Printed vol. 24 | Status | English |
 |---|---|---|---|---|
-| 1 | **вражды**, John VI, 35 (p. 856): «тот не будет никогда знать вражды» | *Harmony*, p. 332: Tolstoy's own rendering of the same verse is «И кто будет верить мне, не будет жаждать никогда». The Brief's paired clause («не будет голодать … не будет … знать ____») matches the hunger/thirst pair. вражды and жажды differ in only two letters. **Strong internal evidence for жажды (thirst).** | Not confirmed in print; still pending. Recommended: if the print reads жажды, record a source erratum and change "enmity" → "thirst". | Kept as read ("enmity"). |
-| 2 | **добить**, John X, 31 (p. 883): «взялись за камни, чтобы добить его» | *Harmony*, p. 506: the same sentence word for word: «И иудеи оскорбились этим и взялись за камни, чтобы **побить** его». The next verse in the Brief itself says «хотите побить меня». **Strong internal evidence for побить (to stone).** | Not confirmed in print; still pending. Recommended: if confirmed, record an erratum and change "finish him off" → "stone him". | Kept as read ("finish him off"). |
-| 3 | **Марк. XIX, 18** (p. 914) | Mark has only 16 chapters. The canonical parallel is Mark XIV, 18. The *Harmony* gives no reference for this composite verse. | Not confirmed. Clearly an error in the reference, but whether Tolstoy or the transcription made it can't be told without the print. | Kept as read. |
-| 4 | **Мф. XXVI, 20** before the Barabbas cry (p. 932) | The canonical verse is Matt. XXVII, 20. The *Harmony*'s retelling of the same passage (p. 787) has the identical sentence with no reference, and its verse table for this scene runs through Matt. XXVII, 17ff. | Not confirmed. Probably XXVII, 20. | Kept as read. |
-| 5 | **Лук. XII, 41** for the widow's mite (p. 870) | *Harmony*, p. 409: the same verse with the same numbering is cited as «**Mp.** XII, 41» (Mark). The Brief's following verse numbers (42, 43, 44) also follow Mark XII. **Strong internal evidence that Mark is meant.** | Not confirmed in print. | Kept as read. |
-| 6 | **Havet**, «Jesus Christi n'avaitrien de chritien» (p. 813) | The vol. 24 editorial history (pp. 1001–1004) confirms the reference: Havet's article in the *Revue des deux mondes*, 1863, which Tolstoy read in Feb.–Mar. 1882. The vol. 49 diary notes give the full identification: Ernest Havet (1813–1899), "Jésus dans l'histoire", *RDM* 1863, VIII, pp. 564–596. The exact French wording (*Christi*, *chritien*) could not be checked. "Souris" (possibly Soury) has no editorial gloss in the corpus. | The attribution is confirmed. The French spelling is unconfirmed. | Kept as read (missing space restored, as before). |
+| 1 | John VI, 35 (p. 856) | «…тот не будет никогда знать **вражды**» | Confirmed as printed | "enmity", kept |
+| 2 | Last Supper reference (p. 914) | «Мф. XXVI, 21; **Марк. XIX, 18**» | Confirmed as printed; the reference error is the edition's own (canonical Mark XIV, 18) | Reproduced as printed |
+| 3 | Barabbas passage (p. 932) | «**Мф. XXVI, 20.** И когда услыхали это архиереи…» | Confirmed as printed; the edition's own error (canonical Matt. XXVII, 20) | Reproduced as printed |
+| 4 | Widow's mite (p. 870) | «**Лук. XII, 41.** Случилось раз…» | Confirmed as printed; the edition's own error (canonical Mark XII, 41) | Reproduced as printed |
+| 5 | John X, 31 (p. 883) | «взялись за камни, чтобы **добить** его» | Confirmed as printed | "finish him off", kept |
+| 6 | Havet (p. 813) | «Jesus Christi n'avait rien de chritien. A Souris…» | Confirmed as printed (the digital "n'avaitrien" only lacks the printed space) | Kept, space restored |
 
-Recommendation: keep `print_witness_check_pending` on the unit. The next session with access to `tolstoy.ru` (the PDF of vol. 24) or the RSL should check pp. 856, 870, 883, 913–914, 932 and 813. The findings above are written into `project/qa/source_suspected/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json`.
+**Correction to this audit's earlier inference.** Before the print check, this report took Tolstoy's large *Harmony* in the same volume as an internal witness. Its wording at p. 332 (жаждать) and p. 506 (побить) was treated as "strong evidence" of transcription errors in the Brief. The print shows that inference was wrong. The Brief's printed text really reads вражды and добить. Where it differs from the *Harmony*, the difference lies in Tolstoy's text or in the edition, not in the digital copy. The English correctly follows the printed Brief. The *Harmony* evidence is still worth noting for a scholarly apparatus: the Brief's вражды stands where the *Harmony* has thirst, and its Лук. XII, 41 is cited as Mark in the *Harmony*. No erratum is recorded against the source.
+
+The source-suspected file is now `SOURCE_VERIFIED`. The manifest flag `print_witness_check_pending` has been replaced by `print_witness_checked_vol24`, with `source_qa_status: source_verified`.
 
 ## English–Romanian discrepancy list
 
@@ -229,7 +231,7 @@ The Romanian was read in full against the English. Below is every place where th
 | 274 | Matt. XII, 20 | «чтобы правда восторжествовала над ложью» | "truth … over falsehood" | "dreptatea … minciuna" (justice) | правда means both truth and justice, but against ложь the sense is "truth". EN closer; RO optional review. |
 | 311 | John III, 11 | «не мудрости какие-нибудь» | (old) "mysteries" | "vreo înțelepciune deosebită" | RO right. **EN fixed.** |
 | 332 | Matt. XIII, 33 | «закисла и поднялась» | (old) "rise and swell" | "să dospească … și să crească" | RO right. **EN fixed.** |
-| 586 | John VI, 35 | «вражды» | "enmity" | "dușmănia" | Both translate as read; see print check (evidence for жажды). |
+| 586 | John VI, 35 | «вражды» | "enmity" | "dușmănia" | Both translate as read; confirmed against print. No fix. |
 | 638 | Matt. XII, 24 | «бесится» | "is raving" | "e îndrăcit" (possessed) | Both defensible. No fix. |
 | 669, 782–786, 1237–1239 | Anointing passages | «масло» | "oil" | "mir" (chrism) | RU has plain масло (мѵро only at #1213). Minor RO wording. |
 | 674 | Luke XI, 28 | «поняли разумение» | (old) "understood the understanding" | "au priceput înțelegerea" | RO follows the comprehend convention. **EN fixed.** |
@@ -237,7 +239,7 @@ The Romanian was read in full against the English. Below is every place where th
 | 796 | ch. VII content | «сам ли он есть Христос» | "whether he himself was the Christ" | "că el însuși este Hristosul" (that he is) | EN right (ли = whether). **RO fix.** |
 | 804 | ch. VII content | «я сын человеческий — то же, что и отец» | (old) appositive | same appositive | Both shifted. **EN fixed; RO should make the same fix.** |
 | 898 | John IX, 19 | «Это ли ваш сын…» | question | statement | ли marks a question. **RO fix** (minor). |
-| 935 | John X, 31 | «добить» | "finish him off" (as read) | "ca să-l omoare" (to kill him) | RO smooths a flagged reading toward the canonical sense, which hides the flag. See print check (evidence for побить). |
+| 935 | John X, 31 | «добить» | "finish him off" | "ca să-l omoare" (to kill him) | Print confirms добить (finish off). RO flattens it to plain "kill". **RO fix** (e.g. "ca să-l omoare de tot / să-l doboare"). |
 | 1074 | ch. IX content | «гробы нарядные» | (old) "gaudy coffins" | "morminte împodobite" | RO closer. **EN fixed.** |
 | 1085 | Matt. XVIII, 8 | «отвертит лапу» | "twists off its paw" | "își răsucește laba" (twists its paw) | отвертит = twists off, and the image depends on the severing. **RO fix.** |
 | 1210 | ch. X content | «Невинность и справедливость … справедлив» | (old) "His innocence and righteousness … righteous" | "Nevinovăția și dreptatea … drept" | RO right. **EN fixed.** |
@@ -248,7 +250,7 @@ The Romanian was read in full against the English. Below is every place where th
 | 1472 | Matt. XXVI, 74 | «клясться и божиться» | "swear and call God to witness" | "să se jure și să se blesteme" (curse himself) | божиться = swear by God. **RO fix** (minor). |
 | 1500 | John XVIII, 36 | «не дались бы архиереям» | (old) "let me fall into the bishops' hands" | "nu s-ar da arhiereilor" | RO right. **EN fixed.** |
 
-Summary: **26 discrepancy points.** In 12 the English needed (and received) a fix: #191, #311, #332, #674, #691, #804, #1074, #1210, #1299, #1446, #1447 and #1500 (#804 and #1446 also need a Romanian fix). The Romanian needs a fix at 6 points (#54, #796, #804, #898, #1085, #1472), plus optional review at 4 (#142, #233, #274, oil/mir). The rest are genuine ambiguities or handling of the flagged readings.
+Summary: **26 discrepancy points.** In 12 the English needed (and received) a fix: #191, #311, #332, #674, #691, #804, #1074, #1210, #1299, #1446, #1447 and #1500 (#804 and #1446 also need a Romanian fix). The Romanian needs a fix at 7 points (#54, #796, #804, #898, #935, #1085, #1472), plus optional review at 4 (#142, #233, #274, oil/mir). The rest are genuine ambiguities or handling of the flagged readings.
 
 ## Non-blocking alternatives (recorded, not changed)
 
@@ -264,4 +266,4 @@ Summary: **26 discrepancy points.** In 12 the English needed (and received) a fi
 
 ## Verdict
 
-**PASS AFTER REVISION.** R002.01 may stay `reviewed` with `cold_audit_status: pass_after_revision`. The six readings stay `print_witness_check_pending`, and two of them (вражды, добить) now have strong internal evidence of transcription error. That should be settled from the printed page before publication.
+**PASS AFTER REVISION.** R002.01 stays `reviewed`, with `cold_audit_status: pass_after_revision` and `source_qa_status: source_verified`. All six previously flagged readings are confirmed against printed vol. 24 and translated or reproduced as printed. No open source questions remain for this unit.
