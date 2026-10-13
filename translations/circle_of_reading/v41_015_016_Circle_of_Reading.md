@@ -25,7 +25,7 @@ translation_status: "reviewed"
 
 3 January
 
-“My food is to do the will of him who sent me and to finish his work,” Christ said. Each of us has this work of His. We cannot know the whole work that God does through us, but we cannot help knowing what our part in it should be.
+“My food is to do the will of him who sent me and to finish his work,” Christ said. Each of us has this work of his. We cannot know the whole work that God does through us, but we cannot help knowing what our part in it should be.
 
 1
 
@@ -39,7 +39,7 @@ If you do not have the strength to burn and spread light, then at least do not b
 
 3
 
-> The one who knows the principles of sound reason is below the one who loves them. The one who loves them is below the one who practices them.
+> The one who knows the rules of sound reason is below the one who loves them. The one who loves them is below the one who practices them.
 
 > *Chinese wisdom.*
 
@@ -47,7 +47,7 @@ If you do not have the strength to burn and spread light, then at least do not b
 
 The main question of our life is only whether, during this short span of life given to us, we are doing what the one who sent us into life wants from us.
 
-Are we doing it?
+Is that what we are doing?
 
 5
 
@@ -67,4 +67,4 @@ Are we doing it?
 
 > *John Ruskin.*
 
-Imagine that the purpose of life is your happiness—and life is a cruel absurdity. Accept what human wisdom, your reason, and your heart tell you: that life is service to the one who sent you into the world, and life becomes a constant joy.
+Imagine that the purpose of life is your happiness—and life is a cruel absurdity. Acknowledge what human wisdom, and your reason, and your heart tell you: that life is service to the one who sent you into the world, and life becomes a constant joy.

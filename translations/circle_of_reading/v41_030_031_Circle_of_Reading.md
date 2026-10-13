@@ -28,11 +28,11 @@ translation_note: "The daily unit preserves Tolstoy's framing sentences, numbere
 
 11 January
 
-Without humility improvement is impossible. “Why should I improve when I am already good?”
+Without humility, perfecting oneself is impossible. "Why should I perfect myself when I am already good?"
 
 1
 
-> The higher you are, the more humble yourself. Many live in height and glory, but mysteries are revealed only to the lowly. Do not seek things too difficult and beyond your powers. But what has been prescribed to you, think about with reverence. Do not be curious about what you do not need. More has already been revealed to you than you are able to understand.
+> The higher you are, the more humble yourself. Many live in height and glory, but mysteries are revealed only to the lowly. Do not seek things too difficult and beyond your powers. But what has been prescribed to you, think about with respect. Do not be curious about what you do not need. More has already been revealed to you than you are able to understand.
 >
 > Many are deceived by their vain opinion; and therefore do not boast of knowledge that you do not have.
 
@@ -40,9 +40,9 @@ Without humility improvement is impossible. “Why should I improve when I am al
 
 2
 
-> Jesus called them to him and said: you know that the princes of the nations rule over them and the great exercise power over them; but among you let it not be so; whoever wishes to be greater among you, let him be your servant; and whoever wishes to be first among you, let him be your slave; just as the Son of Man came not so that he might be served, but to serve and to give his soul as a ransom for many.
+> Jesus called them to him and said: you know that the princes of the nations rule over them and the great exercise power over them; but among you let it not be so; whoever wishes to be greater among you, let him be your servant; and whoever wishes to be first among you, let him be your slave; just as the son of man came not so that he might be served, but to serve and to give his soul as a ransom for many.
 
-> *Matt. ch. 20, vv. 25–28.*
+> *Matthew 20:25–28*
 
 3
 
@@ -54,7 +54,7 @@ Without humility improvement is impossible. “Why should I improve when I am al
 
 4
 
-> Some of your friends condemn you and some praise you; draw near to those who condemn you and move away from those who praise you.
+> Some of your friends censure you and some praise you; draw near to those who censure you and move away from those who praise you.
 
 > *Talmud.*
 
@@ -68,7 +68,7 @@ Without humility improvement is impossible. “Why should I improve when I am al
 
 6
 
-> Try persistently to destroy in yourself every desire to rule; do not seek glory and praise—all this can only destroy your soul. Beware of the thought that you have virtues which others do not have.
+> Try persistently to destroy in yourself every desire to rule; do not seek glory and praise—all this can only ruin your soul. Beware of the thought that you have virtues which others do not have.
 
 > *From “Pious Thoughts.”*
 
@@ -84,6 +84,6 @@ Without humility improvement is impossible. “Why should I improve when I am al
 
 > *The greater among you shall be your servant; for whoever exalts himself* *shall be humbled,* *and whoever humbles himself* *shall be exalted.*
 
-> *Matt. ch. 23, vv. 11–12.*
+> *Matthew 23:11–12*
 
 Remember everything bad that you have done. This will help you not to do bad things. But if you remember the good you have done, it will hinder you from doing good.

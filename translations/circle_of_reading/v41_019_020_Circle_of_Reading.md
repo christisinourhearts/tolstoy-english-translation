@@ -33,11 +33,12 @@ Effort is needed for doing good, but it is even more necessary for refraining fr
 
 > For the attainment of holiness there is nothing more important than restraint. Restraint must become an early habit. If it is an early habit, it establishes one in virtue. For one who is established in virtue, there is nothing he cannot overcome.
 
-> *Lao-Tzu.*
+> *Laozi.*
 
 2
 
 > Everything people admire so much, everything for the acquisition of which they become so agitated and busy themselves, all this does not bring them the least happiness. While people are busy striving, they think their good lies in what they are seeking. But as soon as they obtain what they desired, they again begin to be agitated, to grieve, and to envy what they do not yet have. Peace is attained not by satisfying one's idle desires but, on the contrary, by freeing oneself from such desires.
+>
 > If you want to make sure that this is true, put into freeing yourself from your empty desires at least half as much labor as you have until now spent on fulfilling them, and you yourself will soon see that, acting this way, you will receive much more peace and happiness.
 
 > *After Epictetus.*
@@ -46,7 +47,7 @@ Effort is needed for doing good, but it is even more necessary for refraining fr
 
 3
 
-> Glory to the person who does not yield to temptation. God tests everyone: one with wealth, another with poverty; the rich person — whether he will open his hand to the needy, the poor person — whether he will bear his sufferings without complaint, with submission.
+> Glory to the person who does not yield to temptation. God tests everyone: one with wealth, another with poverty; the rich person—whether he will open his hand to the needy; the poor person—whether he will bear his sufferings without complaint, with submission.
 
 > *Talmud.*
 
@@ -54,7 +55,7 @@ Effort is needed for doing good, but it is even more necessary for refraining fr
 
 > Only him will I call a true charioteer who restrains his anger, rushing like a swift chariot; the others, powerless, only hold the reins.
 
-> *[Dhammapada.] Buddhist wisdom.*
+> *Dhammapada. Buddhist wisdom.*
 
 5
 

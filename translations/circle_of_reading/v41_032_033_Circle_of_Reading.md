@@ -50,7 +50,7 @@ There are people who take upon themselves the right to decide for others their r
 
 3
 
-> We are all like children, at first repeating the incontrovertible truths of our grandmothers, then of our teachers, and as we grow older, of other remarkable people who happen to cross our path.
+> We are all like children, at first repeating the incontrovertible truths of our grandmothers, then of our teachers, and as we grow older, also of other remarkable people who happen to cross our path.
 
 > *Emerson.*
 
@@ -58,9 +58,9 @@ There are people who take upon themselves the right to decide for others their r
 
 4
 
-> Beware of false prophets who come to you in sheep's clothing, but inwardly are ravening wolves: by their fruits you shall know them. Do they gather grapes from thorns, or figs from burdock? Thus every good tree bears good fruit, and a bad tree bears bad fruit: a good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Therefore by their fruits you shall know them.
+> Beware of false prophets who come to you in sheep's clothing, but inwardly are predatory wolves: by their fruits you shall know them. Do they gather grapes from thorns, or figs from burdock? Thus every good tree bears good fruit, and a bad tree bears bad fruit: a good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Therefore by their fruits you shall know them.
 
-> *Matt. ch. 7, vv. 15–20.*
+> *Matthew 7:15–20*
 
 5
 

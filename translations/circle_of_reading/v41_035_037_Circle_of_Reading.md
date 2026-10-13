@@ -34,7 +34,7 @@ One can love in oneself only the one who is one in all. And to love the one who 
 
 > Teacher! what is the greatest commandment in the law? Jesus said: love the Lord your God with all your heart and with all your soul and with all your understanding: this is the first and greatest commandment; and the second, like it: love your neighbor as yourself; on these two commandments hang the whole law and the prophets.
 
-> *Matt. ch. 22, vv. 36–40.*
+> *Matthew 22:36–40*
 
 2
 
@@ -48,13 +48,13 @@ People think they are alive through caring for themselves, but they are alive th
 
 3
 
-*People are alive through love; love of oneself* — *is the beginning of death*, *love of God and people* — *is the beginning of life*.
+*People are alive through love; love of oneself is the beginning of death, love of God and people is the beginning of life.*
 
 4
 
 > God is love, and he who abides in love abides in God, and God in him. No one has ever seen God. If we love one another, then God abides in us, and his love is perfect in us. He who says: I love God, but hates his brother, is a liar; for he who does not love his brother whom he sees, how can he love God whom he does not see? Brothers, let us love one another, for he who loves is born of God and knows God, because God is love. He who abides in love abides in God, and God in him.
 
-> *First Epistle of John, from ch. 4.*
+> *1 John 4 (excerpts)*
 
 5
 

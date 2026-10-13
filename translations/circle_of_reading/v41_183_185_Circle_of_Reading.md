@@ -25,7 +25,7 @@ translation_status: "reviewed"
 
 23 March
 
-Land, like air and sunlight, belongs to everyone and cannot be an object of property.
+Land, like air and the sun, belongs to everyone and cannot be an object of ownership.
 
 1
 
@@ -47,7 +47,7 @@ Land, like air and sunlight, belongs to everyone and cannot be an object of prop
 
 4
 
-> Place a hundred people on an island from which there is no exit, and whether you make one of these people absolute master over the other ninety-nine, or absolute master of all the land on the island, there will be no difference.
+> Place a hundred people on an island from which there is no exit, and whether you make one of these people absolute master over the other 99, or absolute master of all the land on the island, there will be no difference.
 >
 > *Henry George.*
 

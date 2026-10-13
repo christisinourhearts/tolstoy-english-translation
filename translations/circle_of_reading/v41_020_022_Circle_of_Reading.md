@@ -48,7 +48,7 @@ Kindness in relations with people is obligatory. If you are not kind to a person
 
 > 2) Do not make another person do what you can do yourself.
 
-> 3) Pride costs more than everything needed for food, drink, shelter, and clothing.
+> 3) Pride costs more than everything needed for food, drink, shelter, clothing.
 
 > 4) How much we have tormented ourselves over what did not happen but only could have happened.
 

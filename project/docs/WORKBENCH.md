@@ -250,6 +250,6 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 
 ### Next actions for *Circle of Reading*
 
-1. Reconcile the 31 files in `translations/circle_of_reading/` with the website Calendar data, paragraph by paragraph, under D0001/D0005. Record each choice.
+1. ~~Reconcile the 31 files in `translations/circle_of_reading/` with the website Calendar data.~~ **Done 2026-10-13**: see `project/qa/reports/CIRCLE_OF_READING_RECONCILIATION_2026-10-13.md` (330 differing blocks judged; one text now).
 2. Translate the remaining *Krug chteniya* files from the audited Russian, or import the website paragraphs as first drafts, and put each through the full gauntlet (§15), with coverage records.
 3. Generate the website's translation layer from this repository once the reconciliation is done.

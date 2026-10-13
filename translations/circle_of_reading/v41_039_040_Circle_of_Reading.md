@@ -57,4 +57,4 @@ The fundamental meaning of Christ's teaching lies in establishing direct communi
 
 > *Thoreau.*
 
-Beware of everything that comes between you and God — the spirit living in your soul.
+Fear everything that comes between you and God — the spirit living in your soul.

@@ -45,9 +45,9 @@ The essence of every religion consists solely in the answer to the question: why
 
 Religion is the highest and noblest agent in the education of man, the greatest force of enlightenment, while outward manifestations of faith and self-interested political activity are the chief obstacles to humanity's movement forward. The activity of both the clergy and the state is opposed to religion. The essence of religion, eternal and divine, equally fills the human heart wherever it feels and beats. All our investigations point us to one foundation of all great religions, to one teaching developing from the beginning of human life to the present day.
 
-Deep beneath all faiths flows the stream of one eternal truth.
+In the depths of all faiths flows the stream of one eternal truth.
 
-Let the Parsis wear their taovids, the Jews their phylacteries, Christians their cross, Muslims their crescent; but let them all remember that these are only outward signs, while the fundamental essence of all religions—love of one's neighbor—is equally demanded by Manu, Zoroaster, Buddha, Moses, Socrates, Hillel, Jesus, Paul, and Mohammed.
+Let the Parsis wear their taovids, the Jews their phylacteries, Christians their cross, Muslims their crescent; but let them all remember that these are only outward signs, while the fundamental essence of all religions—love of one's neighbor—is equally demanded by Manu, Zoroaster, Buddha, Moses, Socrates, Hillel, Jesus, Paul, and Muhammad.
 
 *Maurice Flügel.* <!-- vol. 41, p. 15 -->
 

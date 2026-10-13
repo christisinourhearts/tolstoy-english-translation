@@ -24,7 +24,7 @@ translation_note: "Lamennais’s long passage is kept as a single attributed quo
 ---
 <!-- vol. 41, p. 50 -->
 
-> PERFECTION
+> SELF-PERFECTION
 >
 > It is impossible for a person to attain the perfection of God, but he must constantly make efforts to draw nearer and nearer to it. This is the path along which the human race has from eternity been commanded to go. It is a thorny and difficult path because of the obstacles encountered at every step. But it is a consoling and joyful path because of the fruits it brings, the last of which is fraternal peace, the kingdom of peace and love on earth. Then the final great unity too will come. But unity is nothing other than the merging of each person's life with the life of all, and therefore for the realization of <!-- vol. 41, p. 51 --> this unity there is no other means than renunciation of oneself insofar as unity requires it—a voluntary renunciation of everything that divides and isolates. In this is the whole teaching of the Gospel. It is all in mercy, in universal love embracing God and all his creatures. And in all God's creatures everything changes above all in this direction. From self-love flow pride, covetousness, sensual desires, envy, anger, hostility; from the feeling of the common life, whose foundation is God, are born meekness, self-renunciation, inner peace—pure joys that turn earthly sufferings into an undisturbed blessedness.
 >

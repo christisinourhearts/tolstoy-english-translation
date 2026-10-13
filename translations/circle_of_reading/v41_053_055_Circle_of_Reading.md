@@ -34,7 +34,7 @@ Of all sins, only one — anger at one’s brother — is directly opposed to th
 
 The Roman sage Seneca said that, in order to restrain oneself from anger, the best remedy is, when one feels anger rising, to freeze and do nothing: not walk, not move, not speak. If the body and tongue are given free rein, anger will flare up more and more.
 
-It is also good, Seneca says, in order to unlearn anger, to observe other people when they are angry. When you look at other people and see what they are like in anger, when you see that they become like drunkards, like beasts, with red, angry, ugly faces, with an unpleasant hoarse voice, when you hear their foul language, remember not to become just as repulsive yourself.
+It is also good, Seneca says, in order to unlearn anger, to observe other people when they are angry. When you look at other people and see what they are like in anger, when you see that they become like drunkards, like beasts, with red, angry, ugly faces, with a disgusting hoarse voice, when you hear their foul language, remember not to become just as repulsive yourself.
 
 2
 
@@ -50,9 +50,9 @@ It is always more harmful than the offense that caused it.
 
 4
 
-> One can understand why a self-seeking and miserly person wrongs others: he wants to take possession of their property in order to enrich himself; he harms people for his own gain. But an angry person harms others without any benefit to himself; more than that: in harming others, he harms himself.
+> One can understand why a self-seeking and miserly person wrongs others: he wants to take possession of their property in order to enrich himself; he harms people for his own gain. But a spiteful person harms others without any benefit to himself; more than that: in harming others, he harms himself too.
 >
-> *According to Socrates*
+> *After Socrates.*
 
 <!-- vol. 41, p. 55 -->
 
@@ -60,7 +60,7 @@ It is always more harmful than the offense that caused it.
 
 > He whose malice knows no bounds — he who is entwined by it like dodder — will soon bring himself to the place where only his worst enemy would wish to thrust him.
 >
-> *Buddhist Wisdom. Dhammapada.*
+> *Buddhist wisdom. Dhammapada.*
 
 6
 
@@ -68,7 +68,7 @@ It is always more harmful than the offense that caused it.
 >
 > Neither father nor mother nor relatives nor those close to you will do you as much good as your heart when it forgives and forgets an offense.
 >
-> *Buddhist Wisdom. Dhammapada.*
+> *Buddhist wisdom. Dhammapada.*
 
 7
 

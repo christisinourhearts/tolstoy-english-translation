@@ -28,7 +28,7 @@ It is better to know a little that is truly good and necessary than a great deal
 
 1
 
-> What enormous wealth there can be in a small, carefully chosen library. The company of the wisest and worthiest people, chosen from all the civilized countries of the world over the course of thousands of years, has given us here, in the best order, the results of its study and wisdom. The people themselves are hidden and inaccessible; perhaps they would be impatient if we disturbed their solitude and interrupted their work; perhaps social conditions would make communication with them impossible. Yet the thought they did not reveal even to their best friends is written here in clear words for us, strangers from another age. Yes, we owe to good books the greatest spiritual benefits of our lives.
+> What enormous wealth there can be in a small, select library. The company of the wisest and worthiest people, chosen from all the civilized countries of the world over the course of thousands of years, has given us here, in the best order, the results of its study and wisdom. The people themselves are hidden and inaccessible; perhaps they would be impatient if we disturbed their solitude and interrupted their work; perhaps social conditions would make communication with them impossible. Yet the thought they did not reveal even to their best friends is written here in clear words for us, strangers from another age. Yes, we owe to good books the most important spiritual benefits of our lives.
 
 > *Emerson.*
 
@@ -48,7 +48,7 @@ It is better to know a little that is truly good and necessary than a great deal
 
 4
 
-> Read the best books first, or you may never get a chance to read them at all.
+> Read the best books first, or you will never have time to read them at all.
 
 > *Thoreau.*
 
@@ -64,7 +64,7 @@ It is better to know a little that is truly good and necessary than a great deal
 >
 > Bad books are not only useless but positively harmful. After all, nine-tenths of current literature is printed only to coax a couple of extra thalers out of the pockets of the trusting public; for the same purpose authors, publishers, and printers deliberately make books thicker.
 >
-> An even more harmful, brazen, and shameless fraud is committed by writers paid by the line: charging a groschen for each line of their concoctions, <!-- vol. 41, p. 13 --> these day laborers pervert the reader's taste and destroy true enlightenment.
+> An even more harmful, brazen, and shameless fraud is committed by scribblers paid by the line: charging a groschen for each line of their concoctions, <!-- vol. 41, p. 13 --> these day laborers pervert the reader's taste and destroy true enlightenment.
 >
 > To oppose this evil, one must unlearn the habit of reading; in other words, one should not read at all the books that occupy public attention or make a stir. Put simply, one must spit out all those publications whose first year of existence will also be their last.
 >

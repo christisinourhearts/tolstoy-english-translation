@@ -27,7 +27,9 @@ translation_note: "Attributed quotations are translated from Tolstoy's compiled 
 
 5 January
 
-One person cries out in a building filled with people: “Fire!” — and the crowd rushes, and tens, hundreds of people are killed. Such is the obvious harm produced by a word. But this harm is no less great when we do not see the people who have suffered from our word.
+One person cries out in a building filled with people: “Fire!”—and the crowd rushes, and tens, hundreds of people are killed.
+
+Such is the obvious harm produced by a word. But this harm is no less great when we do not see the people who have suffered from our word.
 
 <!-- vol. 41, p. 18 -->
 
@@ -41,11 +43,12 @@ One person cries out in a building filled with people: “Fire!” — and the c
 
 > Whoever does not sin in word is a perfect man, able to bridle the whole body as well. See, we put bits into horses' mouths so that they obey us, and we control their whole bodies; see also the ships: however large they are and however strong the winds that drive them, they are directed by a small rudder wherever the helmsman wishes; so too the tongue: a small member, but it does much. See how much material a small fire sets alight; and the tongue is a fire, an ornament of unrighteousness.
 
-> *Epistle of James, ch. 3, vv. 2–6.*
+> *James 3:2–6*
 
 3
 
 > When you hear people speak of the viciousness of other people, do not share their pleasure. When you hear of people's bad deeds, do not listen to the end and try to forget what you heard. When you hear talk of people's virtues, remember it and tell it to others.
+>
 > Do this, and soon you will become so accustomed to it that when you hear of people's evil, it will hurt you as though you yourself were being abused, and when an evil word about your neighbor slips from your tongue, it will hurt you as though you yourself had struck yourself.
 
 > *From the East.*
@@ -60,8 +63,8 @@ One person cries out in a building filled with people: “Fire!” — and the c
 
 5
 
-> I said: I will watch my ways, so that I do not sin with my tongue; I will bridle my mouth while the wicked are before me.
+> I said: I will watch my ways, so that I do not sin with my tongue; I will bridle my mouth while the wicked man is before me.
 
-> *Psalm 38:2.*
+> *Psalm 38:2 (39:1 in most English Bibles).*
 
-Beware of violating the unity of people by arousing in them unkind feelings against one another.
+Beware of violating the unity of people by arousing in them, with words, unkind feelings against one another.

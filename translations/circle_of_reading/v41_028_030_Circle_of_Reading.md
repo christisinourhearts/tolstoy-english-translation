@@ -34,9 +34,10 @@ The basis of education is the establishment of a relation to the source of every
 1
 
 > But whoever causes one of these little ones who believe in me to stumble, it would be better for him if a millstone were hung around his neck and he were drowned in the depth of the sea.
+>
 > Woe to the world because of temptations, for temptations must come; but woe to the person through whom temptation comes.
 
-> *Matthew, ch. 18, vv. 6–7.*
+> *Matthew 18:6–7*
 
 2
 
@@ -56,7 +57,7 @@ The basis of education is the establishment of a relation to the source of every
 
 5
 
-> The aim of true education is not only to make people do good deeds, but to find joy in them; not only to be pure, but to love purity; not only to be just, but to hunger and thirst for justice.
+> The goal of true education is not only to make people do good deeds, but also to find joy in them; not only to be pure, but also to love purity; not only to be just, but also to hunger and thirst for justice.
 
 > *John Ruskin.*
 

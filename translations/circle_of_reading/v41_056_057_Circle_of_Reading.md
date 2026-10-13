@@ -32,7 +32,7 @@ Where humanity will arrive is not given to people to know. The highest wisdom co
 
 > Narrow is the path leading to life, and few find it. Few find it because the majority go by the broad path, the one everyone goes by. But the true path is narrow, only for one person. And in order to find it, one must follow not the crowd but those solitary people — Buddha, Confucius, Socrates, Christ — who, each for himself and for all of us, one after another, laid the same narrow road.
 >
-> *According to Lucy Mallory.*
+> *After Lucy Mallory.*
 
 2
 
@@ -52,7 +52,7 @@ Where humanity will arrive is not given to people to know. The highest wisdom co
 >
 > A sign of false teaching is that it postpones life to another time and values a person who believes in its teaching more highly than a virtuous person.
 >
-> *According to Amiel.*
+> *After Amiel.*
 
 <!-- vol. 41, p. 57 -->
 
@@ -60,7 +60,7 @@ Where humanity will arrive is not given to people to know. The highest wisdom co
 
 > If a person seeks wisdom, he is intelligent, but if he thinks he has found it, he is foolish.
 >
-> *Persian Wisdom (from Albitis).*
+> *Persian wisdom (from Albitis).*
 
 6
 
@@ -68,4 +68,4 @@ Where humanity will arrive is not given to people to know. The highest wisdom co
 >
 > *Holmes.*
 
-The goals you share with the people around you should not determine your activity, but the purpose of your life, which is the same as the purpose of all people in the world.
+It is not the goals shared with the people around you that should determine your activity, but the purpose of your life, the same as the purpose of all people in the world.

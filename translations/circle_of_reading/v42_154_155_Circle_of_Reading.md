@@ -35,7 +35,7 @@ If there are people and there is God, then there cannot fail to be a relation be
 
 2
 
-> *The religious consciousness of humanity is not motionless,* *but changes without ceasing,* *becoming clearer and purer.*
+> *The religious consciousness of humanity is not motionless, but changes without ceasing, becoming more and more clear and pure.*
 
 <!-- vol. 42, p. 155 -->
 
@@ -49,10 +49,10 @@ If there are people and there is God, then there cannot fail to be a relation be
 
 One of the most harmful superstitions is the superstition that the world was created, that it came from nothing, and that there is a God who creates.
 
-In essence we have no basis and no need to suppose a creator God (the Chinese and Indians do not know this concept), and yet God the creator and providential ruler is incompatible with the Christian God the Father, God the Spirit, a particle of whom lives in me, constitutes my life, and to manifest and call forth which constitutes the meaning of my life—with God as love.
+In essence we have no basis and no need to suppose a creator God (the Chinese and the American Indians do not know this concept), and yet God the creator and providential ruler is incompatible with the Christian God the Father, God the Spirit, a particle of whom lives in me, constitutes my life, and to manifest and call forth which constitutes the meaning of my life—with God who is love.
 
 God the creator is indifferent and permits suffering and evil. God the Spirit delivers from suffering and evil and is always perfect good.
 
 I exist, knowing the world through the instruments of the senses given to me and inwardly knowing my Father God, but God the creator I do not know and cannot know.
 
-There is much that is good in the Koran, in Buddhist and Confucian books, in the writings of the Stoics, in the Bible, in the Upanishads, and in the Gospel, but most of what is necessary and understandable is in the religious thinkers nearest to us.
+There is much that is good in the Quran, and in Buddhist and Confucian books, and in the writings of the Stoics, and in the Bible, and in the Upanishads, and in the Gospel, but most of what is necessary and understandable is in the religious thinkers nearest to us.

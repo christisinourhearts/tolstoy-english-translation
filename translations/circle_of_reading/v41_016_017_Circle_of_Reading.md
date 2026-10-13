@@ -29,7 +29,7 @@ Even if we did not want it, we cannot help feeling our connection with the whole
 
 1
 
-> *Good people help one another,* *even without realizing it,* *while bad people deliberately work against one another.*
+> *Good people help one another, even without realizing it, while evil people deliberately work against one another.*
 
 > *Chinese proverb.*
 
@@ -51,7 +51,7 @@ Even if we did not want it, we cannot help feeling our connection with the whole
 
 > A good person is the teacher of a bad person; a bad person is the very thing a good person must work on. The one who does not respect his teacher and does not love what he must work on, however intelligent he may be, is mistaken.
 
-> *Lao-Tzu.*
+> *Laozi.*
 
 5
 
@@ -65,4 +65,4 @@ Even if we did not want it, we cannot help feeling our connection with the whole
 
 > *Marcus Aurelius.*
 
-The whole history of humanity, for as long as we know it, is humanity's movement toward ever greater unity. This unity is brought about by the most varied means, and it is served not only by those who work for it, but even by those who oppose it.
+The whole history of humanity, for as long as we have known it, is humanity's movement toward greater and greater unity. This unity is accomplished by the most varied means, and it is served not only by those who work for it, but even by those who oppose it.

@@ -38,7 +38,7 @@ Faith is the understanding of the meaning of life and the recognition of the dut
 
 2
 
-> The purpose of faith is not only to make a person good. The faith of a good person raises him to such a height from which everything is easy and joyful for him.
+> The work of faith is not only to make a person good. The faith of a good person raises him to such a height from which everything is easy and joyful for him.
 
 > *After Lessing.*
 
@@ -52,7 +52,7 @@ Faith is the understanding of the meaning of life and the recognition of the dut
 
 4
 
-> There are two kinds of peace. There is negative peace; it is the absence of noise, of gnawing cares; it is calm after struggle, after storms. But there is another, more perfect peace of soul, which this first peace only precedes—that divine calm which understands everything, whose true name is “the kingdom of God within us.” To this peace of soul belongs the peace that religion gives us. It is conscious union with God and the world, a bond of love with all beings, love for everything pure and innocent, the ability to sacrifice one's desires and interests, participation in the spirit and life of the universe, complete agreement of one's will with its infinite source. In this lies man's true peace and happiness.
+> There are two kinds of peace. There is negative peace; it is the absence of noise, of gnawing cares; it is calm after struggle, after storms. But there is another, more perfect peace of soul, which this first peace only precedes—that divine calm which understands everything, whose true name is “the kingdom of God within us.” To this peace of soul belongs the calm that religion gives us. It is conscious union with God and the world, a bond of love with all beings, love for everything pure and innocent, the ability to sacrifice one's desires and interests, participation in the spirit and life of the universe, complete agreement of one's will with its infinite source. In this lies man's true calm and happiness.
 
 > *Channing.*
 
@@ -64,11 +64,11 @@ Faith is the understanding of the meaning of life and the recognition of the dut
 
 6
 
-People ask: what will happen after death? This is how one should answer: if you truly say, not with your tongue but with your heart, “Thy will be done as on earth, so in heaven,” that is, as in this temporal life, so in the eternal, then you have no need even to think about what will happen after death. Give yourself over to the will of the infinite being, blessing it; you know that it is love—so what have you to fear?
+People ask: what will happen after death? This is how one should answer: if you truly say, not with your tongue but with your heart, “Your will be done as on earth, so in heaven,” that is, as in this temporal life, so in the eternal, then you have no need even to think about what will happen after death. Give yourself over to the will of the infinite being, blessing it; you know that it is love—so what have you to fear?
 
 If my spirit returns to the Father, then nothing but the very best can happen to it.
 
-<!-- vol. 41, p. 35 --> Christ, dying, said: “Father! into thy hands I give my spirit.” If anyone says these words not with the tongue alone, but with all the heart, then such a person needs nothing more.
+<!-- vol. 41, p. 35 --> Christ, dying, said: “Father! into your hands I give my spirit.” If anyone says these words not with the tongue alone, but with all the heart, then such a person needs nothing more.
 
 7
 

@@ -40,7 +40,7 @@ Conscious of all the unreasonableness of life and the misery that always flows f
 
 But it is precisely here that those who do not go to the light, because their deeds are evil, always sit in Moses' seat; and therefore people who set themselves up as teachers not only do not try to make clear the unreasonableness of present life and the reasonableness of the life that ought to be, but, on the contrary, try to conceal the unreasonableness of present life and undermine confidence in the reasonableness of the life that ought to be. For this purpose there exist and operate the police, armies, criminal laws, prisons, shelters for children, almshouses for the old, foundling homes, brothels, insane asylums, hospitals, insurance societies, and all compulsory educational institutions established with forcibly collected funds, institutions for juvenile offenders, and many others.
 
-By a fatal necessity, each of these institutions, besides concealing evil, generates new evil and increases uncontrollably, like a snowball, the evil that it supposes itself to destroy.
+Fatally, each of these institutions, besides concealing evil, generates new evil and increases uncontrollably, like a snowball, the evil that it intends to destroy.
 
 If only one thousandth of the efforts used to establish all this, which has the aim of concealing evil and only increases it, were used to oppose that for the concealment of which all these institutions serve, this evil, having become manifest to us, would quickly be destroyed.
 
@@ -62,7 +62,7 @@ If only one thousandth of the efforts used to establish all this, which has the 
 
 4
 
-No violent reform will correct evil while people remain as they are, and therefore correction of evil can be expected not from a change in the form of our life, but only from the spread of goodness and reasonableness.
+No violent reform will correct evil while people remain as they are, and therefore correction of evil can be expected not from a change in the form of our life, but only from the spread of kindness and reasonableness.
 
 5
 

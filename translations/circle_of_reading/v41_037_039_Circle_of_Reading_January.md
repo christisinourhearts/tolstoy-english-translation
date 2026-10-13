@@ -30,9 +30,9 @@ translation_note: "The tale's deliberately simple repeated formulas are retained
 
 > And he said to Jesus: remember me, Lord, when you come into your kingdom! And Jesus said to him: truly I tell you, today you will be with me in paradise.
 
-> *(Luke ch. 23, vv. 42, 43.)*
+> *Luke 23:42, 43*
 
-There lived in the world a man for seventy years, and he spent his whole life in sins. And this man fell ill and did not repent. And when death came, in the last hour he began to weep and said: “Lord! as you forgave the robber on the cross, forgive me!” He had only just said this when his soul left him. And the sinner's soul came to love God and believed in his mercy and came to the gates of paradise.
+There lived in the world a man for seventy years, and he spent his whole life in sins. And this man fell ill and did not repent. And when death came, in the last hour he began to weep and said: “Lord! as to the robber on the cross, forgive me!” He had only just said this when his soul left him. And the sinner's soul came to love God and believed in his mercy and came to the gates of paradise.
 
 And the sinner began knocking and asking to be admitted into the kingdom of heaven.
 
@@ -64,7 +64,7 @@ And the voice from behind the door answered: “Go away from here; such sinners 
 
 And the sinner said: “Lord! I hear your voice, but I do not see your face and do not know your name.”
 
-And the voice said to him: “I am King and Prophet David.” And the sinner did not despair, did not leave the gate of paradise, and began to say: “Take pity on me, King David, and remember human weakness and God's mercy. God loved you and exalted you before people. You had everything: kingdom, glory, wealth, wives, children, but you saw from the roof the wife of a poor man, and sin entered into you, and you took Uriah's wife and killed him himself by the sword of the Ammonites. You, a rich man, took from the poor man his last ewe lamb and destroyed him himself. The same did I. And remember afterward how you repented and said: I acknowledge my guilt and grieve over my sin. It was the same with me. You cannot refuse to let me in.”
+And the voice said to him: “I am King and Prophet David.” And the sinner did not despair, did not leave the gate of paradise, and began to say: “Take pity on me, King David, and remember human weakness and God's mercy. God loved you and exalted you before people. You had everything: kingdom, glory, wealth, wives, children, but you saw from the roof the wife of a poor man, and sin entered into you, and you took Uriah's wife and killed the man himself by the sword of the Ammonites. You, a rich man, took from the poor man his last ewe lamb and destroyed the man himself. I too did the same. And remember afterward how you repented and said: I acknowledge my guilt and grieve over my sin. It was the same with me. You cannot refuse to let me in.”
 
 And the voice behind the gates fell silent.
 
