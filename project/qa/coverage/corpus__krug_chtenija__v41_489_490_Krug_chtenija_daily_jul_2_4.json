@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.12",
+  "source_path": "corpus/krug_chtenija/v41_489_490_Krug_chtenija_daily_jul_2_4.md",
+  "source_sha256": "029dfe51c796c35a4113590525e7e15810390b1de52db86489e68b29d22abf19",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Милосердие» (miloserdie, 'mercy') is 'mercy' throughout; the Didache is cited as Tolstoy prints it, «Учение 12 апостолов» (Uchenie 12 apostolov, 'the Teaching of the 12 Apostles'), with his digits. The source prints the Gospel reference as «Лк. гл. 5, ст. 30—31» (Luke, chapter 5, verses 30–31); the text is Luke 6:30–31, and the corrected reference is given.",
+    "Source observation: [15] Reference printed «Лк. гл. 5, ст. 30—31» (Luke 5:30–31); the quoted text («Всякому, просящему у тебя, давай…») is Luke 6:30–31. English gives Luke 6:30–31."
+  ],
+  "result": "PASS"
+}

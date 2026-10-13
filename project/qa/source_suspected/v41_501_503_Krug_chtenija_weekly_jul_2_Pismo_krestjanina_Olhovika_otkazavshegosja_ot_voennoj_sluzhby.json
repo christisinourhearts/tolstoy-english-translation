@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_501_503_Krug_chtenija_weekly_jul_2_Pismo_krestjanina_Olhovika_otkazavshegosja_ot_voennoj_sluzhby.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[23] The letter opened with « in [2] has no closing mark of its own; the single final » closes both the general's words and the letter (Russian typographic practice). English closes both (’”)."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

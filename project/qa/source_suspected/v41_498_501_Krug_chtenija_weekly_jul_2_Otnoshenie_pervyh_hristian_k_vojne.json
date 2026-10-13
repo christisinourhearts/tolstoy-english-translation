@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_498_501_Krug_chtenija_weekly_jul_2_Otnoshenie_pervyh_hristian_k_vojne.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[10] «в Троянском легионе» ('in the Trojan legion'): Marcellus served in the legion named after Trajan (Legio II Traiana), so this may be a slip for «Траянском» ('Trajan's'); translated as printed.",
+    "[20] «Составлено H. Н. Гусевым» prints a Latin H for the first initial (Cyrillic Н); rendered 'N. N. Gusev'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

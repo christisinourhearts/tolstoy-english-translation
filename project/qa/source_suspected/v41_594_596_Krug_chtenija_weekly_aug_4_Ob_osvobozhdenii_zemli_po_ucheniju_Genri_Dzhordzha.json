@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_594_596_Krug_chtenija_weekly_aug_4_Ob_osvobozhdenii_zemli_po_ucheniju_Genri_Dzhordzha.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[7] «не в силах бы были, не работая на них; платить за них ренту» (ne v silakh by byli, ne rabotaya na nikh; platit' za nikh rentu): a stray semicolon where a comma is required; translated as a comma."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

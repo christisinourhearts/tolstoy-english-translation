@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.35",
+  "source_path": "corpus/krug_chtenija/v41_537_538_Krug_chtenija_daily_jul_5_1.md",
+  "source_sha256": "15a4aac6526ac840109ef32a18c4f9c143fb5b0680359fe15efd77b4362edab3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (16) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum) is 'reason' and «ум» (um) 'mind', as the source distinguishes them; «орудие» (orudie) is 'tool'. Tolstoy's italic *why* and *what for* render «отчего» and «зачем» (otchego, zachem); «Питтакус» (Pittakus) is Pittacus, and the unattributed saying on the long night (Dhammapada 60) is translated from Tolstoy's Russian."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.13",
+  "source_path": "corpus/krug_chtenija/v41_491_492_Krug_chtenija_daily_jul_2_5.md",
+  "source_sha256": "7fbcc96fa2b0dce3902cfe70a36b62d98bd13c2014ce9c08ccf23c5ce5043b90",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Духовное начало» (dukhovnoe nachalo, 'spiritual principle') is kept as a noun phrase where the website draft had paraphrased the opening thought, and «колебания» (kolebaniya, 'vibrations') of the spiritual world and of starlight is 'vibrations'. Schopenhauer's «явление» (yavlenie) is 'phenomenon' in his technical sense; the attributions follow the print."
+  ],
+  "result": "PASS"
+}

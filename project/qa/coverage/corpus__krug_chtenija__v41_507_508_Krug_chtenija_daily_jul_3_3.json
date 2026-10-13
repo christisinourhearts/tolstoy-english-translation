@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.21",
+  "source_path": "corpus/krug_chtenija/v41_507_508_Krug_chtenija_daily_jul_3_3.md",
+  "source_sha256": "02b694772c6d5b74e541c6d1981beb63fb6e4ec576b636564cd129d710d66735",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Насилие» (nasiliye) is 'violence' and «разумный» (razumnyy) 'reasonable' throughout; «не противься злому» (ne protiv'sya zlomu) is 'do not resist evil', translated from Tolstoy's Russian of Matthew 5:38–39. In the fourth thought the switch from plural educated people to a singular 'him' who is whistled 'into the collar' («под хомут», pod khomut, a horse collar) is kept as printed."
+  ],
+  "result": "PASS"
+}

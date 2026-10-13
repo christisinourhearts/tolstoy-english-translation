@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_559_561_Krug_chtenija_daily_aug_2_3.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[7] The paragraph on the most important person is printed after the closing quotation mark of the sage's answer (which ends with the deed), so it stands outside his speech and out of the order of the question (time, person, deed); possibly misplaced in the source; translated in the printed position.",
+    "[17] The second half of the quoted speech («— А вот я приготовлюсь… совестью».) has a closing guillemet but no opening one; the English supplies the opening quotation mark."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

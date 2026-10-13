@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.04",
+  "source_path": "corpus/krug_chtenija/v41_467_470_Krug_chtenija_daily_jul_1_4.md",
+  "source_sha256": "d0917e7c16ba49a0df0e8192ee2e5a3ea454370a88fcaef4b073a25de0fb844d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (31) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The parable of the wheat and the weeds is translated directly from the Russian Synodal wording Tolstoy prints, without added quotation marks; «рабы» (raby, 'slaves') is kept literal and «плевелы» (plevely) is 'weeds'. «Мстительность» (mstitel'nost') is 'vindictiveness', and «зло» (zlo, 'evil') stays 'evil' where the website draft had 'harm'."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.06",
+  "source_path": "corpus/krug_chtenija/v41_472_475_Krug_chtenija_daily_jul_1_6.md",
+  "source_sha256": "af77359400f1242112ca015a5d7223403e0bd0b089a4dfc83eb5c5377a370422",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print: «Род» (Rod) and «Гардюен» (Gardyuen, 'Harduin', as elsewhere in the book), not expanded; in the body «Жозеф Местр» (Zhozef Mestr) is given the established form Joseph de Maistre and «г-н Мольтке» (g-n Mol'tke) is 'Mr. Moltke'. The de Maistre sentence announced in section 2 is printed after the Harduin attribution, outside the quotation, and is kept there as printed.",
+    "Source observation: [19] The de Maistre quotation announced at the end of [11] (“Joseph de Maistre extolled… thus:”) is printed after the Harduin attribution [18], outside the blockquote, as a separate paragraph; probably a displaced footnote. Translated in place as printed."
+  ],
+  "result": "PASS"
+}

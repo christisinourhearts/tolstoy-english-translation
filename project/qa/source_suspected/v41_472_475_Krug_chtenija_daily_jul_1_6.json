@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_472_475_Krug_chtenija_daily_jul_1_6.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[19] The de Maistre quotation announced at the end of [11] (“Joseph de Maistre extolled… thus:”) is printed after the Harduin attribution [18], outside the blockquote, as a separate paragraph; probably a displaced footnote. Translated in place as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

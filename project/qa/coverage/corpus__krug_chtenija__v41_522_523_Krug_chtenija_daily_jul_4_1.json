@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.27",
+  "source_path": "corpus/krug_chtenija/v41_522_523_Krug_chtenija_daily_jul_4_1.md",
+  "source_sha256": "35bf01954b7ab4bdf943e123001ef7783a39f2b4df53ea3c597b377d50653092",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Matthew and James are translated from the Russian wording, not from an English Bible. «Богавата» (Bogavata) is kept as printed, 'Bhagavata'; the passage itself comes from the Bhagavad Gita (ch. 2), as does the unattributed paragraph that follows it.",
+    "Source observation: [10] The unattributed paragraph «Дверь неба открыта для тебя…» stands outside the quotation, after the attribution «Индийский Богавата.», though its content (acting without regard to reward or outcome) continues the Bhagavad Gita passage of [8]; translated as printed, unattributed."
+  ],
+  "result": "PASS"
+}

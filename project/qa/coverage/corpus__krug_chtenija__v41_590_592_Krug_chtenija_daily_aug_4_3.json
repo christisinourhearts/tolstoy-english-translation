@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.28",
+  "source_path": "corpus/krug_chtenija/v41_590_592_Krug_chtenija_daily_aug_4_3.md",
+  "source_sha256": "265b2c41c69abcc26053fdbfece5ed814393213f0d4a5d7a45760d7671dab48a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствование» (sovershenstvovanie) is 'perfecting', and Lamennais's «преображаться» / «преобразоваться» (preobrazhat'sya / preobrazovat'sya) are both 'be transformed'; pronouns for God stay lowercase as in the source. «Иосиф Мадзини» (Iosif Madzini) is Giuseppe Mazzini, and in Mazzini «время знания и открытия» (vremya znaniya i otkrytiya), which takes a plural verb, is read as 'time, knowledge, and discoveries'.",
+    "Source observation: [8] «время знания и открытия лишь расширяют его границы» (vremya znaniya i otkrytiya lish' rasshiryayut ego granitsy): the plural verb points to a missing comma («время, знания и открытия», 'time, knowledge, and discoveries'); translated in that sense."
+  ],
+  "result": "PASS"
+}

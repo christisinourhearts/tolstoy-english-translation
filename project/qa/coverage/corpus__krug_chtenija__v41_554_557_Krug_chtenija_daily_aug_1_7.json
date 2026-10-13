@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.09",
+  "source_path": "corpus/krug_chtenija/v41_554_557_Krug_chtenija_daily_aug_1_7.md",
+  "source_sha256": "5f621a7a65bd29bf6c7770bd6423489973ae773e4268ea5910902fd9362e0905",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (52) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The opening keeps Tolstoy's play on «тщеславие» (tshcheslaviye, 'vanity') and «тщетный» (tshchetny, 'vain, futile') with 'vain' and 'vanity'. The proverb is printed «Себя уморишь, а людей не увидишь» (Sebya umorish', a lyudey ne uvidish', 'you will wear yourself to death but will not see people'); it is translated as the known proverb with «удивишь» (udivish', 'you will impress'), and the reading is flagged. Attributions follow the print: Penn, Pope, Lichtenberg, La Bruyère, and the bare initial K.",
+    "Source observation: [11] «людей не увидишь» ('you will not see people') looks like a transposition of «не удивишь» ('you will not impress'), the known form of the proverb «Себя уморишь, а людей не удивишь»; translated as «удивишь»."
+  ],
+  "result": "PASS"
+}

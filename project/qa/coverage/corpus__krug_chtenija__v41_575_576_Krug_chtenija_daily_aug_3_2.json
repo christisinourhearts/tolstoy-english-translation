@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.19",
+  "source_path": "corpus/krug_chtenija/v41_575_576_Krug_chtenija_daily_aug_3_2.md",
+  "source_sha256": "99add007ed11042eff7be3b1f659d5f868b5c0db7307371973eb0d3f1a99b3b6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Злорадство» (zloradstvo, 'malicious joy') is 'gloating', and Schopenhauer's «не я» (ne ya, 'not I') keeps the first person as printed. Tolstoy's «негры» (negry) is kept as 'Negroes', the period word, without modernizing.",
+    "Source observation: [10] The paragraph «Один тип разделяет нас…» ('One type separates us…') continues Schopenhauer's passage but is printed after the attribution «Шопенгауэр.» and without the quote marker; possibly a misplaced attribution. Translated as printed."
+  ],
+  "result": "PASS"
+}

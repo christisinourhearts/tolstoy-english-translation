@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_461_463_Krug_chtenija_daily_jul_1_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[26] Tolstoy's in-text reference «Мф. 24, 14—30» (Matthew 24:14–30) for the parable of the talents: the parable is Matthew 25:14–30; kept as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

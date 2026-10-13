@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.16",
+  "source_path": "corpus/krug_chtenija/v41_569_571_Krug_chtenija_daily_aug_2_6.md",
+  "source_sha256": "d2b426dd3104f67193d1d63bba391979de26909b9b88cdb9d86c35900b02b7c0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print: Lucy Mallory (the website draft had «Malopi»), Fyodor Strakhov, *The Talmud*; Christ's words (cf. Luke 6:26) are given as Tolstoy words them. «Обличать» (oblichat', 'to denounce, expose') is kept as 'denounce' in the closing thought."
+  ],
+  "result": "PASS"
+}

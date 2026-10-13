@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.25",
+  "source_path": "corpus/krug_chtenija/v41_584_586_Krug_chtenija_daily_aug_3_7.md",
+  "source_sha256": "0f5527f1744694db0d42ba173b8f23aca92066f4c352c006c88bc88936a587a3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The source prints «Мф. гл. 6, ст. 9» (Matthew 6:9) under the fourth reading; the text is Matthew 6:7–8, which the English gives. The attribution is «Гаррисон» (Garrison), which the website draft had as 'Harrison'; «отец» (otets, 'father') is lowercase as in the source.",
+    "Source observation: [16] Printed reference «Мф. гл. 6, ст. 9» (Matthew 6:9); the quoted text is Matthew 6:7–8, given as such in the English.",
+    "Source observation: [5] «не служим действительна богу» — «действительна» for «действительно» ('really'); a one-letter slip, translated 'really'."
+  ],
+  "result": "PASS"
+}

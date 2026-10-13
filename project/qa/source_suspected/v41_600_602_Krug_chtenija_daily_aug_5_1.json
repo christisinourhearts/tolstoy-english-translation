@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_600_602_Krug_chtenija_daily_aug_5_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[13] «Индийская Махмуд Гаша» (Indiyskaya Makhmud Gasha): no such work or author is known; the verse («В тебе, во мне, во всяком другом пребывает бог жизни; напрасно ты сердишься на меня…») is from the Sanskrit Moha Mudgara (Bhaja Govindam), so the name looks garbled; transliterated as printed.",
+    "[19] The attribution «Амиель» (Amiel') may be misplaced: the passage («Одна великая мысль завладела моей душой…», 'One great thought has taken possession of my soul') closely follows W. E. Channing ('I have one great idea, the greatness of the soul, its union with God…'); kept as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

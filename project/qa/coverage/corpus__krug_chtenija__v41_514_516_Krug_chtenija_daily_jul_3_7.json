@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.25",
+  "source_path": "corpus/krug_chtenija/v41_514_516_Krug_chtenija_daily_jul_3_7.md",
+  "source_sha256": "38f05254b3f321f41759a9edf0108392a0794ada7a24eecd0e94cbca133eb94c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (34) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Духовное начало» (dukhovnoe nachalo) is 'spiritual principle' and «благо» (blago) 'the good'; Strakhov's sentence on the difference between the two kinds of love is printed after his attribution, outside the quotation, and is translated where it stands.",
+    "Source observation: [32] The sentence «Разница между тою и другою любовью…» stands after the attribution «Федор Страхов.», outside the quotation; by its sense («первом случае» … and the following «Во втором же случае») it belongs inside Strakhov's passage, before [28]. Translated as printed.",
+    "Source observation: [30] «Вo втором» is printed with a Latin o in «Вo»; translated as «Во втором» ('In the second')."
+  ],
+  "result": "PASS"
+}

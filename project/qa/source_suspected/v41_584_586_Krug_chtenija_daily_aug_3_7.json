@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_584_586_Krug_chtenija_daily_aug_3_7.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[16] Printed reference «Мф. гл. 6, ст. 9» (Matthew 6:9); the quoted text is Matthew 6:7–8, given as such in the English.",
+    "[5] «не служим действительна богу» — «действительна» for «действительно» ('really'); a one-letter slip, translated 'really'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.19",
+  "source_path": "corpus/krug_chtenija/v41_503_505_Krug_chtenija_daily_jul_3_1.md",
+  "source_sha256": "4843496e4ff56976d3a0c365c2a622bb2396fdc4a00789a4f45bb2f686cabcf8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 9 had no website counterpart and were translated fresh.",
+    "The pronoun «я» (ya, 'I') used as a noun is rendered 'the “I”' (spiritual, animal, all-embracing, universal “I”) rather than 'self'; «познание» (poznaniye) is 'knowing'. The three Gospel lines are translated from Tolstoy's Russian (Luke 22:42, Mark 14:36, Matthew 26:39), and Amiel's «сотни лет» (sotni let) is 'hundreds of years', which the website draft had reduced to 'a hundred'."
+  ],
+  "result": "PASS"
+}

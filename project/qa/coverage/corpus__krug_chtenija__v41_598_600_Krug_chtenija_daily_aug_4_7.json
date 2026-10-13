@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.33",
+  "source_path": "corpus/krug_chtenija/v41_598_600_Krug_chtenija_daily_aug_4_7.md",
+  "source_sha256": "7f565445de0b075fba60fe5508bb501c9f1204809c6e5b32c2f75fc2db104b40",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (31) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Вера» (vera) is 'faith' throughout; at confession («на духу», na dukhu) the peasant's «Грешен» (Greshen) is 'I am a sinner', and his generic second person («сам только о себе думаешь», sam tol'ko o sebe dumayesh', 'you think only about yourself') is kept, where the website draft had turned it into 'I'. Carlyle is given by surname only, as printed."
+  ],
+  "result": "PASS"
+}

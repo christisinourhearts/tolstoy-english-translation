@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.18",
+  "source_path": "corpus/krug_chtenija/v41_573_575_Krug_chtenija_daily_aug_3_1.md",
+  "source_sha256": "e07745aec7b376d7f9346e7de505211410d54cf65c745fdc6f8c1c94838e88e2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The parable of the vineyard (Matthew 21:33–41) is translated from Tolstoy's Russian, with «хозяин» (khozyain, 'master') kept as 'master' of the vineyard and of the garden; «разум» (razum) is 'reason' throughout. «Выковал» (vykoval, 'forged') in the parable is read as «выкопал» (vykopal, 'dug'), the Synodal wording, and flagged.",
+    "Source observation: [17] «выковал в нем точило» ('forged a winepress in it') for the Synodal «выкопал» ('dug'); evidently a one-letter slip, translated 'dug'.",
+    "Source observation: [2] «чего они желают; возможность совершенствования» has a semicolon where a colon is evidently meant before the explanation; rendered with a colon."
+  ],
+  "result": "PASS"
+}

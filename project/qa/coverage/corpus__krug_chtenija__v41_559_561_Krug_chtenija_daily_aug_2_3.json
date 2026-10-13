@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.12",
+  "source_path": "corpus/krug_chtenija/v41_559_561_Krug_chtenija_daily_aug_2_3.md",
+  "source_sha256": "7fb0b4f071d64bb04116f4379edffff0a64681e4a894134e369f3541f15abf23",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The sage's phrase «быть в любви с» (byt' v lyubvi s, literally 'to be in love with') is rendered 'to live in love with', since the English idiom would read as romantic. The paragraph on the most important person stands, as printed, after the sage's closing quotation mark, and the opening quotation mark missing in reading 4 is supplied; both are flagged. «Соблазн» (soblazn) is 'temptation' and «совершенствование» (sovershenstvovaniye) 'perfecting'.",
+    "Source observation: [7] The paragraph on the most important person is printed after the closing quotation mark of the sage's answer (which ends with the deed), so it stands outside his speech and out of the order of the question (time, person, deed); possibly misplaced in the source; translated in the printed position.",
+    "Source observation: [17] The second half of the quoted speech («— А вот я приготовлюсь… совестью».) has a closing guillemet but no opening one; the English supplies the opening quotation mark."
+  ],
+  "result": "PASS"
+}

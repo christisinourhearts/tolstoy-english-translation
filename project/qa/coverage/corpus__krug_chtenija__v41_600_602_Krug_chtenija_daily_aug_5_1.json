@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.34",
+  "source_path": "corpus/krug_chtenija/v41_600_602_Krug_chtenija_daily_aug_5_1.md",
+  "source_sha256": "2377b3c707696bf1ed16e005f949e5c361fe8758d334c2906efca10692fb8cc3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Владыка жизни» (vladyka zhizni) is 'the lord of life', lowercase as printed, and «Высший» (Vysshiy) 'the Highest'; «отец» (otets, 'father') is lowercase as in the source. Attributions follow the print: «Индийская Махмуд Гаша» (Indiyskaya Makhmud Gasha) is transliterated as 'Indian Mahmud Gasha' though it appears to be a garbled Moha Mudgara, and the passage signed «Амиель» (Amiel') is kept under Amiel though it reads like Channing.",
+    "Source observation: [13] «Индийская Махмуд Гаша» (Indiyskaya Makhmud Gasha): no such work or author is known; the verse («В тебе, во мне, во всяком другом пребывает бог жизни; напрасно ты сердишься на меня…») is from the Sanskrit Moha Mudgara (Bhaja Govindam), so the name looks garbled; transliterated as printed.",
+    "Source observation: [19] The attribution «Амиель» (Amiel') may be misplaced: the passage («Одна великая мысль завладела моей душой…», 'One great thought has taken possession of my soul') closely follows W. E. Channing ('I have one great idea, the greatness of the soul, its union with God…'); kept as printed."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.17",
+  "source_path": "corpus/krug_chtenija/v41_571_573_Krug_chtenija_daily_aug_2_7.md",
+  "source_sha256": "18c5c4e0d5bcbba2df06539a3f687faf2bb533234d2fff5533669a5936b756fb",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Сила» (sila, 'force') in the Combe passage is kept distinct from «насилие» (nasilie, 'violence'); the attribution is printed as the surname «Комб» (Komb, 'Combe') and is not expanded. «Убеждать» (ubezhdat', 'to persuade') is 'persuade' in both Combe and Mazzini, and «личность» (lichnost') in Amiel is 'personality'.",
+    "Source observation: [6] The paragraph «Убеждение же, напротив…» ('Persuasion, on the other hand…') continues the Combe passage but is printed after the attribution «Комб.» and without the quote marker; possibly a misplaced attribution. Translated as printed."
+  ],
+  "result": "PASS"
+}

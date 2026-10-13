@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.36",
+  "source_path": "corpus/krug_chtenija/v41_604_606_Krug_chtenija_daily_aug_5_3.md",
+  "source_sha256": "a559bcaa10dae868674ca1f7ec7c940040258d9e50de77de587f6da3ae073f50",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's pairs are kept distinct: «настоящее» (nastoyashcheye, 'real') and «истинное» (istinnoye, 'true') art against «поддельное» (poddel'noye, 'counterfeit') and «ложное» (lozhnoye, 'false') art; «блудница» (bludnitsa) is 'harlot' and «проститутка» (prostitutka) 'prostitute'. The website draft's dropped «полового» (polovogo, 'sexual') is restored, and in Ruskin «стрекоза басни» (strekoza basni, 'the dragonfly of the fable', Krylov's figure) is kept."
+  ],
+  "result": "PASS"
+}

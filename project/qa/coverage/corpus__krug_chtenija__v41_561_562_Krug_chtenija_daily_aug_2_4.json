@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.13",
+  "source_path": "corpus/krug_chtenija/v41_561_562_Krug_chtenija_daily_aug_2_4.md",
+  "source_sha256": "92abd2e01426580b9e22f29ea60dcbbcb13934c91d604450dde0c7d8c49c7fe7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Schopenhauer's italic «кто» (kto, 'who') is kept italic, and Emerson's «прочным добром» (prochnym dobrom, 'a lasting good') stays 'a lasting good' rather than 'possession'. «Благо» (blago) is 'good' and «общение с богом» (obshcheniye s bogom, 'communion with God') is 'communion with God'."
+  ],
+  "result": "PASS"
+}

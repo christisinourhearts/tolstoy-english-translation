@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.15",
+  "source_path": "corpus/krug_chtenija/v41_567_569_Krug_chtenija_daily_aug_2_5.md",
+  "source_sha256": "64dbbbf8e6463961c62ce8fddd1ec5ebf462cb4a865d02b17fa1a2e882b3b468",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (35) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 17 had no website counterpart and were translated fresh.",
+    "Gospel verses are translated from Tolstoy's Russian, with lowercase «отец» (otets, 'father') and pronouns for God as in the source; «отрешиться» (otreshit'sya, 'detach oneself') is repeated as in Epictetus's text. Reading 5 and its attribution «Амиел» (Amiel, 'Amiel', printed without the soft sign) stand outside the quotation format, as printed; both oddities are flagged.",
+    "Source observation: [14] The reference is printed «cm. 23» with Latin letters c, m for Cyrillic «ст.» ('verse'); translated as John 16:23.",
+    "Source observation: [17] Reading 5 and its attribution are printed as ordinary text, not as a quotation, and the name is spelled «Амиел» rather than the usual «Амиель»; translated as printed (Amiel)."
+  ],
+  "result": "PASS"
+}

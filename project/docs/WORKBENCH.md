@@ -289,4 +289,12 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Print checks for June are listed in `project/qa/batches/R003.md` (notably 8 June: Confucius «равны», probably a dropped «не»).
 - `R003_BRIEF.md` updated with the conventions settled so far.
 - Website: 769 units updated in `06.js`; weekly titles aligned ("Must It Be So?", "First Sorrow", "Voluntary Servitude").
-- Next: R003.07 = July.
+- R003.07–08 done the same day (see below).
+
+## 2026-10-13 — R003.07–08: July and August
+
+- 73 files (37 July, 36 August; ~34,000 Russian words), all reviewed. Weekly readings include Tolstoy's *Pascal*, Lamennais, *The Attitude of the First Christians to War*, the letter of the peasant Olkhovik, Hugo's *The Unbeliever* (tr. Tolstoy), Buka's *Repentance*, *The Great Bear (The Dipper)*, Turgenev's *The Sparrow*, Maupassant's *Solitude*, Nietzsche's *Catholicism and Christianity*, and the Henry George land reading. January–August are complete.
+- Reference-line corrections: 11 July Luke 6:30–31 (printed 5:30–31); 21 August Matthew 6:7–8 (printed 6:9). Kept as printed in Tolstoy's sentence: 1 July "Matthew 24:14–30" (talents: Matthew 25).
+- Print checks for July–August are listed in `project/qa/batches/R003.md` (several attributions printed before passages that seem to belong to them).
+- Website: 857 units updated in `07.js`/`08.js`; weekly titles aligned.
+- Next: R003.09 = September.

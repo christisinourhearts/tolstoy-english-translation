@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.21",
+  "source_path": "corpus/krug_chtenija/v41_578_580_Krug_chtenija_daily_aug_3_4.md",
+  "source_sha256": "1439ffcff844e72dce14e4cad72645f65c67829940403d99a7061eff9597aa38",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (15) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Lamennais's «благая весть» (blagaya vest', 'good news') keeps its italics, and «лето господне» (leto gospodne) is 'the year of the Lord'. «Царство бога» (tsarstvo boga) is 'the kingdom of God'; Lessing's line keeps «истина» (istina) as 'the truth'."
+  ],
+  "result": "PASS"
+}

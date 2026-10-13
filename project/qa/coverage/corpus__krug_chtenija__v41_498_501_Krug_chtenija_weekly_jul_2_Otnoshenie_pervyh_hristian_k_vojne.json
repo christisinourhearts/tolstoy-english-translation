@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.17",
+  "source_path": "corpus/krug_chtenija/v41_498_501_Krug_chtenija_weekly_jul_2_Otnoshenie_pervyh_hristian_k_vojne.md",
+  "source_sha256": "c4fdefa702a4e194d99787dc7e4899461baadb0d92f25fbeaea2bddef63fbe55",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 20 had no website counterpart and were translated fresh.",
+    "Saints and authors take their established English names (Cyprian, Tatian, Athenagoras of Athens, Clement of Alexandria, Origen, Tertullian, Lactantius, Maximilian, Marcellus, Cassian for «Касьян» (Kas'yan), Martin of Tours for «Мартын» (Martyn), Basil the Great, Ferrutius, Lucifer of Cagliari, Paulinus of Nola); the Russianized «присутствие по отбыванию воинской повинности» (prisutstviye po otbyvaniyu voinskoy povinnosti, 'conscription board') is kept. The Nicene canon is quoted in its Church Slavonic-flavored Russian and is rendered in a slightly archaic register; «кесарь» (kesar') stays 'Caesar'.",
+    "Source observation: [10] «в Троянском легионе» ('in the Trojan legion'): Marcellus served in the legion named after Trajan (Legio II Traiana), so this may be a slip for «Траянском» ('Trajan's'); translated as printed.",
+    "Source observation: [20] «Составлено H. Н. Гусевым» prints a Latin H for the first initial (Cyrillic Н); rendered 'N. N. Gusev'."
+  ],
+  "result": "PASS"
+}

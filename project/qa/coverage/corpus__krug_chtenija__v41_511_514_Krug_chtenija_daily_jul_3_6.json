@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.24",
+  "source_path": "corpus/krug_chtenija/v41_511_514_Krug_chtenija_daily_jul_3_6.md",
+  "source_sha256": "d9aef9e58c271573cc96ebda68159df63633e2f4736672dd9de082ec34793f89",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 7, 8, 9 had no website counterpart and were translated fresh.",
+    "Ovid's plea against eating flesh (from the Metamorphoses, in A. P. Barykova's Russian verse) is rendered line for line, unrhymed, keeping its line breaks and the echo of «недозволенной пищей» (nedozvolennoy pishchey, 'food that is not permitted') and «дозволенной пищей» ('permitted food'). «Жалость» (zhalost', 'pity') is kept distinct from «сострадание» (sostradanie, 'compassion'); the Buddhist source is transliterated as printed, Fo-pen-hing-tzi-king.",
+    "Source observation: [9] Line 10 of the poem («режет телят неповинных») lacks the comma before the next clause «Кто убивает ягненка»; translated with the comma."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.32",
+  "source_path": "corpus/krug_chtenija/v41_531_533_Krug_chtenija_daily_jul_4_6.md",
+  "source_sha256": "f19acc88393f9fc742966f339e2e2958a06957a6fc48273f50e75298aabd9425",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Орудие» (orudie, 'tool') is kept as 'tool', «ум» (um) as 'mind', and «наука» (nauka) as 'science'; the italic *I* in the Brahmanic saying is «я» (ya, 'I'), and Lichtenberg's italic *learned man* is «ученый» (uchyony). «Бабочки» (babochki, 'butterflies, moths') flying to candles are 'moths'; attributions follow the print («Браминская мудрость», Braminskaya mudrost', 'Brahmanic wisdom'; «Гулистан» Саади, 'The “Gulistan” of Saadi')."
+  ],
+  "result": "PASS"
+}

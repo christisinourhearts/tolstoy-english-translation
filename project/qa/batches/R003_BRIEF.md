@@ -1,4 +1,4 @@
-<!-- Working brief for R003 translator passes (updated through R003.06, 2026-10-13). Paths refer to the temporary workspace where drafts were prepared. -->
+<!-- Working brief for R003 translator passes (updated through R003.08, 2026-10-13). Paths refer to the temporary workspace where drafts were prepared. -->
 
 # Brief: translating Tolstoy's *Circle of Reading* (Круг чтения), batch R003
 
@@ -67,6 +67,7 @@ For each assigned file write `/home/claude/r003/out/<name>.json` (same `<name>` 
 - An attribution printed without a final period stays without one.
 - One-letter or obvious transcription slips (a missing/extra letter, a stray comma or asterisks): translate the evident sense and record the slip in `flags`.
 - Wrong Bible reference (the quoted text is plainly from a different chapter/verse/book): give the **correct** reference in the English, and record the printed one in `flags` and in the `note` (e.g. "the source prints «Лк. гл. 26, ст. 18»; the text is Luke 16:18"). Verify against the Russian Synodal text, which you know well; if unsure, keep the printed reference and flag it.
+- A wrong Bible reference inside Tolstoy's own sentence (not a reference line) stays as printed; explain it in the note and flag it.
 - Anything else that may be a real print problem (missing section number, misplaced attribution): translate as printed and flag it.
 - Use your own scratch subfolder (e.g. `/home/claude/r003/work_<yourfirstfile>/`) for helper scripts; other translators work in parallel in the same tree.
 

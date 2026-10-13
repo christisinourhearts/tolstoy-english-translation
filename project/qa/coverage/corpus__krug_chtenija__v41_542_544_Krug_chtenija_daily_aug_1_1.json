@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.01",
+  "source_path": "corpus/krug_chtenija/v41_542_544_Krug_chtenija_daily_aug_1_1.md",
+  "source_sha256": "9977eb86f9d171bec40dab0a2e4cbf54493b7205d07fdd8d5616e10de24df641",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (38) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum) is 'reason', «неразумный» (nerazumny) 'unreasonable', and «несвободный» (nesvobodny) 'unfree'; «благо для всех» (blago dlya vsekh) in Lucy Mallory is 'the good for all'. Attributions follow the print («Карлейль», Karleyl', 'Carlyle', not expanded; «Буддийская мудрость. Дхаммапада», 'Buddhist wisdom. Dhammapada'), and in saying 2 a comma evidently missing after «зло» (zlo, 'evil') is supplied in the sense (see flags).",
+    "Source observation: [7] «Если нет в тебе желания делать зло честолюбия» reads as if a comma has dropped after «зло» ('no desire to do evil, no ambition'); translated in that evident sense."
+  ],
+  "result": "PASS"
+}

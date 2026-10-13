@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.07",
+  "source_path": "corpus/krug_chtenija/v41_475_476_Krug_chtenija_daily_jul_1_7.md",
+  "source_sha256": "850e72fcda03fa34869adffe73480c4e7cc5b3449842ed9c81f09b0ba19eabab",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Начало» (nachalo) is 'source' («начало моей мысли», 'the source of my thought'), and «разум» (razum) is 'reason'. Tolstoy's lowercase pronouns for God are followed; «Зендавеста» (Zendavesta) is 'Zend-Avesta', and the closing thought «верят лжи» (veryat lzhi) is 'believe a lie', not 'believe in lies'."
+  ],
+  "result": "PASS"
+}

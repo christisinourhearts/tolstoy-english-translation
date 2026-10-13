@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.10",
+  "source_path": "corpus/krug_chtenija/v41_486_487_Krug_chtenija_daily_jul_2_2.md",
+  "source_sha256": "bf93b77e7faa3730181e4f217cbcc7bf1a1e2afafdc584151f5868dde92c813b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Многознание» (mnogoznanie, 'much knowledge') is kept literal, and «разум» (razum) is 'reason', «ум» (um) 'mind'. Generic «человек» (chelovek, 'person') takes 'his' where the website draft had 'their', the closing thought's italics are restored, and the attributions follow the print («Джон Рёскин», Dzhon Ryoskin, 'John Ruskin')."
+  ],
+  "result": "PASS"
+}

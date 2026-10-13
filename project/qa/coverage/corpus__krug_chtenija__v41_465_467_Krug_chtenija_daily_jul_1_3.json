@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.03",
+  "source_path": "corpus/krug_chtenija/v41_465_467_Krug_chtenija_daily_jul_1_3.md",
+  "source_sha256": "3c2fce6ef615181a239e0f3085e494512f91c979d7cc4ca446c9f612d46fe553",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The day's word «свобода» (svoboda, 'freedom') and its negative «несвободен» (nesvoboden, 'unfree') are kept on one root throughout; in the opening thought «в своем животном» (v svoyem zhivotnom, literally 'in his animal') is rendered 'in his animal self'. In Lamennais «отца небесного» (ottsa nebesnogo, 'heavenly father') is lowercase as printed, and «Иосиф Мадзини» is 'Giuseppe Mazzini'."
+  ],
+  "result": "PASS"
+}

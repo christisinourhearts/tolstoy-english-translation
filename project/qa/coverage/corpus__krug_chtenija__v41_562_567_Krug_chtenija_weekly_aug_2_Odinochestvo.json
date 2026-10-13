@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.14",
+  "source_path": "corpus/krug_chtenija/v41_562_567_Krug_chtenija_weekly_aug_2_Odinochestvo.md",
+  "source_sha256": "a69aeb8e5d3efa665cdcc42a774bf935a4a5331091685430041952c9f6adaf30",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (43) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 17, 31 had no website counterpart and were translated fresh.",
+    "«Одиночество» (odinochestvo, 'solitude, loneliness') is 'solitude' throughout, as in the title, and «одинок» (odinok) 'alone'; the two verse passages (Musset, Sully Prudhomme) are translated from the Russian, which the website draft had omitted. Paris names take their established forms (Champs-Élysées, Arc de Triomphe de l'Étoile for «Триумфальная арка Звезды», Triumfal'naya arka Zvezdy, 'Triumphal Arch of the Star', Place de la Concorde).",
+    "Source observation: [15] Stray asterisks «**» before «нет и выхода» ('there is no way out'); ignored in the English.",
+    "Source observation: [41] The final sentence has no closing period in the source; the English supplies it."
+  ],
+  "result": "PASS"
+}

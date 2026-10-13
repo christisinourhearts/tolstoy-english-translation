@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.08",
+  "source_path": "corpus/krug_chtenija/v41_477_484_Krug_chtenija_weekly_jul_1_Paskal.md",
+  "source_sha256": "87ac7b3529b75e9e234d5a8ac061f0a0cbade688ce60cfd98ba9e2eaba19ad3a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (39) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 11, 37, 38 had no website counterpart and were translated fresh.",
+    "«Слава» (slava, 'glory') is 'glory' throughout and «славолюбие» (slavolyubie) 'love of glory', where the website draft wavered between 'fame', 'glory', and 'ambition'; «душевные силы» (dushevnye sily) is 'strength of soul', not the draft's 'mental strength', and the italics *is* and *find* are restored. Titles follow Tolstoy's Russian: Jansen's «Преобразования внутреннего человека» (Preobrazovaniya vnutrennego cheloveka) 'The Transformation of the Inner Man', «Письма провинциала» (Pis'ma provintsiala) 'Letters of a Provincial', «Мысли» (Mysli) 'Thoughts'; Pascal's French phrases are kept with Tolstoy's glosses. The paragraph on Pascal's love, the Notes heading, and the footnote had no website draft and were translated fresh.",
+    "Source observation: [38] Footnote «Рассуждения о страданиях любви», ('Discourses on the Sufferings of Love') glosses «Discours sur les passions de l'amour»: «страданиях» (stradaniyakh, 'sufferings') where 'passions' («страстях», strastyakh) would be expected, and the note ends in a comma as if cut off; translated as printed."
+  ],
+  "result": "PASS"
+}

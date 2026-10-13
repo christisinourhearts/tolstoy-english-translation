@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.30",
+  "source_path": "corpus/krug_chtenija/v41_594_596_Krug_chtenija_weekly_aug_4_Ob_osvobozhdenii_zemli_po_ucheniju_Genri_Dzhordzha.md",
+  "source_sha256": "24721f092ce542ff1579966c5b48575f340f1e3c1a242d520efabecb36f7c002",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (11) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Land-tenure vocabulary is kept literal, as in the 30 January file: «земля» (zemlya) is 'land' in the property sense, «собственность» (sobstvennost') 'property', and «владеть» (vladet') 'hold'; «аренда» (arenda) is 'lease' and «рента» (renta) 'rent'. Russian measures stay as printed: «десятина» (desyatina, about 2.7 acres) and «сажень» (sazhen', here a square sazhen, about 4.5 square meters); «изложил» (izlozhil, 'set forth') is 'Retold', as in the February “Buddha.”",
+    "Source observation: [7] «не в силах бы были, не работая на них; платить за них ренту» (ne v silakh by byli, ne rabotaya na nikh; platit' za nikh rentu): a stray semicolon where a comma is required; translated as a comma."
+  ],
+  "result": "PASS"
+}

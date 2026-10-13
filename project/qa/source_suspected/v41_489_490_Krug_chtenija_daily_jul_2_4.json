@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_489_490_Krug_chtenija_daily_jul_2_4.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[15] Reference printed «Лк. гл. 5, ст. 30—31» (Luke 5:30–31); the quoted text («Всякому, просящему у тебя, давай…») is Luke 6:30–31. English gives Luke 6:30–31."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

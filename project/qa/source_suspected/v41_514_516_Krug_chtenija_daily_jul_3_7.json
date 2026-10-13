@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_514_516_Krug_chtenija_daily_jul_3_7.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[32] The sentence «Разница между тою и другою любовью…» stands after the attribution «Федор Страхов.», outside the quotation; by its sense («первом случае» … and the following «Во втором же случае») it belongs inside Strakhov's passage, before [28]. Translated as printed.",
+    "[30] «Вo втором» is printed with a Latin o in «Вo»; translated as «Во втором» ('In the second')."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

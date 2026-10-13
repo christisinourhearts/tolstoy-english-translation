@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.26",
+  "source_path": "corpus/krug_chtenija/v41_516_522_Krug_chtenija_weekly_jul_3_Neverujuschij.md",
+  "source_sha256": "5e20bdfece2c99fcd45aa638e46de1ffc0a4b9af2b092b17619d4be1eb335c9a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (71) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Hugo's ex-priest «Анатолий Лёрэ» (Anatoly Lyore) is given his French name, Anatole Leray. «Воспитание» (vospitanie) is 'upbringing' for the priest's own formation and 'education' for his program of remaking the people; «жесток» (zhestok, 'cruel') of the syllogism is kept apart from «жестки» (zhestki, 'harsh') of the narrator; «болван» (bolvan) is 'blockhead'.",
+    "Source observation: [30] «— Нет, вы только что начали, — отвечал я, — По-вашему…»: a comma before the capitalized «По-вашему» where a period is meant; translated as a new sentence."
+  ],
+  "result": "PASS"
+}

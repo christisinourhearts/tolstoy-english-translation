@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_511_514_Krug_chtenija_daily_jul_3_6.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[9] Line 10 of the poem («режет телят неповинных») lacks the comma before the next clause «Кто убивает ягненка»; translated with the comma."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.29",
+  "source_path": "corpus/krug_chtenija/v41_592_593_Krug_chtenija_daily_aug_4_4.md",
+  "source_sha256": "cbbca13f1c47bb90f50a0dbc04b433b4b956ce9ef0e5f133c7ce43e77cbd8951",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Робинзон» (Robinzon) stays 'Robinson' as printed, without the 'Crusoe' the website draft added. In Emerson «воспитание» (vospitanie), not set against education here, is 'education'; «даром» (darom) is 'for nothing', and Tolstoy's «дурное» (durnoye, 'what is bad') is kept below «зло» (zlo, 'evil')."
+  ],
+  "result": "PASS"
+}

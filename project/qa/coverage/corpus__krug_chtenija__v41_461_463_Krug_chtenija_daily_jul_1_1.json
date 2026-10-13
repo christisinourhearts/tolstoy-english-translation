@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.01",
+  "source_path": "corpus/krug_chtenija/v41_461_463_Krug_chtenija_daily_jul_1_1.md",
+  "source_sha256": "aac975a15c7fffebd550be8821571d08482f85590acc198776a1dab06cc26e11",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Я» (ya, 'I') in Amiel and Thoreau is kept as “I,” not 'self', and Amiel's lowercase «святой дух» (svyatoy dukh, 'holy spirit') is followed. In Tolstoy's own sentence the parable of the talents is cited as «Мф. 24, 14—30» (Matthew 24:14–30); the parable is in Matthew 25:14–30, and the printed reference is kept as it stands.",
+    "Source observation: [26] Tolstoy's in-text reference «Мф. 24, 14—30» (Matthew 24:14–30) for the parable of the talents: the parable is Matthew 25:14–30; kept as printed."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.07.33",
+  "source_path": "corpus/krug_chtenija/v41_533_534_Krug_chtenija_daily_jul_4_7.md",
+  "source_sha256": "a34f263a952efccccfdd58c2fa88f1c3129e5a06c0e66fd0edb3a4d2d73d0754",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствование» (sovershenstvovanie) is 'perfecting' and «покаяние» (pokayanie) 'repentance'; the Carlyle and Bismarck attributions follow the print («Карлейль», Karleyl', 'Carlyle', not expanded as in the website draft). Tolstoy's generic «человек» (chelovek, 'person') takes 'he' throughout, and Bismarck's figure is kept in digits."
+  ],
+  "result": "PASS"
+}

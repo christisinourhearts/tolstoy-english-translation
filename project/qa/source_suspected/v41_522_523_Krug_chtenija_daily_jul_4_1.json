@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_522_523_Krug_chtenija_daily_jul_4_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[10] The unattributed paragraph «Дверь неба открыта для тебя…» stands outside the quotation, after the attribution «Индийский Богавата.», though its content (acting without regard to reward or outcome) continues the Bhagavad Gita passage of [8]; translated as printed, unattributed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

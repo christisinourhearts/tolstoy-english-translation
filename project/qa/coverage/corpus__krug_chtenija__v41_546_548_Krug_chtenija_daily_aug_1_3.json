@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.08.03",
+  "source_path": "corpus/krug_chtenija/v41_546_548_Krug_chtenija_daily_aug_1_3.md",
+  "source_sha256": "01c59e8ffdbc45a89a62fd20645db5aade1ab6835e2b987b9f5463c95deee1b3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Возмездие» (vozmezdie, 'requital, retribution') is 'requital' throughout, since Tolstoy applies it to both good and evil; «благо» (blago) is 'the good'. Attributions follow the print, including «Буддийская мудрость. Дхаммапада» (Buddiyskaya mudrost'. Dkhammapada, 'Buddhist wisdom. Dhammapada')."
+  ],
+  "result": "PASS"
+}
