@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.03",
+  "source_path": "corpus/krug_chtenija/v41_059_061_Krug_chtenija_daily_jan_4_5.md",
+  "source_sha256": "b258357988e99509afb4e512adc25f9ec5863ba50084ab5190dbe22ef6fc7cd8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block; 3 page marker(s) preserved in place; 7 numbered section(s); attributions: John Chrysostom, John Chrysostom, John Ruskin, John Ruskin, Whoever has the goods of this world, but seeing his brother in need shuts up his heart from him—how does the love of God abide in him? My children! let us love not in word or with the tongue, but in deed and in truth, 1 John 3:17–18.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Chrysostom's «хищение» (khishchenie, 'plunder') and «лихоимство» (likhoimstvo, 'extortion') are kept distinct; the source's numerals (3, 15, 7) are kept; «странник» (strannik) is 'wanderer'."
+  ],
+  "result": "PASS"
+}

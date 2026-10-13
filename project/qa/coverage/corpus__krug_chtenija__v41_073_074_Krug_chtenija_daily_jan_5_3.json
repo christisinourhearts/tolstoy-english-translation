@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.09",
+  "source_path": "corpus/krug_chtenija/v41_073_074_Krug_chtenija_daily_jan_5_3.md",
+  "source_sha256": "a920684f33b84ea5b70e2507b64c0126015247f934473c0b4e71650dcbd3026e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block; 2 page marker(s) preserved in place; 6 numbered section(s); attributions: Clifford, Heine, Luke 20:46–47, Matthew 23:8–10.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "The two opening sentences had no website counterpart and were translated fresh from the Russian. «Дерзость» (derzost') is 'insolence'; «закреплять его в нем» (zakreplyat' ego v nyom) is 'to keep them fixed in it'. In the Gospel passages «отец» stays lowercase as in the print (D0002), and «народные собрания» (narodnye sobraniya) is kept as 'public assemblies'."
+  ],
+  "result": "PASS"
+}

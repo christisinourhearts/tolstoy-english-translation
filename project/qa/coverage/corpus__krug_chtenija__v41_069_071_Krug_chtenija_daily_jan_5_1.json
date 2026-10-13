@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.07",
+  "source_path": "corpus/krug_chtenija/v41_069_071_Krug_chtenija_daily_jan_5_1.md",
+  "source_sha256": "ccb30f629ea8ce506307a28567cbdedbc062e0cf88c4c0efb4ee1a115fc4cc8a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block; 3 page marker(s) preserved in place; 8 numbered section(s); attributions: Confucius, A person's worth is measured not by the truth he possesses, but by the labor he has put into acquiring it, Lessing, Suleiman of Granada, Schiller, Amiel, Amiel, Emerson, Manu.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Schiller's distich keeps its two lines; Amiel's paired terms are kept as pairs (captivity/deliverance, enchantment/disenchantment); «мушкарка» (mushkarka) is 'gnat'; in Emerson «начало» (nachalo) is 'source', and «всё этот свет» (vsyo etot svet) is 'this light is everything'."
+  ],
+  "result": "PASS"
+}

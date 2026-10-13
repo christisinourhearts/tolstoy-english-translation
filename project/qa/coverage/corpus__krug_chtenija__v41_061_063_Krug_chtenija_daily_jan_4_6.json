@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.04",
+  "source_path": "corpus/krug_chtenija/v41_061_063_Krug_chtenija_daily_jan_4_6.md",
+  "source_sha256": "109692760e222c954150c12a1c2802295d35b9873a1b65f00ed25cdd11884f4c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (31) has a matching target block; 3 page marker(s) preserved in place; 8 numbered section(s); attributions: Lucy Mallory, A reasonable person loves not because it is profitable to him, but because he finds good in love itself, Persian wisdom, Amiel, Crosby, Metta Sutta.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Attributions follow the print (Crosby, not an expanded name). «Наука» (nauka) in the Chinese sage's question is 'learning'; «владыка» (vladyka) is 'sovereign', kept twice; «нелюбовь» (nelyubov') is rendered 'lack of love'."
+  ],
+  "result": "PASS"
+}

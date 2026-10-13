@@ -251,5 +251,13 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 ### Next actions for *Circle of Reading*
 
 1. ~~Reconcile the 31 files in `translations/circle_of_reading/` with the website Calendar data.~~ **Done 2026-10-13**: see `project/qa/reports/CIRCLE_OF_READING_RECONCILIATION_2026-10-13.md` (330 differing blocks judged; one text now).
-2. Translate the remaining *Krug chteniya* files from the audited Russian, or import the website paragraphs as first drafts, and put each through the full gauntlet (§15), with coverage records.
+2. (In progress: R003; January done 2026-10-13.) Translate the remaining *Krug chteniya* files from the audited Russian, or import the website paragraphs as first drafts, and put each through the full gauntlet (§15), with coverage records.
 3. Generate the website's translation layer from this repository once the reconciliation is done.
+
+## 2026-10-13 — R003.01: the rest of January
+
+- R003 is the *Circle of Reading* translation batch (see `project/qa/batches/R003.md`). R003.01 covers the 9 January files that had no English: 25–31 January and weekly readings 1 (*The Thief's Son*) and 4 (*The Essence of Christian Teaching*). January is now complete in `translations/circle_of_reading/`.
+- Method: the website text was the first draft; every block was checked against the audited Russian and revised; two blocks with no website counterpart (31 January opening) were translated fresh. Coverage records PASS; `validate_translation.py` and `validate_coverage.py` report 0 errors.
+- The revised English was written back to the website data (124 units, run `2026-10-13-R003`, with revision history). Website attribution lines keep their display form (full names, no final period); the repository keeps the printed form (D0004).
+- Fixed: `v41_050_052` weekly subtitle «Совершенствование» = “Perfecting”, not “Perfection”.
+- Next: R003.02 = February.

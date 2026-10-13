@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.06",
+  "source_path": "corpus/krug_chtenija/v41_065_069_Krug_chtenija_weekly_jan_4_Suschnost_hristianskogo_uchenija.md",
+  "source_sha256": "9bbb0e57c8dc527263b2f86d638a6c7db9795433b0a627b00b3754a1413f50a4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block; 5 page marker(s) preserved in place; attributions: L. Tolstoy.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Tolstoy's chain of repetitions is kept («всё ослабевало и ослабевало», 'grew weaker and weaker'; «бедственность, непрочность и бессмысленность», 'misery, precariousness, and meaninglessness', twice). «Начало» (nachalo) is 'principle'; «разумное сознание» (razumnoe soznanie) is 'rational consciousness' throughout."
+  ],
+  "result": "PASS"
+}

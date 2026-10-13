@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.01",
+  "source_path": "corpus/krug_chtenija/v41_022_025_Krug_chtenija_weekly_jan_1_Vorov_syn.md",
+  "source_sha256": "b594362d477397dccaae782f4a40fcd85179c3c9319fbb2de210cfee418470e5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block; 4 page marker(s) preserved in place; attributions: After Leskov, retold by L. N. Tolstoy.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "The tale keeps Tolstoy's folk narration: present-tense slips, the boy's unquoted replies, the repeated «отпустите» ('let me go') and «господин судья» (gospodin sud'ya, 'Your Honor', kept the same each time). «Казнить» (kaznit') is 'punish' here, not 'execute'."
+  ],
+  "result": "PASS"
+}

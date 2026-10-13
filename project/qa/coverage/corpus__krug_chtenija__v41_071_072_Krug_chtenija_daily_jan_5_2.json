@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.08",
+  "source_path": "corpus/krug_chtenija/v41_071_072_Krug_chtenija_daily_jan_5_2.md",
+  "source_sha256": "12324724b8bdeeae5ae2388d2344ff4ea88e13fb0ed3b7473c8fc20148143a9a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block; 2 page marker(s) preserved in place; 7 numbered section(s); attributions: Cicero, Herbert Spencer, Henry George, Laveleye, Newman, If there is a person who has no right to land, then the right to land—mine, yours, every person's—is unlawful, Emerson, Carlyle.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Land-tenure vocabulary is kept literal: «земля» (zemlya) is 'land' in the property sense and 'the earth' as the common mother; attributions follow the print (Laveleye, Newman). Henry George's «грабеж» (grabyozh, 'robbery') is repeated as in the source."
+  ],
+  "result": "PASS"
+}

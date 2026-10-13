@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.02",
+  "source_path": "corpus/krug_chtenija/v41_057_059_Krug_chtenija_daily_jan_4_4.md",
+  "source_sha256": "e2660423bfae96c8f2169b6445e5250ade4c9cd6521d090a06aa6e04507fc455",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block; 3 page marker(s) preserved in place; 5 numbered section(s); attributions: Xenophon, Fénelon, Buddhist wisdom. Dhammapada, Schopenhauer, It is better to know a few rules of life than to learn many useless sciences. The rules of life will keep you from evil and direct you to good; while the knowledge of useless sciences will only lead you into the temptation of pride and keep you from clearly understanding the rules of life you need.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Socrates' limits on geometry and astronomy keep Xenophon's concrete examples (land, inheritance, night watches). «Совершенствование» (sovershenstvovanie) is 'perfecting' (TERMINOLOGY); «внеличное» (vnelichnoe) is 'what is beyond the personal'; «немного лучше» (nemnogo luchshe) is 'only a little better'."
+  ],
+  "result": "PASS"
+}

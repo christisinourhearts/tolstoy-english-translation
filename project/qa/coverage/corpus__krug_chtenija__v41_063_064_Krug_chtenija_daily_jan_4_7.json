@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.01.05",
+  "source_path": "corpus/krug_chtenija/v41_063_064_Krug_chtenija_daily_jan_4_7.md",
+  "source_sha256": "8b9912f85620d929f1dd80ef278a287fe241b4dff4dadd02b3c8bf23719d7634",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block; 2 page marker(s) preserved in place; 5 numbered section(s); attributions: John 8:26–28, Emerson, Fyodor Strakhov, One must live the short span of this life by the law of eternal life, Thoreau.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (register, omissions, glosses, attribution form).",
+    "Gospel wording is translated from Tolstoy's Russian with the source's lowercase «сын человеческий» (son of man) and «отец» (father) (D0002); the italic «я» (ya, 'I') in the teacher's saying is kept as italic *I*."
+  ],
+  "result": "PASS"
+}
