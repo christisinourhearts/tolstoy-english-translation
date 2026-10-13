@@ -61,6 +61,13 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 - `SOURCE_SUSPECTED` protocol added.
 - Automatic source-boundary suspicion detector added as `project/tools/preflight_boundaries.py`.
 
+## Flagship edition: *The Death of Ivan Ilyich*
+
+- Started 2026-10-06 under D0004 (drafted as a local "D0003"). Records in `project/editions/ivan-ilyich/`.
+- Source verified; glossary and name table drafted; pilot unit IVI-02-001 complete.
+- Next: segment and translate the rest of chapter II (pilot), then review EDITIONS.md.
+- This runs alongside the sampled batches; P008.48 remains the next sampled unit.
+
 ## Current corpus state
 
 - Reviewed English translations: **316**.

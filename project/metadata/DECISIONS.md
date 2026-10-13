@@ -76,3 +76,24 @@ The TEI normalized reading often prints е for ё, but the pronunciation is *yo*
 - `Petr` → `Pyotr`; `Evstratov / Evstratich` → `Yevstratov / Yevstratich` (letter to S. N. Tolstoy, 15 December 1850; diary 22 December 1850; coverage note)
 - `Semenov` → `Semyonov` (letter to Goltsev, 1891; notebook 1888–1889; diary 1889-02-22; coverage notes)
 - `Elizaveta, Ekaterina, Elena, Evgenia, Elagin, Ermolaev, Ermolov, Erofeyevich, Ekaterinoslav` → `Ye-` forms in the letters and notebooks where they occur, with matching coverage notes and manifest titles. English file names are unchanged so that paths stay stable.
+
+## D0004 — Priority order, Tolstoy rules, and flagship editions
+
+**Date:** 2026-10-13 (drafted 2026-10-06 as a local "D0003" that was never pushed; renumbered)  
+**Scope:** corpus-wide  
+**Status:** active
+
+### Decision
+
+Adopt the priority order (TRANSLATION.md §18), the Tolstoy rules T1–T11 (§19), the language-model failure checklist E1–E14 (§20), and independence levels (§21). Works published as verifiable editions on christisinourhearts.com receive a sentence-level apparatus under `project/editions/` (§22, `project/docs/EDITIONS.md`). American spelling and transliterated glosses for Russian in project prose are now explicit (§5).
+
+### Reason
+
+These rules came out of an audit of the website's *Death of Ivan Ilyich* page specification. Its showcase sentence had passed ten nominal checks while omitting Прошедшая история (*proshedshaya istoriya*, "the past history"), misplacing the chapter, and carrying a note that described the English inaccurately. The rules make such failures checkable.
+
+### Example (IVI-02-001)
+
+Прошедшая история жизни Ивана Ильича была самая простая и обыкновенная и самая ужасная.  
+Literal: [The] past history of-[the]-life of-Ivan Ilyich was [the] most simple and ordinary and [the] most terrible.  
+Adopted: **"The past history of Ivan Ilyich's life was the most simple and ordinary and the most terrible."**  
+Rejected: Maude's "…and therefore most terrible" (E4: added connective); "very simple, very ordinary, and very terrible" (E2, T2, T3).

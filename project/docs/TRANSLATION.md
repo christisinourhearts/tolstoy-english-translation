@@ -66,6 +66,8 @@ The default posture is conservative fidelity. When a close rendering is clear an
 - Long sentences may remain long when their logical structure remains intelligible in English.
 - Dialogue should sound like speech appropriate to the character and period without becoming theatrical pseudo-nineteenth-century English.
 - Contractions may be used when natural to the register; they are not automatically modernizing or colloquializing.
+- Spelling is **American** (*color, honor, realize, gray, pretense*), with double quotation marks and the serial comma.
+- In project documents, notes, decision records, and QA reports, every Russian word or phrase quoted in running prose is followed at first mention by transliteration and meaning: ложь (*lozh'*, "lie"). Full Russian sentences are followed by a literal English line instead. Readers of the apparatus should never meet bare Cyrillic they cannot pronounce or understand.
 
 ## 6. Tolstoy's recurrent vocabulary
 
@@ -92,6 +94,8 @@ A change in English rendering is allowed when context requires it. The reason sh
 ## 7. Names and forms of address
 
 Use established English forms for widely conventional historical names where appropriate. Otherwise use a consistent transliteration policy. Do not flatten meaningful distinctions among first name, patronymic, surname, title, nickname, diminutive, and respectful address.
+
+Transliteration of personal names follows Decision D0003: Russian ё is rendered *yo* even when the source prints е, and word-initial Е is rendered *Ye*, so Федор → **Fyodor**, Петр → **Pyotr**, Семен → **Semyon**, and patronymics follow (*Fyodorovich, Fyodorovna, Fyodorych*). Word-initial Е is rendered *Ye* (*Yergolskaya*). Use a well-established English form only for widely known historical persons, and record it in `NAMES.md`.
 
 Record recurring person-name decisions in `project/metadata/NAMES.md` rather than solving them independently in every file.
 
@@ -230,6 +234,80 @@ A completed unit should satisfy all applicable items:
 - [ ] Workbench updated.
 - [ ] Changes committed/checkpointed.
 
-## 18. Changing these rules
+## 18. Priority order when goals conflict
+
+When fidelity goals conflict, the higher rank wins. This operationalizes D0001. Record which rank decided a consequential case.
+
+| Rank | Preserve | Example of violation |
+|---|---|---|
+| P1 | Propositional meaning: who did what, negation, tense/aspect relations, logical relations | "did not want" → "could not" |
+| P2 | The said/unsaid boundary: nothing added, explained, or omitted | adding "therefore" between two adjectives |
+| P3 | Deliberate form: repetition, parallelism, word grouping, enumeration, sentence boundaries | splitting one shared самая (*samaya*, "most") into two superlatives |
+| P4 | Register and voice: narrator vs. character vs. society, peasant vs. official, irony | a peasant made to sound educated |
+| P5 | Order of information within the sentence | moving the key word from the end |
+| P6 | Rhythm | |
+| P7 | English naturalness | |
+
+P7 overrides nothing above it. Descend only when a higher-ranked rendering would be ungrammatical or misleading in English, and record the loss.
+
+## 19. Tolstoy rules
+
+These codify idiosyncrasies that must survive translation. Fidelity audits and cold audits check each one.
+
+- **T1 Repetition is meaning.** Repeat what Tolstoy repeats; do not substitute pronouns or synonyms.
+- **T2 Keep the grouping.** Note which words one modifier governs. самая простая и обыкновенная и самая ужасная (*samaya prostaya i obyknovennaya i samaya uzhasnaya*, "most simple and ordinary and most terrible") has two groups, not three.
+- **T3 Keep the flat и** (*i*, "and"). Where Tolstoy joins with a plain "and," do not supply "therefore," "but," or "so." The reader draws the inference.
+- **T4 Keep long chained sentences** built from и … и …, что … что … (*chto*, "that"), то, что … (*to, chto*, "the fact that").
+- **T5 Free indirect discourse.** When narration slips into a character's or society's voice, the English slips too.
+- **T6 Officialese stays officialese.** Bureaucratic and legal diction is often a satirical target; do not make it elegant.
+- **T7 Estrangement.** When Tolstoy describes a familiar thing without naming it (остранение, *ostranenie*, "making strange"), do not name it.
+- **T8 Bluntness stays blunt.** Do not soften moral statements or physical detail.
+- **T9 Moral vocabulary stays concrete.** правда (*pravda*, "truth"), ложь (*lozh'*, "lie"), жить (*zhit'*, "to live"): "lie" must not become "falsity," "to live" must not become "to exist."
+- **T10 Enumerations** keep their count and order.
+- **T11 Motif pronouns.** An emphasized pronoun such as Она (*Ona*, "she/it") is a motif: translate it consistently and note what English loses.
+- **Punctuation.** Add an em dash only where the Russian has a dash or equivalent break; an added dash is added emphasis.
+
+## 20. Language-model failure checklist
+
+Every model-produced draft, audit, and note is checked for these failure modes. Codes may be cited in QA records.
+
+| Code | Failure | Look for |
+|---|---|---|
+| E1 | Hallucinated addition | content with no source basis |
+| E2 | Silent omission | dropped words, particles, clauses, repetitions |
+| E3 | Semantic smoothing | strange Russian made ordinary |
+| E4 | False explicitness | implied made stated; added connectives |
+| E5 | Pronoun resolution error | wrong referent, especially across sentences |
+| E6 | Negation error | lost, added, or wrong scope |
+| E7 | Aspect/tense flattening | perfective/imperfective distinction lost where it matters |
+| E8 | Register drift | up or down |
+| E9 | Theological normalization | Tolstoy's terms made churchly or denominational |
+| E10 | Synonym drift | a recorded term varied without reason |
+| E11 | Stylistic beautification | repetition or awkwardness polished away |
+| E12 | Interpretive overreach | one reading presented as the text |
+| E13 | Source corruption | the Russian itself quoted wrongly or incompletely by a model |
+| E14 | Fabricated rationale | a note claims the English does something it does not |
+
+E13 and E14 concern the apparatus, not the translation: every Russian quotation in a note or record must be checked against the source file, and every claim a note makes about the English must be checked against the English.
+
+## 21. Independence of checks
+
+Record the independence level of every audit:
+
+| Level | Meaning |
+|---|---|
+| `same-session` | same model, same context: confirmation by repetition, weakest |
+| `fresh-session` | same model family, no prior context |
+| `other-model` | different model family |
+| `reference` | dictionary, corpus, grammar, earlier translation |
+| `human` | Russian-reading human |
+
+This extends §14: never describe a `same-session` or `fresh-session` check as independent verification.
+
+## 22. Flagship editions
+
+Works published on the website as verifiable editions receive an additional sentence-level apparatus under `project/editions/<work>/`, governed by `project/docs/EDITIONS.md`. The English body still lives in `translations/` with the usual one-to-one source identity, and still passes the full gauntlet (§15). The edition layer adds unit IDs, literal glosses, notes, statuses, a work glossary, and a public discrepancy ledger.
+
+## 23. Changing these rules
 
 Improve this constitution when repeated real examples show that a rule is inadequate. Record consequential changes in Git. Do not casually rewrite the rules in the middle of a batch merely to justify a local translation choice.
