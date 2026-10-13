@@ -22,7 +22,13 @@
     "Verse references reproduce the source's own forms, including its abbreviations (Матф./Мф./Марк./Mp./Лук./Луки/Лк./Иоан./Гл. as Matt./Mt./Mark/Mk./Luke/Luke/Lk./John/Ch.), its out-of-order verse numbers, and repeated paragraphs (e.g. John XI, 25 given twice in ch. VII).",
     "Unresolved readings translated as read (vrazhdy/enmity in John VI, 35; references Mark XIX, 18, Mt. XXVI, 20, Luke XII, 41; dobit in John X, 31; the French Havet quotation) and non-substantive transcription artifacts are recorded in project/qa/source_suspected/v24_801_938_Kratkoe_izlozhenie_Evangelija_Predislovie.json. None is incoherent as it stands; a printed-volume check is a non-blocking follow-up.",
     "Punctuation of indirect and rhetorical questions follows English usage where Russian uses ? or . differently; speech introduced by a colon keeps the source's lowercase start and the absence of quotation marks.",
-    "Process note: translated, audited, and edited by the same model in one working context; the source-forward and reverse passes were deliberate, but this is not an independent-model or human verification. A separate cold audit is recommended before publication-scale release."
+    "Process note: translated, audited, and edited by the same model in one working context; the source-forward and reverse passes were deliberate, but this is not an independent-model or human verification. A separate cold audit is recommended before publication-scale release.",
+    "Independent cold audit R002_CA01 (2026-10-08; report project/qa/reports/R002_COLD_AUDIT.md): full-text source-forward pass, English-only read and complete English–Romanian cross-check. 19 defects found and fixed (2 omissions, 1 addition, 7 reversals/shifted meaning incl. modality, tense and referent, 0 reference errors, 3 terminology incl. KJV reversion, 2 D0001, 4 style); known omissions and additions after revision: none. Result PASS AFTER REVISION."
   ],
-  "result": "PASS"
+  "result": "PASS",
+  "cold_audit": {
+    "audit_id": "R002_CA01",
+    "result": "PASS_AFTER_REVISION",
+    "report": "project/qa/reports/R002_COLD_AUDIT.md"
+  }
 }
