@@ -55,3 +55,63 @@ The book's whole argument is carried by Tolstoy's re-wording of the Gospels. Sub
 ### Example
 
 John I, 1 is «В основу и начало всего стало разумение жизни» → “The understanding of life became the foundation and source of all,” not “In the beginning was the Word.”
+
+## D0003 — ё is rendered *yo*, and word-initial Е *Ye*, in personal names
+
+**Date:** 2026-10-13 (drafted 2026-10-06 as a local "D0002" that was never pushed; renumbered because D0002 was taken)  
+**Scope:** corpus-wide  
+**Status:** active
+
+### Decision
+
+Render Russian ё as *yo* in personal names and patronymics even when the normalized source prints е: Федор → **Fyodor**, Петр → **Pyotr**, Семен → **Semyon**, Федорыч → **Fyodorych**. Render word-initial Е as *Ye*: Евстратов → **Yevstratov**, Елизавета → **Yelizaveta**, Екатерина → **Yekaterina**, Ермолаев → **Yermolaev** (as already in *Yergolskaya*). A widely established English form may be kept for well-known historical persons (e.g. the philosopher N. F. **Fedorov**), recorded in `NAMES.md`. Biblical persons keep their conventional English forms (D0002).
+
+### Reason
+
+The TEI normalized reading often prints е for ё, but the pronunciation is *yo*; word-initial Е is pronounced *ye*. Most of the corpus and the website already used *Fyodor* and *Yergolskaya*; the remaining *Fedor / Petr / Semenov / Evstratov / Elizaveta* forms were inconsistencies.
+
+### Applied changes
+
+- `Fedorych` → `Fyodorych` (1881-10-05 diary, NAMES.md, coverage note)
+- `Petr` → `Pyotr`; `Evstratov / Evstratich` → `Yevstratov / Yevstratich` (letter to S. N. Tolstoy, 15 December 1850; diary 22 December 1850; coverage note)
+- `Semenov` → `Semyonov` (letter to Goltsev, 1891; notebook 1888–1889; diary 1889-02-22; coverage notes)
+- `Elizaveta, Ekaterina, Elena, Evgenia, Elagin, Ermolaev, Ermolov, Erofeyevich, Ekaterinoslav` → `Ye-` forms in the letters and notebooks where they occur, with matching coverage notes and manifest titles. English file names are unchanged so that paths stay stable.
+
+## D0004 — Priority order, Tolstoy rules, and flagship editions
+
+**Date:** 2026-10-13 (drafted 2026-10-06 as a local "D0003" that was never pushed; renumbered)  
+**Scope:** corpus-wide  
+**Status:** active
+
+### Decision
+
+Adopt the priority order (TRANSLATION.md §18), the Tolstoy rules T1–T11 (§19), the language-model failure checklist E1–E14 (§20), and independence levels (§21). Works published as verifiable editions on christisinourhearts.com receive a sentence-level apparatus under `project/editions/` (§22, `project/docs/EDITIONS.md`). American spelling and transliterated glosses for Russian in project prose are now explicit (§5).
+
+### Reason
+
+These rules came out of an audit of the website's *Death of Ivan Ilyich* page specification. Its showcase sentence had passed ten nominal checks while omitting Прошедшая история (*proshedshaya istoriya*, "the past history"), misplacing the chapter, and carrying a note that described the English inaccurately. The rules make such failures checkable.
+
+### Example (IVI-02-001)
+
+Прошедшая история жизни Ивана Ильича была самая простая и обыкновенная и самая ужасная.  
+Literal: [The] past history of-[the]-life of-Ivan Ilyich was [the] most simple and ordinary and [the] most terrible.  
+Adopted: **"The past history of Ivan Ilyich's life was the most simple and ordinary and the most terrible."**  
+Rejected: Maude's "…and therefore most terrible" (E4: added connective); "very simple, very ordinary, and very terrible" (E2, T2, T3).
+
+## D0005 — One basic translation, one labeled adaptation: *Circle of Reading* and the Refuge
+
+**Date:** 2026-10-13  
+**Scope:** *Krug chteniya* (Круг чтения, "Circle of Reading"), vols. 41–42, and the website's Refuge  
+**Status:** active; decided by Andrei Evanghelușcă
+
+### Decision
+
+1. There is **one basic translation** of *Krug chteniya*. Its English title is ***Circle of Reading***. It is held to this constitution and audited, and it is the single source of truth for Tolstoy's text.
+2. "A Calendar of Wisdom" is the title of Peter Sekirin's separate English translation and is **not** used for this one.
+3. The website's **Refuge** is an **adaptation** built on the basic translation. Its editorial additions (aphorisms by Andrei Evanghelușcă, companion readings, prayers, poems, images), hidden passages, and replacements are labeled as such and are never presented as Tolstoy's text.
+4. The 31 *Circle of Reading* files in `translations/circle_of_reading/` and the website's Calendar data are reconciled paragraph by paragraph into the one basic translation. The more faithful version is kept, and each choice is recorded.
+5. The website follows D0001. Example: the January 2 opening is "the superstition of most of the so-called learned men…".
+
+### Reason
+
+The site's Calendar and this repository had grown two different English texts of the same book, and the Refuge mixed adaptation with translation without a clear boundary. A reader must always be able to tell Tolstoy's text from the editor's.

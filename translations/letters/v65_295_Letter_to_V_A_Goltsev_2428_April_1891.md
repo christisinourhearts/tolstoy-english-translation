@@ -27,7 +27,7 @@ translation_status: "reviewed"
 
 Dear Viktor Alexandrovich.
 
-A. N. Dunaev, my friend, will give you an article by Semenov (a peasant); it is an excellent, substantial story, [^1] and it would be good to publish it. If it is suitable for you, [^2] or for the feuilleton of *Russkie Vedomosti*, [^3] wouldn't you publish it? The author is a poor man and needs the fee. It would be very good to publish it; the story is useful. A. N. Dunaev will give you Semenov's address if you need to communicate with him.
+A. N. Dunaev, my friend, will give you an article by Semyonov (a peasant); it is an excellent, substantial story, [^1] and it would be good to publish it. If it is suitable for you, [^2] or for the feuilleton of *Russkie Vedomosti*, [^3] wouldn't you publish it? The author is a poor man and needs the fee. It would be very good to publish it; the story is useful. A. N. Dunaev will give you Semyonov's address if you need to communicate with him.
 
 Loving you, L. Tolstoy.
 
@@ -39,4 +39,4 @@ Loving you, L. Tolstoy.
 
 [^1]: “The Butuzov Brothers.”
 [^2]: Tolstoy means the journal *Russkaya Mysl*, of which Goltsev was editor.
-[^3]: V. A. Goltsev contributed to the Moscow newspaper *Russkie Vedomosti*. Tolstoy intended that Semenov's story might be placed in the feuilleton section of that newspaper.
+[^3]: V. A. Goltsev contributed to the Moscow newspaper *Russkie Vedomosti*. Tolstoy intended that Semyonov's story might be placed in the feuilleton section of that newspaper.

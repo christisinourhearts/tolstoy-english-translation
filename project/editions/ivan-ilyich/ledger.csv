@@ -1,0 +1,4 @@
+ledger_id,unit,audit,codes,issue,resolution,date
+L-0001,IVI-02-001,source_alignment/omission,E13 E2,"Прошедшая история (proshedshaya istoriya, ""past history"") missing from working Russian and English",restored,2026-10-05
+L-0002,IVI-02-001,grammar,T2 E11,"One самая (samaya, ""most"") over two adjectives rendered as two superlatives; dash added",regrouped; dash removed,2026-10-05
+L-0003,IVI-02-001,note,E14,"Note claimed the repetition was preserved when the English had altered it",note rewritten,2026-10-05

@@ -48,7 +48,7 @@ Belbek.
 
 1. Printed from the autograph held in the ATB. Published here for the first time.
 
-2. Count Valerian Petrovich Tolstoy (born 19 October 1813, died 6 January 1865), son of Count Pyotr Ivanovich (1785–1834) and Elizaveta Alexandrovna Yergolskaya (1790–1851). He served in the Prince of Orange Hussar Regiment and was adjutant of the Separate Siberian Corps. Before his marriage, on 3 November 1847, he retired with the rank of major. He was married to his third cousin Countess Maria Nikolayevna Tolstaya. For more on Count V. P. Tolstoy, see also the note on Countess M. N. Tolstaya, letter no. 42.
+2. Count Valerian Petrovich Tolstoy (born 19 October 1813, died 6 January 1865), son of Count Pyotr Ivanovich (1785–1834) and Yelizaveta Alexandrovna Yergolskaya (1790–1851). He served in the Prince of Orange Hussar Regiment and was adjutant of the Separate Siberian Corps. Before his marriage, on 3 November 1847, he retired with the rank of major. He was married to his third cousin Countess Maria Nikolayevna Tolstaya. For more on Count V. P. Tolstoy, see also the note on Countess M. N. Tolstaya, letter no. 42.
 
 ## Notes
 
