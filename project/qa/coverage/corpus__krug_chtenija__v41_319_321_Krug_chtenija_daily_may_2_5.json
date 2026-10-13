@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.14",
+  "source_path": "corpus/krug_chtenija/v41_319_321_Krug_chtenija_daily_may_2_5.md",
+  "source_sha256": "9729aa64895b68eab93b8ba2da7c86846b46f79a45b573377352542201d758ea",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (40) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The source cites the psalm in the Russian Synodal numbering as «Пс. 89, ст. 10» (Ps. 89, v. 10); the reference is given as Psalm 90:10, its number in English Bibles, and the verse is translated from Tolstoy's Russian («труд и болезнь», trud i bolezn', 'labor and sickness'), not from the KJV. «Безумец» / «безумный» (bezumets / bezumnyy, 'fool, madman') is 'fool' in the Buddhist sayings and in the Luke parable alike; the attribution keeps «бен» as 'ben' (Said ben Hamed)."
+  ],
+  "result": "PASS"
+}

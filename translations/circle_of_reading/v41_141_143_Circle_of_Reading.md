@@ -20,8 +20,8 @@ source_repository: "tolstoydigital/TEI"
 source_witness_license: "CC BY-SA"
 translation_license: "PROJECT-TBD"
 translation_basis: "audited Russian Markdown source; first draft taken from the website Circle of Reading text (reviewed 2026-10-03 and 2026-10-13), then checked and revised sentence by sentence against this source (R003)"
-translation_status: "needs_source_review"
-translation_note: "The Gospel saying is translated as printed, including the source's «время» (vremya, 'time') where «бремя» (bremya, 'burden') is expected; «благо» (blago, 'good') and «легко» (legko, 'easy') are rendered so as to echo Tolstoy's following «легко и благо» ('easy and good'). «Идти/ехать следом за» (idti/ekhat' sledom za, 'to follow behind') and «идти за богом» ('to follow God') share 'follow', and «хозяин» (khozyain) is 'master' and «работник» (rabotnik) 'workman' per the terminology ledger."
+translation_status: "reviewed"
+translation_note: "The source reads «Иго мое благо и время мое легко» with «время» (vremya, 'time'), a one-letter slip for «бремя» (bremya, 'burden') as in Matthew 11:30; the English reads 'burden' (decision of Andrei Evanghelușcă, 2026-10-13, recorded in source_errata.yml); «благо» (blago, 'good') and «легко» (legko, 'easy') are rendered so as to echo Tolstoy's following «легко и благо» ('easy and good'). «Идти/ехать следом за» (idti/ekhat' sledom za, 'to follow behind') and «идти за богом» ('to follow God') share 'follow', and «хозяин» (khozyain) is 'master' and «работник» (rabotnik) 'workman' per the terminology ledger."
 ---
 
 <!-- vol. 41, p. 141 -->

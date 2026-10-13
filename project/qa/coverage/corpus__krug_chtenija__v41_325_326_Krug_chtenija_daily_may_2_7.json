@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.17",
+  "source_path": "corpus/krug_chtenija/v41_325_326_Krug_chtenija_daily_may_2_7.md",
+  "source_sha256": "0ab7ac3a508905e392b548b344340e8ff4053842f8bcda3f13a97b2a99733e0d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The attribution «Браминская мудрость. Рамакришна.» (Braminskaya mudrost'. Ramakrishna, 'Brahmanic wisdom. Ramakrishna') is restored in full where the website draft gave only 'Ramakrishna', and Emerson's attribution stays without a final period as printed. In the closing thought «то, что в тебе самое дорогое» (to, chto v tebe samoye dorogoye) is 'what is dearest in you', not 'to you'; in the Persian saying «живи в мире» (zhivi v mire) is read as 'live in peace'."
+  ],
+  "result": "PASS"
+}

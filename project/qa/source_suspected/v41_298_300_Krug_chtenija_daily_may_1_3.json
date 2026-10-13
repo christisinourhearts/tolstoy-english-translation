@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_298_300_Krug_chtenija_daily_may_1_3.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[25] The attribution «*Торо*» (Toro, 'Thoreau') lacks a final period, unlike the other attributions; probably a transcription slip. English mirrors it."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

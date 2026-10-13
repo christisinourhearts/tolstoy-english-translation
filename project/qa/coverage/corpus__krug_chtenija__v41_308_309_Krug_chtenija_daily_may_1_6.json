@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.08",
+  "source_path": "corpus/krug_chtenija/v41_308_309_Krug_chtenija_daily_may_1_6.md",
+  "source_sha256": "8a44c040ad057966aa6ddf84c481a5f83eb95d4ec55b3bbd63111439a7ac4a37",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions are printed in full where the website draft had shortened them: «Из браминского закона Ману» ('From the Brahmanic law of Manu') and «Буддийская мудрость. Дхаммапада» ('Buddhist wisdom. Dhammapada'); «Магомет» is Muhammad. «Человекоубийство» (chelovekoubiystvo, literally 'man-killing') is rendered 'the killing of people', and «бессловесные» (besslovesnye, 'the speechless ones') 'the dumb creatures'."
+  ],
+  "result": "PASS"
+}

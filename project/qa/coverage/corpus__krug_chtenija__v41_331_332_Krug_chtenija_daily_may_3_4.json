@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.21",
+  "source_path": "corpus/krug_chtenija/v41_331_332_Krug_chtenija_daily_may_3_4.md",
+  "source_sha256": "647ebdc9cff00d257737bc5322c4306e397d0f386ee1ea6cc9c5539843e5aed1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Могущество» (mogushchestvo, 'power, might') is 'power' and «сила» (sila, 'strength') 'strength' throughout, so the opening thought's contrast survives; «властелин» (vlastelin, 'ruler') is 'ruler' in both Emerson and Ruskin. In the Persian saying «почему ты знаешь бога?» (pochemu ty znayesh' boga, literally 'why do you know God?') is the colloquial 'how do you know God?', and the pronoun for God stays lowercase as printed."
+  ],
+  "result": "PASS"
+}

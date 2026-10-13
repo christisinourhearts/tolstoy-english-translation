@@ -15,7 +15,8 @@
     "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
     "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
     "«Личность» (lichnost', 'personality') is kept as the book's constant term for the separate self, and the Gospel verses follow Tolstoy's own wording with lowercase «отец» (otets, 'father'). The reference for reading 6 is printed as given, «Мф.» (Matthew) 8:35, although the verse is Mark 8:35; it is flagged, not corrected.",
-    "Source observation: [20] The reference reads «Мф. гл. 8, ст. 35» (Matthew 8:35), but the quoted verse, with «и евангелия» ('and the gospel'), is Mark 8:35; Matthew 8 has no verse 35. Translated as printed."
+    "Source observation: [20] The reference reads «Мф. гл. 8, ст. 35» (Matthew 8:35), but the quoted verse, with «и евангелия» ('and the gospel'), is Mark 8:35; Matthew 8 has no verse 35. Translated as printed.",
+    "Resolved 2026-10-13: the English gives Mark 8:35; the printed reference is recorded in the translation note and source_errata.yml."
   ],
   "result": "PASS"
 }

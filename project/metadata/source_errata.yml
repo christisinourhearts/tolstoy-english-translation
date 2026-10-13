@@ -461,3 +461,34 @@ errata:
     finding: "The individual Markdown stops mid-sentence; the complete printed/variant tradition continues the episode beyond this clause."
     witness: "https://tolstoy.ru/online/90/21/"
     action: "Do not translate this individual document as complete; quarantine it from ordinary batch selection until source segmentation is repaired or an explicit print-based override is approved."
+
+  - source_path: corpus/krug_chtenija/v41_141_143_Krug_chtenija_daily_mar_1_2.md
+    type: one_letter_reading
+    status: editorial_decision
+    volume: 41
+    declared_pages: "141-143"
+    digital_reading: "«Иго мое благо и время мое легко»"
+    adopted_reading: "«Иго мое благо и бремя мое легко» (Matthew 11:30)"
+    finding: "«время» ('time') makes no sense in the Gospel saying; б/в one-letter slip. Decision by Andrei Evanghelușcă, 2026-10-13: the English reads 'burden'."
+    witness: "https://tolstoy.ru/online/90/41/ (print check still pending)"
+    action: "Keep the Russian repository immutable. English follows the adopted reading; unit is reviewed."
+  - source_path: corpus/krug_chtenija/v41_162_163_Krug_chtenija_daily_mar_2_4.md
+    type: wrong_bible_reference
+    status: editorial_decision
+    volume: 41
+    declared_pages: "162-163"
+    digital_reading: "«Лк. гл. 26, ст. 18»"
+    adopted_reading: "Luke 16:18"
+    finding: "Luke has 24 chapters; the quoted sentence («Всякий, разводящийся с женою своею…») is Luke 16:18 verbatim in the Russian Synodal text. Decision 2026-10-13: the English gives the correct reference and the translation note records the printed one."
+    witness: "https://tolstoy.ru/online/90/41/ (print check still pending: the slip may be in the 1906/1957 print or in the transcription)"
+    action: "Keep the Russian repository immutable. English reference corrected; unit is reviewed."
+  - source_path: corpus/krug_chtenija/v41_110_112_Krug_chtenija_daily_feb_3_4.md
+    type: wrong_bible_reference
+    status: editorial_decision
+    volume: 41
+    declared_pages: "110-112"
+    digital_reading: "«Мф. гл. 8, ст. 35»"
+    adopted_reading: "Mark 8:35"
+    finding: "Matthew 8 has 34 verses; the quoted saying, with «ради меня и евангелия» ('for my sake and the gospel's'), is Mark 8:35 (the Matthew parallel, 16:25, lacks 'and the gospel's'). Decision 2026-10-13: the English gives the correct reference and the translation note records the printed one."
+    witness: "https://tolstoy.ru/online/90/41/ (print check still pending)"
+    action: "Keep the Russian repository immutable. English reference corrected; unit is reviewed."

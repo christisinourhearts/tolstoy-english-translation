@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.15",
+  "source_path": "corpus/krug_chtenija/v41_244_246_Krug_chtenija_daily_apr_2_7.md",
+  "source_sha256": "5822da9b5d0d15a690a549df8f9c759768e208f21b9c8c1d6ab7cdd6dad294e2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print: «Карлейль» (Karleyl') is 'Carlyle', not the website's 'Thomas Carlyle', «Сольтер» (Sol'ter) is 'Salter', and «Иосиф Мадзини» (Iosif Madzini) is 'Giuseppe Mazzini'. The manufacturer's speech in Carlyle keeps the source's inner dashes around «говорит богатый фабрикант» (govorit bogaty fabrikant, 'says the rich manufacturer'), and «бродяга» (brodyaga) in Henry George is 'tramp'.",
+    "Source observation: [4] Carlyle: the manufacturer's question «Разве я открыто не нанимал их ... всё, что следовало им по уговору.» ends with a period instead of a question mark; translated as a question.",
+    "Source observation: [21]–[25] The Mazzini passage of reading 6 and the following Maimonides saying (with their attributions) are printed without the blockquote used for other quoted authors, and the Maimonides saying has no section number of its own; translated as printed."
+  ],
+  "result": "PASS"
+}

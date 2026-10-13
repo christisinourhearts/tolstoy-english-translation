@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.07",
+  "source_path": "corpus/krug_chtenija/v41_304_308_Krug_chtenija_weekly_may_1_Iz_pisma_o_vospitanii.md",
+  "source_sha256": "5b1aa76e7be906c2f126adfacc4e7723a7c707e778066da691b719f35130b66b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (16) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's distinction is kept: «воспитание» (vospitaniye) is 'upbringing', unconscious suggestion by example, and «образование» (obrazovaniye) is 'education', conscious instruction; «внушение» (vnusheniye) is 'suggestion' throughout, and «заразятся» (zarazyatsya) keeps the literal 'are infected'. «Бесконечное начало» (beskonechnoye nachalo) is 'the infinite source', «соединение» (soyedineniye, 'uniting') is distinguished from «единение» (yedineniye, 'union'), and the French proverb is left in French with Tolstoy's own gloss."
+  ],
+  "result": "PASS"
+}

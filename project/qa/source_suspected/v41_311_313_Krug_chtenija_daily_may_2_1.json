@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_311_313_Krug_chtenija_daily_may_2_1.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[17] «холодые» (kholodye) is evidently a slip for «холодные» (kholodnye, 'cold'); translated as 'cold'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

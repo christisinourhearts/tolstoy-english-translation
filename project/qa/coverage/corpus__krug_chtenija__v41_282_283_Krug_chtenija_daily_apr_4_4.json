@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.28",
+  "source_path": "corpus/krug_chtenija/v41_282_283_Krug_chtenija_daily_apr_4_4.md",
+  "source_sha256": "d3ecd6f8059295b2c1c180e13ce1199b15083d4205ec008c0abb9cee74a6f41a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The Gospel passage is translated from Tolstoy's Russian with «сын божий» (syn bozhy, 'son of God') and «отец» (otets, 'father') lowercase as in the source; it is John 5:24–26, though the source prints «Ин. гл. 5, ст. 21—26» and the printed reference is kept. «Ши-Кинг» (Shi-King) is given as the Shijing and «Передовая мысль мира» (Peredovaya mysl' mira) as The World's Advance Thought, the periodical's English title; «телесный» (telesny, 'bodily') and «плотский» (plotsky, 'fleshly') are kept distinct.",
+    "Source observation: [5] The reference «Ин. гл. 5, ст. 21—26» covers verses 21–26, but the quoted text is only John 5:24–26 (verses 21–23 are not quoted). Kept as printed ('John 5:21–26.') because the printed range contains the passage; an editor may prefer to narrow it to 5:24–26."
+  ],
+  "result": "PASS"
+}

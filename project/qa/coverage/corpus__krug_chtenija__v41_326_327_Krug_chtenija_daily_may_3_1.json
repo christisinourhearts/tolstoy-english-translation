@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.18",
+  "source_path": "corpus/krug_chtenija/v41_326_327_Krug_chtenija_daily_may_3_1.md",
+  "source_sha256": "f528594fad8259c95f32a890272628ad4581907f4a804cdd4ed52a5483c39a5b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Правда» (pravda, 'truth') and «истина» (istina, 'truth') are both 'truth', and «неправда» (nepravda, 'untruth') is kept as 'untruth' rather than 'falsehood' so that its link with «правда» stays audible. Generic «человек» (chelovek, 'person') keeps 'his' where the website draft had 'their', and «обмануть не людей» (obmanut' ne lyudey) is 'to deceive not people', not 'not others'."
+  ],
+  "result": "PASS"
+}

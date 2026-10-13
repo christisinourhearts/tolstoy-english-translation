@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.07",
+  "source_path": "corpus/krug_chtenija/v41_230_231_Krug_chtenija_daily_apr_1_7.md",
+  "source_sha256": "2bfcbeb348474e8af289ec6784eb0cec0276007fbe77f5f03a9828f6bf8ab2c9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Добро» (dobro, 'good') and «зло» (zlo, 'evil') are kept in Tolstoy's paired formula throughout; Marcus Aurelius's «благо» (blago, 'the good') is 'good', with generic «человек» (chelovek, 'person') taking 'he' where the website draft had 'themselves'. The Luke passage is translated from the Russian wording, with «Лобное» (Lobnoye, 'of the skull') as 'the Skull'."
+  ],
+  "result": "PASS"
+}

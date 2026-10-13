@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.29",
+  "source_path": "corpus/krug_chtenija/v41_345_346_Krug_chtenija_daily_may_4_4.md",
+  "source_sha256": "95ec322dae4b7b461cec66e4b31f09a579ed679b950f1b7a91fe85b2388261a5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Слово» (slovo, 'word') is kept as 'words' in the opening and closing thoughts; «соблазн» (soblazn) and «искушение» (iskusheniye) are both 'temptation'. The verse from James is translated from Tolstoy's Russian wording, and the two passages from «Благочестивые мысли» (Blagochestivye mysli) are attributed as 'From “Pious Thoughts.”'"
+  ],
+  "result": "PASS"
+}

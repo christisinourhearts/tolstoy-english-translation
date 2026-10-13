@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.06",
+  "source_path": "corpus/krug_chtenija/v41_303_304_Krug_chtenija_weekly_may_1_Vospitanie.md",
+  "source_sha256": "ec4b6e8443be8dca309d6d0dfe9e724e3525abc392d17b6a8927f2a1881157bf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (7) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Воспитание» (vospitaniye) is 'upbringing', kept distinct from «образование» (obrazovaniye, 'education') and «обучение» (obucheniye, 'instruction'), so that Mazzini's play on «питание» (pitaniye, 'nourishing') stays visible. «Иосиф Мадзини» is given as Giuseppe Mazzini."
+  ],
+  "result": "PASS"
+}

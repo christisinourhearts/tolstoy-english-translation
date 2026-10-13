@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.05",
+  "source_path": "corpus/krug_chtenija/v41_227_228_Krug_chtenija_daily_apr_1_5.md",
+  "source_sha256": "f1dbc37988c06ddf579d41e7b45029ef7d65e833dbf6ba1fe714e34f200e9648",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The heading thought keeps «лестью и угодничеством перед насилием» (lest'yu i ugodnichestvom pered nasiliem, 'by flattery and servility before violence'), which the website draft had turned into 'serving those who use it'. «Инд. Гитопадезе» (Ind. Gitopadeze) is given as 'Indian Hitopadesha', and «Магомет» (Magomet) as 'Muhammad'; the Saadi attribution is kept in mid-passage where the source prints it.",
+    "Source observation: [13] The attribution «Саади.» (Saadi) is printed in the middle of section 3, before the poor brother's reply, which then follows (block 14) outside the quotation; translated as printed, probably a misplaced attribution."
+  ],
+  "result": "PASS"
+}

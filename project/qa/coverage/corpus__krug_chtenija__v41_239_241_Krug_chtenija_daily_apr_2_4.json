@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.12",
+  "source_path": "corpus/krug_chtenija/v41_239_241_Krug_chtenija_daily_apr_2_4.md",
+  "source_sha256": "721ad2d4922fbf1302cb080505671e7131efb2bacc375bacafb3a2be2e0e6bf8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The obscure attribution «Жонизад Рафезский» (Zhonizad Rafezsky) is transliterated as printed; the website draft's 'Johnizad the Rafidite' was an identification the text does not make. «Род» (Rod) and «Талмуд» (Talmud) stay as printed ('Rod', 'The Talmud'), and the Dhammapada attribution keeps «Буддийская мудрость» (Buddiyskaya mudrost', 'Buddhist wisdom'), which the website had dropped; the closing thought keeps the repeated «зарождение» (zarozhdeniye, 'birth') of evil."
+  ],
+  "result": "PASS"
+}

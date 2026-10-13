@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.02",
+  "source_path": "corpus/krug_chtenija/v41_223_224_Krug_chtenija_daily_apr_1_2.md",
+  "source_sha256": "ac06d3aac3ecca2014d754e5a5f8724bd29ee043d2eb89e5221e6f7cf0b6c1a8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 12 had no website counterpart and were translated fresh.",
+    "«Настоящая жизнь» (nastoyashchaya zhizn', 'real life') is 'real life', and «совершенствование» (sovershenstvovanie, 'perfecting') in the Channing passage is 'perfecting', where the website draft is kept. Kant's «добро» (dobro, 'good') and Marcus Aurelius's «благо» (blago, 'the good') are kept distinct as 'good' and 'your good'.",
+    "Source observation: [12] The section number is marked as underlined («<u>4</u>») instead of a plain number line, and section 4 (Confucius, blocks 13–14) is not set as a quotation like the other attributed passages; both kept as printed, probably a transcription/markup slip."
+  ],
+  "result": "PASS"
+}

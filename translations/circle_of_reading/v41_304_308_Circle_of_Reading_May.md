@@ -1,0 +1,57 @@
+---
+author: "Leo Tolstoy"
+author_ru: "Толстой Лев Николаевич"
+title: "Circle of Reading. May"
+title_ru: "Круг чтения. Май"
+subtitle: "From a Letter on Upbringing. By L. Tolstoy"
+subtitle_ru: "Из письма о воспитании. Л.Толстого"
+category: "krug_chtenija"
+language: "en"
+body_source_languages: ["ru"]
+apparatus_source_languages: []
+creation: "1906"
+volume: "41"
+source_pages: "304-308"
+source_ru_path: "corpus/krug_chtenija/v41_304_308_Krug_chtenija_weekly_may_1_Iz_pisma_o_vospitanii.md"
+source_ru_sha256: "5b1aa76e7be906c2f126adfacc4e7723a7c707e778066da691b719f35130b66b"
+source_file: "v41_304_308_Krug_chtenija_weekly_may_1_Iz_pisma_o_vospitanii.xml"
+source_path: "texts/krug_chtenija/v41_304_308_Krug_chtenija_weekly_may_1_Iz_pisma_o_vospitanii.xml"
+source_repository: "tolstoydigital/TEI"
+source_witness_license: "CC BY-SA"
+translation_license: "PROJECT-TBD"
+translation_basis: "audited Russian Markdown source; first draft taken from the website Circle of Reading text (reviewed 2026-10-03 and 2026-10-13), then checked and revised sentence by sentence against this source (R003)"
+translation_status: "reviewed"
+translation_note: "Tolstoy's distinction is kept: «воспитание» (vospitaniye) is 'upbringing', unconscious suggestion by example, and «образование» (obrazovaniye) is 'education', conscious instruction; «внушение» (vnusheniye) is 'suggestion' throughout, and «заразятся» (zarazyatsya) keeps the literal 'are infected'. «Бесконечное начало» (beskonechnoye nachalo) is 'the infinite source', «соединение» (soyedineniye, 'uniting') is distinguished from «единение» (yedineniye, 'union'), and the French proverb is left in French with Tolstoy's own gloss."
+---
+
+<!-- vol. 41, p. 304 -->
+
+## FROM A LETTER ON UPBRINGING
+
+What must be placed at the foundation of all upbringing is, first of all, what has been abandoned in our schools: the religious understanding of life, and not so much in the form of teaching as in the form of the guiding principle of all the work of upbringing. The religious understanding of life which, as I understand it, can and must become the foundation of the life of the people of our time, expressed as briefly as possible, will be this: the meaning of our life consists in fulfilling the will of that infinite source of which we are conscious of ourselves as a part; and this will lies in the uniting of all that lives, and first of all of people: in their brotherhood, in serving one another. From the other end, this same religious understanding of life will be expressed thus: <!-- vol. 41, p. 305 --> the business of life is union with all that lives—first of all, the brotherhood of people, serving one another. And this is so because we are alive only to the extent that we are conscious of ourselves as part of the whole infinite, and the law of the infinite is this union. In any case, the manifestation in life of the religious understanding—the union of all, attained by love—is first of all the brotherhood of people: it is the practical, chief law of life, and it is precisely this that must be placed at the foundation of upbringing, and therefore it is good and right that everything that leads to union should be developed in children, and everything that leads to the opposite suppressed.
+
+Children are always—and the more so the younger they are—in the state that doctors call the first degree of suggestion. And children learn and are brought up only thanks to this state of theirs. (This capacity of theirs for suggestion puts them wholly in the power of their elders, and therefore one cannot be attentive enough to what we suggest to them and how.) So people always learn and are brought up only through suggestion, which takes place in two ways: consciously and unconsciously. Everything we teach children—from prayers and fables to dancing and music—all this is conscious suggestion; everything that children imitate independently of our wish—especially in our life, in our actions—is unconscious suggestion. Conscious suggestion is instruction, education; the unconscious is example, upbringing in the narrow sense, or, as I shall call it, enlightenment. In our society all efforts are directed to the first; the second, however, is inevitably neglected because our life is bad. People who bring up children either—and this is the most usual—hide their life, and the life of adults in general, from children, putting them in exceptional conditions (cadet corps, institutes, boarding schools, and the like), or they transfer what ought to take place unconsciously into the realm of the conscious: they prescribe moral rules of life, to which it is necessary to add: fais ce que je dis, mais ne fais pas ce que je fais (do what I say, but do not do what I do).
+
+From this it comes about that in our society education has gone so disproportionately far ahead, while true upbringing, or enlightenment, has not only lagged behind but is entirely absent. If it exists anywhere, it is only in poor working families. And yet, of the two sides of the influence on children, the unconscious and the conscious, incomparably more important both for individual <!-- vol. 41, p. 306 --> personalities and for the society of people is the first, that is, unconscious moral enlightenment.
+
+Some family of a banker, a landowner, an official, an artist, a writer lives a rich life—lives, does not get drunk, is not dissolute, does not swear, does not offend people—and wants to give its children a moral upbringing; but this is as impossible as it is impossible to teach children a new language without speaking that language and without showing them books written in that language. The children will listen to rules about morality, about respect for people, but unconsciously they will not only imitate but will also absorb, as a rule, that some people are called to clean boots and clothes, to carry water and slops, to cook food, and others to soil clothes and rooms, to eat the food, and so on. If one only understands seriously the religious foundation of life—the brotherhood of people—one cannot help seeing that people who live on money taken from others, and who make these others serve them for this money, live an immoral life, and no sermons of theirs will rid their children of the unconscious immoral suggestion, which will either remain in them all their lives, distorting all their judgments about the phenomena of life, or will be destroyed by them with great effort and labor, after much suffering and many mistakes.
+
+And so upbringing, unconscious suggestion, is the most important thing. And for it to be good, moral, it is necessary—terrible to say—that the whole life of the one who brings up should be good. What is to be called a good life?—they will ask. There are infinitely many degrees of goodness, but there is one general and chief trait of a good life: it is the striving toward perfecting in love. If this very thing is present in those who bring up children, and if the children are infected with it, then the upbringing will not be bad.
+
+For the upbringing of children to be successful, those who bring them up must never stop bringing themselves up, and must help one another to realize more and more what they are striving for. As for means to this, besides the chief one—the inner one, each person's work on his own soul—there may be very many. One must seek them, think them over, apply them, discuss them...
+
+All these are hints at one side of the matter—upbringing. Now about education. About education I think this: science, learning, is nothing other than the handing on of what the most intelligent <!-- vol. 41, p. 307 --> people have thought. And intelligent people have always thought in three different directions of thought; they have thought: 1) philosophically, religiously, about the meaning of their life—religion and philosophy, 2) experimentally, drawing conclusions from observations set up in a certain way—the natural sciences: mechanics, physics, chemistry, physiology, and 3) they have thought mathematically, drawing conclusions from the propositions of their own thought: mathematics and the mathematical sciences. All these three kinds of science are real sciences. One cannot fake a knowledge of them, and there can be no half-knowledge: either you know or you don't know. All these three kinds of science are cosmopolitan; all of them not only do not divide people but unite them. All of them are accessible to all people and satisfy the requirement of the brotherhood of people. The juridical sciences and the specifically historical ones, on the other hand, are not sciences, or are harmful sciences, and must be excluded. But besides there being three branches of science, there are also three ways of handing on this knowledge. (Please do not think that I am forcing things into threes; I would have liked there to be four or ten, but it came out three each time.)
+
+The first way of handing on—the most usual—is words. But words are in different languages, and so there appears one more science—languages, again corresponding to the requirement of the brotherhood of people (perhaps the teaching of Esperanto is needed too, if there were time and the pupils wished it). The second way is plastic art, drawing or modeling—the science of how to hand on to another, for the eye, what you know. And the third way is music, singing—the science of how to hand on one's mood, one's feeling.
+
+Besides these six branches of teaching, a seventh must also be introduced: the teaching of crafts, again corresponding to the requirement of brotherhood, that is, crafts that everyone needs: metalwork, joinery, carpentry, sewing... So teaching falls into seven subjects.
+
+What part of the time to spend on each, apart from the obligatory labor of looking after *oneself*, will be decided by each pupil's inclination.
+
+This is how I picture it: the teachers apportion the hours among themselves, but the pupils are free to come or not. Strange as this seems to us, who have set up education so hideously, complete freedom of instruction, that is, that the schoolboy and the schoolgirl should come to learn of their own accord when they want to, is a necessary condition of all fruitful instruction, just as a necessary condition of nourishment is that the one being nourished should want to eat.
+
+<!-- vol. 41, p. 308 --> The only difference is that in material matters the harm of departing from freedom shows itself at once—at once there will be vomiting or an upset stomach—while in spiritual matters the harmful consequences will not show themselves so soon, perhaps only after years. Only with complete freedom can one lead the best pupils as far as they are able to go, and not hold them back for the sake of the weak, and they, the best pupils, are the ones most needed. Only with freedom can one avoid the usual phenomenon: the arousing of aversion to subjects which, if they were taught at the right time and freely, would be loved; only with freedom is it possible to find out which pupil has an inclination toward which specialty; only freedom does not violate the influence of upbringing. Otherwise I will be telling the pupil that there must be no violence in life, and I will be committing upon him the heaviest violence of all—mental violence.
+
+I know that this is difficult, but what are you to do when you understand that every departure from freedom is ruinous to the very cause of education. And it is not so difficult, either, once you firmly resolve not to do what is foolish.
+
+*Leo Tolstoy.*

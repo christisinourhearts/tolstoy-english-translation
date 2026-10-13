@@ -1,0 +1,25 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.16",
+  "source_path": "corpus/krug_chtenija/v41_246_259_Krug_chtenija_weekly_apr_2_Ulichnyj_torgovets.md",
+  "source_sha256": "1cc77870f79e6d44b4785b228afd4776b543ae4d19997503ca749886b578e548",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (148) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 36, 145, 146, 147 had no website counterpart and were translated fresh.",
+    "The French names are given in their original spelling (Crainquebille, Madame Bayard, Bastien Matra for «Матро» (Matro), David Matthieu, Lemerle, Bourriche); «господин» (gospodin, 'Mr.') and «госпожа» (gospozha, 'Mrs.') are kept distinct from «мадам» (madam, 'Madame') as the Russian varies them, and «Смерть коровам!» (smert' korovam) stays literal, 'Death to the cows!', glossed by the Russian translator's own footnote. The paragraph on the policeman's 'almost ritual' form of insult, missing from the website draft, was translated fresh, and «тележка» (telezhka, 'cart') is kept for both the vendor's cart and the prisoners' cart.",
+    "Source observation: [33] «Кренкебель» for «Кренкебиль» (one-letter slip in the name); rendered Crainquebille.",
+    "Source observation: [56] «всё окружающее: Тишина» — a colon followed by a capital letter; evidently a period was meant, and the English uses a period.",
+    "Source observation: [69] «Вы не настаиваете, И вы имеете» — a comma followed by a capital И; rendered as one sentence with lowercase “and.”",
+    "Source observation: [97] «Отведенный снова с тюрьму» — «с» for «в» ('into prison'); translated as 'Taken back to prison'.",
+    "Source observation: [145] Attribution printed «Анатол Франс» (soft sign missing; the subtitle has «Анатоля Франса»); rendered Anatole France."
+  ],
+  "result": "PASS"
+}

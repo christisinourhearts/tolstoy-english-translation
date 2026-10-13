@@ -21,7 +21,7 @@ source_witness_license: "CC BY-SA"
 translation_license: "PROJECT-TBD"
 translation_basis: "audited Russian Markdown source; first draft taken from the website Circle of Reading text (reviewed 2026-10-03 and 2026-10-13), then checked and revised sentence by sentence against this source (R003)"
 translation_status: "reviewed"
-translation_note: "The Gospel passages are translated from Tolstoy's Russian, with lowercase pronouns for Christ as printed and «искушая» (iskushaya, 'tempting') kept literal; the printed reference «Лк. гл. 26, ст. 18» (Luke 26:18) is reproduced and flagged, since the verse is Luke 16:18. «Условие» (uslovie, 'agreement') is kept the same in both places of reading 3, and «совершенствование» (sovershenstvovanie) is 'perfecting'."
+translation_note: "The Gospel passages are translated from Tolstoy's Russian, with lowercase pronouns for Christ as printed and «искушая» (iskushaya, 'tempting') kept literal; the source prints the reference as «Лк. гл. 26, ст. 18» (Luke 26:18); Luke has 24 chapters and the quoted text is Luke 16:18 word for word, so the English gives Luke 16:18 (decision 2026-10-13, recorded in source_errata.yml). «Условие» (uslovie, 'agreement') is kept the same in both places of reading 3, and «совершенствование» (sovershenstvovanie) is 'perfecting'."
 ---
 
 <!-- vol. 41, p. 162 -->
@@ -70,6 +70,6 @@ What great good can two loving spouses attain if they set perfecting as their go
 
 > Everyone who divorces his wife and marries another commits adultery, and everyone who marries a woman divorced from her husband commits adultery.
 
-> *Luke 26:18.*
+> *Luke 16:18.*
 
 The union of a man and a woman for the continuation of the human race is a matter so great and important both for each individual person and for all humanity that it cannot be done anyhow, and as anyone takes it into his head, and as anyone finds pleasant, but it must be done as the wise and holy people who lived before us decided about it and thought it through.

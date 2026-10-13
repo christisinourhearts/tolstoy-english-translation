@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_288_290_Krug_chtenija_weekly_apr_4_Zerno_s_kurinoe_jajtso.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[7] The tsar's first question to the first old man opens with « but is never closed («…не покупывал ли где такого зерна?»), unlike the identical question in [9]; probably a lost closing ». The English reproduces the unclosed quotation."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

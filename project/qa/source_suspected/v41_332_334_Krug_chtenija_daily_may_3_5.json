@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_332_334_Krug_chtenija_daily_may_3_5.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[10] «что бы» (chto by) is printed as two words where the sense requires «чтобы» (chtoby, 'that'): «чего мы не хотим, что бы нам делали» ('what we do not want done to us'); translated in that sense."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

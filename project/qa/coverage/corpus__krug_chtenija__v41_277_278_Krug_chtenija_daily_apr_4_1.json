@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.25",
+  "source_path": "corpus/krug_chtenija/v41_277_278_Krug_chtenija_daily_apr_4_1.md",
+  "source_sha256": "6158dfb530f97d8828c26452eb4ecb4eb462ede6421e15c9abb82151afbcdf1a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "John 12:44–50 is translated from Tolstoy's Russian, with «отец» (otets, 'father') and the pronouns for God lowercase as in the source; Tolstoy's italic «я» (ya, 'I') is kept as an italic '*I*'. «Благо» (blago) is 'the good' («источник истинного блага», istochnik istinnogo blaga, 'the source of the true good'; «путь блага», put' blaga, 'the path of the good'), where the website draft had 'goodness'.",
+    "Source observation: [5] The Gospel reference is printed «Ин. гл. 12, cm. 44—50» with Latin «cm.» in place of Cyrillic «ст.» (st., 'verse'); the reference itself is correct and is rendered John 12:44–50."
+  ],
+  "result": "PASS"
+}

@@ -15,7 +15,8 @@
     "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
     "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
     "The Gospel passages are translated from Tolstoy's Russian, with lowercase pronouns for Christ as printed and «искушая» (iskushaya, 'tempting') kept literal; the printed reference «Лк. гл. 26, ст. 18» (Luke 26:18) is reproduced and flagged, since the verse is Luke 16:18. «Условие» (uslovie, 'agreement') is kept the same in both places of reading 3, and «совершенствование» (sovershenstvovanie) is 'perfecting'.",
-    "Source observation: [23] Bible reference printed «Лк. гл. 26, ст. 18» (Luke 26:18); Luke has 24 chapters and the quoted verse is Luke 16:18. Translated as printed ('Luke 26:18.'); likely a print/transcription error for 16."
+    "Source observation: [23] Bible reference printed «Лк. гл. 26, ст. 18» (Luke 26:18); Luke has 24 chapters and the quoted verse is Luke 16:18. Translated as printed ('Luke 26:18.'); likely a print/transcription error for 16.",
+    "Resolved 2026-10-13: the English gives Luke 16:18; the printed reference is recorded in the translation note and source_errata.yml."
   ],
   "result": "PASS"
 }

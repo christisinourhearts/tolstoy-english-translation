@@ -265,9 +265,19 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 ## 2026-10-13 — R003.02–03: February and March
 
 - 70 files (34 February, 36 March; about 36,700 Russian words), including the weekly readings *Reason*, *The Buddha*, *Self-Renunciation*, *The Free Man*, *The Archangel Gabriel*, *Prayer*, *Poor People*, *Union*, *A Sea Voyage*, *Non-Resistance to Evil by Violence*, *The Surat Coffeehouse*, and *Korney Vasiliev*. January–March of *Circle of Reading* are now complete in `translations/circle_of_reading/`.
-- 69 units reviewed; 2 March (v41_141_143) held at `needs_source_review`: «время мое легко» ('my time is easy') where «бремя» ('burden') is evidently meant. The English reads "burden". Check the printed volume 41, p. 141.
-- Source observations for 25 units are in `project/qa/source_suspected/`. Seven need a print check; they are listed in `project/qa/batches/R003.md`.
+- All 70 units reviewed. Resolved by decision (2026-10-13, recorded in `source_errata.yml`): 2 March «время»/«бремя» → "burden"; 11 March «Лк. гл. 26, ст. 18» → Luke 16:18; 18 February «Мф. гл. 8, ст. 35» → Mark 8:35.
+- Source observations for 25 units are in `project/qa/source_suspected/`. Four still need a print check; they are listed in `project/qa/batches/R003.md`.
 - Conventions settled: «Иосиф Мадзини» = "Giuseppe Mazzini"; «магометане» = "Muslims"; a period after a quoted title goes inside the quotes; one-letter transcription slips are translated in their evident sense and recorded.
 - Fixed: weekly reading 3 heading «СОВЕРШЕНСТВОВАНИЕ» = "PERFECTING" (it was "SELF-PERFECTION"), in the repository and on the website.
 - Website: 1,020 units updated in `02.js`/`03.js` with revision history (run `2026-10-13-R003`); weekly titles aligned with the headings.
-- Next: R003.04 = April.
+- R003.04–05 done the same day (see below).
+
+## 2026-10-13 — R003.04–05: April and May; three source decisions
+
+- Decisions (Andrei Evanghelușcă, 2026-10-13), recorded in `source_errata.yml`: 2 March «время» → "burden" (unit now reviewed); 11 March «Лк. гл. 26, ст. 18» → Luke 16:18 (the quoted sentence is Luke 16:18 verbatim); 18 February «Мф. гл. 8, ст. 35» → Mark 8:35 (only Mark has "and the gospel's"). The English gives the correct reference; the note records the printed one. The brief now applies this rule to later batches.
+- 70 files (34 April, 36 May; ~35,000 Russian words), all reviewed, including *Good* (Buka), *The Street Vendor* (Anatole France), *From a Letter* (Alexandre Dumas), *A Grain as Big as a Hen's Egg*, *Upbringing* (Mazzini) and *From a Letter on Upbringing*, *Death in the Hospital* (Dostoevsky), *The Law of Violence and the Law of Love* (Buka), *The Trial of Socrates and His Defense*. January–May are complete.
+- «воспитание» = "upbringing" where Tolstoy sets it against «образование» ("education"); weekly reading 18 is now titled "Upbringing" on the website.
+- Print checks for April–May are listed in `project/qa/batches/R003.md`.
+- Website: 812 units updated in `04.js`/`05.js` (run `2026-10-13-R003`).
+- Fixed in `build.py` tooling: Russian subtitles with escaped quotes (Socrates) are now read in full.
+- Next: R003.06 = June.

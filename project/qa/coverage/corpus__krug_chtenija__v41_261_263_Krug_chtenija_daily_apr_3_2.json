@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.18",
+  "source_path": "corpus/krug_chtenija/v41_261_263_Krug_chtenija_daily_apr_3_2.md",
+  "source_sha256": "368da4e93b7c8f532de2047184ad52f5efd1c83d36bc257c9305c50fbe38b109",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 21 had no website counterpart and were translated fresh.",
+    "The triad of the opening and closing thoughts, «подчинение» (podchineniye, 'subjection'), «покровительство» (pokrovitel'stvo, 'patronage'), and «благодетельствование» (blagodetel'stvovaniye, 'benefaction'), is kept parallel, and «мелочи» (melochi) is 'small things' as against «пустяки» (pustyaki, 'trifles'). The Emerson saying, missing from the website draft, is translated fresh; its «я есм» (ya yesm, 'I am') is a Slavonic form that plain English cannot mark.",
+    "Source observation: [5] Kant: «Ни один человек не может быть ни орудием, ни целью» ('No person can be either an instrument or an end') contradicts Kant's own principle that a human being must always be treated as an end; possibly an error in Tolstoy's source or print. Translated as printed."
+  ],
+  "result": "PASS"
+}

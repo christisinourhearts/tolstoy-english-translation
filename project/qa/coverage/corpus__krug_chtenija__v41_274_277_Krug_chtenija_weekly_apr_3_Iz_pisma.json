@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.24",
+  "source_path": "corpus/krug_chtenija/v41_274_277_Krug_chtenija_weekly_apr_3_Iz_pisma.md",
+  "source_sha256": "def0b87831658edeb23bfa304b429bc680be628174475905ad4833f87a9887b6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (15) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The attribution is printed «Александр Дюма» (Aleksandr Dyuma) and is rendered 'Alexandre Dumas' as printed, without adding 'fils'. «Душа» (dusha, 'soul') is held throughout, including the 'common soul' and 'new soul' of the closing paragraphs; «совершенство» (sovershenstvo) is 'perfection' and «начало» (nachalo) in «от смертносного начала» (ot smertnosnogo nachala, 'from a deadly principle') is 'principle'. Clauses the website draft had dropped or altered are restored: «поняли себя» (ponyali sebya, 'understood themselves', not 'one another') and «уже сверху» (uzhe sverkhu, 'already from above').",
+    "Source observation: [6] «Это-то душа» (Eto-to dusha) reads as a slip for «Эта-то душа» (Eta-to dusha, 'it is this very soul'); translated in that sense.",
+    "Source observation: [9] «смертносного» (smertnosnogo) is a misspelling of «смертоносного» (smertonosnogo, 'deadly'); translated as 'deadly'."
+  ],
+  "result": "PASS"
+}

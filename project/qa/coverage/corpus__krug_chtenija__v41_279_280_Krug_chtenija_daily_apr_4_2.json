@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.26",
+  "source_path": "corpus/krug_chtenija/v41_279_280_Krug_chtenija_daily_apr_4_2.md",
+  "source_sha256": "71af2cbc5393149a46ff9c1aa8d58d6f345ae8c742a99157cca2c38c4424de79",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 3 had no website counterpart and were translated fresh.",
+    "The two opening thoughts, which the website draft lacked, were translated fresh; «добро» (dobro, 'good') is 'good' and «подвиги» (podvigi, 'feats, heroic deeds') 'heroic deeds'. «Всевышний» (vsevyshny) is 'the Most High', as in earlier files, and Emerson's «чтобы быть похожими на других» (chtoby byt' pokhozhimi na drugikh) is 'in order to be like others', not 'to appear like others' as in the website draft."
+  ],
+  "result": "PASS"
+}

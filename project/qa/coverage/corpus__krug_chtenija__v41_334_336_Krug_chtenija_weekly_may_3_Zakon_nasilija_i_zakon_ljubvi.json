@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.23",
+  "source_path": "corpus/krug_chtenija/v41_334_336_Krug_chtenija_weekly_may_3_Zakon_nasilija_i_zakon_ljubvi.md",
+  "source_sha256": "be8b596247f7931d113ccdf78d043d0ff0865d419a8355ce401e3f7391cfd822",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (8) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Насильничать» (nasil'nichat', 'to use violence') is 'do violence' and «насилие» (nasiliye) 'violence' throughout; «закон разумения» (zakon razumeniya) is 'the law of understanding', where the website draft had 'reason'. «Антихрист» (antikhrist, 'antichrist') and «дух Христов» (dukh Khristov, 'the spirit of Christ') keep the source's lowercase, and the attribution is printed as «Бука» (Buka).",
+    "Source observation: [2] The Gospel quotation prints a stray comma: «обрати, к нему и другую» ('turn, to him the other also'); translated without it."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_261_263_Krug_chtenija_daily_apr_3_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[5] Kant: «Ни один человек не может быть ни орудием, ни целью» ('No person can be either an instrument or an end') contradicts Kant's own principle that a human being must always be treated as an end; possibly an error in Tolstoy's source or print. Translated as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

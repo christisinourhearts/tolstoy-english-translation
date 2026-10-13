@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.01",
+  "source_path": "corpus/krug_chtenija/v41_295_296_Krug_chtenija_daily_may_1_1.md",
+  "source_sha256": "f2579ba5b5ff963f5c2ce546493b45c5f3fee18e84362681eeb594d6cce7e053",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Established English forms are used for Abu Hanifa, the caliph al-Mansur, d'Herbelot («Дербело», Derbelo), and Zschokke («Чокке», Chokke); «учение Кадда» (uchenie Kadda, 'the teaching of Kadda') and «Хаджи Абдул Гезди» (Khadzhi Abdul Gezdi) are given as printed. Matthew 10:27–28 is translated from Tolstoy's Russian, with lowercase 'him' as in the source, and Epictetus's «осуждай» (osuzhday) is 'condemn', as elsewhere in the book.",
+    "Source observation: [19] The attribution «*Конфуций*» (Konfutsiy, 'Confucius') lacks the final period that the other attributions have; probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

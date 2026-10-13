@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.23",
+  "source_path": "corpus/krug_chtenija/v41_272_274_Krug_chtenija_daily_apr_3_7.md",
+  "source_sha256": "c3f06edd96b181d6cfe550b7215b98757f7131c5fbc2e0a39deaa4d5c68422f1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Насилие» (nasilie, 'violence') and «любовь» (lyubov', 'love') are kept as the day's paired terms; in John 15:19 Tolstoy's «мир любил бы вас» (mir lyubil by vas, 'the world would love you') is translated as printed, not as the familiar 'love its own' that the website draft had. Shelley's «от нравственной» (ot nravstvennoy, 'from the moral [science]') is 'from moral science', and Tolstoy's «обращаться» (obrashchat'sya, 'to deal with, treat') is held as 'deal with' throughout reading 3."
+  ],
+  "result": "PASS"
+}

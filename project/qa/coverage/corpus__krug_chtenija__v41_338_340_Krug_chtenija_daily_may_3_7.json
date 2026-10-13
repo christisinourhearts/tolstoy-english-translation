@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.25",
+  "source_path": "corpus/krug_chtenija/v41_338_340_Krug_chtenija_daily_may_3_7.md",
+  "source_sha256": "efd059fb986336a76455d4b489034cafe972a0090c3ae34bedeaa2903713b84a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Добро» (dobro, 'good') and «благо» (blago, 'the good') are kept apart, and generic «человек» (chelovek, 'person') keeps Tolstoy's 'he' where the website draft had 'they'. Attributions follow the print: «Мартино» (Martineau), «Джон Рёскин» (John Ruskin), «Талмуд» (the Talmud), and «По Канту» ('After Kant') for the reworked Kant passage.",
+    "Source observation: [12] A Latin letter 'a' is printed for the Cyrillic conjunction «а» (a, 'but') in «a сама по себе» ('but in itself'); translated in that sense."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.32",
+  "source_path": "corpus/krug_chtenija/v41_288_290_Krug_chtenija_weekly_apr_4_Zerno_s_kurinoe_jajtso.md",
+  "source_sha256": "7b7fde40ef4e2285f3ceb55fc34fa6f07481d8ad315ec83ffbd692f96475a2ac",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The tale's established English title is used. Its folk repetitions are kept, including the doubled verbs «севать не севал… жинать не жинал» (sevat' ne seval… zhinat' ne zhinal, 'sow it I never sowed… reap it I never reaped'), the present-tense slips, and «зеленый» (zelyony, 'green') for the first old man; «земля божья» (zemlya bozh'ya) is 'God's land', without the website draft's 'the Lord's' or its 'land as private property'.",
+    "Source observation: [7] The tsar's first question to the first old man opens with « but is never closed («…не покупывал ли где такого зерна?»), unlike the identical question in [9]; probably a lost closing ». The English reproduces the unclosed quotation."
+  ],
+  "result": "PASS"
+}

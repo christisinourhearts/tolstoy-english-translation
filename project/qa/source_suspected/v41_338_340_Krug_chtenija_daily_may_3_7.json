@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_338_340_Krug_chtenija_daily_may_3_7.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[12] A Latin letter 'a' is printed for the Cyrillic conjunction «а» (a, 'but') in «a сама по себе» ('but in itself'); translated in that sense."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

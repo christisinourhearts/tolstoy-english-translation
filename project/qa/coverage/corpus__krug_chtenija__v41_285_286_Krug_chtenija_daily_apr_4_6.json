@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.30",
+  "source_path": "corpus/krug_chtenija/v41_285_286_Krug_chtenija_daily_apr_4_6.md",
+  "source_sha256": "930f2f8b10da07102278f7ac86de90d1563a420affb3064a8bf76a2ecde6294f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Осуждать» (osuzhdat', 'condemn') is 'condemn' throughout, and Matthew 7:1–5 is translated from Tolstoy's Russian wording («сучок», suchok, 'twig'; «бревно», brevno, 'log'), as in the February files. In passage 4 «произведена вражда» (proizvedena vrazhda) is 'enmity has been produced', keeping the arithmetic image of the product; Epictetus's «заблуждение» (zabluzhdenie) is 'error', and the attribution «Б.» (B.) is kept as the bare initial the print gives."
+  ],
+  "result": "PASS"
+}

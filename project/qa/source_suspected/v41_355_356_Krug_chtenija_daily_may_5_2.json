@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_355_356_Krug_chtenija_daily_may_5_2.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[4] Henry George's last sentence, «И разве более этого получает огромная масса рабочих в так называемых свободных странах.», is a rhetorical question introduced by «разве» (razve, 'can it be that') but ends with a period; translated as a question."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

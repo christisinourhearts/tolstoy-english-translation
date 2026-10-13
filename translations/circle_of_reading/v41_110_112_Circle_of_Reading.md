@@ -21,7 +21,7 @@ source_witness_license: "CC BY-SA"
 translation_license: "PROJECT-TBD"
 translation_basis: "audited Russian Markdown source; first draft taken from the website Circle of Reading text (reviewed 2026-10-03 and 2026-10-13), then checked and revised sentence by sentence against this source (R003)"
 translation_status: "reviewed"
-translation_note: "«Личность» (lichnost', 'personality') is kept as the book's constant term for the separate self, and the Gospel verses follow Tolstoy's own wording with lowercase «отец» (otets, 'father'). The reference for reading 6 is printed as given, «Мф.» (Matthew) 8:35, although the verse is Mark 8:35; it is flagged, not corrected."
+translation_note: "«Личность» (lichnost', 'personality') is kept as the book's constant term for the separate self, and the Gospel verses follow Tolstoy's own wording with lowercase «отец» (otets, 'father'). The source prints the reference for reading 6 as «Мф. гл. 8, ст. 35» (Matthew 8:35); Matthew 8 has 34 verses, and the quoted text, with «и евангелия» (i evangeliya, 'and the gospel's'), is Mark 8:35, so the English gives Mark 8:35 (decision 2026-10-13, recorded in source_errata.yml)."
 ---
 
 <!-- vol. 41, p. 110 -->
@@ -64,7 +64,7 @@ The more a person cares for himself, is occupied with himself, the more he guard
 
 > Whoever wants to save his soul (life) will lose it; and whoever loses his soul (life) for my sake and the gospel's will save it.
 
-> *Matthew 8:35.*
+> *Mark 8:35.*
 
 7
 

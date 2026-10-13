@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.02",
+  "source_path": "corpus/krug_chtenija/v41_297_298_Krug_chtenija_daily_may_1_2.md",
+  "source_sha256": "3c84adbefca57e0c988c1e4089552e666e049a8eec57202fdd1136c5dabfa0d4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 10 had no website counterpart and were translated fresh.",
+    "«Спор» (spor) is 'dispute' throughout and «доводы» (dovody) 'arguments'; Kant's «рассудок» (rassudok) is 'intellect'. «Пэн» (Pen) is given as 'Penn.', since the passage is William Penn's maxim from Some Fruits of Solitude, and the website draft's 'Pen' is dropped; the Carlyle attribution and the unattributed proverb «Кроткий ответ удаляет злобу» (krotkiy otvet udalyaet zlobu, 'a meek answer drives away malice') are translated from the Russian as printed.",
+    "Source observation: [10] The attribution «*Карлейл.*» stands outside the quotation markup (no «>») after an italic, unquoted line of the kind Tolstoy uses for his own thoughts, and the name is spelled «Карлейл» rather than the usual «Карлейль» (as in the 5 February file); reproduced as printed (unquoted).",
+    "Source observation: [26] The attribution «*Джон Рёскин*» (Dzhon Ryoskin, 'John Ruskin') lacks a final period, as in the 9 February file; probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

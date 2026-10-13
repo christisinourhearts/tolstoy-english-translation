@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.22",
+  "source_path": "corpus/krug_chtenija/v41_270_272_Krug_chtenija_daily_apr_3_6.md",
+  "source_sha256": "b8050e035c74829ec7d3bf8d6ed5333e017cc8f6655aa0af78b7df7845b1c738",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 22 had no website counterpart and were translated fresh.",
+    "The Gospel passages (Matthew 10 and 16) are translated from Tolstoy's Russian, keeping «душа» (dusha, 'soul') with his gloss «(жизнь)» (zhizn', 'life'); «благо» (blago) is 'the good' and «добро» (dobro) 'good', and «личность» (lichnost') is 'personality'. The Carlyle thought, which the website draft had left unattributed, now carries its printed attribution «Карлейл» (Karleyl, 'Carlyle'); «Люси Малори» (Lyusi Malori) is Lucy Mallory.",
+    "Source observation: [21–22] The Carlyle passage and its attribution are not set as a quotation (no «>»), unlike the other attributed readings, and the name is spelled «Карлейл» rather than the usual «Карлейль»; reproduced as printed (unquoted)."
+  ],
+  "result": "PASS"
+}

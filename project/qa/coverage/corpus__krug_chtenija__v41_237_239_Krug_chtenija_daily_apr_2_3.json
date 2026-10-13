@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.11",
+  "source_path": "corpus/krug_chtenija/v41_237_239_Krug_chtenija_daily_apr_2_3.md",
+  "source_sha256": "24f6127a34963be3aba7022d15dd6debf59c68c20d637544467add4fb76db17b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Божественное начало» (bozhestvennoye nachalo) is 'the divine source', following the book's rendering of «начало» (nachalo, 'source'), and Strakhov's «жизнепонимание» (zhizneponimaniye) is 'conception of life', keeping 'understanding' for «разумение» (razumeniye). The closing Gospel words keep Tolstoy's word order «веруйте в бога и в меня веруйте» (veruyte v boga i v menya veruyte, 'believe in God and in me believe') rather than a familiar English verse."
+  ],
+  "result": "PASS"
+}

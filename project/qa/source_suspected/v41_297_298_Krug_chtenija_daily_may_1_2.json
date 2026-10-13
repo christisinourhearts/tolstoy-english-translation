@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_297_298_Krug_chtenija_daily_may_1_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[10] The attribution «*Карлейл.*» stands outside the quotation markup (no «>») after an italic, unquoted line of the kind Tolstoy uses for his own thoughts, and the name is spelled «Карлейл» rather than the usual «Карлейль» (as in the 5 February file); reproduced as printed (unquoted).",
+    "[26] The attribution «*Джон Рёскин*» (Dzhon Ryoskin, 'John Ruskin') lacks a final period, as in the 9 February file; probably a transcription slip. English mirrors it."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

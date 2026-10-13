@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.10",
+  "source_path": "corpus/krug_chtenija/v41_236_237_Krug_chtenija_daily_apr_2_2.md",
+  "source_sha256": "9c99aa3284c70ed826fc83f794fd74a61f2977d6ffd2df01278e96b6261e28d8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Добро» (dobro, 'good') is 'good' in the opening and closing thoughts, and «вера» (vera, 'faith, belief') is 'faith'. In Kant's passage «мое бессмертие» (moyo bessmertie, 'my immortality') is restored where the website draft had 'my soul is immortal', and the emphasized *knows* keeps its italics; providence's works in the Emerson passage are 'its', not 'His'."
+  ],
+  "result": "PASS"
+}

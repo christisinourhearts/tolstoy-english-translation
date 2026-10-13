@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.13",
+  "source_path": "corpus/krug_chtenija/v41_241_242_Krug_chtenija_daily_apr_2_5.md",
+  "source_sha256": "48fd69c813b5a771d2e568a550fcd1e3ce1d0eec5d98864b7c269c08d3425f58",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Сверхчеловеческое» (sverkhchelovecheskoye) is kept literal as 'superhuman', and in Amiel «ум» (um) is 'mind' and «сын не больше отца» (syn ne bol'she ottsa) 'the son is not greater than the father', lowercase as printed. Pronouns for God follow the lowercase Russian, and Thoreau's «козявка» (kozyavka, 'bug') is repeated in «человеком-козявкою» (chelovekom-kozyavkoyu, 'a human bug')."
+  ],
+  "result": "PASS"
+}

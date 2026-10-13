@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.22",
+  "source_path": "corpus/krug_chtenija/v41_332_334_Krug_chtenija_daily_may_3_5.md",
+  "source_sha256": "82520bdeb19a964c0787a607b937df848a32f595a4e6a8a4610b39f8d4ff9fd3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Божество» (bozhestvo, 'deity') is 'the deity' and «законы добра» (zakony dobra) 'the laws of good'; the Chinese saying keeps the word «шу» (shu) as printed. The Deuteronomy passage is translated from Tolstoy's Russian wording, not from an English Bible.",
+    "Source observation: [10] «что бы» (chto by) is printed as two words where the sense requires «чтобы» (chtoby, 'that'): «чего мы не хотим, что бы нам делали» ('what we do not want done to us'); translated in that sense."
+  ],
+  "result": "PASS"
+}

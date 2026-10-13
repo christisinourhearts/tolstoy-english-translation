@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.21",
+  "source_path": "corpus/krug_chtenija/v41_267_270_Krug_chtenija_daily_apr_3_5.md",
+  "source_sha256": "064cfc557b8fa568fcc19c0039f597eb77d3853ef2da0c7be340a56af9912b71",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Страдания» (stradaniya, 'sufferings') keeps the Russian plural where Tolstoy uses it, and «благо» (blago, 'the good') is 'a good' in the closing thought and in Buka, where the website draft had 'a blessing'; «совершенствование» (sovershenstvovanie) is 'perfecting'. In Lamennais «отец» (otets, 'father') stays lowercase as in the source, and attributions follow the print (Thoreau, Jean Paul (Richter), Anatole France)."
+  ],
+  "result": "PASS"
+}

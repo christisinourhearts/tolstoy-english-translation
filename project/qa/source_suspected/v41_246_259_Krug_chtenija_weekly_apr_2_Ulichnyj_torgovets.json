@@ -1,0 +1,14 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_246_259_Krug_chtenija_weekly_apr_2_Ulichnyj_torgovets.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[33] «Кренкебель» for «Кренкебиль» (one-letter slip in the name); rendered Crainquebille.",
+    "[56] «всё окружающее: Тишина» — a colon followed by a capital letter; evidently a period was meant, and the English uses a period.",
+    "[69] «Вы не настаиваете, И вы имеете» — a comma followed by a capital И; rendered as one sentence with lowercase “and.”",
+    "[97] «Отведенный снова с тюрьму» — «с» for «в» ('into prison'); translated as 'Taken back to prison'.",
+    "[145] Attribution printed «Анатол Франс» (soft sign missing; the subtitle has «Анатоля Франса»); rendered Anatole France."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

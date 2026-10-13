@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.19",
+  "source_path": "corpus/krug_chtenija/v41_328_330_Krug_chtenija_daily_may_3_2.md",
+  "source_sha256": "9f43fcd89acca93e9565025708c08b69c7fe349808a15c75551d58d4130fb2bc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разумный человек» (razumnyy chelovek, 'rational person') is 'rational' throughout, matching «разум» (razum, 'reason'), and generic «человек» keeps 'he/his/himself' where the website draft had 'they/their'. The italic «разумный человек» in the first reading keeps its italics.",
+    "Source observation: [5] «понимание своего отношения бесконечному миру» lacks the preposition «к» ('to') before «бесконечному миру» (cf. «отношения к ближайшим явлениям» in [7]); translated as 'his relation to the infinite world'."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.27",
+  "source_path": "corpus/krug_chtenija/v41_341_343_Krug_chtenija_daily_may_4_2.md",
+  "source_sha256": "19d16ce66ad3c6f63f910c24ab71ffe491c72949a5617b8537666c557d2c7786",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (40) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Воздержание» (vozderzhaniye, 'abstinence') is 'abstinence', «благо» (blago) 'good' in Menedemus's saying, and «усовершенствование» (usovershenstvovaniye) 'improvement'; generic «человек» (chelovek, 'person') keeps 'he' where the website draft had 'they'. Attributions follow the print, including «Индийский Курал» ('Indian Kural') and «Буддийская мудрость. Дхаммапада» ('Buddhist wisdom. Dhammapada'), which the website draft had shortened."
+  ],
+  "result": "PASS"
+}

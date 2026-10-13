@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_274_277_Krug_chtenija_weekly_apr_3_Iz_pisma.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[6] «Это-то душа» (Eto-to dusha) reads as a slip for «Эта-то душа» (Eta-to dusha, 'it is this very soul'); translated in that sense.",
+    "[9] «смертносного» (smertnosnogo) is a misspelling of «смертоносного» (smertonosnogo, 'deadly'); translated as 'deadly'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

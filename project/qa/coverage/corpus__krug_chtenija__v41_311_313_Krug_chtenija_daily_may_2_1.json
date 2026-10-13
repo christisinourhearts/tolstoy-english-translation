@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.10",
+  "source_path": "corpus/krug_chtenija/v41_311_313_Krug_chtenija_daily_may_2_1.md",
+  "source_sha256": "413b67e3f9d73f30c691745a283a44431a082c47565166c26469083cbac17774",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The Gospel passage (Luke 22:24–27) and the story of Francis and Brother Leo are translated from Tolstoy's Russian; Francis's last answer is left grammatically unfinished as in the source, and «соблазняете народ» (soblaznyayete narod) is 'tempting the people'. «Порционкюль» (Portsionkyul') is given as the Portiuncula, «Лао-Тсе» as Laozi, and «Ахав» (Akhav) as Ahab, under «Египетская мудрость» ('Egyptian wisdom') as printed.",
+    "Source observation: [17] «холодые» (kholodye) is evidently a slip for «холодные» (kholodnye, 'cold'); translated as 'cold'."
+  ],
+  "result": "PASS"
+}

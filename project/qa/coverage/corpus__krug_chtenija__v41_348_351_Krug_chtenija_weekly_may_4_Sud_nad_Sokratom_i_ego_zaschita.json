@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.31",
+  "source_path": "corpus/krug_chtenija/v41_348_351_Krug_chtenija_weekly_may_4_Sud_nad_Sokratom_i_ego_zaschita.md",
+  "source_sha256": "48a4bb7bcb6097a5988297d90a96882fa931d2f04f3932c79cbc1ea0467bb765",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (14) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Зло» (zlo, 'evil') is kept as 'evil' throughout Socrates' speech, including the closing «нет никакого зла» (net nikakogo zla, 'there is no evil') and «сделать мне зло» (sdelat' mne zlo, 'to do me evil'), where the website draft had 'harm'; «благо» (blago) is 'a good', and «разумный путь жизни» (razumny put' zhizni) 'the reasonable path of life'. The speech's quotation marks open and close only once, around all its paragraphs, as in the Russian.",
+    "Source observation: [subtitle] subtitle_ru in the draft metadata is truncated: «Суд над Сократом и его защита. По \\» (Sud nad Sokratom i ego zashchita. Po, 'The Trial of Socrates and His Defense. After'); subtitle_en completes it from the heading block [2], «По «Апологии» Платона» ('After Plato's “Apology”')."
+  ],
+  "result": "PASS"
+}

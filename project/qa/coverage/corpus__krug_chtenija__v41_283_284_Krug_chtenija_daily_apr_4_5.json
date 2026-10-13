@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.29",
+  "source_path": "corpus/krug_chtenija/v41_283_284_Krug_chtenija_daily_apr_4_5.md",
+  "source_sha256": "3900d907f3683623a51bc9f80b102f1cc80dc4b35defa8a4265c02fc7e930772",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Бог» (bog, 'God'), printed lowercase in this edition, is capitalized in English, and pronouns for God follow the lowercase Russian ('him'); «сознание» (soznanie, 'consciousness') and «познание» (poznanie, 'knowledge') are kept distinct as in the opening thought. The paragraph beginning 'A select minority' stands after the Rousseau attribution and outside the quotation, as printed; «Д' Эшерни» is 'D'Escherny', not the website draft's 'D'Acherny'.",
+    "Source observation: [7] The unquoted paragraph «Избранное меньшинство…» (izbrannoe men'shinstvo, 'a select minority') follows the Rousseau attribution yet reads as a continuation of Rousseau's first-person argument; the attribution may be misplaced or the quote markup lost. Translated as printed (unquoted, after the attribution)."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_348_351_Krug_chtenija_weekly_may_4_Sud_nad_Sokratom_i_ego_zaschita.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[subtitle] subtitle_ru in the draft metadata is truncated: «Суд над Сократом и его защита. По \\» (Sud nad Sokratom i ego zashchita. Po, 'The Trial of Socrates and His Defense. After'); subtitle_en completes it from the heading block [2], «По «Апологии» Платона» ('After Plato's “Apology”')."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

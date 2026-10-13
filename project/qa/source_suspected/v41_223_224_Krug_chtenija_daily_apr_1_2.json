@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_223_224_Krug_chtenija_daily_apr_1_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[12] The section number is marked as underlined («<u>4</u>») instead of a plain number line, and section 4 (Confucius, blocks 13–14) is not set as a quotation like the other attributed passages; both kept as printed, probably a transcription/markup slip."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

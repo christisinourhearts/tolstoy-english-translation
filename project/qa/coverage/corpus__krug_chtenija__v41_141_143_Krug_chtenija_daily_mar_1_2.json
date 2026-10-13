@@ -15,7 +15,8 @@
     "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
     "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
     "The Gospel saying is translated as printed, including the source's «время» (vremya, 'time') where «бремя» (bremya, 'burden') is expected; «благо» (blago, 'good') and «легко» (legko, 'easy') are rendered so as to echo Tolstoy's following «легко и благо» ('easy and good'). «Идти/ехать следом за» (idti/ekhat' sledom za, 'to follow behind') and «идти за богом» ('to follow God') share 'follow', and «хозяин» (khozyain) is 'master' and «работник» (rabotnik) 'workman' per the terminology ledger.",
-    "Source observation: [5] «Иго мое благо и время мое легко» reads «время» (vremya, 'time') where the Gospel (Matthew 11:30) and the sense require «бремя» (bremya, 'burden'); evidently a б/в transcription error. Translated in the evident sense ('my burden is easy'), as with the other one-letter slips in this batch; the printed volume should be checked."
+    "Source observation: [5] «Иго мое благо и время мое легко» reads «время» (vremya, 'time') where the Gospel (Matthew 11:30) and the sense require «бремя» (bremya, 'burden'); evidently a б/в transcription error. Translated in the evident sense ('my burden is easy'), as with the other one-letter slips in this batch; the printed volume should be checked.",
+    "Resolved 2026-10-13 by decision of Andrei Evanghelușcă: the English reads «бремя» (burden). Recorded in source_errata.yml."
   ],
   "result": "PASS"
 }

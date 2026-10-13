@@ -6,5 +6,6 @@
     "[20] The reference reads «Мф. гл. 8, ст. 35» (Matthew 8:35), but the quoted verse, with «и евангелия» ('and the gospel'), is Mark 8:35; Matthew 8 has no verse 35. Translated as printed."
   ],
   "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
-  "witness_pending": "https://tolstoy.ru/online/90/41/"
+  "witness_pending": "https://tolstoy.ru/online/90/41/",
+  "resolution": "Resolved 2026-10-13: the English gives Mark 8:35; the printed reference is recorded in the translation note and source_errata.yml."
 }

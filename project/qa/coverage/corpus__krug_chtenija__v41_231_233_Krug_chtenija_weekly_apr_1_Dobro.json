@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.04.08",
+  "source_path": "corpus/krug_chtenija/v41_231_233_Krug_chtenija_weekly_apr_1_Dobro.md",
+  "source_sha256": "56ea497bc3db565f03f48e5a4d87e70bc37ea589ba3da2cd7141304c1ecea1ae",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (9) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Добро» (dobro, 'good') is the title and is kept distinct from «благо» (blago, 'the good'); «разуметь / разумение» (razumet' / razumenie, 'to understand / understanding') is 'understand / understanding', and «непротивление злому» (neprotivlenie zlomu, 'non-resistance to evil') is held constant. The Gospel sayings, including the paraphrase of John 1:51 and the lowercase «сын божий» (syn bozhiy, 'son of God'), are translated from the Russian as printed."
+  ],
+  "result": "PASS"
+}

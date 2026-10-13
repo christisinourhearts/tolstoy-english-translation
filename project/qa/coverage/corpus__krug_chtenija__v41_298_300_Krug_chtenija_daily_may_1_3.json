@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.05.03",
+  "source_path": "corpus/krug_chtenija/v41_298_300_Krug_chtenija_daily_may_1_3.md",
+  "source_sha256": "fbeff0d7983f800a163162dedd1bbdfd8a1b0cc71dda790f1be058c36ecd4a11",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благо» (blago) is 'the good' ('their good'), where the website draft had 'welfare', and «совершенствование в добре» (sovershenstvovanie v dobre) is 'perfecting in good'. Lichtenberg's italics (*retell*, *done*, *history of the learned*) and Confucius's *true* are kept, «последняя из наук» (poslednyaya iz nauk) stays 'the last of the sciences', and «Персидский Дэзатир» (Persidskiy Dezatir) is 'Persian Desatir', the established English spelling of the book's name.",
+    "Source observation: [25] The attribution «*Торо*» (Toro, 'Thoreau') lacks a final period, unlike the other attributions; probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

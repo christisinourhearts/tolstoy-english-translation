@@ -6,5 +6,6 @@
     "[23] Bible reference printed «Лк. гл. 26, ст. 18» (Luke 26:18); Luke has 24 chapters and the quoted verse is Luke 16:18. Translated as printed ('Luke 26:18.'); likely a print/transcription error for 16."
   ],
   "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
-  "witness_pending": "https://tolstoy.ru/online/90/41/"
+  "witness_pending": "https://tolstoy.ru/online/90/41/",
+  "resolution": "Resolved 2026-10-13: the English gives Luke 16:18; the printed reference is recorded in the translation note and source_errata.yml."
 }

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_283_284_Krug_chtenija_daily_apr_4_5.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[7] The unquoted paragraph «Избранное меньшинство…» (izbrannoe men'shinstvo, 'a select minority') follows the Rousseau attribution yet reads as a continuation of Rousseau's first-person argument; the attribution may be misplaced or the quote markup lost. Translated as printed (unquoted, after the attribution)."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}
