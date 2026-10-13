@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.01",
+  "source_path": "corpus/krug_chtenija/v41_359_360_Krug_chtenija_daily_jun_1_1.md",
+  "source_sha256": "d6b4b4044e9cdecee84927335b3e078df2f7fd0ba72e2559c82b88bf5b3982b8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Дело» (delo, 'work, business, occupation') is rendered \"work\" or, in the plural, \"occupations\"; «магометанство» (magometanstvo, 'Muhammadanism') is \"Islam\". The answers in section 2 echo Luke 14:19 and 9:59–60 and are translated from Tolstoy's Russian wording."
+  ],
+  "result": "PASS"
+}

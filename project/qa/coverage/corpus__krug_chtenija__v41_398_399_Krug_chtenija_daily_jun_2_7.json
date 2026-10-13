@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.17",
+  "source_path": "corpus/krug_chtenija/v41_398_399_Krug_chtenija_daily_jun_2_7.md",
+  "source_sha256": "8b7a3c2560b5ae1f7925d4a2a8ddd4950f4c09b54dd1a7cee0546ed3fe7a86b5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Осуждать» (osuzhdat', 'condemn') is kept distinct from «судить» (sudit', 'judge') throughout, as in Romans 2:1 and the Confucius saying. Attributions follow the print: the Dhammapada line regains «Буддийская мудрость» (Buddiyskaya mudrost', 'Buddhist wisdom'), which the website draft had dropped, and «Таблички бабидов» (Tablichki babidov) is 'Tablets of the Babis'."
+  ],
+  "result": "PASS"
+}

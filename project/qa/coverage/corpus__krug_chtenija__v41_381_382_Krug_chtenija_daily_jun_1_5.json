@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.07",
+  "source_path": "corpus/krug_chtenija/v41_381_382_Krug_chtenija_daily_jun_1_5.md",
+  "source_sha256": "00d9a3b892df0eee872195625f74f695c0e0d9bfeca8f70662b47c1f65fa967a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Представление» (predstavleniye, 'representation') is kept as \"representation\" in Tolstoy's own thoughts, in the philosophical sense of the word; «внешний мир» (vneshniy mir) is \"the external world\". Lichtenberg's italics, including «*синяя.*» ('blue') with its period, follow the print.",
+    "Source observation: [17] In the closing thought the word «мире» ('world') stands outside the asterisks of an otherwise wholly italic passage («в этом* мире, *неважно»); apparently a markup slip. The English line is italicized throughout."
+  ],
+  "result": "PASS"
+}

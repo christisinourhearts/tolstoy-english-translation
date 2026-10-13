@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.31",
+  "source_path": "corpus/krug_chtenija/v41_438_440_Krug_chtenija_daily_jun_4_4.md",
+  "source_sha256": "500558122b8dad813644ccc0d8c5b5bf1918fce7f67e9d6a98313a05cde18a41",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (38) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Демофил» (Demofil) is given as Demophilus, and «Беседы Сократа» (Besedy Sokrata, 'Conversations of Socrates') stays without title quotes as printed; the Talmud attribution has no final period in the print and none is added. In Demophilus's «в вещах непорочных и гибнущих» the evident reading «непрочных» (neprochnykh, 'unstable') is translated instead of the printed «непорочных» (neporochnykh, 'blameless'); see flags.",
+    "Source observation: [31] «в вещах непорочных и гибнущих» ('in things blameless and perishing'): «непорочных» (neporochnykh, 'blameless') looks like a one-letter slip for «непрочных» (neprochnykh, 'unstable, flimsy'), which alone fits «гибнущих» ('perishing') and the sense of the saying; translated as 'unstable'."
+  ],
+  "result": "PASS"
+}

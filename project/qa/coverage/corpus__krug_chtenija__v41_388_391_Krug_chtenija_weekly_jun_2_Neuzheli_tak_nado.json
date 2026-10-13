@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.12",
+  "source_path": "corpus/krug_chtenija/v41_388_391_Krug_chtenija_weekly_jun_2_Neuzheli_tak_nado.md",
+  "source_sha256": "ef940075a75a076f0cf16ebb50b3ba1fb7a675a325d0ec2e8f345d71075fe95b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The title «Неужели так надо?» (Neuzheli tak nado?, literally 'Is it really necessary so?') is 'Must It Be So?'; the incredulous «неужели» (neuzheli, 'can it really be that') is carried by 'really' in the closing line «Неужели это так надо?» ('Must this really be so?'). Russian measures are kept: 100 «аршин» (arshin, about 71 cm each) and horses of 'five vershoks' («пятивершковых», pyativershkovykh: 2 arshins and 5 «вершков», vershkov, at the withers, a tall horse), 2,000 «десятин» (desyatin, about 1.1 hectares each). The website draft's paraphrases were revised throughout, e.g. «каторжного труда» (katorzhnogo truda, 'convict labor') is 'hard labor', and «чужое поле» / «чужую работу» (chuzhoye pole, chuzhuyu rabotu) are 'someone else's field' and 'work for others'."
+  ],
+  "result": "PASS"
+}

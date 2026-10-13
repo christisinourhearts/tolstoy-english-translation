@@ -280,4 +280,13 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Print checks for April–May are listed in `project/qa/batches/R003.md`.
 - Website: 812 units updated in `04.js`/`05.js` (run `2026-10-13-R003`).
 - Fixed in `build.py` tooling: Russian subtitles with escaped quotes (Socrates) are now read in full.
-- Next: R003.06 = June.
+- R003.06 done the same day (see below).
+
+## 2026-10-13 — R003.06: June
+
+- 37 files (~31,000 Russian words), all reviewed, including Chekhov's *The Darling* with Tolstoy's *Afterword*, *Must It Be So?*, Avilova's *First Sorrow*, La Boétie's *Voluntary Servitude* (Tolstoy's abridgement), Dostoevsky's *The Eagle*, and Tolstoy's *Berries*. January–June (half the book) are complete.
+- A wrong reference inside Tolstoy's own sentence (28 June, "verse 24 of chapter 8 of Luke" for Luke 8:21) is kept as printed and explained in the note; only reference lines are corrected.
+- Print checks for June are listed in `project/qa/batches/R003.md` (notably 8 June: Confucius «равны», probably a dropped «не»).
+- `R003_BRIEF.md` updated with the conventions settled so far.
+- Website: 769 units updated in `06.js`; weekly titles aligned ("Must It Be So?", "First Sorrow", "Voluntary Servitude").
+- Next: R003.07 = July.

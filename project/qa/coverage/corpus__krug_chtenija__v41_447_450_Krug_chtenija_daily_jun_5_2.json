@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.36",
+  "source_path": "corpus/krug_chtenija/v41_447_450_Krug_chtenija_daily_jun_5_2.md",
+  "source_sha256": "d42a1cfa92080bafd400a487ab99efaa35c79ee8a8b0f28ec1b9a4b7601c947d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (40) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Внешний» (vneshniy, 'external') and «внутренний» (vnutrenniy, 'inner') are kept as a pair, and «власть» (vlast') in Lesigne's list is 'authority'. The line 'One demands monopoly for the state…' is translated where the source prints it, after Lesigne's attribution; Martha's «одно только на потребу» (odno tol'ko na potrebu) is 'only one thing is needful'.",
+    "Source observation: [22] The line «Один требует монополии для государства; другой желает уничтожения всех монополий.» stands after the attribution «Эрнест Лесинь.», outside the quotation, at the head of p. 449; it evidently belongs to Lesigne's list of contrasts (blocks 16–19). Translated as printed, in place.",
+    "Source observation: [25] «Может ли быть что-нибудь смешнее, по своей очевидной нелепости, такого рассуждения.» is a question («Может ли», mozhet li, 'can … be') ending with a period; translated with a question mark."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.06",
+  "source_path": "corpus/krug_chtenija/v41_379_381_Krug_chtenija_daily_jun_1_4.md",
+  "source_sha256": "7621c6958d782bb69a202b346a408c5bac9bf4a01c6053c62d73946232dd81a7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Духовное начало» (dukhovnoye nachalo, 'spiritual principle') is kept as \"spiritual principle\"; in Henry George's passage «неправда» (nepravda, 'untruth, wrong') is \"injustice\", and the quoted words of John 12:8 are translated from the Russian. Ruskin is given as \"John Ruskin\" because the source prints the first name.",
+    "Source observation: [20] The Russian italics are split inside a word, «за *коны» for «законы» ('laws'); a markup slip. Translated as one italic line."
+  ],
+  "result": "PASS"
+}

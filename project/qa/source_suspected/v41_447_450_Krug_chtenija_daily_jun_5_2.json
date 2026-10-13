@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_447_450_Krug_chtenija_daily_jun_5_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[22] The line «Один требует монополии для государства; другой желает уничтожения всех монополий.» stands after the attribution «Эрнест Лесинь.», outside the quotation, at the head of p. 449; it evidently belongs to Lesigne's list of contrasts (blocks 16–19). Translated as printed, in place.",
+    "[25] «Может ли быть что-нибудь смешнее, по своей очевидной нелепости, такого рассуждения.» is a question («Может ли», mozhet li, 'can … be') ending with a period; translated with a question mark."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

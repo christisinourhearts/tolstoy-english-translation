@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.37",
+  "source_path": "corpus/krug_chtenija/v41_450_460_Krug_chtenija_weekly_jun_5_Jagody.md",
+  "source_sha256": "f391c8e3e938ba1f7749d6c7a37174c06f24f36dd3710a8676f4cb66674ec99a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (124) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 89 had no website counterpart and were translated fresh.",
+    "«Мир» (mir, 'the commune') is the peasant commune; Marie's French «un je ne sais quoi» and the doctor's Latin «veto» are left in the original languages, as Tolstoy prints them. The maid's deferential plural for the little boy, «нездоровы» (nezdorovy, 'are unwell') and «они» (oni, 'they'), is kept literally because Tolstoy points it out. Names and diminutives follow the Russian (Nikolai Semyonych per D0003, Goga, Olgushka and once Olga, Grushka, Taraska, Fedka, Mishka, Valya); «земляника» (zemlyanika) is 'wild strawberries' and «ботвинья» (botvinya, a cold kvass soup) is transliterated."
+  ],
+  "result": "PASS"
+}

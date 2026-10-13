@@ -1,0 +1,24 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.28",
+  "source_path": "corpus/krug_chtenija/v41_426_434_Krug_chtenija_weekly_jun_4_Dobrovolnoe_rabstvo.md",
+  "source_sha256": "9c6a1c908edc7d65e12d26e499fb31cb2dff398775655acb75f7e5a74beaed18",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 1, 10, 24, 25 had no website counterpart and were translated fresh.",
+    "«Рабство» (rabstvo, 'slavery') is 'slavery' throughout, but the title phrase «добровольное рабство» (dobrovol'noe rabstvo) is 'voluntary servitude' in the heading, in the text, and in the footnote, so that the title's echo stays visible; «изменил своей природе» (izmenil svoei prirode, 'was untrue to his nature') is 'betrayed his nature', where the website draft had 'changed'. Names keep Tolstoy's forms (Ulysses, Cyrus, Croesus, Mithridates), and the Lydians' chief city is 'Lydia' as printed (historically Sardis); the four blocks the website draft lacked (the heading, the row of dots marking Tolstoy's omission, and the footnote with its heading) were translated or copied fresh.",
+    "Source observation: [7] «должен бы был быть более способен» (dolzhen by byl byt' boleye sposoben, 'ought to have been more capable'): La Boétie's sense is 'more bearable' («сносен», snosen); «способен» may be a misreading or Tolstoy's own wording. Translated as printed: 'more capable'.",
+    "Source observation: [13] The parenthesis «(человеку естественны все вещи, к которым он привыкает. Так что)» spans a sentence boundary, as if marking bracketed or editorially supplied words; translated as printed, parentheses kept.",
+    "Source observation: [16] «главным городом Лидией» (glavnym gorodom Lidiei, 'their chief city, Lydia'): the Lydian capital was Sardis (La Boétie: Sardes); translated as printed.",
+    "Source observation: [16] «которым мы называем провождением времени»: instrumental «провождением» where the sense needs «провождение» (provozhdenie vremeni, 'pastime'); translated the evident sense, 'the word by which we call pastime'."
+  ],
+  "result": "PASS"
+}

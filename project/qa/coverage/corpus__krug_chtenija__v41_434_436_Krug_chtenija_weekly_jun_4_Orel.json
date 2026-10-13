@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.29",
+  "source_path": "corpus/krug_chtenija/v41_434_436_Krug_chtenija_weekly_jun_4_Orel.md",
+  "source_sha256": "2deba87ce5e48529597d9d90a1fdefe54a4c1606cff19c130c6dc12fbcffb0a2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The episode is from Dostoevsky's «Записки из Мертвого дома» (Zapiski iz Myortvogo doma), given under its usual English title 'Notes from the House of the Dead'; the eagle is 'he' throughout, as «он» in the source. The convicts' «воля» (volya, with the folk diminutive «волюшка», volyushka) is 'liberty', kept apart from «свобода» / folk «слобода» (svoboda / sloboda), 'freedom'; the idiom «чёрта в чемодане не строй» (chorta v chemodane ne stroy, literally 'don't build him a devil in a suitcase') is kept literal."
+  ],
+  "result": "PASS"
+}

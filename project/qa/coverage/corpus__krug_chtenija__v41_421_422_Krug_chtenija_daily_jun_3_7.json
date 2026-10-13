@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.25",
+  "source_path": "corpus/krug_chtenija/v41_421_422_Krug_chtenija_daily_jun_3_7.md",
+  "source_sha256": "b4d1f15592e35119b5a3457c1260d58e09f9cdb21da91b28ca93082dd27c17a2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (15) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разбойник» (razboynik, 'robber'), the man crucified beside Christ, is 'the robber' throughout rather than the traditional 'thief'; «неразумная / разумная жизнь» (nerazumnaya / razumnaya zhizn') is 'unreasonable / reasonable life', keeping the root of «разум» (razum, 'reason'). Confucius's italics on the three ways are restored, and the generic «каждым человеком в себе» (kazhdym chelovekom v sebe) is 'each person in himself'."
+  ],
+  "result": "PASS"
+}

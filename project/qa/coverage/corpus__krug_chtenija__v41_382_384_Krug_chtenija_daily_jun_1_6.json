@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.08",
+  "source_path": "corpus/krug_chtenija/v41_382_384_Krug_chtenija_daily_jun_1_6.md",
+  "source_sha256": "24fe818aa1dcec20e2e344b395f2ff623663a52acd256af14f3504e02f92166c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Зло» (zlo, 'evil') is kept as 'evil' throughout, including where the website draft had softened it to 'harm'; generic «человек» (chelovek, 'person, man') takes 'he/his'. The attributions follow the print: «Индийские Ману» (Indiyskiye Manu, literally 'Indian Manu', plural adjective) is rendered 'Indian Manu', and «Индийский Курал» (Indiyskiy Kural) 'Indian Kural', as elsewhere in the book."
+  ],
+  "result": "PASS"
+}

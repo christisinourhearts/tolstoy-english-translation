@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.30",
+  "source_path": "corpus/krug_chtenija/v41_436_438_Krug_chtenija_daily_jun_4_3.md",
+  "source_sha256": "4cdd00bf45a9e46b2f14de119be22c17f2487d17538688bc75743be0ab5ab082",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's «дела» (dela, 'works, tasks') is 'works' in his own thoughts, so that the opening (works that are always finished) and the close (works of love) echo, and 'tasks' in Amiel; «дело души» (delo dushi) is 'the work of the soul'. Rousseau's «дикие» (dikiye, 'savages') is kept without the website draft's gloss 'people called savages', and Spinoza's line keeps its italics."
+  ],
+  "result": "PASS"
+}

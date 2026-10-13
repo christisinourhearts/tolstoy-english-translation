@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.18",
+  "source_path": "corpus/krug_chtenija/v41_400_401_Krug_chtenija_daily_jun_3_1.md",
+  "source_sha256": "be2096dbb9d079852a9998429be706c7eaa4527ae96c14018011127b62439d09",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Добро» (dobro, 'good') is 'good' («высшее добро», 'the highest good'), and «совершенство» (sovershenstvo, 'perfection') keeps its repetition in the closing thoughts. «Бог» (bog, 'God') is capitalized while pronouns for God stay lowercase; the Lucy Mallory passage keeps its generic 'he/his', which the website draft had made 'they/their'."
+  ],
+  "result": "PASS"
+}

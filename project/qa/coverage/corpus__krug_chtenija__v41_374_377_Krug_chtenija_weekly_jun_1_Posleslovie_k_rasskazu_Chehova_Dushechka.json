@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.04",
+  "source_path": "corpus/krug_chtenija/v41_374_377_Krug_chtenija_weekly_jun_1_Posleslovie_k_rasskazu_Chehova_Dushechka.md",
+  "source_sha256": "811ba9f41bf7c9f517b97455305e9ee05ed2c515d7fba59488cd9d0dd631f27f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Душечка» (dushechka, 'darling'), both the story's title and the heroine's nickname, is \"The Darling\" (in quotes where Tolstoy quotes it); the verses of Numbers 23:11–13 and 24:10–11 are translated from Tolstoy's Russian, with his chapter-and-verse form kept, and «господь» (gospod', 'Lord') is \"the Lord\". «Жемчужная болезнь» (zhemchuzhnaya bolezn', 'pearl disease', bovine tuberculosis) is kept literal; «господина Ата» is read as the genitive of the pen name «Ат» (At), hence \"Mr. At\"; «женский вопрос» (zhenskiy vopros) is \"the woman question\".",
+    "Source observation: [17] «господина Ата»: the feuilletonist's pen name is taken as «Ат» (At), of which «Ата» is the regular genitive; if the pen name is indeclinable «Ата», the English should read \"Mr. Ata\". Not a damage flag; recorded for verification."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.32",
+  "source_path": "corpus/krug_chtenija/v41_440_441_Krug_chtenija_daily_jun_4_5.md",
+  "source_sha256": "7a566aace7a5e1900e2ca86aa1b848cdbf8c5696d5b436a60c26acd50660b62e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum, 'reason') is 'reason' throughout, and Pascal's «разумение» (razumenie) and «разуметь» (razumet') are 'understanding' and 'to understand', so the reed is 'endowed with understanding'. Channing's «божественное начало» (bozhestvennoe nachalo) is 'the divine principle'; the paragraph on the frailty of man that follows Pascal's attribution is translated where it is printed.",
+    "Source observation: [10] The paragraph «Какого-нибудь пустяка достаточно, чтобы убить человека…» stands after the attribution «Паскаль.», unquoted, at the head of p. 441; its thought is Pascal's (the reed fragment), so the attribution may be misplaced or the paragraph may be Tolstoy's own sequel. Translated as printed, unattributed."
+  ],
+  "result": "PASS"
+}

@@ -1,4 +1,4 @@
-<!-- Working brief used for R003.02–03 (February–March 2026-10-13). Paths refer to the temporary workspace where the drafts were prepared. -->
+<!-- Working brief for R003 translator passes (updated through R003.06, 2026-10-13). Paths refer to the temporary workspace where drafts were prepared. -->
 
 # Brief: translating Tolstoy's *Circle of Reading* (Круг чтения), batch R003
 
@@ -54,6 +54,21 @@ For each assigned file write `/home/claude/r003/out/<name>.json` (same `<name>` 
 - Attributions (D0004/E1 and the book-wide rules): print what Tolstoy printed, translated. Surname only if he gives a surname only ("Carlyle.", "Laveleye."), never expanded from the website draft ("Thomas Carlyle" → "Carlyle." if the Russian is «Карлейль.»). «По Марку Аврелию.» → "After Marcus Aurelius." (По X = "After X."). «Из «Талмуда».» / «Из …» → "From the Talmud." / "From “…”." (titles of works in quotes as printed). Keep the attribution's italics and quote prefix as in the Russian line.
 - Names: established English forms for well-known persons (Marcus Aurelius, Seneca, Epictetus, Confucius, Laozi, Lamennais, Pascal, Kant, Schopenhauer, Rousseau, Channing, Emerson, Thoreau, Ruskin, Carlyle, Amiel, Montaigne, La Bruyère, Henry George, the Talmud, the Dhammapada, the Brahmana, the Vedas, the Upanishads). Russian names per D0003 (ё → yo, initial Е → Ye). Check `NAMES.md`.
 - Tolstoy's own unattributed thoughts (no attribution line) stay unattributed.
+
+## Conventions settled in earlier batches (apply them)
+
+- Names: «Иосиф Мадзини» = "Giuseppe Mazzini", «Мадзини» = "Mazzini"; «магометане» = "Muslims", «магометанский» = "Muslim"; «Магомет» = "Muhammad"; «Лао-Тсе» = "Laozi"; «Талмуд.» = "*The Talmud.*"; «Дхаммапада» = "Dhammapada" (no article); labels like «Китайская мудрость.» = "*Chinese wisdom.*" (no article).
+- More names/terms: «Люси Малори» = "Lucy Mallory"; «Коран» = "*The Quran.*"; «Бука» = "Buka"; «Карлейл(ь)» = "Carlyle"; «Рёскин» = "Ruskin". «господь» meaning God = "Lord" (capitalized, like "God"; "the Lord Sabaoth", "call Christ Lord"); pronouns for God/Christ stay lowercase.
+- «воспитание» = "upbringing" where it is set against «образование» ("education"); «разум» = "reason", «ум» = "mind", «разумение» = "understanding".
+- Psalms: give the English numbering (Synodal Ps. 89 = Psalm 90) and say so in the note.
+- A period after a quoted title goes inside the quotes: `*From “Pious Thoughts.”*`.
+- Nested quotation inside “ ” uses curly single quotes ‘ ’ (the checker's warning for this is acceptable).
+- Dialogue: a speech line starts with "— "; the dashes around "said X" keep spaces ("— Well, — said Korney, — come on."), as in the January *Thief's Son*. Dashes in running narration are unspaced em dashes.
+- An attribution printed without a final period stays without one.
+- One-letter or obvious transcription slips (a missing/extra letter, a stray comma or asterisks): translate the evident sense and record the slip in `flags`.
+- Wrong Bible reference (the quoted text is plainly from a different chapter/verse/book): give the **correct** reference in the English, and record the printed one in `flags` and in the `note` (e.g. "the source prints «Лк. гл. 26, ст. 18»; the text is Luke 16:18"). Verify against the Russian Synodal text, which you know well; if unsure, keep the printed reference and flag it.
+- Anything else that may be a real print problem (missing section number, misplaced attribution): translate as printed and flag it.
+- Use your own scratch subfolder (e.g. `/home/claude/r003/work_<yourfirstfile>/`) for helper scripts; other translators work in parallel in the same tree.
 
 ## Before you finish
 

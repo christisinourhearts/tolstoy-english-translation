@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.20",
+  "source_path": "corpus/krug_chtenija/v41_403_413_Krug_chtenija_weekly_jun_3_Pervoe_gore.md",
+  "source_sha256": "9cfe3c9c36691c974f9c330021d342e37fbd4303bed0aaf2d83d3cfc96c47ed6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (172) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The heading follows the Russian «Первое горе» (Pervoye gore, 'First Sorrow'), and «горе» (gore) is 'sorrow' also in the narrator's 'first serious sorrow'; «урядник» (uryadnik, a rural police constable) is 'the constable' throughout. Recurring words are kept consistent: «обидел» (obidel) is always 'wronged,' «всё равно» (vsyo ravno, 'all the same') stays the same in the father's charge and in Grisha's replies, and the father's «Всякий делает свое дело» (vsyakiy delaet svoyo delo, 'everyone does his own work') keeps its echo in the boy's closing «злое дело» (zloye delo, 'evil work'). The father's familiar «брат» (brat, 'brother') is kept as 'brother,' and his «мокрая курица, тряпка» (mokraya kuritsa, tryapka) stays literal as 'wet hen, a rag.'",
+    "Source observation: [62] «опрашивала мать» — «опрашивать» (oprashivat', 'to question, poll') is odd for a single question; probably a slip for «спрашивала» (sprashivala, 'asked'); translated as \"would ask.\"",
+    "Source observation: [135] «—Уж надо как-нибудь» — no space after the opening dash; typographic slip, translated normally.",
+    "Source observation: [139] «шептала она.— Всем надо» — no space before the dash; typographic slip, translated normally."
+  ],
+  "result": "PASS"
+}

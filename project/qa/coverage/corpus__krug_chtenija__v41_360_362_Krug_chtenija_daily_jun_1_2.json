@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.02",
+  "source_path": "corpus/krug_chtenija/v41_360_362_Krug_chtenija_daily_jun_1_2.md",
+  "source_sha256": "b94e714092c93638191b0faeb3c2bfbd2ec399f6eca22f5b4922290cfefac640",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Первое воспитание» (pervoye vospitaniye, 'first upbringing') is rendered \"early upbringing\" throughout; «самоотречение» (samootrecheniye, 'self-denial') and «воздержание» (vozderzhaniye, 'abstinence') are kept literal. Mazzini's attribution is given as Giuseppe Mazzini and Muhammad's, printed without a final period, is left without one.",
+    "Source observation: [14] The Russian prints «— э *то добродетельная женщина*» with the italics breaking inside «это» ('this is'); a transcription slip in the markup. Translated as one italic line."
+  ],
+  "result": "PASS"
+}

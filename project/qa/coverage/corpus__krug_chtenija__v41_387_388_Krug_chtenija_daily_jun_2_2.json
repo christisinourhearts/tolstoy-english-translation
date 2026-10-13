@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.11",
+  "source_path": "corpus/krug_chtenija/v41_387_388_Krug_chtenija_daily_jun_2_2.md",
+  "source_sha256": "4899686c683957016bd53f05565bf04ca18930fa9cec4e780fab45fcb3d45b4c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's repetitions are kept: «труд трудящихся» and «праздность празднующих» (trud trudyashchikhsya, prazdnost' prazdnuyushchikh, 'the labor of those who labor', 'the idleness of those who idle'); «усовершенствования» (usovershenstvovaniya) are technical 'improvements'. In Chrysostom, «зверство» (zverstvo, 'beastliness') keeps its link to the hunted «звери» (zveri, 'wild beasts'), and «каменных людей» (kamennykh lyudey) are 'men of stone'.",
+    "Source observation: [17] The italics break inside a word: «*Дело это есть любов* ное *общение*» ('loving', любовное, split as любов + ное outside the italics); a transcription slip. The whole line is italicized in the English."
+  ],
+  "result": "PASS"
+}

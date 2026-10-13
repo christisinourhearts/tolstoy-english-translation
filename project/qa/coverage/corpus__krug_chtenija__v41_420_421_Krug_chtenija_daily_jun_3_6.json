@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.24",
+  "source_path": "corpus/krug_chtenija/v41_420_421_Krug_chtenija_daily_jun_3_6.md",
+  "source_sha256": "7b7e686204e4cbfb6f31a49e394cd82a675e041247d5db6201ac12dbbe32b69f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 3 had no website counterpart and were translated fresh.",
+    "«Мясо» (myaso, 'meat, flesh') is 'flesh' in the opening thought (after Lamartine), so that human and animal flesh stay parallel, and 'meat' in the ordinary vegetarian sense; Zimmerman's «трупы» (trupy) is 'corpses', and «земнородные» (zemnorodnye, 'earth-born') animals are kept literal. Lamartine's «ибо в ней жизнь» (ibo v ney zhizn', 'for in it is life', of blood) is restored where the website draft had 'for it is life'.",
+    "Source observation: [2] «чувствоват» lacks its final soft sign (for «чувствовать», 'to feel'); translated as 'feel'."
+  ],
+  "result": "PASS"
+}

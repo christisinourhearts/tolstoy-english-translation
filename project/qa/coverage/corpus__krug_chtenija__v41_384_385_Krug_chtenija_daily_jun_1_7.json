@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.09",
+  "source_path": "corpus/krug_chtenija/v41_384_385_Krug_chtenija_daily_jun_1_7.md",
+  "source_sha256": "0e9482f28c37980c6dfa3cae16a18ba1179146970769559cb54538145ce120d3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Смирение» (smireniye, 'humility') is kept as 'humility' throughout, and «смиряющее» (smiryayushcheye) as 'humbles'; «самолюбие» (samolyubiye, 'self-love') is rendered literally. Matthew 11:28–30 is translated from Tolstoy's Russian wording, not from an English Bible."
+  ],
+  "result": "PASS"
+}

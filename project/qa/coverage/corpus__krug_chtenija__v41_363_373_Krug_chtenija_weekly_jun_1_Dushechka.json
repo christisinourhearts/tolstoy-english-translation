@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.03",
+  "source_path": "corpus/krug_chtenija/v41_363_373_Krug_chtenija_weekly_jun_1_Dushechka.md",
+  "source_sha256": "fce6e3b9d0f249b76b11ea8b41786a1b5a1d48b46e2676afca954df6fc29569e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (97) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Chekhov's story as Tolstoy printed it, translated closely from this Russian text: «душечка» (dushechka, 'darling') is 'darling' throughout, and Olenka's echoed opinions keep the wording of the men she repeats. The garbled telegram keeps its errors: «хохороны» (khokhorony, for похороны, 'funeral') is 'huneral' and the meaningless «сючала» (syuchala) is left transliterated; Sasha's childish «ощенится» (oshchenitsya, 'has puppies') of the cat is kept.",
+    "Source observation: [41] «…до лестницы, — Спасибо…»: a capital letter after the comma inside Olenka's speech (probably a period was meant); rendered as one continuing sentence.",
+    "Source observation: [60] «жарский» for «жаркий» ('hot'); translated as 'hot'.",
+    "Source observation: [67] the speech dash before «Когда она у вас ощенится» is missing, though Sasha plainly goes on speaking; the English supplies the dash."
+  ],
+  "result": "PASS"
+}

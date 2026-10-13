@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_403_413_Krug_chtenija_weekly_jun_3_Pervoe_gore.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[62] «опрашивала мать» — «опрашивать» (oprashivat', 'to question, poll') is odd for a single question; probably a slip for «спрашивала» (sprashivala, 'asked'); translated as \"would ask.\"",
+    "[135] «—Уж надо как-нибудь» — no space after the opening dash; typographic slip, translated normally.",
+    "[139] «шептала она.— Всем надо» — no space before the dash; typographic slip, translated normally."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

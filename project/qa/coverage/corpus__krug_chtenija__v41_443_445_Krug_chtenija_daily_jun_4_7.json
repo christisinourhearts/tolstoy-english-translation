@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.34",
+  "source_path": "corpus/krug_chtenija/v41_443_445_Krug_chtenija_daily_jun_4_7.md",
+  "source_sha256": "579f8757f005af397c1524043d5ccbe022b434ab1bedff5da3d3c5760494fd6c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 3 had no website counterpart and were translated fresh.",
+    "The opening thought (two paragraphs), which had no website draft, is translated fresh. In Tolstoy's comment on Luke 14:26 the source prints «в стихе 24-м 8-й гл. Луки» (v stikhe 24-m 8-y gl. Luki, 'in verse 24 of chapter 8 of Luke'); the words meant are Luke 8:21 (quoted earlier this day as Luke 8:20–21), so the English reads 'verse 21'. «Соблазняют» (soblaznyayut, 'tempt') is rendered 'are a temptation to', keeping «соблазн» = 'temptation', and «личность» (lichnost') is 'personality'.",
+    "Source observation: [22] The text cites «стихе 24-м 8-й гл. Луки» (Luke 8:24), but the words referred to ('my mother and my brothers are those who hear the word of God and do it') are Luke 8:21 (Luke 8:24 is the storm on the lake); corrected to 'verse 21' in the English."
+  ],
+  "result": "PASS"
+}

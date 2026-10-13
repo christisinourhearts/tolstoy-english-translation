@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_363_373_Krug_chtenija_weekly_jun_1_Dushechka.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[41] «…до лестницы, — Спасибо…»: a capital letter after the comma inside Olenka's speech (probably a period was meant); rendered as one continuing sentence.",
+    "[60] «жарский» for «жаркий» ('hot'); translated as 'hot'.",
+    "[67] the speech dash before «Когда она у вас ощенится» is missing, though Sasha plainly goes on speaking; the English supplies the dash."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

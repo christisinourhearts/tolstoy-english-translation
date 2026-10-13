@@ -1,0 +1,13 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_426_434_Krug_chtenija_weekly_jun_4_Dobrovolnoe_rabstvo.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[7] «должен бы был быть более способен» (dolzhen by byl byt' boleye sposoben, 'ought to have been more capable'): La Boétie's sense is 'more bearable' («сносен», snosen); «способен» may be a misreading or Tolstoy's own wording. Translated as printed: 'more capable'.",
+    "[13] The parenthesis «(человеку естественны все вещи, к которым он привыкает. Так что)» spans a sentence boundary, as if marking bracketed or editorially supplied words; translated as printed, parentheses kept.",
+    "[16] «главным городом Лидией» (glavnym gorodom Lidiei, 'their chief city, Lydia'): the Lydian capital was Sardis (La Boétie: Sardes); translated as printed.",
+    "[16] «которым мы называем провождением времени»: instrumental «провождением» where the sense needs «провождение» (provozhdenie vremeni, 'pastime'); translated the evident sense, 'the word by which we call pastime'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

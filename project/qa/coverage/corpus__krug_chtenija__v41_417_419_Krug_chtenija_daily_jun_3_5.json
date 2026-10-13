@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.23",
+  "source_path": "corpus/krug_chtenija/v41_417_419_Krug_chtenija_daily_jun_3_5.md",
+  "source_sha256": "4817ba52109504f412f4d8d076c02b85dc466bdd632e9217f2eb21e79f02854e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совесть» (sovest', 'conscience') is kept distinct from «сознание» (soznanie, 'consciousness') throughout, and «зрячее это духовное существо» (zryachee eto dukhovnoe sushchestvo) is 'this seeing, spiritual being', which the website draft had misread. Attributions follow the print («Паркер», 'Parker', not 'Theodore Parker'), and «Из «Благочестивых мыслей»» (Iz «Blagochestivykh mysley», 'From “Pious Thoughts”') keeps its printed lack of a final period."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_387_388_Krug_chtenija_daily_jun_2_2.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[17] The italics break inside a word: «*Дело это есть любов* ное *общение*» ('loving', любовное, split as любов + ное outside the italics); a transcription slip. The whole line is italicized in the English."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

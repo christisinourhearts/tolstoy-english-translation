@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.06.21",
+  "source_path": "corpus/krug_chtenija/v41_413_416_Krug_chtenija_daily_jun_3_3.md",
+  "source_sha256": "497732d356fb2b3f15eb67932be2b5a715faad24f501051db560156f5b74d4e1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Внушение» (vnushenie, 'suggestion') and «предание» (predanie, 'tradition') are kept literal in Tolstoy's thought on war. Attributions follow the print («Рише», Rishe: 'Richet', not the website draft's 'Charles Richet'); Richet's figures and his date of 1855 for the Anglo-French declaration of war on Russia (actually 1854) are kept as printed.",
+    "Source observation: [12] «Когда Англия и Франция объявили войну России в 1855 году»: the declaration was made in 1854; probably the quoted author's or Tolstoy's own slip rather than a transcription error. Kept as printed."
+  ],
+  "result": "PASS"
+}
