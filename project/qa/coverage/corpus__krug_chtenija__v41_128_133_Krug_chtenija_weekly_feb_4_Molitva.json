@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.30",
+  "source_path": "corpus/krug_chtenija/v41_128_133_Krug_chtenija_weekly_feb_4_Molitva.md",
+  "source_sha256": "17c09b01e6319cef00f663a93569dd5984739520a620a70676717013c1837c7f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (42) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Dialogue keeps Tolstoy's dash layout and present-tense dream narration; «бог» (bog, 'God') is capitalized, his pronouns lowercase, and «батюшка» (batyushka, 'father', an affectionate kin term for God in Matryosha's speech) is 'father'. Servants' address «барыня» (barynya) is 'ma'am', narrative «барыня»/«барин» (barin) 'the mistress'/'the master', «сударыня» (sudarynya) 'madam', and the nanny's «матушка» (matushka) 'mother'; Matryosha's angelic «докладывать» (dokladyvat', 'to report, announce') is kept as 'report' in both of its senses."
+  ],
+  "result": "PASS"
+}

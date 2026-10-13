@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.20",
+  "source_path": "corpus/krug_chtenija/v41_112_113_Krug_chtenija_weekly_feb_3_Samootrechenie.md",
+  "source_sha256": "1c0db9c7ca2327495355c17581465f5bcd4b39bdcc8ddce8216aaf17a0751696",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (12) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Самоотречение» (samootrechenie) is 'self-renunciation'. Lamennais's «на сей час» (na sei chas, 'for this hour') is kept as 'for this hour' each time, so that his echo of Christ's words stays visible, and «крестная смерть» (krestnaya smert') is 'the death on the cross', not 'the crucifixion'.",
+    "Source observation: [6] «на сеи земле» ('on this earth'): «сеи» is evidently a misprint for «сей» (sei, 'this'). Translated as 'this'."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.07",
+  "source_path": "corpus/krug_chtenija/v41_151_153_Krug_chtenija_daily_mar_1_6.md",
+  "source_sha256": "90a2a6078263028087880425c055fb8d427330975b54ef37731f25d521640c17",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In the Gospel passage «разумением» (razumeniyem) is “understanding,” as elsewhere in the corpus, and the lowercase pronouns for God follow the Russian. In the Spinoza reading «блаженство» (blazhenstvo) is “blessedness” and «благо» (blago) “the good,” and the closing «души, всегда переменчивой и всегда смятенной» (dushi, vsegda peremenchivoy i vsegda smyatennoy) is construed, as the Russian grammar requires, with the soul alone.",
+    "Source observation: [5] The reference reads «стр. 35—40» (str., 'pages') where «ст.» (st., 'verses') is meant; rendered as Matthew 22:35–40.",
+    "Source observation: [10] «средство ... могут и должны быть признаны» (sredstvo ... mogut i dolzhny byt' priznany): singular noun 'means' with plural verb and participle; probably «средства» (sredstva, 'means', plural) in the original. English 'means' is unaffected."
+  ],
+  "result": "PASS"
+}

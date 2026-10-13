@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.15",
+  "source_path": "corpus/krug_chtenija/v41_104_105_Krug_chtenija_daily_feb_2_7.md",
+  "source_sha256": "cde9b49232fcd4dfd19da9f11a7220f2ffb632eb4cdb543d594df1af42285b0a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "John 3:3 is translated from Tolstoy's wording: «родится свыше» (roditsya svyshe) is 'born from above' and «царствие божие» (tsarstvie bozhie) 'the kingdom of God'. In Seneca's letter «святой дух» (svyatoy dukh, 'holy spirit'), lowercase in the print, is 'a holy spirit' referred to as 'it', and the ambiguous second «он» (on, 'he') of the temple-watchman sentence is left ambiguous. The Talmud parable keeps the double use of «скучать» (skuchat') as 'pine': the princess pines, and the soul pines for its home."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.17",
+  "source_path": "corpus/krug_chtenija/v41_166_168_Krug_chtenija_daily_mar_2_7.md",
+  "source_sha256": "bd14a9772e9fbcc8a1bce95808b87b88940faefe3e0064f43fd9ebeb6fbbcd90",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Единение» (edinenie) is 'union', as in the week's Schopenhauer reading, and «разум» (razum) is 'reason' throughout; Pascal's generic «человек» (chelovek) is 'man', with he/his. The attribution is printed as «Паркер» (Parker), surname only, and is not expanded to Theodore Parker; the unquoted paragraph after it is kept unquoted and unattributed as in the source.",
+    "Source observation: [20] The unquoted paragraph «Разве люди боятся, чтобы горы провалились?…» follows the Parker attribution yet reads as a continuation of Parker's argument about church tradition; the attribution may be misplaced or the quote markup lost. Translated as printed (unquoted, after the attribution)."
+  ],
+  "result": "PASS"
+}

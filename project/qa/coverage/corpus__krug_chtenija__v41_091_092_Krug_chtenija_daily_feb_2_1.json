@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.08",
+  "source_path": "corpus/krug_chtenija/v41_091_092_Krug_chtenija_daily_feb_2_1.md",
+  "source_sha256": "9cd12100aeb07fe660d6a5d2f24a17afaed820d33968597e96ac5e57a1a36428",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Осуждать» (osuzhdat', 'condemn') is 'condemn' throughout, where the website draft sometimes had 'judge'; «судить» (sudit') in the Gospel passage is 'judge'. Matthew 7:1–5 is translated from Tolstoy's Russian wording («сучок», suchok, 'twig'; «бревно», brevno, 'log'), not from an English Bible, and the proverb's «бог два простит» ('God will forgive two') is kept without the draft's added 'sins'."
+  ],
+  "result": "PASS"
+}

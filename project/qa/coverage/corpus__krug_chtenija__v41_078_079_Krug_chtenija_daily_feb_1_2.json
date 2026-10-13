@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.02",
+  "source_path": "corpus/krug_chtenija/v41_078_079_Krug_chtenija_daily_feb_1_2.md",
+  "source_sha256": "371e01b7539b6c1b861fa75cf30832bba4b79f56c1700fc832a2382bf8d69fae",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Желания блага своей личности» (zhelaniya blaga svoyey lichnosti) is kept as 'desires for the good of my personality' (благо, blago, 'the good'; личность, lichnost', 'personality'), where the website draft had 'personal desires for good'. Pronouns for God follow the lowercase Russian («ему», yemu, 'him')."
+  ],
+  "result": "PASS"
+}

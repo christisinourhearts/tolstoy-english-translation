@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.10",
+  "source_path": "corpus/krug_chtenija/v41_156_158_Krug_chtenija_daily_mar_2_2.md",
+  "source_sha256": "d8371079a4d253bbfa90b4ac1cd3ca8c23bbf8a8ea165294bbb2071ed1f8e5f6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (16) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Народы» (narody) is “the peoples” in Origen and Lamennais, and Lamennais's «господа» (gospoda, 'lords') and «хозяева» (khozyaeva, 'masters') are kept apart. The attribution «По Хардюэну» (Po Khardyuenu) is rendered “After Harduin,” the evident French name; Origen's bracketed description is Tolstoy's own and is kept."
+  ],
+  "result": "PASS"
+}

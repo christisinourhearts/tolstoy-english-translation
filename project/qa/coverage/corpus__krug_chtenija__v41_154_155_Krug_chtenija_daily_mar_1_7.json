@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.08",
+  "source_path": "corpus/krug_chtenija/v41_154_155_Krug_chtenija_daily_mar_1_7.md",
+  "source_sha256": "2a720d5a3705fec59be7d244c8c4915bb41eac2541069bf4e87b8a09e9ef0ae0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Труд» (trud) is “labor” and «работа» (rabota) “work,” following Tolstoy's alternation; «скучают» (skuchayut, 'are bored') is repeated for idlers and overworked alike, as in the source. Ruskin's attribution is printed by surname only, and the ambiguous «его» (yego, 'it/him') in the closing thought is left as “it.”"
+  ],
+  "result": "PASS"
+}

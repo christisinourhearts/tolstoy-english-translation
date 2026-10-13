@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.06",
+  "source_path": "corpus/krug_chtenija/v41_087_089_Krug_chtenija_daily_feb_1_6.md",
+  "source_sha256": "2146263e4d05035c7d4a211a528f90d691bfacb827808cd1a860cfbd739e748e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In the Epictetus passage «не берется за разум» (ne beryotsya za razum) is kept as 'does not take hold of reason', preserving «разум» (razum, 'reason'), and «благо» (blago) is 'the good'. «Повилика» (povilika) in the Dhammapada passage is 'dodder', and the attribution keeps «Буддийская мудрость» ('Buddhist wisdom'), which the website draft had dropped."
+  ],
+  "result": "PASS"
+}

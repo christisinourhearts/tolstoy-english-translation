@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_186_193_Krug_chtenija_weekly_mar_4_Suratskaja_kofejnaja.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[23] the paragraph ends with a colon («сам молчал:», sam molchal, 'himself kept silent:') although no speech or list follows and the next paragraph begins a new action; possibly a transcription error for a period; translated as printed.",
+    "[51] the name given for Japan, «Я пен» (Ya pen), is printed as two words; this may be deliberate (cf. Chinese Jih-pen) or a split in transcription; translated as printed, 'Ya pen'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

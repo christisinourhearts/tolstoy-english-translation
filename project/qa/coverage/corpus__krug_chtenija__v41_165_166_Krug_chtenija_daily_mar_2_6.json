@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.16",
+  "source_path": "corpus/krug_chtenija/v41_165_166_Krug_chtenija_daily_mar_2_6.md",
+  "source_sha256": "2a65d0f21ee1b2037faa10a3cb99a415904c1741ad58f4756a76d154221d7b35",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's generic singular is kept ('a good person… what happens to him'; 'only he can be wise who…'), and the good person's words stay unquoted as in the Russian. «Душевный мир» (dushevnyy mir) is 'peace of soul' and «расположение духа» (raspolozhenie dukha) 'disposition of spirit'; Bacon's «часы» (chasy, 'hours') are kept as hours.",
+    "Source observation: [13] The unnumbered reading «Делай только то, что духовно поднимает тебя…» stands where section 5 should be: the numbering runs 1–4, then 6–9, so the number «5» appears to have dropped out before this block. Translated as printed, without a number."
+  ],
+  "result": "PASS"
+}

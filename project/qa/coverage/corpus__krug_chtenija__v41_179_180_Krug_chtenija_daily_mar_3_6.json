@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.24",
+  "source_path": "corpus/krug_chtenija/v41_179_180_Krug_chtenija_daily_mar_3_6.md",
+  "source_sha256": "78e000540898d5066b2383054d43621c001edce6db17b7df9c1df0550286846d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (31) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Стыд» (styd, 'shame') and «скрывать» (skryvat', 'to hide') are kept as the repeated key words; «страх перед людьми» (strakh pered lyud'mi, 'fear before people') is 'fear of people', keeping «люди» (lyudi, 'people') rather than 'men'. Luke 8:17 is translated from Tolstoy's Russian wording, and the attribution «Пословица» (poslovitsa, 'proverb') is printed without a period, as in the source."
+  ],
+  "result": "PASS"
+}

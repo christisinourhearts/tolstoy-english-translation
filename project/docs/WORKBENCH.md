@@ -260,4 +260,14 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Method: the website text was the first draft; every block was checked against the audited Russian and revised; two blocks with no website counterpart (31 January opening) were translated fresh. Coverage records PASS; `validate_translation.py` and `validate_coverage.py` report 0 errors.
 - The revised English was written back to the website data (124 units, run `2026-10-13-R003`, with revision history). Website attribution lines keep their display form (full names, no final period); the repository keeps the printed form (D0004).
 - Fixed: `v41_050_052` weekly subtitle «Совершенствование» = “Perfecting”, not “Perfection”.
-- Next: R003.02 = February.
+- R003.02–03 done the same day (see below).
+
+## 2026-10-13 — R003.02–03: February and March
+
+- 70 files (34 February, 36 March; about 36,700 Russian words), including the weekly readings *Reason*, *The Buddha*, *Self-Renunciation*, *The Free Man*, *The Archangel Gabriel*, *Prayer*, *Poor People*, *Union*, *A Sea Voyage*, *Non-Resistance to Evil by Violence*, *The Surat Coffeehouse*, and *Korney Vasiliev*. January–March of *Circle of Reading* are now complete in `translations/circle_of_reading/`.
+- 69 units reviewed; 2 March (v41_141_143) held at `needs_source_review`: «время мое легко» ('my time is easy') where «бремя» ('burden') is evidently meant. The English reads "burden". Check the printed volume 41, p. 141.
+- Source observations for 25 units are in `project/qa/source_suspected/`. Seven need a print check; they are listed in `project/qa/batches/R003.md`.
+- Conventions settled: «Иосиф Мадзини» = "Giuseppe Mazzini"; «магометане» = "Muslims"; a period after a quoted title goes inside the quotes; one-letter transcription slips are translated in their evident sense and recorded.
+- Fixed: weekly reading 3 heading «СОВЕРШЕНСТВОВАНИЕ» = "PERFECTING" (it was "SELF-PERFECTION"), in the repository and on the website.
+- Website: 1,020 units updated in `02.js`/`03.js` with revision history (run `2026-10-13-R003`); weekly titles aligned with the headings.
+- Next: R003.04 = April.

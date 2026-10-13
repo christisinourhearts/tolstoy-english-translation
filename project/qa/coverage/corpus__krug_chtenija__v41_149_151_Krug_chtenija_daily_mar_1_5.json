@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.06",
+  "source_path": "corpus/krug_chtenija/v41_149_151_Krug_chtenija_daily_mar_1_5.md",
+  "source_sha256": "6c2ba31e880ffff58de6b316c3a48c9c4266a70d0fa3029a604f2350887416da",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The verbs of self-praise are kept distinct: «восхвалить» (voskhvalit', 'extol'), «хвалить» (khvalit', 'praise'), «бранить» (branit', 'scold'), and «хулить» (khulit', 'disparage'). Saadi's father warns against «осуждать людей» (osuzhdat' lyudey, 'condemning people')."
+  ],
+  "result": "PASS"
+}

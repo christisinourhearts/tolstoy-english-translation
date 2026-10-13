@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.26",
+  "source_path": "corpus/krug_chtenija/v41_181_183_Krug_chtenija_daily_mar_4_1.md",
+  "source_sha256": "8840ed6e5bb080d973d3afdd8d4a81bb182b085003badbd5f31bca8bd761286d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Правда» (pravda, 'truth') is 'truth' throughout the opening and closing thoughts, while «неправда» (nepravda, 'untruth, wrong') in the Henry George passage is 'wrong'; «бог есть отец» (bog est' otets, 'God is the father') keeps the lowercase 'father' of the source. Attributions follow the print: «По Сенеке» (po Seneke, 'After Seneca'), «По Генри Джорджу» (po Genri Dzhordzhu, 'After Henry George'), «Иоанн Златоуст» ('John Chrysostom'), and «Джон Рёскин» ('John Ruskin', with first name as printed)."
+  ],
+  "result": "PASS"
+}

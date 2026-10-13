@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.27",
+  "source_path": "corpus/krug_chtenija/v41_185_186_Krug_chtenija_daily_mar_4_3.md",
+  "source_sha256": "d95de4a7a43f708757ae73076a2b46eb05586790970d1110834d47ece8704bba",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "John 4:21, 23, 24 is translated from Tolstoy's Russian, keeping the source's lowercase «отец» (otets, 'father') and lowercase pronouns for God; «закон бога» (zakon boga, 'the law of God') and «исполнять» (ispolnyat', 'to fulfill') are kept the same in the opening and closing thoughts. «Сторона» (storona, 'side') is kept as the concrete 'side' rather than the website's 'way', and «телесно» (telesno, 'bodily') as 'bodily'."
+  ],
+  "result": "PASS"
+}

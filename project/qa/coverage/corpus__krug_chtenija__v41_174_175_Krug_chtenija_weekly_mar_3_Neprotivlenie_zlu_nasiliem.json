@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.21",
+  "source_path": "corpus/krug_chtenija/v41_174_175_Krug_chtenija_weekly_mar_3_Neprotivlenie_zlu_nasiliem.md",
+  "source_sha256": "a5bd7a08da286d0fb80bca68b9f5de12bee868cd040f81b1d9844c7837211f26",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (14) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 5, 11, 12, 13 had no website counterpart and were translated fresh.",
+    "«Непротивление злу насилием» (neprotivlenie zlu nasiliem) is 'non-resistance to evil by violence' and «противление злу злом» (protivlenie zlu zlom) 'resistance to evil with evil', kept distinct as in the Russian; «неправда» (nepravda) is 'wrong'. The paragraph on whether the teaching can be fulfilled («исполнимо», ispolnimo, 'can be fulfilled'), which the website draft lacked, and the footnote on Adin Ballou were translated fresh; the attribution is surname only, «Балу» ('Ballou'), as printed."
+  ],
+  "result": "PASS"
+}

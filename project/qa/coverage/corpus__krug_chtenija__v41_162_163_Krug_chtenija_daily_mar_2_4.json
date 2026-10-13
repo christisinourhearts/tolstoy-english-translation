@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.14",
+  "source_path": "corpus/krug_chtenija/v41_162_163_Krug_chtenija_daily_mar_2_4.md",
+  "source_sha256": "26fb28aea81f6af7bde8331c36d0217bfd84419243b9a5aea140b20d1353df4e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The Gospel passages are translated from Tolstoy's Russian, with lowercase pronouns for Christ as printed and «искушая» (iskushaya, 'tempting') kept literal; the printed reference «Лк. гл. 26, ст. 18» (Luke 26:18) is reproduced and flagged, since the verse is Luke 16:18. «Условие» (uslovie, 'agreement') is kept the same in both places of reading 3, and «совершенствование» (sovershenstvovanie) is 'perfecting'.",
+    "Source observation: [23] Bible reference printed «Лк. гл. 26, ст. 18» (Luke 26:18); Luke has 24 chapters and the quoted verse is Luke 16:18. Translated as printed ('Luke 26:18.'); likely a print/transcription error for 16."
+  ],
+  "result": "PASS"
+}

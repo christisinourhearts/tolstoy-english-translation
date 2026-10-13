@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.13",
+  "source_path": "corpus/krug_chtenija/v41_101_102_Krug_chtenija_daily_feb_2_5.md",
+  "source_sha256": "bfd9673e7210fb151c1ac38e5842280b782cbf07c954459669a72660c19b8f0d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствование» (sovershenstvovanie, 'perfecting') follows the terminology ledger, and «благо» (blago, 'the good') is 'a good' in the Erasmus passage; the paragraph beginning 'But if only there is a God' stands after the Erasmus attribution and outside the quotation, as printed. Pascal's «плотская смерть» (plotskaya smert') is 'fleshly death', and «начало» (nachalo) in the Cicero passage is 'principle'."
+  ],
+  "result": "PASS"
+}

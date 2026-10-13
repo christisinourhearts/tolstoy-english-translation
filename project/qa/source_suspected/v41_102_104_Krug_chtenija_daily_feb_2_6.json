@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_102_104_Krug_chtenija_daily_feb_2_6.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[5] Italic markup splits words: «*…думает угодит* ь богу, всё это один обма *н и ложное…*» (угодит|ь, обма|н); transcription damage. The whole line is translated as italic, since the italics evidently cover the entire passage.",
+    "[19] Passage 6 ends without a final period («…не может существовать»); probably a transcription slip. English mirrors it.",
+    "[27] The closing paragraph ends without a final period («…как живыми, так и умершими»); probably a transcription slip. English mirrors it."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

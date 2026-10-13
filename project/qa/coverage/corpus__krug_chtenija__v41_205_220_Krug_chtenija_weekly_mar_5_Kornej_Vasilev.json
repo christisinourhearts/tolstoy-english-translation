@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.36",
+  "source_path": "corpus/krug_chtenija/v41_205_220_Krug_chtenija_weekly_mar_5_Kornej_Vasilev.md",
+  "source_sha256": "c21f2355a50b2f83c49ea068fd9224993214b14b75eabd6cdf883643da23ac9f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (214) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Names keep Tolstoy's forms and diminutives as each speaker uses them: Korney Vasiliev (Korney Vasilich in address, Kornyushka from Kuzma), Agafya / Agashka / Agasha / Gasha, Fyodor / Fedka. The peasant form «Петра» (Petra, for Pyotr) is rendered Pyotr so the workman is not misread as a woman, «без вина» (bez vina, 'without wine') is 'without liquor', since the word means spirits here, and «грех развяжем» (grekh razvyazhem, 'we'll untie the sin') is kept literal."
+  ],
+  "result": "PASS"
+}

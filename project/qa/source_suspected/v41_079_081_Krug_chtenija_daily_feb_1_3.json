@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_079_081_Krug_chtenija_daily_feb_1_3.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[9] The attribution «Лao-Тсе» (Lao-Tse, 'Laozi') is typed in mixed script: the «ao» are Latin letters among Cyrillic ones, an encoding slip; the English reads 'Laozi.'"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_165_166_Krug_chtenija_daily_mar_2_6.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[13] The unnumbered reading «Делай только то, что духовно поднимает тебя…» stands where section 5 should be: the numbering runs 1–4, then 6–9, so the number «5» appears to have dropped out before this block. Translated as printed, without a number."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

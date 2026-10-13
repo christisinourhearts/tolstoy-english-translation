@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.28",
+  "source_path": "corpus/krug_chtenija/v41_186_193_Krug_chtenija_weekly_mar_4_Suratskaja_kofejnaja.md",
+  "source_sha256": "de7c4f30294c1a989515d32e586a39497fe1ee5dae622f36d1d45e401a8bc7f2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (66) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum, 'reason') is kept as 'reason' throughout, since the tale turns on it: the theologian loses his reason and concludes there is no higher reason, the blind man loses 'his sight and his reason', and the helmsman is 'a reasonable man'; «самолюбие» (samolyubie, 'self-love') is the cause of discord, and «исповедание» (ispovedanie, 'confession') is the word for a denomination. «Магомет» (Magomet) is given in its established English form 'Muhammad', and «Я пен» (Ya pen), the name for Japan, is reproduced as printed.",
+    "Source observation: [23] the paragraph ends with a colon («сам молчал:», sam molchal, 'himself kept silent:') although no speech or list follows and the next paragraph begins a new action; possibly a transcription error for a period; translated as printed.",
+    "Source observation: [51] the name given for Japan, «Я пен» (Ya pen), is printed as two words; this may be deliberate (cf. Chinese Jih-pen) or a split in transcription; translated as printed, 'Ya pen'."
+  ],
+  "result": "PASS"
+}

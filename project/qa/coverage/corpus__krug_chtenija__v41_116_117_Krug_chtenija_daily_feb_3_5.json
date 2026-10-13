@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.22",
+  "source_path": "corpus/krug_chtenija/v41_116_117_Krug_chtenija_daily_feb_3_5.md",
+  "source_sha256": "eff2a2a3baa9f605d0952ecefbb2c6722da14c5756795bc7bf90c6338330cae0",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Труд» (trud) is 'labor' and «работать» (rabotat') 'work' throughout; Tolstoy's generic «человек» (chelovek, 'person') keeps 'his'. The website's added 'merely' in the opening thought is removed, and the Rousseau line keeps its compound subject «отдых после труда и радость эта» (otdykh posle truda i radost' eta, 'rest after labor and this joy')."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_168_170_Krug_chtenija_daily_mar_3_1.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[13] The Matthew 5:43–45 passage opens with a quotation mark («Вы слышали…) that is never closed in the source; the English reproduces the unclosed opening mark. Possibly a lost closing » after «неправедных»."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

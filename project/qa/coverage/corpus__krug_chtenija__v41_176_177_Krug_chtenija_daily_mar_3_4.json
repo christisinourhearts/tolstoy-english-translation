@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.22",
+  "source_path": "corpus/krug_chtenija/v41_176_177_Krug_chtenija_daily_mar_3_4.md",
+  "source_sha256": "df135254290a57c2406fea64b1f379fa6e97bd1d1c149d1853daa8bc75ba9d54",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Осуждать» (osuzhdat') is 'condemn' throughout, distinct from «судить» (sudit', 'judge') in the river passage; «добрый… злой» (dobryy… zloy) are 'good… evil'. In Epictetus «благо» (blago) is 'the greatest good', «жить разумно» (zhit' razumno) 'to live reasonably', and the incredulous «неужто» (neuzhto, 'can it be') keeps its exclamation mark.",
+    "Source observation: [6] «Если ты так счастлив, что всегда говорить только то, что есть…»: the infinitive «говорить» breaks the series of finite verbs (отвергаешь, сомневаешься, желаешь) and looks like a transcription error for «говоришь» ('you say'); translated in the evident sense ('you always say')."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.16",
+  "source_path": "corpus/krug_chtenija/v41_106_107_Krug_chtenija_daily_feb_3_1.md",
+  "source_sha256": "be03f36327cfebddd7538e636ea8c6a47868a96b1939d3705788036b4b334666",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions are given in their English forms, surname only as printed: «Марцеллин» (Martsellin) is Marcellinus and «Буаст» (Buast) is Boiste (the site draft had added 'Pierre'). The root of «сближать» (sblizhat', 'draw together') is kept in both sentences of passage 9.",
+    "Source observation: [17] «Хорошие речи просты, понятны всем и разумны» ends without a final period; probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

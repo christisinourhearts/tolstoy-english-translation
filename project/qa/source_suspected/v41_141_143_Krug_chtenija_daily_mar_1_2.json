@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_141_143_Krug_chtenija_daily_mar_1_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[5] «Иго мое благо и время мое легко» reads «время» (vremya, 'time') where the Gospel (Matthew 11:30) and the sense require «бремя» (bremya, 'burden'); evidently a б/в transcription error. Translated in the evident sense ('my burden is easy'), as with the other one-letter slips in this batch; the printed volume should be checked."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the evident reading and the unit is held at needs_source_review until the printed volume 41 is checked. Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

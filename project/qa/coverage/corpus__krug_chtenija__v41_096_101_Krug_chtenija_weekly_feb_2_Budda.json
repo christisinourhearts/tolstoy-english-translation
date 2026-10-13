@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.12",
+  "source_path": "corpus/krug_chtenija/v41_096_101_Krug_chtenija_weekly_feb_2_Budda.md",
+  "source_sha256": "160c3fb6a3eb6946b035185460c64c08b12b5c527b5303d1b5074ebdeaa83996",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (66) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Изложил» (izlozhil, 'set forth') is 'Retold by'; names take their usual English forms (Suddhodana, Siddhartha, Maya, Channa, Ananda), while the river «Харанеавата» (Kharaneavata) is transliterated as printed, Haraneavata, not emended to a known Pali or Sanskrit name. The dialogue keeps Tolstoy's dashes, and «болен» (bolen, 'ill'), «старик» (starik, 'old man'), and «мертвый» (myortvy, 'dead') are repeated in the questions and answers as in the source.",
+    "Source observation: [44] «в посте и ** трудах»: a stray pair of asterisks (an empty italic span) stands between «и» and «трудах»; looks like markup damage. Translated as 'in fasting and labors'.",
+    "Source observation: [20] «шамкая беззубным ртом»: «беззубным» is a nonstandard form of «беззубым» (bezzubym, 'toothless'); possibly a typo in the source. Translated as 'toothless'."
+  ],
+  "result": "PASS"
+}

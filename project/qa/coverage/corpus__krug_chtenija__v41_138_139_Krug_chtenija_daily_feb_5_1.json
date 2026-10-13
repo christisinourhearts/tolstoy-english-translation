@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.34",
+  "source_path": "corpus/krug_chtenija/v41_138_139_Krug_chtenija_daily_feb_5_1.md",
+  "source_sha256": "dd48e89d67db0107d624b95f292750f33b71c43cae7bb41424a0d883f799d802",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 16 had no website counterpart and were translated fresh.",
+    "Mazzini's «наше я» (nashe ya, 'our I') keeps Tolstoy's italics as 'our *I*', and «похоти личности» (pokhoti lichnosti) is 'the lusts of personality' per the terminology ledger; Goethe's «свойственно» (svoystvenno, 'proper to') is kept literal. Restored clauses the website draft had dropped («и когда», 'and when'; «возможности», 'of the possibility'); «Иосиф Мадзини» (Iosif Madzini) is Giuseppe Mazzini and «Карлейл» (Karleyl) is Carlyle.",
+    "Source observation: [15–16] The Carlyle passage and its attribution are not set as a quotation (no «>»), unlike the other attributed readings, and the name is spelled «Карлейл» rather than the usual «Карлейль»; reproduced as printed (unquoted)."
+  ],
+  "result": "PASS"
+}

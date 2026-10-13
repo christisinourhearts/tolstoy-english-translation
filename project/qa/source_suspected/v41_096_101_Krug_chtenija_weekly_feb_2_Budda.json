@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_096_101_Krug_chtenija_weekly_feb_2_Budda.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[44] «в посте и ** трудах»: a stray pair of asterisks (an empty italic span) stands between «и» and «трудах»; looks like markup damage. Translated as 'in fasting and labors'.",
+    "[20] «шамкая беззубным ртом»: «беззубным» is a nonstandard form of «беззубым» (bezzubym, 'toothless'); possibly a typo in the source. Translated as 'toothless'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

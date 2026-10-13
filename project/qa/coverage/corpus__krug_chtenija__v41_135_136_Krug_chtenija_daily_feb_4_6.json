@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.32",
+  "source_path": "corpus/krug_chtenija/v41_135_136_Krug_chtenija_daily_feb_4_6.md",
+  "source_sha256": "bc2ec319f1421713a480d73976ed877dd804b960b36943d41f40bd42912f5b7f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благотворение» (blagotvorenie, 'charity, beneficence') is 'charity'; in the Chrysostom passage «нищим» (nishchim, 'to the beggars') is kept distinct from «бедным» (bednym, 'to the poor'), and «иди за мною» (idi za mnoyu, 'come after me') keeps its link to «идти за ним» ('to go after him'). Restored what the website draft had dropped: «в самых деньгах» ('in money itself'); «поговорка» (pogovorka) is 'saying'."
+  ],
+  "result": "PASS"
+}

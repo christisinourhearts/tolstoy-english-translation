@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.35",
+  "source_path": "corpus/krug_chtenija/v41_203_205_Krug_chtenija_daily_mar_5_3.md",
+  "source_sha256": "b2e67c83e6b67e28f298bddbc8ac2b4e10c8ea6e3200a8176c428f29fcfa676a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Порицание» (poritsanie, 'censure') is kept the same in the opening thought and in no. 2, and «светильня» (svetil'nya) is the lamp's 'wick', not the lamp itself. Generic «человек» (chelovek, 'person, man') keeps 'he/his' throughout where the website draft had 'they/their'; «свое добро» (svoyo dobro) is 'the good he has done'."
+  ],
+  "result": "PASS"
+}

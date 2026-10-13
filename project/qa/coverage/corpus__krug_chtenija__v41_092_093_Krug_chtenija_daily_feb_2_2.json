@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.09",
+  "source_path": "corpus/krug_chtenija/v41_092_093_Krug_chtenija_daily_feb_2_2.md",
+  "source_sha256": "1443a7f836a9b1e960f637f8cc08afc6e92aeb084d0112e829b3a3ffac66c8ba",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (16) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Henry George's «принадлежности убийства и грабежа» (prinadlezhnosti ubiystva i grabezha) is 'the implements of murder and robbery' and «себялюбие» (sebyalyubiye) is 'self-love'; in the Laozi passage «разумный» (razumny) is 'reasonable', not 'wise'. «Иноплеменник» (inoplemennik) is kept literal as 'a person of another tribe'.",
+    "Source observation: [11] The attribution «Лao-Тсе» (Lao-Tse, 'Laozi') is typed in mixed script, with Latin «ao» among Cyrillic letters (the same slip as in the 3 February file); the English reads 'Laozi.'"
+  ],
+  "result": "PASS"
+}

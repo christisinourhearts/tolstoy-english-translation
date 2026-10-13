@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.29",
+  "source_path": "corpus/krug_chtenija/v41_127_128_Krug_chtenija_weekly_feb_4_Arhangel_gavriil.md",
+  "source_sha256": "bacacf7891a2ead0c19e0b2b7a3159c65dc1db3fa6395447a76673f0d8fcc86d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (4) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Рай» (rai, 'paradise') is kept distinct from «небо» (nebo, 'heaven'); «бог» (bog, 'God') is capitalized as everywhere, but God's pronouns stay lowercase as in the Russian. The attribution is printed as Tolstoy gives it: «Персидское (Аттар)» (Persidskoe (Attar), 'Persian (Attar)').",
+    "Source observation: [2] God's closing speech opens with « but has no closing », in the Russian («...близко ко мне.»); the English leaves the quotation unclosed accordingly."
+  ],
+  "result": "PASS"
+}

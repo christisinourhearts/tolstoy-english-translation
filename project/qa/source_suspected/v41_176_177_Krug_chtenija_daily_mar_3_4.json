@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_176_177_Krug_chtenija_daily_mar_3_4.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[6] «Если ты так счастлив, что всегда говорить только то, что есть…»: the infinitive «говорить» breaks the series of finite verbs (отвергаешь, сомневаешься, желаешь) and looks like a transcription error for «говоришь» ('you say'); translated in the evident sense ('you always say')."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

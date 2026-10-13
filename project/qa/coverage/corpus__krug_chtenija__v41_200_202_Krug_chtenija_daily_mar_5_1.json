@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.33",
+  "source_path": "corpus/krug_chtenija/v41_200_202_Krug_chtenija_daily_mar_5_1.md",
+  "source_sha256": "23d7ee16b78c189e5c4bf5b3f0b88978ac3678b0ff9b109aa2f392ed91ad34b5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (35) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Воздержание» (vozderzhanie, 'abstinence, self-restraint') is rendered 'abstinence' throughout and «невоздержанность» (nevozderzhannost') 'intemperance'; the conqueror sayings keep their repeated «победить/победитель» (pobedit'/pobeditel', 'conquer/conqueror'). Attributions follow the print: «Блекки» (Blekki) is 'Blackie', not the website's expanded name, and «человеколюбие» (chelovekolyubie) is 'love of humanity'."
+  ],
+  "result": "PASS"
+}

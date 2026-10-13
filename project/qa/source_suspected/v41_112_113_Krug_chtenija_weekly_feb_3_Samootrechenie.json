@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_112_113_Krug_chtenija_weekly_feb_3_Samootrechenie.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[6] «на сеи земле» ('on this earth'): «сеи» is evidently a misprint for «сей» (sei, 'this'). Translated as 'this'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

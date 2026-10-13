@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v41_089_091_Krug_chtenija_daily_feb_1_7.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[23] Stray comma in «потому что она, противна тем…» ('because it, is contrary to those…'), apparently a transcription slip; translated as if absent."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

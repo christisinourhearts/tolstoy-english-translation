@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.34",
+  "source_path": "corpus/krug_chtenija/v41_202_203_Krug_chtenija_daily_mar_5_2.md",
+  "source_sha256": "ddd9832870927645b60909c4e63721c0a0fe6b2c20a70caddaae451698b10dee",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Matthew 18:21–22 is translated from Tolstoy's Russian, keeping the present «говорит» (govorit, 'says') and «семижды семидесяти» (semizhdy semidesyati, 'seven times seventy') rather than a familiar English Bible. Generic «человек» (chelovek, 'person') keeps 'he/him' where the website draft had 'they/them', and «кротко» (krotko) is 'meekly' as elsewhere in the book."
+  ],
+  "result": "PASS"
+}

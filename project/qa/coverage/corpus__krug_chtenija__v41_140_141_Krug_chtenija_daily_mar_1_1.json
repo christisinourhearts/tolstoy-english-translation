@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.01",
+  "source_path": "corpus/krug_chtenija/v41_140_141_Krug_chtenija_daily_mar_1_1.md",
+  "source_sha256": "f11e8b22b6361f2f99b576f59e4978985ea59d9a5d1420de8d707c5a091bcb8e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (15) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 9 had no website counterpart and were translated fresh.",
+    "«Свойственно» (svoystvenno, 'natural to, proper to') and its negative «несвойственен» are both rendered with 'natural', and «страшный» (strashny, 'terrible') is held as 'terrible' throughout. Reading 3 had no website draft and is translated fresh, keeping Tolstoy's italic *were*; «Зейме» (Zeyme) is the German writer Seume, given by surname only as printed.",
+    "Source observation: [9] The block contains a literal «<br>» after the page marker (a transcription line-break artifact inside the sentence); it is kept in the same position in the English."
+  ],
+  "result": "PASS"
+}

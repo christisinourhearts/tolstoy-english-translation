@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.11",
+  "source_path": "corpus/krug_chtenija/v41_095_096_Krug_chtenija_daily_feb_2_4.md",
+  "source_sha256": "5d62c39ebea47439b2224ec14e53235b189ad7c83bd7df7786ae9b1f05de5555",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (13) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Бог» (bog, 'God'), printed lowercase in this edition, is capitalized in English. In passage 1 the scarecrows «ухают» (ukhayut, 'hoot') at man and «загоняют» (zagonyayut, 'drive') him like beaters driving game, and death and suffering are 'transgressions' of the law, without the site draft's added 'the result of'."
+  ],
+  "result": "PASS"
+}

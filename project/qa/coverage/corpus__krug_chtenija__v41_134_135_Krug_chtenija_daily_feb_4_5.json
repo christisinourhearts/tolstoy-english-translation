@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.31",
+  "source_path": "corpus/krug_chtenija/v41_134_135_Krug_chtenija_daily_feb_4_5.md",
+  "source_sha256": "601c0dbf1412a06dc60e882717361d0fe5b9afb5ecbe9d13daf1f3eb6a2a5d8b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Поговорка» (pogovorka, 'saying') is rendered 'saying' rather than 'proverb'; Laozi's «не бывают» (ne byvayut, 'are not, as a rule') is kept as a plain 'are not' without the website's added 'never'. The second Voltaire attribution is printed without a final period, as in the Russian.",
+    "Source observation: [23] Attribution «*Вольтер*» lacks its final period (every other attribution has one); the English mirrors it.",
+    "Source observation: [26] «из желании» is ungrammatical (expected «из желания», 'from the desire'); translated as the evident sense."
+  ],
+  "result": "PASS"
+}

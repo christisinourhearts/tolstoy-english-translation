@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.07",
+  "source_path": "corpus/krug_chtenija/v41_089_091_Krug_chtenija_daily_feb_1_7.md",
+  "source_sha256": "75724bd6d47e3c6700732091b53260c7d8760a08c0fd20ce6b7752325de26e33",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Самосовершенствование» (samosovershenstvovaniye) and Mallory's «самоусовершенствование» (samousovershenstvovaniye) are both 'self-perfection', and Confucius' «совершенствование» (sovershenstvovaniye) is 'perfecting', keeping the root of «совершенство» (sovershenstvo, 'perfection'); «улучшение» (uluchsheniye) stays 'improvement'. The Gospel saying is translated from Tolstoy's Russian with lowercase 'father' as printed, and generic «человек» (chelovek, 'person') keeps 'he'.",
+    "Source observation: [23] Stray comma in «потому что она, противна тем…» ('because it, is contrary to those…'), apparently a transcription slip; translated as if absent."
+  ],
+  "result": "PASS"
+}

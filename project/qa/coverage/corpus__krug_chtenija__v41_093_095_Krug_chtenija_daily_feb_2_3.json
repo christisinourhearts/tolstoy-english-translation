@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.10",
+  "source_path": "corpus/krug_chtenija/v41_093_095_Krug_chtenija_daily_feb_2_3.md",
+  "source_sha256": "3d1fcc8ca5e539e21e238a91d8365b026d08332936aff6eabe58512c31dd6581",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print: «По Лао-Тсе» (Po Lao-Tse, 'after Lao-Tse') is 'After Laozi'; «Вольслей» (Vol'sley), not securely identified, is transliterated as Wolsley rather than identified as Wolsey; «Джон Рёскин» (Dzhon Ryoskin) is kept in full as John Ruskin, without a final period, as printed. In passage 7 «поучать» (pouchat', 'instruct') and «учить» (uchit', 'teach') are kept distinct.",
+    "Source observation: [23] Attribution «Джон Рёскин» lacks the final period that every other attribution has; probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.03.29",
+  "source_path": "corpus/krug_chtenija/v41_193_194_Krug_chtenija_daily_mar_4_4.md",
+  "source_sha256": "61dae92759a890619bd2ce1d06bfdf9b479751cc5cb3be084982b69e4086033a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Труд/труды» (trud/trudy, 'labor/labors') and «пользоваться» (pol'zovat'sya, 'to use, make use of') are kept as the repeated key words; the proverb «Люди век людям помогают» (lyudi vek lyudyam pomogayut, 'people help people all their lives') keeps its doubled 'people'. «Непризнание христианства» (nepriznanie khristianstva) is 'nonrecognition of Christianity', and «брат-человек» (brat-chelovek) is 'brother man'."
+  ],
+  "result": "PASS"
+}

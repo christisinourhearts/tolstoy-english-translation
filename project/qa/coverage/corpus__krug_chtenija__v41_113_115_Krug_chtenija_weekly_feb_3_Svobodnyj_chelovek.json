@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.21",
+  "source_path": "corpus/krug_chtenija/v41_113_115_Krug_chtenija_weekly_feb_3_Svobodnyj_chelovek.md",
+  "source_sha256": "f5405f09cfb3ee1ce2dd38555fbd246ad696eee86dc3aa1d359eaba1c6251865",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (36) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 19, 34, 35 had no website counterpart and were translated fresh.",
+    "The old man's dialect word «кутята» (kutyata, 'puppies') is kept in transliteration so that Tolstoy's footnote still glosses it, and his garbled Slavonic John 1:18 is given in a slightly archaic register; «охотницкий колокол» (okhotnitsky kolokol) is read as 'volunteers' bell' (the website's 'hunting bell' was a misreading). The pun «прощай» (proshchai, 'farewell', literally 'forgive') / «Нечего прощать» (nechego proshchat', 'there's nothing to forgive') cannot survive in English; the sect names are transliterated or given their usual English forms."
+  ],
+  "result": "PASS"
+}

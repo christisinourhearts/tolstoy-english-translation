@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.14",
+  "source_path": "corpus/krug_chtenija/v41_102_104_Krug_chtenija_daily_feb_2_6.md",
+  "source_sha256": "ce54dbb08e6d4896b381042baa3f77977ca47bd9f43a241a78e5b0fe4a1446e4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Не блуди» (ne bludi, 'do not fornicate') is translated as printed, not as the commandment against adultery; «Иосиф Мадзини» (Iosif Madzini) is given as Joseph Mazzini, the English form of the name as printed, and «По Канту» (Po Kantu, 'after Kant') keeps the print's punctuation each time. Missing final periods and the broken italics of passage 1 are reproduced or flagged, not repaired.",
+    "Source observation: [5] Italic markup splits words: «*…думает угодит* ь богу, всё это один обма *н и ложное…*» (угодит|ь, обма|н); transcription damage. The whole line is translated as italic, since the italics evidently cover the entire passage.",
+    "Source observation: [19] Passage 6 ends without a final period («…не может существовать»); probably a transcription slip. English mirrors it.",
+    "Source observation: [27] The closing paragraph ends without a final period («…как живыми, так и умершими»); probably a transcription slip. English mirrors it."
+  ],
+  "result": "PASS"
+}

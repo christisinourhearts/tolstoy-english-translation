@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.02.19",
+  "source_path": "corpus/krug_chtenija/v41_110_112_Krug_chtenija_daily_feb_3_4.md",
+  "source_sha256": "4fe4986e2262b4cc5b64983d005041fdfe8df45bee0ddfc4e6a7dc088279d8f1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Личность» (lichnost', 'personality') is kept as the book's constant term for the separate self, and the Gospel verses follow Tolstoy's own wording with lowercase «отец» (otets, 'father'). The reference for reading 6 is printed as given, «Мф.» (Matthew) 8:35, although the verse is Mark 8:35; it is flagged, not corrected.",
+    "Source observation: [20] The reference reads «Мф. гл. 8, ст. 35» (Matthew 8:35), but the quoted verse, with «и евангелия» ('and the gospel'), is Mark 8:35; Matthew 8 has no verse 35. Translated as printed."
+  ],
+  "result": "PASS"
+}
