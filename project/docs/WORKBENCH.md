@@ -70,6 +70,8 @@ The authoritative Russian repository must remain read-only. The surviving baseli
 
 ## Current corpus state
 
+*Counts in this section are as of the P008.47 checkpoint. Reader commissions (R001, R002) and the 2026-10-13 decisions are recorded further down.*
+
 - Reviewed English translations: **316**.
 - P001: 7 complete.
 - P002: 25 complete.
@@ -234,3 +236,17 @@ The early 1847 untitled philosophical fragment on volume 1, pp. 226–228 was fr
 ## P005.02 recovery translation note
 
 The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was freshly reconstructed and reviewed after P005.01. Its pinned source hash is `c3bf414e36909ea3de18c17a1c1c4d8309e8df975df87b5ca294088944bb224e`. The official 90-volume witness was used to check the complete text and its one editorial note while the exact audited Russian ZIP remains unmountable. The a)–e) structure, internal numbering, shifts among generic person / oneself / you / I, bracketed manuscript expansions, and recurrent formation/activity/will/consciousness terminology are preserved closely. `бредом` remains the strong “delirium”; the Golden Rule is translated directly rather than replaced by a familiar biblical formula. Structured exhaustive coverage passes.
+
+## 2026-10-13 — Decisions D0003–D0005 and the *Circle of Reading* plan
+
+- D0003 (ё → *yo*, initial Е → *Ye*) and D0004 (priority order, Tolstoy rules, E-codes, independence levels, flagship editions) applied; both had existed only as unpushed local patches.
+- D0005: one basic translation titled *Circle of Reading*; the website Refuge is a labeled adaptation of it.
+- TERMINOLOGY.md: совершенствование = "perfecting", самосовершенствование = "self-perfection".
+- Website audit record: `calendar-of-wisdom/audits/2026-10-13-calendar-and-repos-audit.md` in the site folder.
+- Pending: merge PR #4 (`gospel-in-brief-cold-audit`). The website page already carries its text fixes as of 2026-10-13.
+
+### Next actions for *Circle of Reading*
+
+1. Reconcile the 31 files in `translations/circle_of_reading/` with the website Calendar data, paragraph by paragraph, under D0001/D0005. Record each choice.
+2. Translate the remaining *Krug chteniya* files from the audited Russian, or import the website paragraphs as first drafts, and put each through the full gauntlet (§15), with coverage records.
+3. Generate the website's translation layer from this repository once the reconciliation is done.
