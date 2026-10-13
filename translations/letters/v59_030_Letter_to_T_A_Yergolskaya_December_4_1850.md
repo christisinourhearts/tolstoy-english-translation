@@ -52,9 +52,9 @@ December 4, 1850.
 [^2]: Tolstoy was leaving for Moscow.
 [^3]: Vasily Stepanovich and Praskovya Fyodorovna Perfiliev. On them, see note 4 to letter no. 6.
 [^4]: Praskovya Fyodorovna Perfilieva.
-[^5]: The Chulkovs were daughters of the Tula landowner Alexei Vasilyevich Chulkov (1795—1848) and Stepanida Dmitrievna Zhdanova: Ekaterina (b. November 12, 1822), Anna (b. January 13, 1824), who was married to Gritsevich, Sofya (b. January 2, 1830), and Elizaveta (b. February 8, 1832), who later became a nun. Some of them were class ladies at the Kazan Rodionov Institute for Women. See Tolstoy's letter to Countess Maria Nikolaevna Tolstaya, no. 42.
+[^5]: The Chulkovs were daughters of the Tula landowner Alexei Vasilyevich Chulkov (1795—1848) and Stepanida Dmitrievna Zhdanova: Yekaterina (b. November 12, 1822), Anna (b. January 13, 1824), who was married to Gritsevich, Sofya (b. January 2, 1830), and Yelizaveta (b. February 8, 1832), who later became a nun. Some of them were class ladies at the Kazan Rodionov Institute for Women. See Tolstoy's letter to Countess Maria Nikolaevna Tolstaya, no. 42.
 [^6]: Leave from service in the Tula provincial administration.
 [^7]: Tolstoy was leaving for Moscow.
 [^8]: Vasily Stepanovich and Praskovya Fyodorovna Perfiliev. On them, see note 4 to letter no. 6.
 [^9]: Praskovya Fyodorovna Perfilieva.
-[^10]: The Chulkovs were daughters of the Tula landowner Alexei Vasilyevich Chulkov (1795—1848) and Stepanida Dmitrievna Zhdanova: Ekaterina (b. November 12, 1822), Anna (b. January 13, 1824), who was married to Gritsevich, Sofya (b. January 2, 1830), and Elizaveta (b. February 8, 1832), who later became a nun. Some of them were class ladies at the Kazan Rodionov Institute for Women. See Tolstoy's letter to Countess Maria Nikolaevna Tolstaya, no. 42.
+[^10]: The Chulkovs were daughters of the Tula landowner Alexei Vasilyevich Chulkov (1795—1848) and Stepanida Dmitrievna Zhdanova: Yekaterina (b. November 12, 1822), Anna (b. January 13, 1824), who was married to Gritsevich, Sofya (b. January 2, 1830), and Yelizaveta (b. February 8, 1832), who later became a nun. Some of them were class ladies at the Kazan Rodionov Institute for Women. See Tolstoy's letter to Countess Maria Nikolaevna Tolstaya, no. 42.

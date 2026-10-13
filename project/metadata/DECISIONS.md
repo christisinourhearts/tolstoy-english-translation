@@ -55,3 +55,24 @@ The book's whole argument is carried by Tolstoy's re-wording of the Gospels. Sub
 ### Example
 
 John I, 1 is «В основу и начало всего стало разумение жизни» → “The understanding of life became the foundation and source of all,” not “In the beginning was the Word.”
+
+## D0003 — ё is rendered *yo*, and word-initial Е *Ye*, in personal names
+
+**Date:** 2026-10-13 (drafted 2026-10-06 as a local "D0002" that was never pushed; renumbered because D0002 was taken)  
+**Scope:** corpus-wide  
+**Status:** active
+
+### Decision
+
+Render Russian ё as *yo* in personal names and patronymics even when the normalized source prints е: Федор → **Fyodor**, Петр → **Pyotr**, Семен → **Semyon**, Федорыч → **Fyodorych**. Render word-initial Е as *Ye*: Евстратов → **Yevstratov**, Елизавета → **Yelizaveta**, Екатерина → **Yekaterina**, Ермолаев → **Yermolaev** (as already in *Yergolskaya*). A widely established English form may be kept for well-known historical persons (e.g. the philosopher N. F. **Fedorov**), recorded in `NAMES.md`. Biblical persons keep their conventional English forms (D0002).
+
+### Reason
+
+The TEI normalized reading often prints е for ё, but the pronunciation is *yo*; word-initial Е is pronounced *ye*. Most of the corpus and the website already used *Fyodor* and *Yergolskaya*; the remaining *Fedor / Petr / Semenov / Evstratov / Elizaveta* forms were inconsistencies.
+
+### Applied changes
+
+- `Fedorych` → `Fyodorych` (1881-10-05 diary, NAMES.md, coverage note)
+- `Petr` → `Pyotr`; `Evstratov / Evstratich` → `Yevstratov / Yevstratich` (letter to S. N. Tolstoy, 15 December 1850; diary 22 December 1850; coverage note)
+- `Semenov` → `Semyonov` (letter to Goltsev, 1891; notebook 1888–1889; diary 1889-02-22; coverage notes)
+- `Elizaveta, Ekaterina, Elena, Evgenia, Elagin, Ermolaev, Ermolov, Erofeyevich, Ekaterinoslav` → `Ye-` forms in the letters and notebooks where they occur, with matching coverage notes and manifest titles. English file names are unchanged so that paths stay stable.

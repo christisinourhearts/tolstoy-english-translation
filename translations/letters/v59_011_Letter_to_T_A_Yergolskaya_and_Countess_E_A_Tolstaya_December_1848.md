@@ -7,7 +7,7 @@ language: "en"
 body_source_languages: ["fr"]
 apparatus_source_languages: ["ru"]
 sender: "Leo Tolstoy"
-recipient: "Tatyana Alexandrovna Yergolskaya; Elizaveta Alexandrovna Tolstaya"
+recipient: "Tatyana Alexandrovna Yergolskaya; Yelizaveta Alexandrovna Tolstaya"
 sent_from: "Moscow"
 correspondence_date: "1848-12-01/1848-12-31"
 volume: "59"
@@ -50,7 +50,7 @@ Your seal is charming; thank you for it. Send me the large one too. Do not be su
 
 ## Notes
 
-[^1]: Tatyana Alexandrovna Yergolskaya and Countess Elizaveta Alexandrovna Tolstaya. On them, see the introduction and note 7 to letter no. 4.
+[^1]: Tatyana Alexandrovna Yergolskaya and Countess Yelizaveta Alexandrovna Tolstaya. On them, see the introduction and note 7 to letter no. 4.
 [^2]: Alexander Ivanovich Over, surgeon. On him, see note 2 to letter no. 6.
 [^3]: Karl Fyodorovich Deutsch, doctor of medicine. On him, see note 3 to letter no. 6.
 [^4]: Dilation of the veins of the spermatic cord.

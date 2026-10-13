@@ -61,6 +61,6 @@ To His [sic] High Born Tatyana Alexandrovna Yergolskaya.
 [^1]: On 23 November 1849 Tolstoy entered the service of the Tula provincial administration as a clerical employee of the Tula Noble Deputies' Assembly, with assignment to the first category. (L. N. Tolstoy's passport, issued by the Tula Noble Deputies' Assembly on 17 January 1852.)
 [^2]: Praskovya Fyodorovna Perfilieva. On her, see note 4 to letter no. 6.
 [^3]: Pelageya Ilyinichna Yushkova.
-[^4]: Countess Elizaveta Alexandrovna Tolstaya.
+[^4]: Countess Yelizaveta Alexandrovna Tolstaya.
 [^5]: On 23 November 1849 Tolstoy entered the service of the Tula provincial administration as a clerical employee of the Tula Noble Deputies' Assembly, with assignment to the first category. (L. N. Tolstoy's passport, issued by the Tula Noble Deputies' Assembly on 17 January 1852.)
 [^6]: Praskovya Fyodorovna Perfilieva. On her, see note 4 to letter no. 6.

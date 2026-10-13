@@ -1,12 +1,12 @@
 ---
 author: "Leo Tolstoy"
-title: "Letter to G. A. Ermolaev, 6 February 1892"
+title: "Letter to G. A. Yermolaev, 6 February 1892"
 title_ru: "Письмо Г. А. Ермолаеву от 6 февраля 1892 г."
 category: "letters"
 language: "en"
 body_source_languages: ["ru"]
 apparatus_source_languages: ["ru"]
-recipient: "Grigory Alexeyevich Ermolaev"
+recipient: "Grigory Alexeyevich Yermolaev"
 sent_from: "Begichevka"
 correspondence_date: "1892-02-06"
 volume: "66"
@@ -23,7 +23,7 @@ translation_status: "reviewed"
 
 <!-- vol. 66, p. 154 -->
 
-*165. To G. A. Ermolaev. 1892. February 6. Begichevka.*
+*165. To G. A. Yermolaev. 1892. February 6. Begichevka.*
 
 Dear Grigory Alexeyevich!
 

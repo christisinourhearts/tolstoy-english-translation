@@ -39,6 +39,6 @@ Leo Tolstoy.
 
 1. Printed from copying book no. 7, fol. 337. Basis for the dating: in the copying book the letter is printed among letters of 17 May.
 
-2. In a letter of 13 May 1907 from Ekaterinoslav, the tailor Samuil Vulfovich Danilevich (b. 1881) reported that Tolstoy's religious and moral views had helped him in resolving the question of the meaning of life and the sexual question.
+2. In a letter of 13 May 1907 from Yekaterinoslav, the tailor Samuil Vulfovich Danilevich (b. 1881) reported that Tolstoy's religious and moral views had helped him in resolving the question of the meaning of life and the sexual question.
 
 <!-- vol. 77, p. 106 -->
