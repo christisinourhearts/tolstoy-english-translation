@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_229_231_Krug_chtenija_daily_nov_1_5.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[7] «По Лao-Tce» is typed with Latin a, o, T, c, e for the Cyrillic letters of «Лао-Тсе» (Lao-Tse); translated as “After Laozi”"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

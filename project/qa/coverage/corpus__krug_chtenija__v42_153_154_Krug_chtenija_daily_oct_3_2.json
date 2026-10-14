@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.18",
+  "source_path": "corpus/krug_chtenija/v42_153_154_Krug_chtenija_daily_oct_3_2.md",
+  "source_sha256": "31f54a42ed8401163403a1405a179342b257f22990ad1b5c19fa6675e83020c4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The attribution «Браминская мудрость Рамакришна» (Braminskaya mudrost' Ramakrishna, 'Brahmanic wisdom Ramakrishna') is printed without a period between its two parts; it is given as 'Brahmanic wisdom. Ramakrishna.' as elsewhere in this book. «Сила божья» (sila bozh'ya) is 'the power of God'; pronouns for God stay lowercase.",
+    "Source observation: [6] attribution «Браминская мудрость Рамакришна.» lacks the period after «мудрость» found elsewhere («Браминская мудрость. Рамакришна.»); translated as 'Brahmanic wisdom. Ramakrishna.'"
+  ],
+  "result": "PASS"
+}

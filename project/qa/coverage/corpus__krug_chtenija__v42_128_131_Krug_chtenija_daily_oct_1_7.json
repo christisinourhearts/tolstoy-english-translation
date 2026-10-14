@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.08",
+  "source_path": "corpus/krug_chtenija/v42_128_131_Krug_chtenija_daily_oct_1_7.md",
+  "source_sha256": "4d4d9d390f2034137bde1e886314d17974c86684563df36d1ee8d5382bf162b1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print (The Laws of Manu, Epictetus, Lucy Mallory, Thoreau); in the Manu passage «разум» (razum, 'reason') and «ум» (um, 'mind') are kept distinct, and pronouns for God stay lowercase as in the source. In no. 6 the sudden first person «да не могу» (da ne mogu, 'but I can't') is kept as printed, and the repeated «беда» (beda, 'trouble') is kept as one word.",
+    "Source observation: [12] a comma is missing after «в божественном разуме» before «он не может» (minor punctuation slip); translated with the evident sense"
+  ],
+  "result": "PASS"
+}

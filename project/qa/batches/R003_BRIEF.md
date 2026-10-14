@@ -1,4 +1,4 @@
-<!-- Working brief for R003 translator passes (updated through R003.08, 2026-10-13). Paths refer to the temporary workspace where drafts were prepared. -->
+<!-- Working brief for R003 translator passes (updated through R003.11, 2026-10-14). Paths refer to the temporary workspace where drafts were prepared. -->
 
 # Brief: translating Tolstoy's *Circle of Reading* (Круг чтения), batch R003
 

@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_022_024_Krug_chtenija_daily_sep_2_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[5] The source prints «Мф. гл. 8, ст. 3—4, 6»; the quoted text is Matthew 18:3–4, 6 (Synodal), so the English gives Matthew 18:3–4, 6.",
+    "[34] The attribution «Кант.» is printed in roman and without the quote prefix, unlike the book's other attribution lines; kept as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

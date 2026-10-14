@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.25",
+  "source_path": "corpus/krug_chtenija/v42_272_274_Krug_chtenija_daily_nov_4_1.md",
+  "source_sha256": "c358ac1b5e653e554b87f50888357accd2cf5b2cf5659cdba6c0cd9dc4443aee",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions are given as printed, full names included (Vladimir Chertkov, Thomas Carlyle, Ernest Crosby, Henry David Thoreau). The opening sentence keeps the Russian's single «меньше» (menshe, 'less') governing both 'satisfied with himself' and 'occupied with improving his inner life', and «Заблуждение это» (zabluzhdenie eto, 'this error') keeps its 'this', which the website draft had dropped."
+  ],
+  "result": "PASS"
+}

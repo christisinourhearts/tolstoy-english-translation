@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.05",
+  "source_path": "corpus/krug_chtenija/v42_014_016_Krug_chtenija_daily_sep_1_4.md",
+  "source_sha256": "aa05ed09152fc06445ef575102714d6118f68c90feab584ebecdfbfeb2619be5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благо» (blago) is 'the good' and «совершенствование» (sovershenstvovaniye) 'perfecting', so the closing «совершенство» (sovershenstvo) is 'perfection'; in the Epictetus passage «разумение» (razumeniye) is 'understanding' and «разум» (razum) 'reason'. Luke 9:62 is translated from the Russian wording («не благонадежен», ne blagonadyozhen, 'is not fit'), and the king's name «Чинг-Чанг» is kept as printed, 'Ching-Chang'."
+  ],
+  "result": "PASS"
+}

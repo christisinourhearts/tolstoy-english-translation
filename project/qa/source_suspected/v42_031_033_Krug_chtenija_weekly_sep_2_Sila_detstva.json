@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_031_033_Krug_chtenija_weekly_sep_2_Sila_detstva.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[33] «— Без тебя не пойду. — сказал мальчик»: a period stands before the speech dash where a comma is expected; translated as a normal speech tag."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

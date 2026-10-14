@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.27",
+  "source_path": "corpus/krug_chtenija/v42_064_064_Krug_chtenija_weekly_sep_4_Iz_zaveschanija_meksikanskogo_tsarja.md",
+  "source_sha256": "780b7c8a53cca4941b5f020c1073f740a30e42b6c987bd5525e5d890a98b3693",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (10) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 8 had no website counterpart and were translated fresh.",
+    "The attribution «Тетскуко Незагуал Копотл» (Tetskuko Nezagual Kopotl) names Nezahualcoyotl, king of Tetzcuco (Texcoco); it is given as “Tetzcuco Nezahual Coyotl,” keeping Tolstoy's word division. The date line «до Р. Хр.» (do R. Khr., 'before the Nativity of Christ') is kept as printed, “B.C.,” although Nezahualcoyotl lived in the fifteenth century A.D.; the website draft had silently changed it to “CE.”",
+    "Source observation: [8] «Копотл» (Kopotl) is evidently a slip for «Койотл» (Koyotl, 'Coyotl') in Nezahualcoyotl's name; rendered “Coyotl.”",
+    "Source observation: [9] «Около 1460 года до Р. Хр.» ('about 1460 before the Nativity of Christ'): Nezahualcoyotl of Texcoco lived 1402–1472 A.D., so «до» ('before') is wrong in the print; translated as printed, “B.C.”"
+  ],
+  "result": "PASS"
+}

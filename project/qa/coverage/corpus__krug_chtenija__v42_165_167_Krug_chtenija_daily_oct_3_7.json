@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.23",
+  "source_path": "corpus/krug_chtenija/v42_165_167_Krug_chtenija_daily_oct_3_7.md",
+  "source_sha256": "3d8fda3bffd02236322eb40bd21d88e5aa6efd74f70920d3a5f854e145a27162",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In Marcus Aurelius «разумение» (razumenie) is 'understanding', where the website draft had 'reason', and the generic «человек» (chelovek, 'man') keeps 'he'. Epictetus's dialogue keeps its printed dash lines, and «Господи» (Gospodi, 'Lord') is capitalized with lowercase pronouns; «Манчжурская пословица» (Manchzhurskaya poslovitsa) is 'Manchu proverb'."
+  ],
+  "result": "PASS"
+}

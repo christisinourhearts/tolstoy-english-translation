@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.03",
+  "source_path": "corpus/krug_chtenija/v42_192_194_Krug_chtenija_daily_nov_1_3.md",
+  "source_sha256": "0ffc1f4a2f1561935db9f44c9dd0473aa12f702ce265d6a11f4eb8db22b4b255",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Закон божий» (zakon bozhiy) and «закон бога» (zakon boga) are both 'the law of God'; «закон божеский» (zakon bozheskiy) is 'the divine law'. «Иосиф Мадзини» (Iosif Madzini) is Giuseppe Mazzini; «Мартино» (Martino) is Martineau.",
+    "Source observation: [18] «п *рименяя» (p rimenyaya) is a split word, «применяя» (primenyaya, 'applying'), with the italics broken around its first letter; translated in that sense and italicized as a whole"
+  ],
+  "result": "PASS"
+}

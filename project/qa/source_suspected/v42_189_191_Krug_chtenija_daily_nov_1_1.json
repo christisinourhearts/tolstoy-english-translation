@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_189_191_Krug_chtenija_daily_nov_1_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[5] «пащущего» is a one-letter slip for «пашущего» (pashushchego, 'plowing'); translated in that sense",
+    "[30] the Laozi sentence «Тот, кто ищет добродетели…» (Tot, kto ishchet dobrodeteli, 'He who seeks virtue…') is printed after the attribution [29] and outside the quotation; by sense it belongs between [27] and [28] (Laozi 48). Translated where printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

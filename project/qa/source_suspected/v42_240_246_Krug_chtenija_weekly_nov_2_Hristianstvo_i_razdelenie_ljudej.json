@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_240_246_Krug_chtenija_weekly_nov_2_Hristianstvo_i_razdelenie_ljudej.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[4] «Одни из них планы духовные, другие — светские» ('Some of them are spiritual plans, others secular'): «планы» (plany) is evidently a slip for «паны» (pany, 'lords'; Chelčický's 'spiritual and secular lords'); translated as 'lords'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

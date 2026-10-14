@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.13",
+  "source_path": "corpus/krug_chtenija/v42_139_140_Krug_chtenija_daily_oct_2_5.md",
+  "source_sha256": "6c770a257fdbf2cce37d2ae2de794a946503002a5db37767e8f91f6e1e0eb0c3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствование» (sovershenstvovanie) is 'perfecting', and «отступление» (otstuplenie, 'departure') is kept as one word throughout the day, as Tolstoy repeats it. «Мужайся» (muzhaysya) is 'take courage'; attributions follow the print (Emerson, Lucy Mallory, John Chrysostom)."
+  ],
+  "result": "PASS"
+}

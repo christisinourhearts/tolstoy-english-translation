@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.31",
+  "source_path": "corpus/krug_chtenija/v42_076_077_Krug_chtenija_daily_sep_4_4.md",
+  "source_sha256": "28a052f7991cfc93b617ccf233f82af2a69e6e1079188acba005f35916be24f5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 7 had no website counterpart and were translated fresh.",
+    "«Труд» (trud, 'labor') and «трудиться» (trudit'sya, 'to labor') keep the one English root throughout. In [7] «метающий» (metayushchiy) is read as «мешающий» (meshayushchiy, 'hindering'), and in [21] the evident «не только не облегчающая» ('not only not lightening') is translated; both are flagged. The website had no draft for [7].",
+    "Source observation: [7] «метающий другим» (metayushchiy drugim, 'sweeping/throwing to others') is evidently a slip for «мешающий другим» (meshayushchiy drugim, 'hindering others'); translated 'hindering others.'",
+    "Source observation: [21] «не только облегчающая труд других, но накладывающая на них новые труды» ('not only lightening the labor of others but laying new labors on them') contradicts itself; a «не» ('not') has evidently dropped out before «облегчающая»; translated 'not only does not lighten.'"
+  ],
+  "result": "PASS"
+}

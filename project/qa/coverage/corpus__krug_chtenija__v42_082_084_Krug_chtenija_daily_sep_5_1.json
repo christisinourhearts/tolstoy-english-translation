@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.35",
+  "source_path": "corpus/krug_chtenija/v42_082_084_Krug_chtenija_daily_sep_5_1.md",
+  "source_sha256": "1ca7fc4d947b05b6427e0c61bc8286e6b49a42deef9cd69737f0b48a5a1d5331",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Извращение умов» (izvrashchenie umov, 'perversion of minds') and «извращается разум» (izvrashchaetsya razum, 'reason is perverted') keep Tolstoy's distinction of «ум» (um, 'mind') and «разум» (razum, 'reason'). The Micromegas passage is translated from the Russian as printed, with its dialogue dashes; attributions follow the print (Richet, Molinari, Lichtenberg)."
+  ],
+  "result": "PASS"
+}

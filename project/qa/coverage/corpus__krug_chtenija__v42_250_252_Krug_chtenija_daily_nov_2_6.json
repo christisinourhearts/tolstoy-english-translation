@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.15",
+  "source_path": "corpus/krug_chtenija/v42_250_252_Krug_chtenija_daily_nov_2_6.md",
+  "source_sha256": "03c634c1e589a36694921a88bb65a50f7592c6ceb273d8568a63bcd401eec238",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (40) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствование» (sovershenstvovanie) is 'perfecting' and «самосовершенствование» (samosovershenstvovanie) 'self-perfection'; Kant's «задатки» (zadatki) are 'predispositions'. «Китайский Ши-Кинг» (Kitayskiy Shi-King) is given as 'The Chinese Shijing' as elsewhere in the book, and Luke 9:61–62 is translated from Tolstoy's Russian, with «господи» (gospodi) as 'Lord'."
+  ],
+  "result": "PASS"
+}

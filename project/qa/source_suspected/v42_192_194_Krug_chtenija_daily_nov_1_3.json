@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_192_194_Krug_chtenija_daily_nov_1_3.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[18] «п *рименяя» (p rimenyaya) is a split word, «применяя» (primenyaya, 'applying'), with the italics broken around its first letter; translated in that sense and italicized as a whole"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

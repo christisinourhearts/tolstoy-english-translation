@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.11",
+  "source_path": "corpus/krug_chtenija/v42_031_033_Krug_chtenija_weekly_sep_2_Sila_detstva.md",
+  "source_sha256": "9b0d19cb98c8ee9993882cd9c4ec82ba789180573ef1eeffcea8480074bd77ba",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (56) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's retelling sets Hugo's scene in Russia, and its Russian details are kept: «городовой» (gorodovoy, 'policeman'), «царей» (tsarey, 'tsars'), «попов» (popov, 'priests'), the boy's «батя» (batya, a folk word for 'father', here 'Dad'). The crowd's «мерзавец» (merzavets, 'scoundrel') and «негодяй» (negodyay, 'villain') are kept distinct, and «безжалостный» (bezzhalostny, 'pitiless') is repeated as in the source.",
+    "Source observation: [33] «— Без тебя не пойду. — сказал мальчик»: a period stands before the speech dash where a comma is expected; translated as a normal speech tag."
+  ],
+  "result": "PASS"
+}

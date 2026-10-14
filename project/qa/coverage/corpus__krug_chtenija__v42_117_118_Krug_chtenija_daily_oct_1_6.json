@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.06",
+  "source_path": "corpus/krug_chtenija/v42_117_118_Krug_chtenija_daily_oct_1_6.md",
+  "source_sha256": "b39667b4e5fb1cf1a8e2d9b38bf11495e0a3a001fbbef20dc761b4ade57b9eea",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Лечение» (lechenie) is 'treatment' throughout, and «служение» (sluzhenie) is 'service' to people. Cicero's «болезни мысли» (bolezni mysli) is kept literal as 'illnesses of thought'."
+  ],
+  "result": "PASS"
+}

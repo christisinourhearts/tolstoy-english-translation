@@ -1,0 +1,15 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_084_106_Krug_chtenija_weekly_sep_5_Za_chto.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[8] The Polish exclamation prints «Polakòw» with a grave accent; standard Polish is «Polaków». Kept as printed.",
+    "[15] Chronology: the family moves abroad «в 1833 году» (in 1833) and the old man dies «в начале 1833 года» (at the beginning of 1833), before Albina leaves in November 1833; the dates do not fit together (perhaps 1832 for the move). Translated as printed.",
+    "[42] The Latin prayer prints «secundam»; the Vulgate (Psalm 50/51:3) reads «secundum magnam misericordiam tuam». Kept as printed.",
+    "[69] Ludwika's saying is printed in Latin letters as «Iak mame Kocham» (I for J, capital K, no Polish ę); standard Polish would be «Jak mamę kocham» ('as I love my mother'), while in block 110 she says «Як бога кохам» ('as I love God'). Kept as printed.",
+    "[76] «тотчаc» is printed with a Latin c at the end (OCR slip for «тотчас», 'at once'); translated as 'at once'.",
+    "[97] The pilot's direct speech ends with a closing » («...до Астрахани добежим».») but has no opening «; the English supplies the opening quotation mark before 'It'll fit just right'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

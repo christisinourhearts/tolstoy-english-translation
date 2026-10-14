@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.15",
+  "source_path": "corpus/krug_chtenija/v42_142_149_Krug_chtenija_weekly_oct_2_Zakon_boga_i_zakon_mira_sego.md",
+  "source_sha256": "44f427dd9aaf8c9fd1f9c67c7c0f9e123063f6e0fa7c69891f278644b803b5e7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Петр Хельчицкий» (Petr Khel'chitskiy) is Petr Chelčický, as in the September weekly reading; Church Slavonic quotations (Gideon's answer, «Аз убию и жити сотворю» (Az ubiyu i zhiti sotvoryu, 'I shall kill, and I shall make alive'), «Таковая творящии достойни смерти суть» (Takovaya tvoryashchii dostoyni smerti sut', 'they that do such things are worthy of death')) are rendered in a slightly archaic register, while the commandment «не убий» (ne ubiy) stays plain 'do not kill' to keep its pairing with «убий» (ubiy, 'kill'). «Власть» (vlast') is 'power', «устроение» (ustroenie) 'ordering', «ученые» (uchenye) 'learned men', and «небо без ума» (nebo bez uma) is read as «не бо без ума» (ne bo bez uma, 'for not in vain', Romans 13:4).",
+    "Source observation: [21] «и небо без ума меч носит» is evidently the Slavonic «не бо без ума меч носит» (Romans 13:4, 'for he bears the sword not in vain'); «небо» (nebo, 'heaven') is a word-division slip; translated in the evident sense"
+  ],
+  "result": "PASS"
+}

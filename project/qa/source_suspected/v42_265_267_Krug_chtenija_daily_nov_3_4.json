@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_265_267_Krug_chtenija_daily_nov_3_4.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[23] the line «С человеком лукавым не затягивайся в спор…» evidently belongs to the Eastern-wisdom list of no. 4 but is printed after the attribution and outside the blockquote (across the page break); translated where printed",
+    "[30] «Клеовуд» (Kleovud) looks like a slip for «Клеовул» (Kleovul), Cleobulus; rendered 'Cleobulus'"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

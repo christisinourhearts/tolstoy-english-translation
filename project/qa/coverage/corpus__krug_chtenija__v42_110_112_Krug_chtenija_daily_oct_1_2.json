@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.02",
+  "source_path": "corpus/krug_chtenija/v42_110_112_Krug_chtenija_daily_oct_1_2.md",
+  "source_sha256": "12e8dad513d4ca44feb48c89914d23470f4eaa814d17824cb7c4e53aba55aeed",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (31) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Matthew 6 is translated from Tolstoy's Russian: «душа» (dusha) is kept as 'soul', «правда» (pravda) in «царства божия и правды его» is 'justice' as elsewhere in this translation, and «отец» (otets) is lowercase 'father'. Verse 27 («Да и кто из вас…», 'And which of you…') is printed after the reference line, outside the quotation, and is kept there; «Живи до веку и до вечеру» (zhivi do veku i do vecheru) is a proverb, 'Live for an age and till evening'.",
+    "Source observation: [10] Matthew 6:27 («Да и кто из вас, заботясь, может прибавить себе росту хотя на один локоть?») is printed after the reference line «Мф. гл. 6, ст. 25—27, 31, 33—34», outside the quotation and after the page break, instead of after verse 26 within the quotation; kept in place"
+  ],
+  "result": "PASS"
+}

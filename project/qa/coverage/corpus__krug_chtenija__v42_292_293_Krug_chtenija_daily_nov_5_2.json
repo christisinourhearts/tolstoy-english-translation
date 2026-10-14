@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.34",
+  "source_path": "corpus/krug_chtenija/v42_292_293_Krug_chtenija_daily_nov_5_2.md",
+  "source_sha256": "5dfa97c0f84e9dd6ba704bcde4b4ab3870b217a7588ee4fa24b3ab760632b274",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The opening thought is 'renouncing himself' («отрешаясь от себя», otreshayas' ot sebya), without the website draft's added 'separate self'; «усовершенствуясь» (usovershenstvuyas', 'perfecting himself') follows the project's 'perfecting'. «Лао-Тсе» (Lao-Tse) is Laozi and «Талмуд» (Talmud) 'The Talmud'."
+  ],
+  "result": "PASS"
+}

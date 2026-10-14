@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.23",
+  "source_path": "corpus/krug_chtenija/v42_269_271_Krug_chtenija_daily_nov_3_6.md",
+  "source_sha256": "e044b3f61e0669a9670028e0f29317702d20c498992ae9ac9f16437111a6f072",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Matthew 10:17–20 is translated from Tolstoy's Russian, with «дух отца вашего» (dukh ottsa vashego, 'the spirit of your father') lowercase as printed; the unattributed «Претерпевший до конца спасен будет» (Preterpevshiy do kontsa spasen budet) is Matthew 10:22. The attribution is 'Carlyle', surname only, as printed."
+  ],
+  "result": "PASS"
+}

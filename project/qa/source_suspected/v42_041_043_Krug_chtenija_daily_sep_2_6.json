@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_041_043_Krug_chtenija_daily_sep_2_6.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[8] attribution printed «Мади» (Madi); the story of the man without legs in the mosque of Kufa is from Saadi's Gulistan, so «Мади» is probably a misprint for «Саади»; kept as printed",
+    "[12] attribution «Лao-Tce» is typed with Latin a, o, T, c, e mixed into the Cyrillic (transcription slip); rendered Laozi"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

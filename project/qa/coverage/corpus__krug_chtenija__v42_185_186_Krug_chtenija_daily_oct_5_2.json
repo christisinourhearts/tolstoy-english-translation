@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.33",
+  "source_path": "corpus/krug_chtenija/v42_185_186_Krug_chtenija_daily_oct_5_2.md",
+  "source_sha256": "925bf7d2fcb339a853e5ca80e50132e23f872535ba4ad81340bafc82db3f4c40",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (18) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Себялюбие» (sebyalyubie, 'self-love') is kept as 'self-love' throughout (the website draft varied it with 'selfishness'); «самоотречение» (samootrechenie) is 'self-renunciation', «самоотвержение» (samootverzhenie) 'self-denial', and «самопожертвование» (samopozhertvovanie) 'self-sacrifice'. In the fifth thought the printed «не только» (ne tol'ko, 'not only') seems to run against the sense and is translated as printed.",
+    "Source observation: [15] «благу, которое не только в отречении от себя и в служении другим» ('their good, which is not only in renunciation of self and in service to others') reads against the sense (the good lies only in self-renunciation); possibly a stray «не» (ne, 'not'); translated as printed"
+  ],
+  "result": "PASS"
+}

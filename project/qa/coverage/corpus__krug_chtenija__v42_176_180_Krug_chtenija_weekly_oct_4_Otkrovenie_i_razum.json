@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.30",
+  "source_path": "corpus/krug_chtenija/v42_176_180_Krug_chtenija_weekly_oct_4_Otkrovenie_i_razum.md",
+  "source_sha256": "2b3f3f203b696a925a2ff5e1dcab583766aa8cb50cc590b79ed5c989c0694421",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Translated from Tolstoy's Russian abridgment, not from Rousseau's French; «Исповедь Савойского викария» (Ispoved' Savoyskogo vikariya, literally 'Confession of the Savoyard Vicar') is given its established English title, 'Profession of Faith of the Savoyard Vicar.' «Разум» (razum) is 'reason' throughout, including «подчини свой разум» (podchini svoy razum, 'submit your reason'); «учение» (uchenie) is 'teaching' and «вероучение» (verouchenie) 'doctrine'; «темные люди» (tyomnye lyudi, literally 'dark people') is 'benighted people'; pronouns for God are lowercase as in the source.",
+    "Source observation: [13] «посланичества» is a one-letter slip for «посланничества» (poslannichestva, 'mission'), spelled correctly in [11]; translated in that sense"
+  ],
+  "result": "PASS"
+}

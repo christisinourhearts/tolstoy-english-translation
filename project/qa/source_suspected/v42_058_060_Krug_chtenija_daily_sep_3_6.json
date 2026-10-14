@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_058_060_Krug_chtenija_daily_sep_3_6.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[13]-[14] section number 4 is missing: the Ruskin saying follows section 3 directly and is followed by section 5",
+    "[17] the attribution «Паскаль.» is printed in the middle of the Pascal passage, splitting the sentence «она сама / открылась бы мне» ('it would itself / reveal itself to me') across the page break; kept in place"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

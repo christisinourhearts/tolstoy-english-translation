@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_054_056_Krug_chtenija_daily_sep_3_4.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[20] «самостоятелъную» is printed with ъ for ь (transcription slip); translated as 'independent'"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

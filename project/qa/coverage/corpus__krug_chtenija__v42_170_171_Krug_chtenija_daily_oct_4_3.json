@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.26",
+  "source_path": "corpus/krug_chtenija/v42_170_171_Krug_chtenija_daily_oct_4_3.md",
+  "source_sha256": "35ae6bb6c7bf4dd143a2221bd4baf498b466e78c6d18fd0246844853e80fa62c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Сострадание» (sostradanie, 'compassion', literally 'suffering-with') is rendered 'compassion' throughout, so that the closing thought's 'real suffering' still echoes it. In Epictetus the printed «бранить» (branit', 'to scold') is evidently a slip for «бранишь» (branish', 'you scold') and is translated in that sense.",
+    "Source observation: [10] «Когда ты бранить человека»: the infinitive «бранить» is a slip for «бранишь» (branish', 'you scold'); translated in that sense"
+  ],
+  "result": "PASS"
+}

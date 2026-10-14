@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.22",
+  "source_path": "corpus/krug_chtenija/v42_160_165_Krug_chtenija_weekly_oct_3_Lamene.md",
+  "source_sha256": "35dbf8358df39f8b43f10e4cd87ac201c77173d76544383e11fb48a941168ff9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Ламенэ» (Lamene) is Félicité Lamennais and «Барбэ» (Barbe) his friend and executor Auguste Barbet; Montalembert and Lacordaire are given in their usual forms. Titles are translated from Tolstoy's Russian: «Опыт о равнодушии в делах веры» (Opyt o ravnodushii v delakh very, Essai sur l'indifférence), «Консерватор» (Konservator, Le Conservateur), «Будущность» (Budushchnost', L'Avenir), «Слова верующего» (Slova veruyushchego, Paroles d'un croyant). «Фазис» (fazis) is 'phase', «совершенство / совершенствование» (sovershenstvo / sovershenstvovanie) 'perfection / perfecting', and the French «l'oeuvre» is kept as printed."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.28",
+  "source_path": "corpus/krug_chtenija/v42_278_284_Krug_chtenija_weekly_nov_4_Episkop_Miriel.md",
+  "source_sha256": "887919dbf9f447b3ebb02cb2f1b33580fee6a0c5dd4284f078f9f2f7f32a89cc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (82) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Names take Hugo's French forms (Myriel, Madame Magloire, Jean Valjean, Pontarlier, Toulon), but the Russian retelling is translated as printed: its «версты» (versty, 'versts') and «скуфья» (skuf'ya, the Orthodox clergy 'skullcap') stay, and the convict's «Говорите «вы», а не «ты»» ('you say vy, not ty', the polite and familiar 'you') is rendered with the French pair “vous”/“tu”. The accent in «гòните» (gònite) marks the indicative, so it is 'You don't drive me away!', not a plea; the gendarme's speech printed after the attribution «Виктор Гюго» (Viktor Gyugo, 'Victor Hugo') is translated where it stands (see flags).",
+    "Source observation: [28] the bishop's speech opens with « but no closing » is printed; the English closes the quotation at the end of the paragraph",
+    "Source observation: [36] «— Да. — сказал епископ» has a period after «Да» (Da, 'Yes') where a comma is expected before the speech tag; translated 'Yes, — said the bishop'",
+    "Source observation: [81] the gendarme's speech «— Так этот человек говорил правду, ваше преосвященство?…» (Tak etot chelovek govoril pravdu, 'So this man was telling the truth, Your Grace?') is printed on p. 284 after the closing attribution «Виктор Гюго.»; by sense (and in Hugo) it belongs in the scene between [62] and [63], answering the bishop's question about the candlesticks; translated where printed"
+  ],
+  "result": "PASS"
+}

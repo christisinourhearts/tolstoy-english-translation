@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.10",
+  "source_path": "corpus/krug_chtenija/v42_133_135_Krug_chtenija_daily_oct_2_2.md",
+  "source_sha256": "8ad02d7d20d5ad55f2d0ee3d7d2fef19d7ead560df635039bad8cf19e933da0c",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (35) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Духовное «я»» (dukhovnoe ya, 'spiritual I') is kept as “his spiritual ‘I’,” and «сознание» (soznanie) as 'consciousness' throughout. In the Upanishad passage «разум» (razum) is 'reason' and «ум» (um) 'mind'; «свыше» (svyshe) in John 3 is 'from above' (the website draft's added 'again' is removed).",
+    "Source observation: [30] This unnumbered, unquoted sentence stands after the attribution of no. 7 («Упанишада из Вед») and before no. 8; its content continues the Upanishad (cf. Isha Upanishad 7), so it may belong inside no. 7; translated as printed",
+    "Source observation: [32]–[33] The Seneca passage and its attribution are printed without the blockquote used for every other attributed quotation in the day; mirrored as printed"
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.18",
+  "source_path": "corpus/krug_chtenija/v42_256_258_Krug_chtenija_daily_nov_3_2.md",
+  "source_sha256": "906291c4301573aa1222455075fa2344711d63d53a49eacaf62212cbcc52d59f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The attribution «Паркер» (Parker) is kept as printed, surname only; «Истина» (istina, 'truth') keeps its capital as 'Truth', and «благо» (blago) is 'the good'. The paragraph «Ну, что же?…» (Nu, chto zhe?, 'Well, what of it?') is printed after the Amiel attribution, outside the quotation, and is translated where it stands.",
+    "Source observation: [12] this paragraph («Ну, что же? лишь бы мир был произведением блага…») evidently continues the Amiel passage of no. 2 but is printed after the attribution «Амиель.» and outside the blockquote (across the page break); translated where printed"
+  ],
+  "result": "PASS"
+}

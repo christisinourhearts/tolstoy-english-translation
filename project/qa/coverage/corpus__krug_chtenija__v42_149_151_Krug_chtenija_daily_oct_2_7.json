@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.16",
+  "source_path": "corpus/krug_chtenija/v42_149_151_Krug_chtenija_daily_oct_2_7.md",
+  "source_sha256": "6116979155dfad6632f6614b63712cfe487e8e6c1fd61a41470828fff293ed02",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Единение» (edinenie) is 'union' throughout, «рассудок» (rassudok, 'reasoning') is kept apart from «разум» (razum, 'reason'), and «нищий Лазарь» (nishchiy Lazar') is 'the beggar Lazarus'. The in-text reference «Иоан. 17—21», printed with a dash between chapter and verse, is given as John 17:21, the verse on the union of all in God.",
+    "Source observation: [8] The in-text reference is printed «(Иоан. 17—21)», with a dash where chapter and verse would be separated; the verse meant is John 17:21 and is given so"
+  ],
+  "result": "PASS"
+}

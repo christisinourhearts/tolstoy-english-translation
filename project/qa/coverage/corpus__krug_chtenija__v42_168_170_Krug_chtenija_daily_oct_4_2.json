@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.25",
+  "source_path": "corpus/krug_chtenija/v42_168_170_Krug_chtenija_daily_oct_4_2.md",
+  "source_sha256": "5f5b3f8bb5dafc258c76f80a8cc975cd5db9accb95dacfd347d7c5d1ca3c5ccd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Божественное начало» (bozhestvennoe nachalo) is 'divine source', as elsewhere in this translation, and «выгода» (vygoda) is 'advantage' throughout Rousseau's passage. The paragraph beginning «Даже больше» (Dazhe bol'she, 'Even more') continues Rousseau's argument but is printed after his attribution and outside the quotation; it is translated where it stands.",
+    "Source observation: [8] this paragraph continues Rousseau's text (it answers the 'supposed wise men' of [4]) but is printed after the attribution «Руссо.» [7] and without the quotation prefix; possibly a misplaced attribution",
+    "Source observation: [8] «всex» is spelled with a Latin x (OCR slip for «всех», vsekh, 'of all'); translated in that sense"
+  ],
+  "result": "PASS"
+}

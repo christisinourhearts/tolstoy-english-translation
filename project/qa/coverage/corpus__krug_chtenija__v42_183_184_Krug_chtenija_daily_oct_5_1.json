@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.32",
+  "source_path": "corpus/krug_chtenija/v42_183_184_Krug_chtenija_daily_oct_5_1.md",
+  "source_sha256": "1e9b91dc9ab695593a173937d453933f71d1e6289ff3800e4744eb4fb8033d43",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Внушение» (vnushenie, 'suggestion', in the hypnotic sense) is kept as 'suggestion' throughout, and «заблуждение» (zabluzhdenie) as 'error'. The Montaigne attribution keeps its printed period, and «Буддийская мудрость Дхаммапада» follows the book's usual form, 'Buddhist wisdom. Dhammapada.'"
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_185_186_Krug_chtenija_daily_oct_5_2.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[15] «благу, которое не только в отречении от себя и в служении другим» ('their good, which is not only in renunciation of self and in service to others') reads against the sense (the good lies only in self-renunciation); possibly a stray «не» (ne, 'not'); translated as printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

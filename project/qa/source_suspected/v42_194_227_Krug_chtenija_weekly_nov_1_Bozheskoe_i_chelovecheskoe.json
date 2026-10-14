@@ -1,0 +1,13 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_194_227_Krug_chtenija_weekly_nov_1_Bozheskoe_i_chelovecheskoe.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[61] Stray comma between subject and verb: «Светлогуб, почти желал мученичества» (Svetlogub, pochti zhelal, 'Svetlogub, almost desired'); translated without it.",
+    "[183] No comma before the attribution dash: «Должно быть, одной — улыбаясь, сказал Меженецкий» (dolzhno byt', odnoi — ulybayas', skazal Mezhenetsky, 'Must be the same — Mezhenetsky said, smiling'); punctuated normally in the English.",
+    "[228] Missing comma after the subject: «он избрав какую-нибудь эпоху» (on izbrav kakuyu-nibud' epokhu, 'he having chosen some epoch'); translated as if «он, избрав».",
+    "[271] Comma where a sentence break is required: «слова его бессмысленны, Так же думали» (slova ego bessmyslenny, Tak zhe dumali, 'his words were meaningless, So too thought'); translated as two sentences."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

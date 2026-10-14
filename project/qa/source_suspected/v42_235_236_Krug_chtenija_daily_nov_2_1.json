@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_235_236_Krug_chtenija_daily_nov_2_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[14]–[15] the Angelus Silesius saying and its attribution are printed as plain paragraphs, not as a quotation like section 3; kept as printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

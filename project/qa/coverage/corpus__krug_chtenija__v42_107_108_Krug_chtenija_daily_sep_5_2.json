@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.37",
+  "source_path": "corpus/krug_chtenija/v42_107_108_Krug_chtenija_daily_sep_5_2.md",
+  "source_sha256": "55b7b32b1632713766f7293a8d71dd91089c9468dc5f50c5519d01a38f49f9ce",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (39) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 4, 37, 38 had no website counterpart and were translated fresh.",
+    "Tyutchev's “Silentium!” is translated line by line, unrhymed, from the text as printed here, which differs in places from Tyutchev's usual text («И всходят и зайдут оне, / Как звезды ясные в ночи», 'Both rise and set, / Like clear stars in the night'). «Изреченная» (izrechennaya, 'uttered') in the poem is kept distinct from «высказать» (vyskazat', 'express') in section 2.",
+    "Source observation: [15] «Взрывая, возмутить ключи» has the infinitive «возмутить» ('to stir up') where Tyutchev's poem has «возмутишь» ('you will stir up'); probably a one-letter slip, translated as 'you will muddy'",
+    "Source observation: [24] the section number 2 is set as an italic text line «*2*» rather than as a plain number; kept as printed"
+  ],
+  "result": "PASS"
+}

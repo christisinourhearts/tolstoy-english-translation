@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_064_064_Krug_chtenija_weekly_sep_4_Iz_zaveschanija_meksikanskogo_tsarja.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[8] «Копотл» (Kopotl) is evidently a slip for «Койотл» (Koyotl, 'Coyotl') in Nezahualcoyotl's name; rendered “Coyotl.”",
+    "[9] «Около 1460 года до Р. Хр.» ('about 1460 before the Nativity of Christ'): Nezahualcoyotl of Texcoco lived 1402–1472 A.D., so «до» ('before') is wrong in the print; translated as printed, “B.C.”"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

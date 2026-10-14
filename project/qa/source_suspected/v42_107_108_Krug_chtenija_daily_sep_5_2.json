@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_107_108_Krug_chtenija_daily_sep_5_2.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[15] «Взрывая, возмутить ключи» has the infinitive «возмутить» ('to stir up') where Tyutchev's poem has «возмутишь» ('you will stir up'); probably a one-letter slip, translated as 'you will muddy'",
+    "[24] the section number 2 is set as an italic text line «*2*» rather than as a plain number; kept as printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.01",
+  "source_path": "corpus/krug_chtenija/v42_109_110_Krug_chtenija_daily_oct_1_1.md",
+  "source_sha256": "b9259364a9ea2993c7e2ccef5729091b1286445db012d8b4b8d2147f969cc7e3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print, including «Арабское (Албитис)» (arabskoe, 'Arabic'; Albitis, a name kept as printed) and Lucy Mallory. 1 Thessalonians 5:21 is translated from the Russian, and Tolstoy's italic «знать» (znat', 'to know') in section 6 is kept."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.20",
+  "source_path": "corpus/krug_chtenija/v42_260_264_Krug_chtenija_weekly_nov_3_Trebovanija_ljubvi.md",
+  "source_sha256": "b227f06e7398dc72883f1a8bf791ffd57227ead2589577a38c61f23fb6c6af00",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Требования любви» (Trebovaniya lyubvi) is 'The Demands of Love' (the website had 'Requirements'); «насилие» (nasilie) is 'violence' throughout, «ненасилие» (nenasilie) 'nonviolence', and «перед отцом» (pered otsom, 'before the father') stays lowercase as printed. Rubles and the «аршин» (arshin, a measure of about 28 inches) are kept; the unfinished last sentence («и мы часто, — как тот мальчик…», 'and we often—like that boy…') is left unfinished as printed.",
+    "Source observation: [12] «ходить из города» (khodit' iz goroda, 'to go from the city') is presumably a slip for «уходить из города» (ukhodit', 'to leave the city'); translated 'leave the city'",
+    "Source observation: [25] «И так ли страшна жертва до конца, как это кажется.» ends with a period where a question mark is expected, and the next sentence «и мы часто, — как тот мальчик…» has no main verb (an anacoluthon or a lost word); both translated as printed"
+  ],
+  "result": "PASS"
+}

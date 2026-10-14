@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.12",
+  "source_path": "corpus/krug_chtenija/v42_240_246_Krug_chtenija_weekly_nov_2_Hristianstvo_i_razdelenie_ljudej.md",
+  "source_sha256": "58623781f63bb8166b4386d345778daa30b396ac2e61a0a202cea035a767707a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Петр Хельчицкий» (Petr Khel'chitsky) is Petr Chelčický and «Сеть веры» (Set' very) “The Net of Faith,” as in the September and October readings; «паны» (pany) is 'lords', «холоп» (kholop) 'serf', «сословия» (sosloviya) 'estates', «поколения» (pokoleniya) 'generations', and «сброды» (sbrody) 'rabbles'. «Первосвященник» (pervosvyashchennik) is 'the high priest' and «великий священник» (velikiy svyashchennik) 'the great priest', kept distinct; the source prints «планы» (plany, 'plans') where the sense requires «паны» (pany, 'lords'), and the English gives 'lords'.",
+    "Source observation: [4] «Одни из них планы духовные, другие — светские» ('Some of them are spiritual plans, others secular'): «планы» (plany) is evidently a slip for «паны» (pany, 'lords'; Chelčický's 'spiritual and secular lords'); translated as 'lords'."
+  ],
+  "result": "PASS"
+}

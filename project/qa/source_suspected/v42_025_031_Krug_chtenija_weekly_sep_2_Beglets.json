@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_025_031_Krug_chtenija_weekly_sep_2_Beglets.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[50] «хотел сделать то же самое но подумал»: the comma before «но» ('but') is missing; translated with the evident sense."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

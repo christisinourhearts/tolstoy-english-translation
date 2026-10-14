@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.28",
+  "source_path": "corpus/krug_chtenija/v42_065_072_Krug_chtenija_weekly_sep_4_Smert_Sokrata.md",
+  "source_sha256": "33ea529db0a73ffa889e01047b667cfe7abbe097900229ef692a0f4f3722a724",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (64) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Tolstoy's Russian retelling of the end of the «Федон» (Fedon, 'Phaedo') is translated from his Russian, not from Plato's Greek or an English Plato; «ученик» (uchenik) is 'disciple' as in the May “Trial of Socrates,” «совершенствование» (sovershenstvovanie) 'perfecting,' «ад» (ad, 'hell') 'Hades,' and «начало» (nachalo) 'principle.' The source prints «Кевис» (Kevis) once and «Кебес» (Kebes) once, both for Cebes, and «Симлий» (Simliy) throughout for Simmias (Russian «Симмий»); the English uses Cebes and Simmias.",
+    "Source observation: [12] The source prints «Кевис» (Kevis) here and «Кебес» (Kebes) at [14] for the same person, Cebes; both rendered “Cebes.”",
+    "Source observation: [14] «Симлий» (Simliy), printed throughout ([14], [16], [18], [20], [21], [22], [30]), is evidently Simmias (Russian «Симмий»); rendered “Simmias.”",
+    "Source observation: [20] «взаимодеиствие» is a slip for «взаимодействие» (vzaimodeystvie, 'interaction'); translated as 'interaction.'"
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,26 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.36",
+  "source_path": "corpus/krug_chtenija/v42_084_106_Krug_chtenija_weekly_sep_5_Za_chto.md",
+  "source_sha256": "f0b7c99ed832408e8f84d0ad6969ea70ecb23850764b9cf79165bfa1859f6ae3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (122) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 4, 8, 42, 120, 121 had no website counterpart and were translated fresh.",
+    "Polish names keep their Polish spelling (Józef Migurski, Józio for both «Иозё» (Iozyo) and «Юзё» (Yuzyo), Pan Jaczewski and Pani Jaczewska, Rożanka, Ludwika, Rosołowski, Sierociński), and the Polish words Tolstoy keeps in Russian are kept: «пан» (pan, 'sir'), «панюся» (panyusya, Polish paniusia, 'little mistress'), «конфедератка» (konfederatka, a Polish cap), and «хортый» (khorty, a hound), which Tolstoy glosses himself as «борзая собака» (borzaya sobaka, 'borzoi dog'). Albina's question «За что?» (Za chto?) is rendered 'What for?' each time, as in the title, and kept distinct from «Зачем?» (Zachem?, 'Why?'). Ludwika's two Polish oaths are kept as printed: «Iak mame Kocham» (Latin letters in the source; standard Polish «Jak mamę kocham», 'as I love my mother') and the Cyrillic «Як бога кохам» (Yak boga kokham), given in Polish spelling as 'Jak Boga kocham' ('as I love God'), as is her address «паненка» (panenka, Polish panienka, 'young miss'); Russian realia are kept in transliteration: «тарантас» (tarantas, 'tarantass'), «тройка» (troika, 'three-horse team'), «долгушка» (dolgushka, a long open carriage), «косовушка» (kosovushka, a Volga boat), «бурлаки» (burlaki, 'burlaks', Volga boatmen), «цабан» (tsaban, a team of oxen), and «сотенник» (sotennik, a measure of land), with «слобода Покровская» (sloboda Pokrovskaya) as 'Pokrovskaya Sloboda'.",
+    "Source observation: [8] The Polish exclamation prints «Polakòw» with a grave accent; standard Polish is «Polaków». Kept as printed.",
+    "Source observation: [15] Chronology: the family moves abroad «в 1833 году» (in 1833) and the old man dies «в начале 1833 года» (at the beginning of 1833), before Albina leaves in November 1833; the dates do not fit together (perhaps 1832 for the move). Translated as printed.",
+    "Source observation: [42] The Latin prayer prints «secundam»; the Vulgate (Psalm 50/51:3) reads «secundum magnam misericordiam tuam». Kept as printed.",
+    "Source observation: [69] Ludwika's saying is printed in Latin letters as «Iak mame Kocham» (I for J, capital K, no Polish ę); standard Polish would be «Jak mamę kocham» ('as I love my mother'), while in block 110 she says «Як бога кохам» ('as I love God'). Kept as printed.",
+    "Source observation: [76] «тотчаc» is printed with a Latin c at the end (OCR slip for «тотчас», 'at once'); translated as 'at once'.",
+    "Source observation: [97] The pilot's direct speech ends with a closing » («...до Астрахани добежим».») but has no opening «; the English supplies the opening quotation mark before 'It'll fit just right'."
+  ],
+  "result": "PASS"
+}

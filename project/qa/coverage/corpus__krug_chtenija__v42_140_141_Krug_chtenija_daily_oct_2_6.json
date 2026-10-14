@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.14",
+  "source_path": "corpus/krug_chtenija/v42_140_141_Krug_chtenija_daily_oct_2_6.md",
+  "source_sha256": "1beabb46a2e9a9f860d5e2a5f000e983ad7347a60f6ed8ecf9fca5d78158073b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (15) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Насилие» (nasilie) is 'violence' throughout and «насиловать» (nasilovat') 'do violence to'; «государственная власть» (gosudarstvennaya vlast') is 'state power'. «Состояние» (sostoyanie) is 'condition', to keep it apart from «государство» (gosudarstvo, 'state')."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,24 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.04",
+  "source_path": "corpus/krug_chtenija/v42_194_227_Krug_chtenija_weekly_nov_1_Bozheskoe_i_chelovecheskoe.md",
+  "source_sha256": "11eab5bf545df5620fe52ef5627eff50308fcf61fd025d08bed5ffe9645cbff2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (302) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 13, 23, 300, 301 had no website counterpart and were translated fresh.",
+    "The general's German proverb and the princess's French stay in the original, as Tolstoy printed them, with the edition's footnotes translated; «ваше высокопревосходительство» (vashe vysokoprevoskhoditel'stvo) is \"Your High Excellency,\" and «умиление» (umileniye, \"tender emotion\") is rendered the same way each time, for the general's servile feeling and for Svetlogub's over the Gospel and in his letter. Svetlogub's Gospel readings (Matthew 1–5, Luke 9:23–25) are translated directly from the Russian he reads, keeping the bare «любите врагов» (lyubite vragov, \"love enemies\"), and the school mark «двойка» (dvoika) stays \"a two.\" In chapters V–IX «колесница» (kolesnitsa, the open cart that carries the condemned) is \"the cart\" throughout, the old man is \"a Bespopovets\" («беспоповец», bespopovets, a \"priestless\" Old Believer), and his reading from Revelation 22:11–12, like the Gospel words Svetlogub remembers (John 12:24; Luke 23:46), is translated directly from the Russian; the dream keeps Tolstoy's switch into the present tense, and the executioner's slip from «подвинься» (podvin'sya, familiar \"move\") to «подвиньтесь» (podvin'tes', polite \"move\") is marked by \"or, if you please, move over.\" In chapters IX–XIII «злоба» (zloba, \"malice\") is \"malice\" throughout, as in part B, and the hallucinated «рожи» (rozhi, coarse word for faces) are \"mugs\"; the governor Tolstoy prints as «Крапоткин» (Krapotkin) is given the established spelling Kropotkin. The dying old schismatic quotes Revelation (17:14, 17:12, 17:10, 22:20) in Church Slavonic forms («агнец победит я», agnets pobedit ya, \"the Lamb shall conquer them\"; «не прииде», ne priide, \"is not yet come\", which he glosses himself as «не пришел», ne prishel, \"hasn't come\"; «ей гряди», yei gryadi, \"yea, come\"), so only these words keep a light archaic cast (\"shall,\" \"is not yet come,\" \"cometh,\" \"yea\"); the merchant-style «ваше степенство» (vashe stepenstvo) is \"Your Worship.\"",
+    "Source observation: [61] Stray comma between subject and verb: «Светлогуб, почти желал мученичества» (Svetlogub, pochti zhelal, 'Svetlogub, almost desired'); translated without it.",
+    "Source observation: [183] No comma before the attribution dash: «Должно быть, одной — улыбаясь, сказал Меженецкий» (dolzhno byt', odnoi — ulybayas', skazal Mezhenetsky, 'Must be the same — Mezhenetsky said, smiling'); punctuated normally in the English.",
+    "Source observation: [228] Missing comma after the subject: «он избрав какую-нибудь эпоху» (on izbrav kakuyu-nibud' epokhu, 'he having chosen some epoch'); translated as if «он, избрав».",
+    "Source observation: [271] Comma where a sentence break is required: «слова его бессмысленны, Так же думали» (slova ego bessmyslenny, Tak zhe dumali, 'his words were meaningless, So too thought'); translated as two sentences."
+  ],
+  "result": "PASS"
+}

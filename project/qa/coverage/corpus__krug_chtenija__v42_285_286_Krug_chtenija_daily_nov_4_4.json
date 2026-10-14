@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.29",
+  "source_path": "corpus/krug_chtenija/v42_285_286_Krug_chtenija_daily_nov_4_4.md",
+  "source_sha256": "51110dff7d795b3ee087a26bdd743a0561b9373f5bce8dadcc317f8cfc2c0f9d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (19) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Attributions follow the print, surnames only where only surnames are given: «Кетлэ» (Ketle) is Quetelet and «Фламмарион» (Flammarion) Flammarion; «царство зла» (tsarstvo zla) is 'the kingdom of evil', matching «царство» (tsarstvo, 'kingdom') elsewhere. «Власть» (vlast') is 'power' in the closing thought.",
+    "Source observation: [13] this paragraph, plainly continuing Flammarion ('this strange planet'), is printed after the attribution «Фламмарион.» and outside the quotation; translated as printed"
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_142_149_Krug_chtenija_weekly_oct_2_Zakon_boga_i_zakon_mira_sego.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[21] «и небо без ума меч носит» is evidently the Slavonic «не бо без ума меч носит» (Romans 13:4, 'for he bears the sword not in vain'); «небо» (nebo, 'heaven') is a word-division slip; translated in the evident sense"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

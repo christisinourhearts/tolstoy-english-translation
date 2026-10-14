@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.19",
+  "source_path": "corpus/krug_chtenija/v42_046_050_Krug_chtenija_weekly_sep_3_Petr_Helchitskij.md",
+  "source_sha256": "df270666a4db520537645195c64841aa39380350f18dcabcae825e0c2a56765f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Петр Хельчицкий» is given in the established English form Petr Chelčický (Petr of Chelčice), «Сеть веры» (Set' very) as “The Net of Faith,” and «магистр Рокицана» as Master Rokycana; «блудными» (bludnymi, here 'erring', cf. Czech bludný) is 'erring', not 'licentious'. «Устройство» (ustroystvo, 'structure') and «порядок» (poryadok, 'order') are kept distinct, and the clause the website had dropped (“that Christ taught what he taught”) is restored.",
+    "Source observation: [9] the quoted preface ends with a closing quotation mark («») that has no opening one; translated as printed"
+  ],
+  "result": "PASS"
+}

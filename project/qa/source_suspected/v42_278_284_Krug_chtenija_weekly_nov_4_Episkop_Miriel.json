@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_278_284_Krug_chtenija_weekly_nov_4_Episkop_Miriel.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[28] the bishop's speech opens with « but no closing » is printed; the English closes the quotation at the end of the paragraph",
+    "[36] «— Да. — сказал епископ» has a period after «Да» (Da, 'Yes') where a comma is expected before the speech tag; translated 'Yes, — said the bishop'",
+    "[81] the gendarme's speech «— Так этот человек говорил правду, ваше преосвященство?…» (Tak etot chelovek govoril pravdu, 'So this man was telling the truth, Your Grace?') is printed on p. 284 after the closing attribution «Виктор Гюго.»; by sense (and in Hugo) it belongs in the scene between [62] and [63], answering the bishop's question about the candlesticks; translated where printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

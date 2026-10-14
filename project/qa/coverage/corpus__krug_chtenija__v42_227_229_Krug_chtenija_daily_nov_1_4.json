@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.05",
+  "source_path": "corpus/krug_chtenija/v42_227_229_Krug_chtenija_daily_nov_1_4.md",
+  "source_sha256": "d051f5ae7d598a94dca52bc23a09b280623b8bd4a905545702dd5d66b60635b7",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (32) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 3 had no website counterpart and were translated fresh.",
+    "The opening thought had no website draft and is translated fresh. «Спор» (spor, 'argument') is 'argument' throughout; «Китайское изречение» (Kitayskoe izrechenie) is 'Chinese saying', distinct from «пословица» (poslovitsa, 'proverb'). The Cato and Marcus Aurelius passages are printed without quotation markup and are kept so, as are the periods after Marcus Aurelius's two questions.",
+    "Source observation: [5]–[6], [21]–[23] attributed passages (Cato, Marcus Aurelius) are printed as plain paragraphs, not as quotations like the others; kept as printed"
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.28",
+  "source_path": "corpus/krug_chtenija/v42_173_174_Krug_chtenija_daily_oct_4_5.md",
+  "source_sha256": "ce486bad6dab2dab50f48dedbb2460f00fe0c69a9d6ef946797bfeb9f43e75ad",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Пёзей» (Pyozey) is taken to be the English divine E. B. Pusey and printed as 'Pusey'; «По Фенелону» is 'After Fénelon'. Tolstoy's «я» (ya, 'I') in the sixth thought is kept as an italic 'I', and «совершенствование» (sovershenstvovanie) is 'perfecting'."
+  ],
+  "result": "PASS"
+}

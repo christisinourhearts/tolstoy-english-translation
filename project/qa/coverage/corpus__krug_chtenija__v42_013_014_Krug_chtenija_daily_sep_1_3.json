@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.04",
+  "source_path": "corpus/krug_chtenija/v42_013_014_Krug_chtenija_daily_sep_1_3.md",
+  "source_sha256": "80e7f7950978ac7c08ab21ee7dc2177927cbef611a9413d72af9b2e30b09c404",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разумение» (razumeniye) is 'understanding' and «начало» (nachalo) 'source' per the project terminology, so «началом всего» (nachalom vsego) is 'the source of all' beside «источник» (istochnik, 'source'); pronouns for God are lowercase as in the Russian. Attributions: «Персидский Хейям» (Persidskiy Kheyyam) is 'the Persian Khayyam' (Omar Khayyam), and «Д’Агу» (D'Agu) is given in its French form, d'Agoult (Marie d'Agoult)."
+  ],
+  "result": "PASS"
+}

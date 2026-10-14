@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.16",
+  "source_path": "corpus/krug_chtenija/v42_252_254_Krug_chtenija_daily_nov_2_7.md",
+  "source_sha256": "b5f22c7d5a9ab8fc3346341e0fd2c6ac1d7773580d0b1027be23bdc328ad704a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In Kant's passage «рассудок» (rassudok) is 'understanding' and «разум» (razum) 'reason', as in Kant's own pairing, and «ученый» (uchyony) is 'learned'. «Фома Кемпийский» (Foma Kempiysky) is Thomas à Kempis, and «Индийское Гитопадее» (Indiyskoye Gitopadeye) is given as 'Indian Hitopadesha', as elsewhere in the book.",
+    "Source observation: [21] «Индийское Гитопадее» (Gitopadeye): the title of the Hitopadesha is misspelled (elsewhere in the book «Гитопадезе»); a letter seems to have dropped out. Translated as 'Indian Hitopadesha'."
+  ],
+  "result": "PASS"
+}

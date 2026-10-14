@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.09",
+  "source_path": "corpus/krug_chtenija/v42_022_024_Krug_chtenija_daily_sep_2_1.md",
+  "source_sha256": "9371b662ee640a2f24e46356b96548b07619cb5fea76143800a6096c9b98e404",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (38) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The source prints «Мф. гл. 8, ст. 3—4, 6» (Mf. gl. 8, st. 3–4, 6); the text is Matthew 18:3–4, 6, and the reference is corrected. The Psalm is given in English numbering (Synodal «Пс. 8, 3», Ps. 8:3 = Psalm 8:2); Gospel and Psalm verses are translated from the Russian wording, with «соблазнит» (soblaznit, 'tempts') kept to the temptation vocabulary and «отче» (otche, 'father') lowercase as printed. In Amiel both «благо» (blago, 'the good') and «добро» (dobro, 'good') are 'good'.",
+    "Source observation: [5] The source prints «Мф. гл. 8, ст. 3—4, 6»; the quoted text is Matthew 18:3–4, 6 (Synodal), so the English gives Matthew 18:3–4, 6.",
+    "Source observation: [34] The attribution «Кант.» is printed in roman and without the quote prefix, unlike the book's other attribution lines; kept as printed."
+  ],
+  "result": "PASS"
+}

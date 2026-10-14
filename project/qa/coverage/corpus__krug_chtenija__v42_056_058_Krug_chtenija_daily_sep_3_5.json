@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.23",
+  "source_path": "corpus/krug_chtenija/v42_056_058_Krug_chtenija_daily_sep_3_5.md",
+  "source_sha256": "2bbfd0ed1eb04371555b4951bb1aa82f0c7dba7ea1cd0d6d8fcc5384636e96be",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 3 had no website counterpart and were translated fresh.",
+    "«Вера» (vera) is 'faith' and «ложная вера» (lozhnaya vera) 'false faith' throughout; Lessing's «церковность» (tserkovnost') is 'churchliness'. The opening thought and its second paragraph, which the website lacked, are translated fresh; the periodical «Передовая мысль мира» (Peredovaya mysl' mira) is The World's Advance Thought."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.10",
+  "source_path": "corpus/krug_chtenija/v42_025_031_Krug_chtenija_weekly_sep_2_Beglets.md",
+  "source_sha256": "37e69591327085b17343a10f45b2a23e23edefe05a4c9c3a5d1d52b568ee21a5",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (79) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Chekhov's story as Tolstoy printed it, translated closely from this Russian text. «Фельдшер» (fel'dsher) is 'doctor's assistant', «фельдшерица» (fel'dsheritsa, a woman feldsher) 'the woman assistant', and «сиделка» (sidelka) 'nurse'; the mother's «батюшка» (batyushka, literally 'little father') is 'sir' each time, so that the doctor's mockery of the word carries. Pashka's two night cries «Ма-а-ма» and «Ма-амка» (mamka, 'mammy') are kept distinct, and the doctor's «Ну и дурак» ('Well, what a fool') and «Бить ... да некому» ('beaten, but there's no one to do it') repeat at the end as in the source.",
+    "Source observation: [50] «хотел сделать то же самое но подумал»: the comma before «но» ('but') is missing; translated with the evident sense."
+  ],
+  "result": "PASS"
+}

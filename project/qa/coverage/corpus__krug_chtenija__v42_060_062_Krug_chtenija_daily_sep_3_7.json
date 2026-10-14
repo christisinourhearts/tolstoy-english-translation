@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.25",
+  "source_path": "corpus/krug_chtenija/v42_060_062_Krug_chtenija_daily_sep_3_7.md",
+  "source_sha256": "2c983eced94fa5cbe0d48504b32d187d2a057033c66d3cb639e27265728a4dc4",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (34) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Поступки» (postupki, 'actions') is 'actions' throughout, and the Dhammapada's «не угаснет … угашается» (ne ugasnet … ugashaetsya, 'will not be extinguished … is extinguished') keeps its repeated verb; «Небо» (Nebo, 'Heaven') is capitalized as in Luther's saying. The attribution «Буддийская мудрость Дхаммапада» (Buddiyskaya mudrost' Dkhammapada, 'Buddhist wisdom Dhammapada') is given as in the earlier September files."
+  ],
+  "result": "PASS"
+}

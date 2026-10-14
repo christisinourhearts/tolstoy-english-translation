@@ -1,0 +1,13 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_237_240_Krug_chtenija_daily_nov_2_3.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[10] the year 1682 is printed for Leighton's punishment, which took place in 1630; translated as printed (a source error, not a transcription slip)",
+    "[19] «фон-Поппенгейм» (fon-Poppengeym): the imperial marshal at Constance was Haupt von Pappenheim; rendered as printed, 'von Poppenheim'",
+    "[22] «Тогда палачи зажгли костер» (Togda palachi zazhgli koster, 'Then the executioners lit the pyre') follows the flame and Hus's falling silent; it reads as displaced (by sense it belongs after [20]); translated where printed",
+    "[24] «мы не может знать» has «может» (mozhet, 'can', 3rd sg.) for «можем» (mozhem, 'we can'); translated 'we cannot know'"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

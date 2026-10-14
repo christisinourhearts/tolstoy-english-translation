@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.06",
+  "source_path": "corpus/krug_chtenija/v42_016_018_Krug_chtenija_daily_sep_1_5.md",
+  "source_sha256": "db6b3c17a90337dcd9859f316950f13326db18965c69bb31d29e7edafc687ccc",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The opening plays on «наказывать» (nakazyvat'), which means 'to punish' but in its older sense 'to instruct, enjoin', and «поучать» (pouchat', 'to instruct'); it is kept literal ('To punish—in Russian means to instruct'). Matthew 18:21–22 and John 8:3–11 are translated from the Russian wording («седмижды семидесяти», sedmizhdy semidesyati, 'seven times seventy'), and the Slavonic «Мне отмщение, и аз воздам» (Mne otmshcheniye, i az vozdam, Romans 12:19) is 'Vengeance is mine, and I shall repay'; «Джеферсон» (Dzheferson) is Jefferson."
+  ],
+  "result": "PASS"
+}

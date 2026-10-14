@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.19",
+  "source_path": "corpus/krug_chtenija/v42_155_157_Krug_chtenija_daily_oct_3_4.md",
+  "source_sha256": "a1d30dc27587501f0a7ddb7d34698f342bf42e5452bea30493dadddcf8cb6414",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (14) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The Gospel verse (John 12:35) is translated from Tolstoy's Russian. In Epictetus «порочные помыслы» (porochnye pomysly) is 'vicious thoughts' throughout and «плотский соблазн» (plotskiy soblazn) 'carnal temptation'; «ты подкладываешь дров в огонь» (ty podkladyvaesh' drov v ogon') keeps its image, 'you are putting wood on the fire'."
+  ],
+  "result": "PASS"
+}

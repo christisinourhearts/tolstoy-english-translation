@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.09.08",
+  "source_path": "corpus/krug_chtenija/v42_020_022_Krug_chtenija_daily_sep_1_7.md",
+  "source_sha256": "364d8051374fd7d81198831e3170da0511ac02a1e6ae94537c3cb88eaaf0cd79",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благо» (blago) is 'a good', «личность» (lichnost') 'personality', and «плотская смерть» (plotskaya smert') 'fleshly death'; «особенное отношение к миру» (osobennoye otnosheniye k miru) is 'particular relation to the world', and Tolstoy's italic «я» (ya, 'I') stays italic. «А этого-то и нет» (A etogo-to i net, 'and this is just what is not so') is restored where the website draft had 'But no such proof has been given'."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_232_234_Krug_chtenija_daily_nov_1_7.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[11] «a наяву» has a Latin a for the Cyrillic conjunction «а» (a, 'and/but'); no effect on sense",
+    "[12] «никогда не усомнились бы в том, что это не настоящая жизнь» (literally 'would never doubt that it is not real life'): the negation appears pleonastic, since the argument requires 'that it is real life'; translated literally",
+    "[19] «я был бы счастлив доволен» (ya byl by schastliv dovolen, 'I would be happy content') lacks «и» (i, 'and'); translated 'happy and content'"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

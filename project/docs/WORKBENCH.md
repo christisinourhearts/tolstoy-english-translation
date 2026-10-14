@@ -297,4 +297,13 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Reference-line corrections: 11 July Luke 6:30–31 (printed 5:30–31); 21 August Matthew 6:7–8 (printed 6:9). Kept as printed in Tolstoy's sentence: 1 July "Matthew 24:14–30" (talents: Matthew 25).
 - Print checks for July–August are listed in `project/qa/batches/R003.md` (several attributions printed before passages that seem to belong to them).
 - Website: 857 units updated in `07.js`/`08.js`; weekly titles aligned.
-- Next: R003.09 = September.
+- R003.09–11 done 2026-10-14 (see below).
+
+## 2026-10-14 — R003.09–11: September, October, November; review queue
+
+- 105 files (37 September, 34 October, 34 November; ~78,000 Russian words), all reviewed. Weekly readings include *Why Do Men Stupefy Themselves?*, Chekhov's *The Fugitive*, *The Power of Childhood*, *Petr Chelčický*, *The Death of Socrates*, *What For?*, Turgenev's *Living Relics*, *The Law of God and the Law of This World*, *Lamennais*, Rousseau's *Revelation and Reason*, *The Divine and the Human*, Chelčický's *Christianity and the Division of People*, *The Demands of Love*, and Hugo's *Bishop Myriel*. January–November are complete.
+- The two longest stories were translated in consecutive parts (2 and 3), each part reading the earlier parts and their glossary first; part files are kept with the working drafts.
+- New: `project/qa/R003_REVIEW_QUEUE.md` collects every open item from R003 (print checks, conventions to confirm, uncertain identifications, website notes) as a checklist for Andrei.
+- Website: 1,789 units updated in `09.js`/`10.js`/`11.js`; verse and table lines that the site keeps as separate units were updated line by line (20 July Ovid, 12 August Musset/Sully Prudhomme, 15 July Gospel table); five site units whose Russian had been cut off at a footnote marker were restored in full; footnote glosses given inline in brackets on the site.
+- Files to upload by FTP: `assets/data/calendar-of-wisdom/02.js`, `04.js`, `07.js`, `09.js`, `10.js`, `11.js`, `assets/data/calendar-of-wisdom.js`, `refuge/index.html`, `circle-of-reading/index.html`.
+- Next: R003.12 = December (the last month).

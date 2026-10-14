@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.10.27",
+  "source_path": "corpus/krug_chtenija/v42_171_173_Krug_chtenija_daily_oct_4_4.md",
+  "source_sha256": "9048b4bf0fdb5401164784ec4f85e70adb36d149eb58703680c0a0af93cf2954",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Назначение» (naznachenie, 'calling, purpose') is rendered 'calling' in both Tolstoy's opening thought and Emerson, and «достоинство» (dostoinstvo) 'dignity'; Tolstoy's generic «человек» (chelovek, 'person') keeps 'he/his'. «Иосиф Мадзини» is Giuseppe Mazzini; in Herzen «свобода лица» (svoboda litsa) is 'the freedom of the person'."
+  ],
+  "result": "PASS"
+}

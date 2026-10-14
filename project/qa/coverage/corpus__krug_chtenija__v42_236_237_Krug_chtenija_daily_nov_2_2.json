@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.11.10",
+  "source_path": "corpus/krug_chtenija/v42_236_237_Krug_chtenija_daily_nov_2_2.md",
+  "source_sha256": "22c3faa519e6fa18788553ea61d61cd18b00a8295c98b0de0394643bfcabbf3e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Both «себялюбие» (sebyalyubie) and Pascal's «самолюбие» (samolyubie) are rendered 'self-love'; «совершенствование» (sovershenstvovanie) is 'perfecting' and «совершенство» (sovershenstvo) 'perfection'."
+  ],
+  "result": "PASS"
+}
