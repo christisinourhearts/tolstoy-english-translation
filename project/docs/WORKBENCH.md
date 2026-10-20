@@ -306,4 +306,12 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - New: `project/qa/R003_REVIEW_QUEUE.md` collects every open item from R003 (print checks, conventions to confirm, uncertain identifications, website notes) as a checklist for Andrei.
 - Website: 1,789 units updated in `09.js`/`10.js`/`11.js`; verse and table lines that the site keeps as separate units were updated line by line (20 July Ovid, 12 August Musset/Sully Prudhomme, 15 July Gospel table); five site units whose Russian had been cut off at a footnote marker were restored in full; footnote glosses given inline in brackets on the site.
 - Files to upload by FTP: `assets/data/calendar-of-wisdom/02.js`, `04.js`, `07.js`, `09.js`, `10.js`, `11.js`, `assets/data/calendar-of-wisdom.js`, `refuge/index.html`, `circle-of-reading/index.html`.
-- Next: R003.12 = December (the last month).
+- R003.12 done 2026-10-20 (see below).
+
+## 2026-10-20 — R003.12: December; the calendar is complete
+
+- 40 files (~27,700 Russian words), all reviewed. Weekly readings: *Women* and *Sisters* (after Maupassant), Tolstoy's preface to *The Teaching of the Twelve Apostles* and the Didache, *Love One Another*, *Garrison and His “Proclamation”* and the Proclamation, Herzen's *The Damaged One*, and V. Olkhovsky on the Nazarenes. With this, every day and weekly reading of *Circle of Reading* (January–December) is translated and reviewed in `translations/circle_of_reading/`.
+- Website: 636 units updated in `12.js`; three Herzen units whose Russian had been cut off at footnote markers restored in full; weekly titles aligned.
+- `project/qa/R003_REVIEW_QUEUE.md` regenerated: decisions, conventions to confirm, uncertain names, 61 passages for a print check, website notes (including Andrei's idea of clickable underlined glosses instead of bracketed ones), and the remaining appendix files.
+- Files to upload by FTP: `assets/data/calendar-of-wisdom/12.js`, `assets/data/calendar-of-wisdom.js`, `refuge/index.html`, `circle-of-reading/index.html` (plus any earlier files not yet uploaded).
+- Next (if wanted): the appendix files (monthly readings, censored thoughts, reserve days, variants, unfinished exposition; ~47,000 words).

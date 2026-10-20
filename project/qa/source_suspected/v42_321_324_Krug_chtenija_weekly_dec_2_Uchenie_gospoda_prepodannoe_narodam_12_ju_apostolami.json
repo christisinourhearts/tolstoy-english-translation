@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_321_324_Krug_chtenija_weekly_dec_2_Uchenie_gospoda_prepodannoe_narodam_12_ju_apostolami.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[16] «со страхом при всяком случае вспоминай эти, которые ты слышал» (so strakhom pri vsyakom sluchae vspominay eti, kotorye ty slyshal, 'with fear on every occasion remember these, which you have heard') lacks a noun after «эти» ('these'), probably «слова» ('words'); translated as printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

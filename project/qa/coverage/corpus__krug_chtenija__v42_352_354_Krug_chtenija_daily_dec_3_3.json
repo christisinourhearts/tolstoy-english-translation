@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.24",
+  "source_path": "corpus/krug_chtenija/v42_352_354_Krug_chtenija_daily_dec_3_3.md",
+  "source_sha256": "8bfedb54c8a1b227d551467b94cb83ef63ee9f28f5ccced3460a68093f04f0f8",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (21) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In the Pascal reading «начало жизни» (nachalo zhizni) is 'source of life' and «разумение» (razumenie) 'understanding', by the book's terms; the passage's repeated «тело» (telo, 'body') and «член» (chlen, 'member') are kept unvaried. The reading from 1 Corinthians follows Tolstoy's Russian, including its present tense in verse 17."
+  ],
+  "result": "PASS"
+}

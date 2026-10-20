@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.26",
+  "source_path": "corpus/krug_chtenija/v42_356_358_Krug_chtenija_daily_dec_3_5.md",
+  "source_sha256": "4e9dff7c34c0618ddaf8b5c702a0fc47cb66a1c1e4014ad664491ed318640b00",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (34) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благо» (blago, 'the good') and «положить жизнь в» (polozhit' zhizn' v, 'to place one's life in'), repeated by Epictetus and Pascal, are kept constant; «духовное совершенствование» (dukhovnoe sovershenstvovanie) is 'spiritual perfecting'. Attributions follow the print («Джон Рёскин», Dzhon Ryoskin, 'John Ruskin'; Lichtenberg with its final period).",
+    "Source observation: [21] «истинно благо» (istinno blago, 'truly good') reads like a slip for «истинное благо» (istinnoe blago, 'the true good'); translated as 'the true good'."
+  ],
+  "result": "PASS"
+}

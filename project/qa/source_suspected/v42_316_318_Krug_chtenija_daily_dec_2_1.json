@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_316_318_Krug_chtenija_daily_dec_2_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[21] Matthew 5:44 («А я говорю вам: любите врагов ваших…», A ya govoryu vam: lyubite vragov vashikh, 'But I say to you: love your enemies…') is printed after the reference line [20], unquoted, instead of between [15] and [16] where it belongs; translated in place as printed"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

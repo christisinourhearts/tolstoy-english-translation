@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_385_386_Krug_chtenija_daily_dec_5_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[3] The attribution «*Летурно.*» ('Letourneau') stands under the day's opening thought, outside any quotation; kept as printed.",
+    "[15] This paragraph evidently continues the Anatole France passage of [13] (the slave-and-soldier comparison) but is printed after the attribution as unquoted text; possibly misplaced quotation markup or attribution; kept as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

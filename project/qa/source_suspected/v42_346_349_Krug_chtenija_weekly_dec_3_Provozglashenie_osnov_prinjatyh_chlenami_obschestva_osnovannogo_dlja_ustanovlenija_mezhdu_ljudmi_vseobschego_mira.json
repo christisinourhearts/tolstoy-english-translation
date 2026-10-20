@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_346_349_Krug_chtenija_weekly_dec_3_Provozglashenie_osnov_prinjatyh_chlenami_obschestva_osnovannogo_dlja_ustanovlenija_mezhdu_ljudmi_vseobschego_mira.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[5] «признаем нехристианским незаконным» (priznaem nekhristianskim nezakonnym, 'we recognize as unchristian unlawful') lacks the «и» ('and') printed in the parallel phrases before and after it; translated as 'unchristian and unlawful'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

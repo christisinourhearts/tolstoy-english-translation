@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.39",
+  "source_path": "corpus/krug_chtenija/v42_389_391_Krug_chtenija_daily_dec_5_2.md",
+  "source_sha256": "dffd5e21cbde0f2ba5a463c4f6f0567ecfc09cc7ab7685cf71e71129b7bd5c2b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Братство» (bratstvo) is 'brotherhood' throughout, and «сознание» (soznanie) 'consciousness'; «начало» (nachalo) is 'source', as elsewhere in the book. The Gospel words in Lamennais and Tolstoy's closing «едино стадо и един пастырь» (edino stado i edin pastyr', 'one flock and one shepherd') are translated from the Russian, and «отец» (otets, 'father') keeps the source's lowercase."
+  ],
+  "result": "PASS"
+}

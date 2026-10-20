@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.14",
+  "source_path": "corpus/krug_chtenija/v42_331_333_Krug_chtenija_daily_dec_2_2.md",
+  "source_sha256": "e2727a3b99be8f01f5050cf2327df31d375bebb51ca00ce3e737e5fa9f381e72",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Отечество» (otechestvo) is 'fatherland' throughout, and «внушение» (vnushenie, 'suggestion') and «внушать» (vnushat', 'instill') keep the sense of patriotism as something implanted from outside. Attributions are surnames as printed (Johnson, Theodorus, Beecher)."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.25",
+  "source_path": "corpus/krug_chtenija/v42_354_356_Krug_chtenija_daily_dec_3_4.md",
+  "source_sha256": "a2904c1bf4e50e8a10585f61c614a7fa4fdf5830e609d7ef49d3d5c596df69e3",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (26) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Совершенствоваться» (sovershenstvovat'sya) is 'perfect itself' and «совершенствование» (sovershenstvovanie) 'perfecting'; in the Lamennais reading «царь будущего» (tsar' budushchego, 'king of the future') and «царь грядущего» (tsar' gryadushchego, 'king of what is to come') are kept distinct as printed. Attributions follow the print: «Гижицкий» (Gizycki, not expanded as in the website draft) and «Сольтер» (Salter); the closing thought keeps Tolstoy's image of a horse in harness, «не фальшивь, а натягивай постромки» (ne fal'shiv', a natyagivay postromki, 'do not shirk, but pull your traces taut')."
+  ],
+  "result": "PASS"
+}

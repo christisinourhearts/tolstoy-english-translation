@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.06",
+  "source_path": "corpus/krug_chtenija/v42_309_310_Krug_chtenija_daily_dec_1_4.md",
+  "source_sha256": "4af7193ce92b0305d094ab2b56980ca7bf1ff2635ddfc9e706c96389d57ed644",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (20) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Pronouns for God are lowercase as in the source, and «сын божий» (syn bozhiy) is 'son of God'; «разумение» (razumenie) in the Emerson reading is 'understanding'. The attribution printed «Джон Рёскин» (Dzhon Ryoskin) is given as “John Ruskin.”",
+    "Source observation: [10] The unquoted paragraph about the dog, after the attribution to Epictetus, continues the image of his horse passage (block [6]) and may belong to it; translated as printed, outside the quotation."
+  ],
+  "result": "PASS"
+}

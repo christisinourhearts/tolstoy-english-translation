@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.37",
+  "source_path": "corpus/krug_chtenija/v42_385_386_Krug_chtenija_daily_dec_5_1.md",
+  "source_sha256": "299a8940dcc107b24abe66c341b72b5762c81a889e70db15836d023eb4884242",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 3 had no website counterpart and were translated fresh.",
+    "«Негр» (negr) is rendered with the period term 'Negro' as in the 1906 text, not modernized; «экю» (ekyu) is 'écus'. The attribution «Летурно» (Leturno, 'Letourneau') stands under the opening thought, and the paragraph after «Анатоль Франс» (Anatol' Frans, 'Anatole France') is printed unquoted; both are kept as printed.",
+    "Source observation: [3] The attribution «*Летурно.*» ('Letourneau') stands under the day's opening thought, outside any quotation; kept as printed.",
+    "Source observation: [15] This paragraph evidently continues the Anatole France passage of [13] (the slave-and-soldier comparison) but is printed after the attribution as unquoted text; possibly misplaced quotation markup or attribution; kept as printed."
+  ],
+  "result": "PASS"
+}

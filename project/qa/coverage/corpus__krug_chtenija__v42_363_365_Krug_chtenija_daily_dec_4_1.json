@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.29",
+  "source_path": "corpus/krug_chtenija/v42_363_365_Krug_chtenija_daily_dec_4_1.md",
+  "source_sha256": "614de2b2e571f5ef4ecc9c6455a3cd99654e20477db8974e757039b26a3c9f7f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (30) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Власть» (vlast', 'power') is kept as 'power' throughout, and the closing thought's «правда» / «неправда» (pravda / nepravda) are 'right' / 'wrong', as the context of laws requires. «Феодор Страхов» (Feodor Strakhov) is the same F. A. Strakhov given elsewhere as Fyodor Strakhov; «Иатс» (Iats), unidentified, is transliterated as printed. Amiel's «сознание» (soznanie, 'consciousness') and his «девять праведников» (devyat' pravednikov, 'nine righteous men') are kept as printed, though Genesis 18:32 has ten.",
+    "Source observation: [4] «Девять праведников могли спасти Содом» ('nine righteous men could have saved Sodom'): Genesis 18:32 has ten; translated as printed."
+  ],
+  "result": "PASS"
+}

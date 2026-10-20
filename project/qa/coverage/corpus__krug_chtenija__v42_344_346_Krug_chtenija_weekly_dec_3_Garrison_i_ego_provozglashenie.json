@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.21",
+  "source_path": "corpus/krug_chtenija/v42_344_346_Krug_chtenija_weekly_dec_3_Garrison_i_ego_provozglashenie.md",
+  "source_sha256": "5684dc1fc7527475fa5d4bc26a7838acabbb8e5c84c33a6a6811a380d812898f",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (9) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Провозглашение» (provozglashenie, 'proclamation') is Tolstoy's title for the 1838 Declaration of Sentiments and is kept as 'Proclamation'; «непротивление злу насилием» (neprotivlenie zlu nasiliem) is 'non-resistance to evil by violence', and the English words «non resistance» that Tolstoy adds after it are kept as printed. «Негры» (negry) is rendered with the period term 'Negroes', distinct from «черные» (chyornye, 'blacks') in the same sentence."
+  ],
+  "result": "PASS"
+}

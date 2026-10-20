@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.09",
+  "source_path": "corpus/krug_chtenija/v42_314_316_Krug_chtenija_daily_dec_1_7.md",
+  "source_sha256": "38e551eb86ac9c3e44a19c9a1f7e0efcc0ad3d160af2a9071cb45273c7d7aae6",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "In John 12:24–25 «душа» (dusha) is kept as 'soul' ('he who loves his soul will destroy it'), translated from the Russian rather than from an English Bible (D0002). The Laozi attribution is printed in the source with mixed Latin and Cyrillic letters and is rendered 'Laozi.'",
+    "Source observation: [20] the attribution «Лao-Tce» is typed with Latin a, o, T, c, e mixed into the Cyrillic (for «Лао-Тсе», Lao-Tse); translated as Laozi",
+    "Source observation: [13] Lichtenberg's opening sentence «Разве мы не воскресли уж однажды…» (Razve my ne voskresli uzh odnazhdy, 'Have we not already risen once…') is a question but ends with a period; the period is kept as printed"
+  ],
+  "result": "PASS"
+}

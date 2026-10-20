@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.30",
+  "source_path": "corpus/krug_chtenija/v42_366_374_Krug_chtenija_weekly_dec_4_Povrezhdennyj.md",
+  "source_sha256": "531e6d11a5a41c8448e3d00953186f007ce533125dcb310810ecd288f65646c2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (72) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form); blocks 2, 14, 64, 67, 70, 71 had no website counterpart and were translated fresh.",
+    "«Поврежденный» (povrezhdenny, 'damaged') is 'the damaged one' in the title and in the narrator's own use, and the physician's «повредилась» (povredilas', 'got damaged') of the 'machine' keeps the same root; «лекарь» (lekar', 'physician', the lower medical degree) and «доктор» (doktor, 'doctor') are kept distinct as Herzen varies them, and the pun «за границей» / «в границах» (za granitsey / v granitsakh, 'beyond the border' / 'within the border') is kept literal. The Latin, French, and German phrases stay in the body with the Russian footnote glosses translated; six blocks with no website draft (the opening paragraph, the physician's reply with the Latin tag, his 'orangutans' remark, Yevgeny Nikolaevich's long last speech, and the notes) were translated fresh.",
+    "Source observation: [2] «восчики» (voschiki) is evidently a slip for «возчики» (vozchiki, 'carters'); translated 'carters'.",
+    "Source observation: [17] «т. e.» is printed with a Latin 'e' in the abbreviation «т. е.» (t. e., 'that is'); no effect on the sense.",
+    "Source observation: [65] «Ост-Индской кампании» (kampanii, 'campaign') is evidently «компании» (kompanii, 'company'); translated 'the East India Company'."
+  ],
+  "result": "PASS"
+}

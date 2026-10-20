@@ -1,0 +1,14 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_386_389_Krug_chtenija_weekly_dec_5_O_sekte_nazaren_rasprostranivshejsja_v_Vengrii_Serbii_i_Horvatii.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[5] reference «(5, 38 Матф.)» for «А я говорю вам: не противься злому» ('But I say to you: do not resist evil'); the verse is Matthew 5:39; corrected in the English",
+    "[7] «Вечбас» (Vechbas) in Bačka is unidentified, possibly a slip for Verbász (Vrbas, Russian «Вербас»); kept as printed",
+    "[13] «Тамешвар» (Tameshvar) for Temesvár («Темешвар»); rendered Temesvár",
+    "[13] the inner quotation «Люби ближнего, как самого себя. ('Love your neighbor as yourself.') has no closing guillemet; closed after «себя» in the English, since the following sentence is Novak's own",
+    "[16] «Великая Кокинда» (Velikaya Kokinda) for Velika Kikinda (Nagykikinda); rendered Velika Kikinda"
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

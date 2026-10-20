@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.34",
+  "source_path": "corpus/krug_chtenija/v42_379_381_Krug_chtenija_daily_dec_4_5.md",
+  "source_sha256": "5230e85cdc563108ee67c6e36b5765819cf41a54d02c5907f023f277f25c2c8e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (27) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Воспитание» (vospitanie) is 'upbringing' throughout, so Amiel's «воспитывай сам себя» (vospityvay sam sebya) is 'bring yourself up', and «внушение» (vnushenie) is 'suggestion'. Reading 7's question ends with a period, as printed."
+  ],
+  "result": "PASS"
+}

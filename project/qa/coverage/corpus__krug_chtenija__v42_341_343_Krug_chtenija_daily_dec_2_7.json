@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.19",
+  "source_path": "corpus/krug_chtenija/v42_341_343_Krug_chtenija_daily_dec_2_7.md",
+  "source_sha256": "bfade088c07678aec1c3d538f6c18341a24130bba52a27fc26d34b887dc11768",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Однородна с божеством» (odnorodna s bozhestvom) is 'of one nature with divinity' and Emerson's «единородными» (edinorodnymi) 'of one kin', with «несоизмеримыми» (nesoizmerimymi) 'incommensurable' (the website draft had 'immeasurable'). Amiel's «Ангелус» (Angelus, i.e. Angelus Silesius) and the attributions «Суфи» (Sufi) and «Гераклит» (Heraclitus, printed without a period) are kept as printed."
+  ],
+  "result": "PASS"
+}

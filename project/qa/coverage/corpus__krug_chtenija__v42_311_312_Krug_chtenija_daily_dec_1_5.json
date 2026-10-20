@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.07",
+  "source_path": "corpus/krug_chtenija/v42_311_312_Krug_chtenija_daily_dec_1_5.md",
+  "source_sha256": "2e513f7d823c8f059c40b8d3c9eb1b1dd428cbe8465b2d648b6b4a730879de8e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (17) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum, 'reason') is 'reason' throughout, including Tolstoy's closing thought, where the website draft had 'mind'. Lucy Mallory's parenthetical reference «(Иоан. 4 гл.)» (Ioan. 4 gl., 'John, ch. 4') is kept as printed as “(John 4)”; «церковное христианство» (tserkovnoe khristianstvo) is 'church Christianity'."
+  ],
+  "result": "PASS"
+}

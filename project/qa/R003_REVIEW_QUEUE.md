@@ -1,13 +1,14 @@
 # R003 review queue — *Circle of Reading* translation
 
-Everything from the R003 translation batches (January–November so far) that needs Andrei's eye: print checks against the printed volume, decisions to confirm, uncertain identifications, and website notes. Tick items off (`[x]`) or add a decision line under them. Each batch's own list is also in `project/qa/batches/R003.md`; per-file details are in `project/qa/source_suspected/` and each file's `translation_note`.
+Everything from the R003 translation batches (the whole calendar, January–December) that needs Andrei's eye: print checks against the printed volume, decisions to confirm, uncertain identifications, and website notes. Tick items off (`[x]`) or add a decision line under them. Each batch's own list is also in `project/qa/batches/R003.md`; per-file details are in `project/qa/source_suspected/` and each file's `translation_note`.
 
-Last updated: 2026-10-14 (after R003.09–11).
+Last updated: 2026-10-20 (after R003.12; the calendar is complete).
 
 ## 1. Decisions already made (for the record)
 
 - [x] 2 March «время» → "burden" (Andrei). Recorded in `source_errata.yml`.
 - [x] Wrong Bible reference in a *reference line* → corrected in the English, printed form recorded in the note (Luke 16:18 for «Лк. 26, 18»; Mark 8:35 for «Мф. 8, 35»; Luke 6:30–31; Matthew 6:7–8; Matthew 18:3–4, 6).
+- [x] Wrong reference in a *parenthetical citation* inside a quotation (e.g. «(Иезекииль 22, 27)») → treated like a reference line and corrected (Ezekiel 27:29; Matthew 5:39).
 - [x] Wrong reference *inside Tolstoy's sentence* → kept as printed, explained in the note (28 June "Luke 8, verse 24" for 8:21; 1 July "Matthew 24" for the talents).
 - [x] One-letter transcription slips → translated in their evident sense, recorded (about 80 files have such non-substantive notes in `source_suspected/`).
 
@@ -37,11 +38,14 @@ Last updated: 2026-10-14 (after R003.09–11).
 - [ ] 27 Oct «Пёзей» → "Pusey" (identification not certain); 29 Oct «Даниэль» → "Daniel".
 - [ ] 24 Nov «Никоншау» → "Nikonshau" (Mencius's Ox Mountain).
 - [ ] 1 Aug «Лорд Герберт» → "Lord Herbert" (perhaps George Herbert).
+- [ ] 18 Dec «Иатс» → "Iats" (unidentified); 10 Dec «Теодорус», «Бичер» → "Theodorus", "Beecher".
+- [ ] 1 Dec *Sisters*: «Кашо» → "Kasho" (Maupassant's name not confirmed).
+- [ ] 29 Dec weekly: «Вечбас» (Vrbas/Verbász?).
 - [ ] 21 Sep Mexican king's testament dated «около 1460 года до Р. Хр.» ("B.C."); Nezahualcoyotl lived A.D. 1402–1472.
 
-## 4. Print checks (volume 41–42): passages to compare with the printed page
+## 4. Print checks (volumes 41–42): passages to compare with the printed page
 
-Mostly: an attribution printed before a paragraph that seems to belong to the same author; quotations missing their formatting; a missing section number; a suspicious word. The English follows the print in every case.
+Mostly: an attribution printed before a paragraph that seems to belong to the same author; quotations missing their formatting; a missing or misnumbered section; a suspicious word. The English follows the print in every case.
 
 - [ ] **6 March** (vol. 41, pp. 151-153) — `v41_151_153_Krug_chtenija_daily_mar_1_6.md`
   - [5] The reference reads «стр. 35—40» (str., 'pages') where «ст.» (st., 'verses') is meant; rendered as Matthew 22:35–40.
@@ -147,15 +151,41 @@ Mostly: an attribution printed before a paragraph that seems to belong to the sa
   - [13] this paragraph, plainly continuing Flammarion ('this strange planet'), is printed after the attribution «Фламмарион.» and outside the quotation; translated as printed
 - [ ] **28 November** (vol. 42, pp. 289-291) — `v42_289_291_Krug_chtenija_daily_nov_4_7.md`
   - [7] this paragraph, from the same Emerson source, is printed after the attribution «Эмерсон.» and outside the quotation; translated as printed
+- [ ] **1 December** (vol. 42, pp. 294-296) — `v42_294_296_Krug_chtenija_daily_dec_1_1.md`
+  - [13] Section numbers run 1, 2, 3, 5: the number 4 is missing in the source (the paragraph in block [12] presumably being reading 4); translated as printed.
+- [ ] **3 December** (vol. 42, pp. 307-309) — `v42_307_309_Krug_chtenija_daily_dec_1_3.md`
+  - [18] The question «лишиться ли всего того, что теперь считается искусством, вместе с ложным, и всего хорошего, которое есть теперь» has no second alternative after «ли» (li, 'whether'); the sentence is translated as printed.
+- [ ] **4 December** (vol. 42, pp. 309-310) — `v42_309_310_Krug_chtenija_daily_dec_1_4.md`
+  - [10] The unquoted paragraph about the dog, after the attribution to Epictetus, continues the image of his horse passage (block [6]) and may belong to it; translated as printed, outside the quotation.
+- [ ] **8 December** (vol. 42, pp. 316-318) — `v42_316_318_Krug_chtenija_daily_dec_2_1.md`
+  - [21] Matthew 5:44 («А я говорю вам: любите врагов ваших…», A ya govoryu vam: lyubite vragov vashikh, 'But I say to you: love your enemies…') is printed after the reference line [20], unquoted, instead of between [15] and [16] where it belongs; translated in place as printed
+- [ ] **The Teaching of the Lord, Imparted to the Nations by the 12 Apostles** (vol. 42, pp. 321-324) — `v42_321_324_Krug_chtenija_weekly_dec_2_Uchenie_gospoda_prepodannoe_narodam_12_ju_apostolami.md`
+  - [16] «со страхом при всяком случае вспоминай эти, которые ты слышал» (so strakhom pri vsyakom sluchae vspominay eti, kotorye ty slyshal, 'with fear on every occasion remember these, which you have heard') lacks a noun after «эти» ('these'), probably «слова» ('words'); translated as printed
+- [ ] **10 December** (vol. 42, pp. 333-336) — `v42_333_336_Krug_chtenija_daily_dec_2_3.md`
+  - [7] section number printed «9» between 1 and 3; the sequence requires 2. Kept as printed.
+- [ ] **11 December** (vol. 42, pp. 336-337) — `v42_336_337_Krug_chtenija_daily_dec_2_4.md`
+  - [11] Bible reference printed «(Иезекииль 22, 27)»; the quoted verse is Ezekiel 27:29 (Synodal «И сойдут с кораблей своих все гребцы…»). Corrected in the English.
+- [ ] **22 December** (vol. 42, pp. 363-365) — `v42_363_365_Krug_chtenija_daily_dec_4_1.md`
+  - [4] «Девять праведников могли спасти Содом» ('nine righteous men could have saved Sodom'): Genesis 18:32 has ten; translated as printed.
+- [ ] **27 December** (vol. 42, pp. 381-383) — `v42_381_383_Krug_chtenija_daily_dec_4_6.md`
+  - [17] «Эта крепость была сделана для костей» ('this fortress was made for bones'): the Dhammapada image (v. 150) is a fortress made of bones, so «для» (dlya, 'for') may stand for «из» (iz, 'of'); translated as printed.
+- [ ] **29 December** (vol. 42, pp. 385-386) — `v42_385_386_Krug_chtenija_daily_dec_5_1.md`
+  - [3] The attribution «*Летурно.*» ('Letourneau') stands under the day's opening thought, outside any quotation; kept as printed.
+  - [15] This paragraph evidently continues the Anatole France passage of [13] (the slave-and-soldier comparison) but is printed after the attribution as unquoted text; possibly misplaced quotation markup or attribution; kept as printed.
+- [ ] **On the Sect of the Nazarenes, Which Has Spread in Hungary, Serbia, and Croatia. By V. Olkhovsky** (vol. 42, pp. 386-389) — `v42_386_389_Krug_chtenija_weekly_dec_5_O_sekte_nazaren_rasprostranivshejsja_v_Vengrii_Serbii_i_Horvatii.md`
+  - [5] reference «(5, 38 Матф.)» for «А я говорю вам: не противься злому» ('But I say to you: do not resist evil'); the verse is Matthew 5:39; corrected in the English
+  - [7] «Вечбас» (Vechbas) in Bačka is unidentified, possibly a slip for Verbász (Vrbas, Russian «Вербас»); kept as printed
 
-## 5. Website notes
+## 5. Website notes and ideas
 
-- [x] Footnotes on the site: the reader page has no footnotes, so the gloss is given inline in brackets (e.g. *kutyata* [puppies]; “Death to the cows!” [policemen]; *Silentium!* [Be silent!]; the German proverb and French lines in *The Divine and the Human*; the French and Latin in *What For?*).
-- [x] Site units whose Russian had been cut off at a footnote marker were restored in full: *The Free Man* (w-07-0029), *The Street Vendor* (w-15-0035), *Pascal* (w-27-0010), *What For?* (w-39-0003), *The Divine and the Human* (w-44-0012). The old text is kept in `originalBeforeR003`.
+- [ ] **Idea (Andrei, 2026-10-20): replace bracketed glosses with clickable notes.** Instead of footnotes, a subtly underlined word or phrase that opens a small popup with the explanation (e.g. Tolstoy's own footnotes, translator's glosses of Russian, French, Latin, German and Polish phrases). Today these glosses appear inline in brackets on the site (e.g. *kutyata* [puppies]; *Silentium!* [Be silent!]; “Death to the cows!” [policemen]; the French, Latin, German and Polish lines in *What For?*, *The Divine and the Human*, *The Damaged One*). The repository keeps them as real footnotes, so a site build could turn each into a popup.
+- [x] Site units whose Russian had been cut off at a footnote marker were restored in full: *The Free Man* (w-07-0029), *The Street Vendor* (w-15-0035), *Pascal* (w-27-0010), *What For?* (w-39-0003), *The Divine and the Human* (w-44-0012), *The Damaged One* (w-51-0013, w-51-0063, w-51-0066). The old text is kept in `originalBeforeR003`.
+- [x] Verse and table lines that the site stores as separate units were updated line by line (20 July Ovid; 12 August Musset/Sully Prudhomme; 15 July Gospel table).
 - [ ] Attribution lines on the site were left in their display form (not rewritten by R003); a later pass could align them with the printed form.
 - [ ] Site data still lacks Tolstoy's italics (all R003 italics live only in the repository).
 - [ ] FTP upload of changed files (see the latest WORKBENCH entry for the list).
 
 ## 6. Still to translate
 
-- [ ] December (R003.12).
+- [x] The calendar, January–December (R003.01–12).
+- [ ] The appendix files of *Krug chteniya* (not part of the daily calendar; about 47,000 Russian words): «Месячные чтения» (monthly readings, ~9,300), «Мысли, выпущенные издателем по цензурным соображениям в первом издании» (thoughts cut by the censor, ~3,700), «Запасные дни первого издания» (reserve days of the first edition, ~7,200), five «Варианты» files (variants, ~21,600), «Незаконченное общедоступное изложение» (unfinished popular exposition, ~5,000).

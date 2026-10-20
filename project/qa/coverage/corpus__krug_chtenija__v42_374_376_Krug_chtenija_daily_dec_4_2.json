@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.31",
+  "source_path": "corpus/krug_chtenija/v42_374_376_Krug_chtenija_daily_dec_4_2.md",
+  "source_sha256": "f56ba594f733a87b25835a3f1113e1d197688dc3030e0a0fa09351fd7d468e5d",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Благо» (blago, 'the good') in its plural «блага» (blaga) is 'the goods' given by wisdom; «ученость» (uchenost', 'learning') and «ученый» (uchyony, 'learned man') keep their shared root, and «божественное начало» (bozhestvennoe nachalo) is 'the divine principle'. «Пуд» (pud) is kept as 'pood', a Russian weight of about 16 kg."
+  ],
+  "result": "PASS"
+}

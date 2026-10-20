@@ -1,0 +1,10 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_294_296_Krug_chtenija_daily_dec_1_1.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[13] Section numbers run 1, 2, 3, 5: the number 4 is missing in the source (the paragraph in block [12] presumably being reading 4); translated as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.38",
+  "source_path": "corpus/krug_chtenija/v42_386_389_Krug_chtenija_weekly_dec_5_O_sekte_nazaren_rasprostranivshejsja_v_Vengrii_Serbii_i_Horvatii.md",
+  "source_sha256": "f61afcd1d7230a20b737cea2a5c6ecd787954b3f678f6fd838e8a7fe29ad2293",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "The mother's cry is in Serbian in the source, glossed in Russian in parentheses; the Serbian is kept in transliteration and only the gloss is translated. «Посредник» (Posrednik, 'The Intermediary') is the publishing house, kept by name; the source prints «5, 38 Матф.» (Matthew 5:38) for «не противься злому» (ne protivsya zlomu, 'do not resist evil'), which is Matthew 5:39, given here. Place names in the evident sense: «Тамешвар» (Tameshvar) is Temesvár and «Великая Кокинда» (Velikaya Kokinda) is Velika Kikinda; «Вечбас» (Vechbas) is kept as printed.",
+    "Source observation: [5] reference «(5, 38 Матф.)» for «А я говорю вам: не противься злому» ('But I say to you: do not resist evil'); the verse is Matthew 5:39; corrected in the English",
+    "Source observation: [7] «Вечбас» (Vechbas) in Bačka is unidentified, possibly a slip for Verbász (Vrbas, Russian «Вербас»); kept as printed",
+    "Source observation: [13] «Тамешвар» (Tameshvar) for Temesvár («Темешвар»); rendered Temesvár",
+    "Source observation: [13] the inner quotation «Люби ближнего, как самого себя. ('Love your neighbor as yourself.') has no closing guillemet; closed after «себя» in the English, since the following sentence is Novak's own",
+    "Source observation: [16] «Великая Кокинда» (Velikaya Kokinda) for Velika Kikinda (Nagykikinda); rendered Velika Kikinda"
+  ],
+  "result": "PASS"
+}

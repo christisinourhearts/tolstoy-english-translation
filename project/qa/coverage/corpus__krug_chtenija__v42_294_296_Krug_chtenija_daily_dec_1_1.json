@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.01",
+  "source_path": "corpus/krug_chtenija/v42_294_296_Krug_chtenija_daily_dec_1_1.md",
+  "source_sha256": "fe184aad2892889f73a4141a817c87bd4d211a0cf77f3bb2372f456d350a1342",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Призвание» (prizvanie, 'calling') and «служение» (sluzhenie, 'service') are kept constant; «самоотвержение» (samootverzhenie) is 'self-sacrifice' and «себялюбие» (sebyalyubie) 'self-love'. «Воспитание» (vospitanie) is 'upbringing', and «зло» (zlo) in reading 4 is 'evil', not the website draft's 'harm'.",
+    "Source observation: [13] Section numbers run 1, 2, 3, 5: the number 4 is missing in the source (the paragraph in block [12] presumably being reading 4); translated as printed."
+  ],
+  "result": "PASS"
+}

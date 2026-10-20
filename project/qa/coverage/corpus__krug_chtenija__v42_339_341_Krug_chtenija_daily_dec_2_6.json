@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.18",
+  "source_path": "corpus/krug_chtenija/v42_339_341_Krug_chtenija_daily_dec_2_6.md",
+  "source_sha256": "cc43ca93b9a6df929325f54b0351d7a6d55fac1cb256f1718172b0a8f7bc24aa",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (29) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Дела» (dela, 'deeds') is 'deeds' throughout, in the opening thought, the reading from James, and the closing thought, so that the day's pairing of faith and deeds stays visible. «Покаяние» (pokayanie, 'repentance') is kept literal in the Mahabharata reading; «Лао-Тсе» (Lao-Tse) is 'Laozi'."
+  ],
+  "result": "PASS"
+}

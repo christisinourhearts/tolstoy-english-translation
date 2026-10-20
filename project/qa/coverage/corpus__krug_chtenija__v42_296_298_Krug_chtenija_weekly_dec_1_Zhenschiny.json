@@ -1,0 +1,20 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.02",
+  "source_path": "corpus/krug_chtenija/v42_296_298_Krug_chtenija_weekly_dec_1_Zhenschiny.md",
+  "source_sha256": "d092b8a00f52d2ae456db6b48e78928c06348c3dd9f5a13777b54a3e2d708e2e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Every source block (16) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Призвание» (prizvanie, 'calling'), «назначение» (naznachenie, 'purpose'), and «служение» (sluzhenie, 'service') are kept distinct and constant; «возращение» (vozrashchenie) is 'rearing', «воспитание» (vospitanie) 'upbringing', and «кормление» (kormlenie) 'nursing'. Pronouns for God are lowercase as in the source (the website draft had 'Him')."
+  ],
+  "result": "PASS"
+}

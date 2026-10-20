@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.05",
+  "source_path": "corpus/krug_chtenija/v42_307_309_Krug_chtenija_daily_dec_1_3.md",
+  "source_sha256": "caaecc90d80a4773fca84591f9c1fad7259907db1248966683366ee0f8e7a9bd",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (22) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Заражаться» (zarazhat'sya, 'to be infected') is kept as Tolstoy's central image for the working of art, «совершенствование» (sovershenstvovanie) is 'perfecting', and «развращенный» (razvrashchenny) is 'depraved'. «Магометанские» (magometanskie) is 'Muslim'; the source's «христианское» (khristianskoe) in reading 6 is read as the plural «христианские» (khristianskie, 'Christian').",
+    "Source observation: [18] «все христианское и магометанские учители»: «христианское» (singular neuter) is evidently a slip for «христианские» ('Christian', plural); translated as 'all the Christian and Muslim teachers'.",
+    "Source observation: [18] The question «лишиться ли всего того, что теперь считается искусством, вместе с ложным, и всего хорошего, которое есть теперь» has no second alternative after «ли» (li, 'whether'); the sentence is translated as printed."
+  ],
+  "result": "PASS"
+}

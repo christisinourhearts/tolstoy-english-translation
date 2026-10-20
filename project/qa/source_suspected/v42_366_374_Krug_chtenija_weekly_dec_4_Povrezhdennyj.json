@@ -1,0 +1,12 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_366_374_Krug_chtenija_weekly_dec_4_Povrezhdennyj.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[2] «восчики» (voschiki) is evidently a slip for «возчики» (vozchiki, 'carters'); translated 'carters'.",
+    "[17] «т. e.» is printed with a Latin 'e' in the abbreviation «т. е.» (t. e., 'that is'); no effect on the sense.",
+    "[65] «Ост-Индской кампании» (kampanii, 'campaign') is evidently «компании» (kompanii, 'company'); translated 'the East India Company'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

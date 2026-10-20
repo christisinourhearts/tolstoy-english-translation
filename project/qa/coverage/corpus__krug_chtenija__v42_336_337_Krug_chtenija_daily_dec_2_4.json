@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.16",
+  "source_path": "corpus/krug_chtenija/v42_336_337_Krug_chtenija_daily_dec_2_4.md",
+  "source_sha256": "a8acdf51e5e6a6d9dfba78f981f2d1917139f23ab3218d829204e09313736b3e",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (24) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Bondarev's «В поте лица снеси хлеб твой» (V pote litsa snesi khleb tvoy, Genesis 3:19) is Church Slavonic and is rendered literally in a slightly archaic register (D0002). The source prints the Ezekiel reference in the Talmud passage as «Иезекииль 22, 27» (Iezekiil' 22, 27); the verse is Ezekiel 27:29, which the English gives.",
+    "Source observation: [11] Bible reference printed «(Иезекииль 22, 27)»; the quoted verse is Ezekiel 27:29 (Synodal «И сойдут с кораблей своих все гребцы…»). Corrected in the English."
+  ],
+  "result": "PASS"
+}

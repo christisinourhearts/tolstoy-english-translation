@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.15",
+  "source_path": "corpus/krug_chtenija/v42_333_336_Krug_chtenija_daily_dec_2_3.md",
+  "source_sha256": "c76cae6fbc9e10c7813215bdd4b9e4383c19b80f3053fb44efc35e15a5d0bbb9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (37) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Соблазн» (soblazn, 'temptation') is 'temptation' throughout, including «соблазняет» (soblaznyaet, 'tempts') in Matthew 18:7–9, and the legend's «искушение» (iskushenie) is also 'temptation'. The second saying is numbered «9» in the source (1, 9, 3…); the number is kept as printed and flagged.",
+    "Source observation: [7] section number printed «9» between 1 and 3; the sequence requires 2. Kept as printed.",
+    "Source observation: [30] «упиращийся» is a slip for «упирающийся» (upirayushchiysya, 'propping'); translated in that sense."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_307_309_Krug_chtenija_daily_dec_1_3.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[18] «все христианское и магометанские учители»: «христианское» (singular neuter) is evidently a slip for «христианские» ('Christian', plural); translated as 'all the Christian and Muslim teachers'.",
+    "[18] The question «лишиться ли всего того, что теперь считается искусством, вместе с ложным, и всего хорошего, которое есть теперь» has no second alternative after «ли» (li, 'whether'); the sentence is translated as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 41 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/41/"
+}

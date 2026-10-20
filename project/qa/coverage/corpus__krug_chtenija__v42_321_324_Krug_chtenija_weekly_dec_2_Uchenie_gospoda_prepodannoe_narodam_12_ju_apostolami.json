@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.12",
+  "source_path": "corpus/krug_chtenija/v42_321_324_Krug_chtenija_weekly_dec_2_Uchenie_gospoda_prepodannoe_narodam_12_ju_apostolami.md",
+  "source_sha256": "ece2ae04063cf13430f75acae89c826fccd062eb613e8af6215c913da3335817",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (25) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "Translated from Tolstoy's Russian text of the Didache, not from the Greek or any English version; his Russian measures and clothing are kept («верста» (versta) 'verst', «кафтан» (kaftan) 'caftan'), and «отец» (otets, 'father') keeps the source's lowercase. «Путь» (put') is 'path' throughout, «обличай» (oblichay) 'rebuke' as in the preface, «чадо мое» (chado moyo) 'my child', and «раб» (rab) 'slave'.",
+    "Source observation: [16] «со страхом при всяком случае вспоминай эти, которые ты слышал» (so strakhom pri vsyakom sluchae vspominay eti, kotorye ty slyshal, 'with fear on every occasion remember these, which you have heard') lacks a noun after «эти» ('these'), probably «слова» ('words'); translated as printed"
+  ],
+  "result": "PASS"
+}

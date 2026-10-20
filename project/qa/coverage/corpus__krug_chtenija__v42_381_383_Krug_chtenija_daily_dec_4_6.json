@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.12.35",
+  "source_path": "corpus/krug_chtenija/v42_381_383_Krug_chtenija_daily_dec_4_6.md",
+  "source_sha256": "0abc0766c8b5d26e94ae4662cca0943a27a0b179408bb144b8a8f260a18048cf",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (23) has a matching target block, with page markers, numbering, quotation structure, and italics preserved.",
+    "Website Circle of Reading paragraphs served as the first draft; each was re-read against the Russian and revised where it drifted (omissions, additions, generic he/his, terminology, attribution form).",
+    "«Разум» (razum) is 'reason' and «ум» (um) 'mind', as elsewhere in the book, so Confucius's world 'animated by reason' and Lichtenberg's 'our reason is reflected in the world' keep Tolstoy's term. The Buddhist passage keeps the print's «сделана для костей» (sdelana dlya kostey, 'made for bones') and its repeated «хилый» (khily, 'frail').",
+    "Source observation: [17] «Эта крепость была сделана для костей» ('this fortress was made for bones'): the Dhammapada image (v. 150) is a fortress made of bones, so «для» (dlya, 'for') may stand for «из» (iz, 'of'); translated as printed."
+  ],
+  "result": "PASS"
+}
