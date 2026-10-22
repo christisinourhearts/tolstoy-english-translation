@@ -1,0 +1,14 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_518_531_Krug_chtenija_Varianty.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[28] Comma between the double subject and its verb, with singular «поглотило» (poglotilo, 'absorbed'): «Желание ... и невозможность изменить своим убеждениям, поглотило» (Zhelanie ... i nevozmozhnost' izmenit' svoim ubezhdeniyam, poglotilo, 'The desire ... and the impossibility of betraying his convictions, absorbed'); translated as a normal plural sentence.",
+    "[29] The opening quotation mark of «Заснуть бы, — подумал он, — чтобы не ослабеть потом. (Zasnut' by, 'I should sleep') is never closed, so the following narration and the inner quotations stand inside it; kept unclosed as printed.",
+    "[44] «созывался сбор» (sozyvalsya sbor, 'a gathering was convened'), where the finished chapter X has «собор» (sobor, 'assembly'); possibly a slip for «собор»; translated as printed ('a gathering').",
+    "[124] «с озабоченым видом» (s ozabochenym vidom, 'with a preoccupied air'): one-letter slip for «озабоченным» (ozabochennym); translated in the evident sense.",
+    "[137] Footnote 9: the deleted passage opens a quotation («Что это? Отчего это?», Chto eto? Otchego eto?, 'What is this? Why is this?') whose closing mark is missing; kept unclosed as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

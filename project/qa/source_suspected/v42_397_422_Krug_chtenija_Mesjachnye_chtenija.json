@@ -1,0 +1,20 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_397_422_Krug_chtenija_Mesjachnye_chtenija.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[11] «годдаринским бесам» (goddarinskim besam): evident slip for «гадаринским» (gadarinskim, 'Gadarene'); translated 'Gadarene demons'.",
+    "[11] «жервоприношения» (zhervoprinosheniya): letter dropped, for «жертвоприношения» (zhertvoprinosheniya, 'sacrifice'); translated 'sacrifice'.",
+    "[15] «восстанете тогда от царя вашего» (vosstanete, 'you will rise up'): the Synodal 1 Samuel 8:18 has «восстенаете» (vosstenaete, 'you will cry out'), which alone makes sense with «от царя» ('because of the king'); translated 'you will cry out then because of your king'.",
+    "[16] «в книге Судей и в книге Руфь»: the quoted words ('In those days there was no king in Israel…') are Judges 17:6 and 21:25; the book of Ruth has only 'in the days when the judges ruled' (Ruth 1:1). The author's own sentence, kept as printed.",
+    "[39] «теряют свои вкус» (svoi vkus): plural «свои» for singular «свой» ('their taste'); translated the evident sense.",
+    "[40] «если захотите не только освободиться, но только пожелать этого» (literally 'if you want not only to free yourselves, but only to wish this'): La Boétie's sense is 'not to free yourselves, but only to wish it'; «не только» is probably a slip for «не то что» ('not even'); translated 'if you want not even to free yourselves, but only to wish for it'.",
+    "[101] The heading runs the title and the byline together with no punctuation («…ТОРЖЕСТВО ЗЕМЛЕДЕЛЬЦА СОЧИНЕНИЕ КРЕСТЬЯНИНА Т. БОНДАРЕВА»), evidently two heading lines merged in transcription; translated as printed.",
+    "[103] «запутанные часто нелепые» lacks the comma expected between the adjectives (cf. «неясные, запутанные»); translated as 'confused, often absurd'.",
+    "[132] «H для жены» has a Latin capital H in place of Cyrillic «и» ('and'); translated as 'and for his wife'.",
+    "[134] «удалить по заповедям от этого труда жен ваших» ('your wives') — the argument (peasant wives work the upper class's share of bread) seems to require «жен наших» ('our wives'); translated as printed ('your wives').",
+    "[199] «то как одна должна быть вера» reads like a slip for «тогда как» ('whereas'); translated in that evident sense."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

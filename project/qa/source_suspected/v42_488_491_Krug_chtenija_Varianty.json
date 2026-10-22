@@ -1,0 +1,11 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_488_491_Krug_chtenija_Varianty.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "[19] «и это вера есть именно та»: «это» is evidently a slip for «эта» ('this faith'); translated 'and that this faith is precisely the one'.",
+    "[25] «как как говорит Паскаль»: «как» is doubled; translated once ('as Pascal says')."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings affects meaning, so the unit is not held out of reviewed status; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

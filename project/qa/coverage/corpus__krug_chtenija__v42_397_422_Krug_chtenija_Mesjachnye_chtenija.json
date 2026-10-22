@@ -1,0 +1,31 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.01",
+  "source_path": "corpus/krug_chtenija/v42_397_422_Krug_chtenija_Mesjachnye_chtenija.md",
+  "source_sha256": "fefdf8059d2904d52cabbf688f0c50a692c7121295c3868140f7c14a325e6b95",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (204) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "The appendix gives one reading for each month; some months give only a cross-reference (January: Lamennais, 20 December; July: Olkhovik's letter in vol. 41), and the long readings are translated fresh: Buka on worship and the 'worldly deception', Tolstoy on governments, La Boétie, Drozhzhin's death, and A. Škarvan's letter and article. La Boétie keeps the terms of the weekly reading for June 4: 'voluntary servitude' for the title phrase «добровольное рабство» (dobrovol'noe rabstvo), «рабство» (rabstvo) 'slavery', «государь» (gosudar') 'sovereign'; «власть / власти» (vlast' / vlasti) is 'power' in the essays and 'the authorities' in the August dialogue, «воинская повинность» (voinskaya povinnost') is 'military duty' as against «военная служба» (voyennaya sluzhba, 'military service'), and the Slavonic «иже есть на небесех» (izhe yest' na nebesekh) is 'who art in heaven'. In the March reading «Первая Книга Царств» (Pervaya Kniga Tsarstv, 'First Book of Kingdoms') is given by its English name, the First Book of Samuel; the author's sentence names the book of Ruth beside Judges for “there was no king in Israel” (Judges 17:6, 21:25), and this is kept as printed. In Bondarev's treatise «хлебный труд» (khlebny trud) is 'bread labor', «работать хлеб» (rabotat' khleb) is kept as 'work bread', and «первородная заповедь / первородный закон» (pervorodnaya zapoved' / pervorodny zakon) is 'the original commandment / original law', echoing «первородный грех» (pervorodny grekh, 'original sin'); his Church Slavonic quotations (Genesis 3:16, 3:19, 19:11, Numbers 22:30) are rendered in a slightly archaic register, his Russian paraphrases in plain English. The printed source has «H» for «и» (i, 'and') in Bondarev's text and «жен ваших» (zhen vashikh, 'your wives') where the argument seems to want 'our wives'; both are translated as printed and flagged.",
+    "Source observation: [11] «годдаринским бесам» (goddarinskim besam): evident slip for «гадаринским» (gadarinskim, 'Gadarene'); translated 'Gadarene demons'.",
+    "Source observation: [11] «жервоприношения» (zhervoprinosheniya): letter dropped, for «жертвоприношения» (zhertvoprinosheniya, 'sacrifice'); translated 'sacrifice'.",
+    "Source observation: [15] «восстанете тогда от царя вашего» (vosstanete, 'you will rise up'): the Synodal 1 Samuel 8:18 has «восстенаете» (vosstenaete, 'you will cry out'), which alone makes sense with «от царя» ('because of the king'); translated 'you will cry out then because of your king'.",
+    "Source observation: [16] «в книге Судей и в книге Руфь»: the quoted words ('In those days there was no king in Israel…') are Judges 17:6 and 21:25; the book of Ruth has only 'in the days when the judges ruled' (Ruth 1:1). The author's own sentence, kept as printed.",
+    "Source observation: [39] «теряют свои вкус» (svoi vkus): plural «свои» for singular «свой» ('their taste'); translated the evident sense.",
+    "Source observation: [40] «если захотите не только освободиться, но только пожелать этого» (literally 'if you want not only to free yourselves, but only to wish this'): La Boétie's sense is 'not to free yourselves, but only to wish it'; «не только» is probably a slip for «не то что» ('not even'); translated 'if you want not even to free yourselves, but only to wish for it'.",
+    "Source observation: [101] The heading runs the title and the byline together with no punctuation («…ТОРЖЕСТВО ЗЕМЛЕДЕЛЬЦА СОЧИНЕНИЕ КРЕСТЬЯНИНА Т. БОНДАРЕВА»), evidently two heading lines merged in transcription; translated as printed.",
+    "Source observation: [103] «запутанные часто нелепые» lacks the comma expected between the adjectives (cf. «неясные, запутанные»); translated as 'confused, often absurd'.",
+    "Source observation: [132] «H для жены» has a Latin capital H in place of Cyrillic «и» ('and'); translated as 'and for his wife'.",
+    "Source observation: [134] «удалить по заповедям от этого труда жен ваших» ('your wives') — the argument (peasant wives work the upper class's share of bread) seems to require «жен наших» ('our wives'); translated as printed ('your wives').",
+    "Source observation: [199] «то как одна должна быть вера» reads like a slip for «тогда как» ('whereas'); translated in that evident sense."
+  ],
+  "result": "PASS"
+}

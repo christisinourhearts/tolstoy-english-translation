@@ -1,8 +1,8 @@
 # R003 review queue — *Circle of Reading* translation
 
-Everything from the R003 translation batches (the whole calendar, January–December) that needs Andrei's eye: print checks against the printed volume, decisions to confirm, uncertain identifications, and website notes. Tick items off (`[x]`) or add a decision line under them. Each batch's own list is also in `project/qa/batches/R003.md`; per-file details are in `project/qa/source_suspected/` and each file's `translation_note`.
+Everything from the R003 translation batches (the whole calendar, January–December, and the appendices of volume 42) that needs Andrei's eye: print checks against the printed volume, decisions to confirm, uncertain identifications, and website notes. Tick items off (`[x]`) or add a decision line under them. Each batch's own list is also in `project/qa/batches/R003.md`; per-file details are in `project/qa/source_suspected/` and each file's `translation_note`.
 
-Last updated: 2026-10-20 (after R003.12; the calendar is complete).
+Last updated: 2026-10-22 (after R003.13; the calendar and the appendices of volume 42 are translated).
 
 ## 1. Decisions already made (for the record)
 
@@ -23,6 +23,7 @@ Last updated: 2026-10-20 (after R003.12; the calendar is complete).
 - [ ] Place names: historical "Kiev", "Vilna"; Polish names in Polish spelling in *What For?* (Józef Migurski, Rosołowski with ł).
 - [ ] Dialogue: Russian dash convention kept ("— Well, — said Korney, — come on.") rather than English quotation marks.
 - [ ] Weekly titles changed on the site to match the translation: "Perfecting" (was "Self-Perfection"), "The Buddha", "The Archangel Gabriel", "The Surat Coffeehouse", "The Street Vendor", "A Grain as Big as a Hen's Egg", "Upbringing", "Must It Be So?", "First Sorrow", "Voluntary Servitude", "The Order of the World", "The Unbeliever", "Why Do Men Stupefy Themselves?", "Petr Chelčický", "What For?", "Living Relics", "The Divine and the Human", "The Demands of Love".
+- [ ] **Appendices (R003.13):** «Первая Книга Царств» given as "the First Book of Samuel" (English name, as with Psalm numbering); «Возмездие» = "Requital" (day VII of the reserve days), «Ложь» = "Lying" (day IX); «Тит Ливий» = "Titus Livius" (or "Livy"?); «Томас Бейн» printed for Paine, given as "Thomas Paine."; «Черный» in *Korney Vasiliev* variant 1 = "Chorny" (to pair with "Bely"; strict D0003 would give "Chyorny"); «Панни» in the *What For?* drafts kept as "Panni"; Bondarev's «хлебный труд» = "bread labor"; variant notes may quote one Russian word in brackets where a slip cannot be shown in English (`*Written:* sing [спеть]`).
 
 ## 3. Uncertain names and identifications
 
@@ -42,6 +43,7 @@ Last updated: 2026-10-20 (after R003.12; the calendar is complete).
 - [ ] 1 Dec *Sisters*: «Кашо» → "Kasho" (Maupassant's name not confirmed).
 - [ ] 29 Dec weekly: «Вечбас» (Vrbas/Verbász?).
 - [ ] 21 Sep Mexican king's testament dated «около 1460 года до Р. Хр.» ("B.C."); Nezahualcoyotl lived A.D. 1402–1472.
+- [ ] Appendices: «Женевио-Лан» → "Genevio-Lan" (unidentified); «Ибрагим Кордовский» → "Ibrahim of Cordoba"; «Амшаспанд-Брахман» → "Amshaspand-Brahman" (probably Amshaspand Bahman); «Каорда Авеста» → "Khorda Avesta"; «Приорский» in the *What For?* drafts → "Priorski" (perhaps Piotrowski); «Персидская Кейям» → "Persian Khayyam".
 
 ## 4. Print checks (volumes 41–42): passages to compare with the printed page
 
@@ -175,6 +177,24 @@ Mostly: an attribution printed before a paragraph that seems to belong to the sa
 - [ ] **On the Sect of the Nazarenes, Which Has Spread in Hungary, Serbia, and Croatia. By V. Olkhovsky** (vol. 42, pp. 386-389) — `v42_386_389_Krug_chtenija_weekly_dec_5_O_sekte_nazaren_rasprostranivshejsja_v_Vengrii_Serbii_i_Horvatii.md`
   - [5] reference «(5, 38 Матф.)» for «А я говорю вам: не противься злому» ('But I say to you: do not resist evil'); the verse is Matthew 5:39; corrected in the English
   - [7] «Вечбас» (Vechbas) in Bačka is unidentified, possibly a slip for Verbász (Vrbas, Russian «Вербас»); kept as printed
+- [ ] **Appendix: Monthly Readings** (vol. 42, pp. 397-422) — `v42_397_422_Krug_chtenija_Mesjachnye_chtenija.md`
+  - [15] «восстанете тогда от царя вашего» (vosstanete, 'you will rise up'): the Synodal 1 Samuel 8:18 has «восстенаете» (vosstenaete, 'you will cry out'), which alone makes sense with «от царя» ('because of the king'); translated 'you will cry out then because of your king'.
+  - [16] «в книге Судей и в книге Руфь»: the quoted words ('In those days there was no king in Israel…') are Judges 17:6 and 21:25; the book of Ruth has only 'in the days when the judges ruled' (Ruth 1:1). The author's own sentence, kept as printed.
+  - [40] «если захотите не только освободиться, но только пожелать этого» (literally 'if you want not only to free yourselves, but only to wish this'): La Boétie's sense is 'not to free yourselves, but only to wish it'; «не только» is probably a slip for «не то что» ('not even'); translated 'if you want not even to free yourselves, but only to wish for it'.
+  - [134] «удалить по заповедям от этого труда жен ваших» ('your wives') — the argument (peasant wives work the upper class's share of bread) seems to require «жен наших» ('our wives'); translated as printed ('your wives').
+- [ ] **Appendix: Thoughts Omitted by the Publisher for Censorship Reasons in the First Edition** (vol. 42, pp. 423-438) — `v42_423_438_Krug_chtenija_Mysli_vypuschennye_izdeatelem_po_tsenzurnym_soobrazhenijam_v_pervom_izdanii.md`
+  - [85] «ЗАКЛЮЧЕНИЕ» ('Conclusion') stands between the two opening thoughts of 25 March and its numbered thoughts, followed by two page markers (p. 429 with no text); possibly misplaced or a remnant of the source layout. Translated as printed.
+  - [97]-[100] Signed «Чаннинг» (Channing), but [97] (from 'For a person's happiness') and [98] are from Thomas Paine, The Age of Reason, Part I ('Infidelity does not consist in believing, or in disbelieving...'); [99] also echoes Paine. Attribution kept as printed.
+- [ ] **Appendix: Reserve Days of the First Edition** (vol. 42, pp. 439-469) — `v42_439_469_Krug_chtenija_Zapasnye_dni_pervogo_izdanija.md`
+  - [167] «не затевать ссоры с ближним и не отвечать ему на его приветствие» ('not to start a quarrel with one's neighbor and not to answer his greeting'): the sense wants 'and to answer his greeting'; the second «не» ('not') looks like a slip. Translated as printed.
+  - [304] The heading prints «ХІІа» with Cyrillic Х and Belarusian-Ukrainian І letters instead of Latin XII; rendered 'XIIa'. The section's thoughts (love of God, renouncing one's own will) have nothing to do with its title «ОДУРМАНЕНИЕ ПРИБАВЛЕНИЕ» (odurmanenie pribavlenie, 'stupefaction, supplement'); title translated as printed.
+  - [316] Channing: «Идея свободы — в древних и новых религиях» ('the idea of freedom—in ancient and new religions'); Channing's sense (and the pairing with 'religious sects') suggests a slip for «республиках» (respublikakh, 'republics'); translated as printed.
+  - [425] Carlyle: «если справедливость остается годы и даже столетия не наказанной» ('if justice remains unpunished for years and even centuries'); the sense requires «несправедливость» (nespravedlivost', 'injustice'); translated as printed. The rhetorical question «неужели … вам всё еще напоминать…» also ends in a period, kept.
+- [ ] **Appendix: Unfinished Popular Version** (vol. 42, pp. 532-553) — `v42_532_553_Krug_chtenija_Nezakonchennoe_obschedostupnoe_izlozhenie.md`
+  - [49] «оскверняется всё тело» (oskvernyaetsya vsyo telo, 'the whole body is defiled'): the Synodal James 3:6 reads «оскверняет» (oskvernyaet, 'defiles'); translated as printed.
+  - [115] A continuation of the Lamennais passage of section 2 (8 January) is printed after the attribution «Ламенэ» (Lamene, 'Lamennais') and without the quotation marker; the attribution may be misplaced. Translated as printed.
+  - [293] The David Thomas passage ends «внушающее, освящающее кое-что» (vnushayushchee, osvyashchayushchee koe-chto, 'inspiring, hallowing something'), which reads oddly (perhaps «освещающее», osveshchayushchee, 'illuminating'); translated as printed.
+  - [328] «Человек вашего времени» (chelovek vashego vremeni, 'a person of your time'), where the same thought in the appendix of censored thoughts (19 January) reads «нашего» (nashego, 'of our time'); possibly a slip; translated as printed.
 
 ## 5. Website notes and ideas
 
@@ -184,8 +204,12 @@ Mostly: an attribution printed before a paragraph that seems to belong to the sa
 - [ ] Attribution lines on the site were left in their display form (not rewritten by R003); a later pass could align them with the printed form.
 - [ ] Site data still lacks Tolstoy's italics (all R003 italics live only in the repository).
 - [ ] FTP upload of changed files (see the latest WORKBENCH entry for the list).
+- [x] **Refuge = translation (checked 2026-10-21).** The Refuge and the *Circle of Reading* page read the same site data, so the Refuge already shows the R003 translation. A full comparison of every repository block with the site found no Tolstoy text still in its old wording (the only residues were two straight-quote lines in *The Archangel Gabriel*, now fixed). What remains Refuge-only: attribution display forms (above), bracketed glosses, the shortest-first display order, and the passages hidden in the 2026-09-15 subtractive pass.
+- [ ] **Hidden Tolstoy passages in the Refuge.** About 30 short Tolstoy units are hidden from the Refuge view (still shown on the *Circle of Reading* page), most "replaced by a substantially new editorial aphorism" on 2026-09-15: e.g. 15 February (simplicity, four thoughts), 19 February (Kant), 13 and 20 March, 7 and 11 April, 21, 23 and 24 May, 29 June, 9 July, 15 and 25 August, 12 and 21 September, 4 and 22 October, 22 December. Keep hidden, or show them again now that the translation is final?
+- [x] Evanghelușcă aphorisms (*Notebook*, *The Moral Clearing*) now close each day's readings, just before the poems, instead of being sorted to the top by length (2026-10-21, `assets/js/calendar-of-wisdom.js`).
+- [ ] **Repeated thoughts translated two ways.** Tolstoy repeats some thoughts on two days; a few repeats now differ slightly in English and could be made identical: Kant's "starry sky" (26 September / weekly 29: "growing" vs "increasing"); Matthew 22:36–40 (26 September / 6 March: punctuation); "purity of soul … strives for / toward holiness" (9 July / 3 May); "The purpose / aim of life is the permeation … by love" (24 August / 24 May); "indulgent to / toward others" (6 November / 7 June); "so far as / as far as it has been made clear to us" (8 December / 13 July); "Do good without (picking and) choosing to whom" (19 / 3 August); Laozi "returns to its root … repose / calm" (24 / 7 December); Matthew 6:19–21 "dig under / dig in" (15 November / 3 October).
 
 ## 6. Still to translate
 
 - [x] The calendar, January–December (R003.01–12).
-- [ ] The appendix files of *Krug chteniya* (not part of the daily calendar; about 47,000 Russian words): «Месячные чтения» (monthly readings, ~9,300), «Мысли, выпущенные издателем по цензурным соображениям в первом издании» (thoughts cut by the censor, ~3,700), «Запасные дни первого издания» (reserve days of the first edition, ~7,200), five «Варианты» files (variants, ~21,600), «Незаконченное общедоступное изложение» (unfinished popular exposition, ~5,000).
+- [x] The appendix files of *Krug chteniya* (R003.13, 2026-10-22): monthly readings, censored thoughts, reserve days of the first edition, five variant files, unfinished popular version. Not on the website.

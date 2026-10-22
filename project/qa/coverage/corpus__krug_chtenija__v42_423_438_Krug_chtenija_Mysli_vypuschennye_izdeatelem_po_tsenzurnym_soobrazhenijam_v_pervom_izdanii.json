@@ -1,0 +1,27 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.02",
+  "source_path": "corpus/krug_chtenija/v42_423_438_Krug_chtenija_Mysli_vypuschennye_izdeatelem_po_tsenzurnym_soobrazhenijam_v_pervom_izdanii.md",
+  "source_sha256": "0b911014f0b0a58470bb3ac297b3de96396de15d5c646fdbda5f23444b7d42a1",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (211) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "Tolstoy's terms are held: «разумение» (razumenie, 'understanding'), «совершенствование» (sovershenstvovanie, 'perfecting'), «государственное устройство» (gosudarstvennoe ustroystvo, 'state organization'); the Kant passage of 31 January and the opening thought of 9 March reuse the finished calendar English, changed only where this text differs. Attributions follow the print, with «Томас Бейн» (Tomas Beyn, a slip for Пейн, Peyn) given as Thomas Paine and «Тит Ливий» (Tit Liviy) as Titus Livius; the passage signed «Чаннинг» (Channing) is kept under his name, although its first paragraphs are from Paine's *Age of Reason*. The file title misprints «издеателем» for «издателем» (izdatelem, 'by the publisher').",
+    "Source observation: [subtitle] The file subtitle misprints «издеателем» for «издателем» (izdatelem, 'by the publisher'); the heading in [1] has the correct «ИЗДАТЕЛЕМ». Translated as 'by the Publisher'.",
+    "Source observation: [78] «людей, желающих преобразования его» (its transformation): singular «его» though the antecedent «правительства» (governments) is plural; translated as printed ('to transform it').",
+    "Source observation: [85] «ЗАКЛЮЧЕНИЕ» ('Conclusion') stands between the two opening thoughts of 25 March and its numbered thoughts, followed by two page markers (p. 429 with no text); possibly misplaced or a remnant of the source layout. Translated as printed.",
+    "Source observation: [97]-[100] Signed «Чаннинг» (Channing), but [97] (from 'For a person's happiness') and [98] are from Thomas Paine, The Age of Reason, Part I ('Infidelity does not consist in believing, or in disbelieving...'); [99] also echoes Paine. Attribution kept as printed.",
+    "Source observation: [131] «под видом либерализма науки, философии, религии»: possibly a dropped comma after «либерализма» (liberalizma, 'liberalism'); translated as printed ('the liberalism of science, philosophy, religion').",
+    "Source observation: [136] «Томас Бейн» (Tomas Beyn) is a slip for «Пейн» (Peyn, Paine): the quotation is the opening of Paine's Common Sense ('Society is produced by our wants, and government by our wickedness'). Rendered 'Thomas Paine.'",
+    "Source observation: [137] «не участие» printed as two words (cf. «неучастием», neuchastiem, in [133]); translated 'nonparticipation'."
+  ],
+  "result": "PASS"
+}

@@ -76,3 +76,46 @@ For each assigned file write `/home/claude/r003/out/<name>.json` (same `<name>` 
 - Run `python3 check.py` on all your files; all must pass with no unexplained warnings.
 - Re-read each finished file once against the Russian, block by block, specifically hunting for: dropped clauses, added words, wrong negation, number/name errors, singular "they", British spellings, quotes pasted from a familiar Bible translation.
 - Reply with: the list of files written, the count of blocks where you substantially revised the site draft vs kept it, every `flags` entry, and any convention question you were unsure about (with the choice you made).
+
+## Appendices (R003.13)
+
+Read `BRIEF.md` first; everything there still applies. These files are not calendar days. They are the Jubilee edition's appendices to *Circle of Reading*:
+
+| file | content | `subtitle_en` |
+|---|---|---|
+| `v42_397_422_..._Mesjachnye_chtenija` | "Monthly readings": one long reading per month (some only cross-references) | `Monthly Readings` |
+| `v42_423_438_..._Mysli_vypuschennye_...` | Thoughts the publisher left out of the first edition for censorship reasons, by date | `Thoughts Omitted by the Publisher for Censorship Reasons in the First Edition` (the file subtitle misprints «издеателем» for «издателем»: flag it) |
+| `v42_439_469_..._Zapasnye_dni_...` | "Reserve days" of the first edition: numbered extra days with titles | `Reserve Days of the First Edition` |
+| `v42_470_473_..._Varianty` | Variants (drafts) of the Preface | `Variants: Preface` |
+| `v42_474_487_..._Varianty` | Variants of *Korney Vasiliev* | `Variants: Korney Vasiliev` |
+| `v42_488_491_..._Varianty` | Variants of *Pascal* | `Variants: Pascal` |
+| `v42_492_517_..._Varianty` | Variants of *What For?* | `Variants: What For?` |
+| `v42_518_531_..._Varianty` | Variants of *The Divine and the Human* | `Variants: The Divine and the Human` |
+| `v42_532_553_..._Nezakonchennoe_...` | The unfinished popular version of the book, by date | `Unfinished Popular Version` |
+
+### Using earlier translations
+
+- `site_draft` (when present) is the old website translation; treat it as in BRIEF.md.
+- **`calendar_match`** (when present) is better: it is the finished, reviewed R003 translation of a closely matching Russian block elsewhere in the book (`ru` = that block's Russian, `en` = its English, `coverage` = share of your block's word triples found there). Where the Russian is identical, reuse that English word for word. Where the Russian differs (a draft wording, a variant), start from that English and change exactly what the Russian changes. This keeps the variants and the finished texts visibly comparable.
+- For the variants, the finished English stories are in `r003_work/prior/` (out-format JSON; the Russian is in `r003_work/drafts/<same name>.json`): Korney Vasiliev, Pascal, What For?, The Divine and the Human. The finished Preface is `r003_work/ref/preface_en.md`. **Read the relevant one before starting** and use its names, forms of address, place names, and recurring phrases (e.g. Korney, Kuzma, Marfa, Agasha, Yevstigney; Józef Migurski, Albina, Rosołowski; Svetlogub, Mezhenetsky; check each name there).
+
+### Variant markup (keep it exactly)
+
+- Headings like `## \* № 1 (рук. № 1).` → `## \* No. 1 (MS. No. 1).`; `(рук. № 2, к гл. XII)` → `(MS. No. 2, to ch. XII)`; `(рук. № 1, гл. I)` → `(MS. No. 1, ch. I)`. Keep the `\*` (it marks a text first published in this edition).
+- Footnote markers `[^n]` stay at the same place in the sentence (nearest equivalent word). Footnote definitions `[^n]: …` stay one per line, same numbers, same order.
+- `~~…~~` is text Tolstoy deleted: translate it, keeping the `~~` around the corresponding English.
+- Editorial labels (italic in the Russian, keep italic in English), use these consistently:
+  - *Зач.:* / *Зачеркнуто:* → *Deleted:*; *далее зачеркнуто:* → *further deleted:*
+  - *Переделано из:* → *Altered from:*
+  - *Написано:* → *Written:*; *Описка вместо:* → *Slip of the pen for:*
+  - *В подлиннике:* → *In the original:*
+  - *Было:* → *Originally:*; *Вписано:* → *Inserted:*; *Над строкой:* → *Above the line:*; *Абзац редактора.* → *Paragraph break by the editor.* (for any other label, translate it plainly and list it in your reply)
+- A note that quotes a single Russian word that the translation cannot show as a separate word (e.g. *Написано:* спеть, where the point is a spelling or grammatical slip) may give the English sense followed by the Russian in brackets: `*Written:* sing [спеть]`. Cyrillic is allowed there only; the checker's Cyrillic warning is then deliberate.
+- Dates like `*1904. 28 августа.*` → `*1904. 28 August.*`.
+
+### Other notes
+
+- Cross-references: «См. Ламенэ, 20 декабря, 4 (стр. 360—361).» → "See Lamennais, 20 December, 4 (pp. 360–361)."; «См. т. 41, стр. 501—515.» → "See vol. 41, pp. 501–515."; «Недельное чтение после 27 октября» → "the weekly reading after 27 October".
+- The long monthly readings (La Boétie, Škarvan, Bondarev, etc.) are fresh translations: same constitution, same care. Names: «Боэти» = La Boétie; «А. Шкарван» = A. Škarvan (Albert Škarvan, the Slovak doctor; print what the Russian prints); «Т. Бондарев» = T. Bondarev (Timofei Bondarev); «Петр Ольховик» = Pyotr Olkhovik.
+- Attributions in these files follow the calendar conventions in BRIEF.md (surname only if printed so, etc.). Bible references in Roman numerals («Мф. VI, 19—21.») → `Matthew 6:19–21.` as usual.
+- If a block is a draft of a thought that appears in the calendar but with different wording, translate the draft's wording (not the final one).

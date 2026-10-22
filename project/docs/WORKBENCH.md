@@ -315,3 +315,11 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - `project/qa/R003_REVIEW_QUEUE.md` regenerated: decisions, conventions to confirm, uncertain names, 61 passages for a print check, website notes (including Andrei's idea of clickable underlined glosses instead of bracketed ones), and the remaining appendix files.
 - Files to upload by FTP: `assets/data/calendar-of-wisdom/12.js`, `assets/data/calendar-of-wisdom.js`, `refuge/index.html`, `circle-of-reading/index.html` (plus any earlier files not yet uploaded).
 - Next (if wanted): the appendix files (monthly readings, censored thoughts, reserve days, variants, unfinished exposition; ~47,000 words).
+
+## 2026-10-22 — R003.13: the appendices of volume 42; *Circle of Reading* complete
+
+- 9 files (~47,000 Russian words), all reviewed: *Monthly Readings* (Buka, La Boétie, Škarvan, Bondarev's *Industry and Idleness*), *Thoughts Omitted by the Publisher for Censorship Reasons in the First Edition*, *Reserve Days of the First Edition*, the variants of the Preface, *Korney Vasiliev*, *Pascal*, *What For?* and *The Divine and the Human*, and the *Unfinished Popular Version*.
+- Translated fresh (no website text exists); where a passage coincides with the calendar or a finished story, the reviewed R003 English is reused and changed only where the Russian differs. Variant files keep the edition's apparatus (deletions `~~…~~`, footnotes, editorial labels).
+- Records: manifest, path migration, coverage and `source_suspected` records; `R003.md` (R003.13), `R003_BRIEF.md` (appendix section); review queue updated (14 more print checks, appendix conventions and names).
+- Removed the outdated repository copy of `tolstoy_verifiable_translation_page_spec.md` (Andrei's approval; the current spec lives with the website, an archived copy is in `__workshop/archive/`).
+- Validators: 0 errors.

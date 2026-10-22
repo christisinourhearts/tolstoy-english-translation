@@ -1,0 +1,22 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.06",
+  "source_path": "corpus/krug_chtenija/v42_488_491_Krug_chtenija_Varianty.md",
+  "source_sha256": "3bfcc4f4b466fb84b33f62517bfce8c9cf7cf9242a22cc249b089f6f2279b77b",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (28) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "These are Tolstoy's drafts of *Pascal*; where they coincide with the finished essay, its English is kept (the two faiths, 'Fate, God,' the man dying of thirst, the light that shines in the darkness), and Tolstoy's deletions are shown struck through. Pascal's Pensées keeps its French title as Tolstoy writes it; «единое на потребу» (yedinoe na potrebu), the Church Slavonic phrase of Luke 10:42, is 'the one thing needful'; «интеллигентная толпа» (intelligentnaya tolpa) is 'the intellectual crowd'; «староцерковное» / «новоцерковное» (starotserkovnoe / novotserkovnoe) are 'old-church' / 'new-church'. Nos. 6 and 7 are both labeled «рук. № 5» (ruk. No. 5, 'MS. No. 5') in the source, as printed.",
+    "Source observation: [19] «и это вера есть именно та»: «это» is evidently a slip for «эта» ('this faith'); translated 'and that this faith is precisely the one'.",
+    "Source observation: [25] «как как говорит Паскаль»: «как» is doubled; translated once ('as Pascal says')."
+  ],
+  "result": "PASS"
+}

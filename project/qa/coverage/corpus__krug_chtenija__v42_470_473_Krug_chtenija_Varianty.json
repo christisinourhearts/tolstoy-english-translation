@@ -1,0 +1,21 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.04",
+  "source_path": "corpus/krug_chtenija/v42_470_473_Krug_chtenija_Varianty.md",
+  "source_sha256": "aa3f99ab611522e34366d3d34273440ae3fd278d8e6a39dd92f3e4139e666504",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (10) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "These are Tolstoy's drafts of the Preface; wherever the draft Russian coincides with the final Preface, the wording of the finished English Preface is kept, and the footnotes give Tolstoy's deleted words struck through. «Передавать» (peredavat', 'to render, to convey') and «передача» (peredacha, 'rendering') are kept apart from «переводить» (perevodit', 'to translate'); «подлинник» (podlinnik) is 'original'; the Didache is named as Tolstoy names it, «Учение двенадцати апостолов» (Uchenie dvenadtsati apostolov, 'The Teaching of the Twelve Apostles'); «соблазнительные притчи» (soblaznitel'nye pritchi) is 'offensive parables', in the sense of giving offense. Note 20 is printed with the editors' label «Зач.:» (Zach., 'Deleted') in roman type and is so kept.",
+    "Source observation: [3] «для этих-то самых важных, по отношению каждой книге, людях»: «людях» (prepositional) where the construction needs «людей», and «по отношению каждой книге» lacks «к»; probably the draft's own slips (not emended in the source); translated in the evident sense."
+  ],
+  "result": "PASS"
+}

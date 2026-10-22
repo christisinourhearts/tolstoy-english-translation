@@ -1,0 +1,19 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_532_553_Krug_chtenija_Nezakonchennoe_obschedostupnoe_izlozhenie.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[49] «оскверняется всё тело» (oskvernyaetsya vsyo telo, 'the whole body is defiled'): the Synodal James 3:6 reads «оскверняет» (oskvernyaet, 'defiles'); translated as printed.",
+    "[64] The date line «6-е января.» (6 January) is printed with a final period, unlike the other date lines; kept as '6 January.'.",
+    "[86] The Marcus Aurelius passage follows the Buddhist saying of section 6 without a section number of its own (a «7» may be missing); translated as printed.",
+    "[115] A continuation of the Lamennais passage of section 2 (8 January) is printed after the attribution «Ламенэ» (Lamene, 'Lamennais') and without the quotation marker; the attribution may be misplaced. Translated as printed.",
+    "[138] «малых сил» (malykh sil, 'of the small forces') is a slip for «малых сих» (malykh sikh, 'these little ones'), as in Matthew 18:6; translated 'these little ones'.",
+    "[218] «Персидская Кейям» (Persidskaya Keyyam): the feminine adjective does not agree with the name Khayyam; perhaps «Персидский» (Persidskiy, 'Persian', masculine) or a dropped noun. Translated 'Persian Khayyam.'",
+    "[293] The David Thomas passage ends «внушающее, освящающее кое-что» (vnushayushchee, osvyashchayushchee koe-chto, 'inspiring, hallowing something'), which reads oddly (perhaps «освещающее», osveshchayushchee, 'illuminating'); translated as printed.",
+    "[315] «о состояния небесных тел» (o sostoyaniya nebesnykh tel): case slip for «о состоянии» (o sostoyanii, 'about the state'); translated 'about the state of the heavenly bodies'.",
+    "[328] «Человек вашего времени» (chelovek vashego vremeni, 'a person of your time'), where the same thought in the appendix of censored thoughts (19 January) reads «нашего» (nashego, 'of our time'); possibly a slip; translated as printed.",
+    "[332]-[333] A second «19-е января» (19 January) follows the first, marked «(Запас)» (zapas, 'reserve'); presumably a reserve day rather than a misdated 20 January. Translated as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

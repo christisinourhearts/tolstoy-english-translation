@@ -1,0 +1,16 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_423_438_Krug_chtenija_Mysli_vypuschennye_izdeatelem_po_tsenzurnym_soobrazhenijam_v_pervom_izdanii.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[subtitle] The file subtitle misprints «издеателем» for «издателем» (izdatelem, 'by the publisher'); the heading in [1] has the correct «ИЗДАТЕЛЕМ». Translated as 'by the Publisher'.",
+    "[78] «людей, желающих преобразования его» (its transformation): singular «его» though the antecedent «правительства» (governments) is plural; translated as printed ('to transform it').",
+    "[85] «ЗАКЛЮЧЕНИЕ» ('Conclusion') stands between the two opening thoughts of 25 March and its numbered thoughts, followed by two page markers (p. 429 with no text); possibly misplaced or a remnant of the source layout. Translated as printed.",
+    "[97]-[100] Signed «Чаннинг» (Channing), but [97] (from 'For a person's happiness') and [98] are from Thomas Paine, The Age of Reason, Part I ('Infidelity does not consist in believing, or in disbelieving...'); [99] also echoes Paine. Attribution kept as printed.",
+    "[131] «под видом либерализма науки, философии, религии»: possibly a dropped comma after «либерализма» (liberalizma, 'liberalism'); translated as printed ('the liberalism of science, philosophy, religion').",
+    "[136] «Томас Бейн» (Tomas Beyn) is a slip for «Пейн» (Peyn, Paine): the quotation is the opening of Paine's Common Sense ('Society is produced by our wants, and government by our wickedness'). Rendered 'Thomas Paine.'",
+    "[137] «не участие» printed as two words (cf. «неучастием», neuchastiem, in [133]); translated 'nonparticipation'."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

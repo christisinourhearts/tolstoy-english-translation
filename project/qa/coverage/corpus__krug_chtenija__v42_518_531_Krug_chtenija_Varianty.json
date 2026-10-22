@@ -1,0 +1,25 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.08",
+  "source_path": "corpus/krug_chtenija/v42_518_531_Krug_chtenija_Varianty.md",
+  "source_sha256": "244d589524f672b0acd9c7bd8e1897aa758ec3fc8f2194a13d054859bc150e82",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (138) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "Variants of the story are translated with the finished English text's names and wording wherever the Russian agrees (Svetlogub, Anatoly, Mezhenetsky, Roman; «колесница» (kolesnitsa) = \"the cart\"; «умиление» (umileniye) = \"tender emotion\"; смотритель (smotritel') = \"warden\", вахтер (vakhter) = \"warder\"), and changed only where the draft's Russian differs; the draft's revolutionary «Герман» (German) is given as Herman, and the boy's playmate «Гапка» (Gapka) and the warder «Красавцев» (Krasavtsev) are transliterated. Svetlogub's \"Our Father\" («Отче наш», Otche nash) line is given in the familiar prayer form (\"Thy will be done\"), while the Gospel words keep the plain wording of the finished story; footnotes marked *In the original:* quote the single Russian word behind a grammatical slip that the editors corrected, and struck-through text is Tolstoy's deletion.",
+    "Source observation: [28] Comma between the double subject and its verb, with singular «поглотило» (poglotilo, 'absorbed'): «Желание ... и невозможность изменить своим убеждениям, поглотило» (Zhelanie ... i nevozmozhnost' izmenit' svoim ubezhdeniyam, poglotilo, 'The desire ... and the impossibility of betraying his convictions, absorbed'); translated as a normal plural sentence.",
+    "Source observation: [29] The opening quotation mark of «Заснуть бы, — подумал он, — чтобы не ослабеть потом. (Zasnut' by, 'I should sleep') is never closed, so the following narration and the inner quotations stand inside it; kept unclosed as printed.",
+    "Source observation: [44] «созывался сбор» (sozyvalsya sbor, 'a gathering was convened'), where the finished chapter X has «собор» (sobor, 'assembly'); possibly a slip for «собор»; translated as printed ('a gathering').",
+    "Source observation: [124] «с озабоченым видом» (s ozabochenym vidom, 'with a preoccupied air'): one-letter slip for «озабоченным» (ozabochennym); translated in the evident sense.",
+    "Source observation: [137] Footnote 9: the deleted passage opens a quotation («Что это? Отчего это?», Chto eto? Otchego eto?, 'What is this? Why is this?') whose closing mark is missing; kept unclosed as printed."
+  ],
+  "result": "PASS"
+}

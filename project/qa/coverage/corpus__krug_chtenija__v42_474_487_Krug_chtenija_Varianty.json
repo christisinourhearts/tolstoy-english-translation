@@ -1,0 +1,23 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.05",
+  "source_path": "corpus/krug_chtenija/v42_474_487_Krug_chtenija_Varianty.md",
+  "source_sha256": "49dbd21106b105e9f25e845c7fb1c8e95993504ee2dd8cc2dd9d30eb33cb8aa2",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (222) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "Names, forms of address, and wording follow the finished *Korney Vasiliev*, reused wherever the draft Russian agrees; Variant No. 1 sets the story in «Прыски» (Prysky, where the final text has Gai) and calls the workman «Евстигней Черный» (Yevstigney Chorny, 'black'; Bely, 'white', in No. 2 and the final text). «Старшина» (starshina) is 'headman', kept apart from «старец» (starets, 'elder', the monk), «кум Липат» (kum Lipat, 'fellow godparent Lipat') is 'Godfather Lipat', and «вино» (vino, 'wine') is 'liquor', since the word means spirits here.",
+    "Source observation: [87] An empty «<sup></sup>» tag stands after the footnote marker [^41] (a transcription artifact); kept as printed.",
+    "Source observation: [87] «Расстрялся мыслями» (rasstryalsya myslyami) is not a standard form, probably «растерялся» (rasteryalsya, 'lost his head') or «расстроился» (rasstroilsya, 'was upset'); translated 'His thoughts were all astray'.",
+    "Source observation: [175] «жена.Она» lacks the space after the period; translated as two sentences."
+  ],
+  "result": "PASS"
+}

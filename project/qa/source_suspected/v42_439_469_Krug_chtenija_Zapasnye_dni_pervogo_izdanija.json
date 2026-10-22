@@ -1,0 +1,25 @@
+{
+  "source_path": "corpus/krug_chtenija/v42_439_469_Krug_chtenija_Zapasnye_dni_pervogo_izdanija.md",
+  "status": "OPEN_PRINT_CHECK",
+  "type": "transcription_or_print",
+  "findings": [
+    "[29] «Исаии гл. V, ст. 7, 8» (Isaiah 5:7, 8): the quoted text is Isaiah 5:8 only; reference kept as printed.",
+    "[128] «соображении» (soobrazhenii) for «соображений» (soobrazheniy, 'considerations'): one-letter slip; translated as 'considerations'.",
+    "[129] «Малоpu» is typed with Latin p and u for Cyrillic р and и (Малори, Malori); rendered 'Lucy Mallory' as at [119].",
+    "[134] «Амшаспанд-Брахман» (Amshaspand-Brakhman) twice: the Avesta's confession (Patet) names Amshaspand Bahman, guardian of cattle; 'Brahman' looks like an error in the source or its Russian intermediary. Translated as printed, 'Amshaspand-Brahman'.",
+    "[135] «Каорда Авеста» (Kaorda Avesta) for Khorda Avesta (Хорда Авеста); rendered 'Khorda Avesta'.",
+    "[167] «не затевать ссоры с ближним и не отвечать ему на его приветствие» ('not to start a quarrel with one's neighbor and not to answer his greeting'): the sense wants 'and to answer his greeting'; the second «не» ('not') looks like a slip. Translated as printed.",
+    "[176] The first number of day VIII is printed bold («**1**») and set as a text block, unlike every other number; day VIII also has no opening thought between its title and reading 1. Kept as printed.",
+    "[177] «Если адвокатуры, искусство и медицина» ('if the bars, art, and medicine'): plural «адвокатуры» for «адвокатура» (advokatura, 'the bar'), as in the three earlier mentions; translated 'the bar'.",
+    "[187] stray «**» after «10000 рублей,» (10,000 rubles): no footnote follows; omitted in the English.",
+    "[238] Reserve day X: the section number 3 is missing before this Talmud group (the numbering runs 1, 2, 4–9); translated as printed.",
+    "[304] The heading prints «ХІІа» with Cyrillic Х and Belarusian-Ukrainian І letters instead of Latin XII; rendered 'XIIa'. The section's thoughts (love of God, renouncing one's own will) have nothing to do with its title «ОДУРМАНЕНИЕ ПРИБАВЛЕНИЕ» (odurmanenie pribavlenie, 'stupefaction, supplement'); title translated as printed.",
+    "[316] Channing: «Идея свободы — в древних и новых религиях» ('the idea of freedom—in ancient and new religions'); Channing's sense (and the pairing with 'religious sects') suggests a slip for «республиках» (respublikakh, 'republics'); translated as printed.",
+    "[344] [345] Luke 17:7–8 is printed with final periods instead of question marks (the calendar text for 1 November has «?»); periods kept as printed.",
+    "[396] The sage's reply opens a quotation («Это прекрасный вопрос…) that is never closed; left unclosed as printed.",
+    "[425] Carlyle: «если справедливость остается годы и даже столетия не наказанной» ('if justice remains unpunished for years and even centuries'); the sense requires «несправедливость» (nespravedlivost', 'injustice'); translated as printed. The rhetorical question «неужели … вам всё еще напоминать…» also ends in a period, kept.",
+    "[461] Reserve day XIX: the section number 3 is missing before this Conway thought (the numbering runs 1, 2, 4, 5); translated as printed."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. The English follows the printed reading (or its evident sense where marked) and the unit stays reviewed; Confirm against the printed volume 42 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/42/"
+}

@@ -1,0 +1,30 @@
+{
+  "batch": "R003",
+  "unit": "R003.13.09",
+  "source_path": "corpus/krug_chtenija/v42_532_553_Krug_chtenija_Nezakonchennoe_obschedostupnoe_izlozhenie.md",
+  "source_sha256": "8c7cef87146dc12fa3ba0b2955d2658a92046bd14669ea0e481f82af76beb2c9",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": true,
+  "ambiguities_or_notes": [
+    "Every source block (346) has a matching target block, with page markers, numbering, quotation structure, italics, footnote markers, and deletion markup preserved.",
+    "Translated fresh from the Russian; where a passage coincides with the calendar or a finished story, the reviewed R003 English was reused and changed only where this text differs.",
+    "Tolstoy's terms are held: «совершенствоваться» (sovershenstvovat'sya, 'to perfect oneself'), «воспитание» (vospitanie, 'upbringing'), «душевный мир» (dushevnyy mir, 'peace of soul'); passages that also stand in the finished calendar or in the appendix of censored thoughts (19 January) reuse that English and change only what this text changes, the manuscript deletions are kept in strikethrough, and the three footnotes are translated. The Synodal Psalm 38:2 is given in English numbering as Psalm 39:1, the passage signed «Экклезиаст (апокрифический)» (Ekkleziast, apokrificheskiy, 'Ecclesiastes, apocryphal') is from Sirach 3, and the attributions follow the print, including the unidentified «Женевио-Лан» (Zhenevio-Lan, 'Genevio-Lan') and «Персидская Кейям» (Persidskaya Keyyam, 'Persian Khayyam').",
+    "Source observation: [49] «оскверняется всё тело» (oskvernyaetsya vsyo telo, 'the whole body is defiled'): the Synodal James 3:6 reads «оскверняет» (oskvernyaet, 'defiles'); translated as printed.",
+    "Source observation: [64] The date line «6-е января.» (6 January) is printed with a final period, unlike the other date lines; kept as '6 January.'.",
+    "Source observation: [86] The Marcus Aurelius passage follows the Buddhist saying of section 6 without a section number of its own (a «7» may be missing); translated as printed.",
+    "Source observation: [115] A continuation of the Lamennais passage of section 2 (8 January) is printed after the attribution «Ламенэ» (Lamene, 'Lamennais') and without the quotation marker; the attribution may be misplaced. Translated as printed.",
+    "Source observation: [138] «малых сил» (malykh sil, 'of the small forces') is a slip for «малых сих» (malykh sikh, 'these little ones'), as in Matthew 18:6; translated 'these little ones'.",
+    "Source observation: [218] «Персидская Кейям» (Persidskaya Keyyam): the feminine adjective does not agree with the name Khayyam; perhaps «Персидский» (Persidskiy, 'Persian', masculine) or a dropped noun. Translated 'Persian Khayyam.'",
+    "Source observation: [293] The David Thomas passage ends «внушающее, освящающее кое-что» (vnushayushchee, osvyashchayushchee koe-chto, 'inspiring, hallowing something'), which reads oddly (perhaps «освещающее», osveshchayushchee, 'illuminating'); translated as printed.",
+    "Source observation: [315] «о состояния небесных тел» (o sostoyaniya nebesnykh tel): case slip for «о состоянии» (o sostoyanii, 'about the state'); translated 'about the state of the heavenly bodies'.",
+    "Source observation: [328] «Человек вашего времени» (chelovek vashego vremeni, 'a person of your time'), where the same thought in the appendix of censored thoughts (19 January) reads «нашего» (nashego, 'of our time'); possibly a slip; translated as printed.",
+    "Source observation: [332]-[333] A second «19-е января» (19 January) follows the first, marked «(Запас)» (zapas, 'reserve'); presumably a reserve day rather than a misdated 20 January. Translated as printed."
+  ],
+  "result": "PASS"
+}
