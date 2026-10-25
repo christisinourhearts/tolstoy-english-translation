@@ -1,0 +1,19 @@
+{
+  "source_path": "corpus/works/v25_082_099_Dva_starika.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "p. 83, ch. I: «ВОТ намеднись» (vot namednis', 'why, just the other day') — ВОТ in capitals; read as Вот.",
+    "p. 86, ch. IV: «Я, — говорит, — раба Божия» (raba Bozhiya, 'servant [fem.] of God') in Yelisey's mouth, where the masculine «раб Божий» would be expected. English 'a servant of God' and Romanian 'un rob al lui Dumnezeu' are unaffected either way. Check against the printed page.",
+    "p. 87, ch. IV: «I болисть» — the I is Latin; read as Ukrainian І ('and').",
+    "p. 90, ch. VI: the Ukrainian women's speech has Latin letters («та i там i зажив», «днi», «Hi мабуть») and «э» for є in «таки э люди»; «Треба пити подивиться» has пити ('to drink') where піти ('to go') is required by sense. Read as 'we must go and have a look'. These may reproduce the edition's own spelling of Ukrainian; check against the print.",
+    "p. 92, ch. VIII: «сел с прихода па полу» — па for на ('on the floor').",
+    "p. 92, ch. VIII: «Пойти назад, — думает — а он» — missing comma after думает (trivial).",
+    "p. 93, ch. VIII: the paragraph «Вытащили, — говорит, — у меня портмонет…» lacks its opening dialogue dash; read as speech.",
+    "p. 96, ch. XI: «Дід! дидко!» — дідько in Ukrainian means 'devil'; in context the girl's word is the endearment 'granddad' (cf. «диду! дидусю!» in ch. V–VI). Read as 'Granddaddy'. Check against the print.",
+    "p. 99, ch. XII: «II понял он» — Latin II for И ('And').",
+    "Not a source error: ch. XI says Yefim parted from Yelisey «запрошлый год» ('the year before last', three times) and the woman says «летось» ('last summer'), while ch. XII says he was away «ровно год» ('exactly a year'). This is Tolstoy's own inconsistency and is preserved (the website edition note already mentions it)."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings is ambiguous in a way that changes the English or Romanian, so the unit is not held out of reviewed status. Confirm «раба Божия», «пити» and «дидко» against the printed volume 25 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/25/"
+}

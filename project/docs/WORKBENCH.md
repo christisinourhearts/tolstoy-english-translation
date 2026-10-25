@@ -323,3 +323,13 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Records: manifest, path migration, coverage and `source_suspected` records; `R003.md` (R003.13), `R003_BRIEF.md` (appendix section); review queue updated (14 more print checks, appendix conventions and names).
 - Removed the outdated repository copy of `tolstoy_verifiable_translation_page_spec.md` (Andrei's approval; the current spec lives with the website, an archived copy is in `__workshop/archive/`).
 - Validators: 0 errors.
+
+## 2026-10-25 — R004.01: *Two Old Men* (audit and retranslation)
+
+- Source: `corpus/works/v25_082_099_Dva_starika.md` (vol. 25, pp. 82–99, 1885), SHA-256 `ab0e08d0…5d3b2a`.
+- English: `translations/works/v25_082_099_Two_Old_Men.md`; Romanian companion in `tolstoy-romanian-translation` (`v25_082_099_Doi_batrani.md`).
+- Method: the website English and Romanian were aligned with the 151 Russian paragraphs, used as first drafts, and checked and revised paragraph by paragraph (R003 method); then English edit, a fresh-session audit of each language, and mechanical validation. 18/18 page markers; coverage PASS; validators 0 errors.
+- Fourteen hard defects in the old website text were corrected (among them «Нема чого й взяти», the dream in ch. VI, "the Lord accepted his [labors]" for «его-то принял Господь», and the last sentence's «оброк» as "duty" instead of "vow"). Report: `project/qa/reports/R004_TWO_OLD_MEN_AUDIT.md`; batch file `project/qa/batches/R004.md`.
+- Website: `two-old-men/index.html` and `two-old-men/romanian.html` rewritten from the reviewed text (backups in `__workshop/two-old-men/`); Romanian dictionary and pronunciation caches rebuilt. Files to upload by FTP: `two-old-men/index.html`, `two-old-men/romanian.html`, `assets/data/romanian-story/two-old-men.js`, `assets/data/romanian-story/pronunciation/two-old-men.js`.
+- Print checks pending (non-blocking): see `project/qa/source_suspected/v25_082_099_Dva_starika.json`.
+- The P-batch NEXT ACTION above is unchanged.

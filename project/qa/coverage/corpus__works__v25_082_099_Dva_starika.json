@@ -1,0 +1,26 @@
+{
+  "batch": "R004",
+  "unit": "R004.01",
+  "source_path": "corpus/works/v25_082_099_Dva_starika.md",
+  "source_sha256": "ab0e08d0ae0599733db3e61c5db62b19bf30fbbc411d9052afb066355e3d9b2a",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Audit and retranslation of the existing christisinourhearts.com English text. Every Russian paragraph was aligned with the website paragraphs and checked source-forward; the website text served as a first draft and was revised wherever it departed from the Russian.",
+    "Mechanical alignment: 18/18 page markers in identical sequence and at the same paragraph positions; title, five epigraph verses, twelve chapter headings; 151/151 source paragraphs mapped one-to-one (per chapter 25/9/12/13/5/8/9/6/5/7/19/27, including the two page-marker-only paragraphs at the ends of chapters VI and VII). The website splits dialogue into separate display paragraphs with speaker labels; the repository keeps the Russian paragraphing.",
+    "Numbers checked: 100 and ~300 rubles for the cottage; 100 rubles for the journey and 200 left at home; 10 hives, 70 + 30 = 100 rubles; ten times the means; five weeks; ~700 versts; 15 pounds of bread; 10 + 10 versts; fourth day; 17 rubles 20 kopecks; 5 and 70 versts; 17 hives instead of 10; three days before St. Peter's Day; 5 rubles passport, 40 rubles passage; third and fifth days at sea; 70 versts from Jaffa; third day to Jerusalem; 23 rubles = two tens + three; 9 candlesticks; 36 lamps; three days at the Sepulchre; six weeks; eight places; a year.",
+    "Hard defects corrected in the website text (listed in project/qa/reports/R004_TWO_OLD_MEN_AUDIT.md): IV «Нема чого й взяти» had been 'nothing to fetch it with' (now 'nothing here to take'); IV 'we're dying in here' (added 'dying'); VI dream: the girl was made to hold the foot-cloth and 'other leg' was added; VII 'reach Jerusalem' added twice and «оброк» turned into 'debt'; VIII «кидают» softened to 'lowered', the monk 'washed' Yefim's feet (Russian: wiped), «заколоть» softened to 'sacrifice'; IX 'borrowed' a ruble (Russian: took); X 'long-haired pilgrim' for «странник в скуфье»; XI «его-то принял Господь» rendered as the Lord accepting Yelisey's labors (Russian: him) with an added 'certainly'; XII one «Скучно нам без него» omitted; XII last sentence «оброк» rendered 'duty', breaking the vow motif of ch. I and VII.",
+    "Motifs held: оброк = 'vow' (I, VII, XII); Хозяин (God, VII) = 'the Master'; «лысина во всю голову» = '…over his whole head' at all five occurrences, with блестит 'gleam' kept distinct from светится 'shines with light' (X); венец = 'crown' in both IX (crown of thorns) and XII (the bees); душа = 'soul' (I, II, IV, XII).",
+    "Ukrainian speech (ch. IV old woman and peasant, ch. V–VI 'диду, дидусю', ch. VI the two women, ch. XI the girl) is rendered in plain English without marking the language in the body; recorded in body_source_languages and translation_note. The website note mentions it.",
+    "Interpretive choices recorded: бахилки (ch. II, a heelless leather footwear) = 'soft boots'; хохлы / хохлатчина = 'Ukrainians' / 'the Ukrainian country' (Tolstoy's colloquial term is not reproduced); Царьград = 'Tsargrad'; храм Софии-Премудрости = 'the church of Sophia the Wisdom'; благодатный огонь = 'the fire of grace'; «Не принимает душа» (IV) kept literally as 'My soul won't take it'; Спасибо in Yelisey's daughter-in-law's speech and in VII = 'Thank goodness'; «Уж солнце за дерево зашло» = 'behind the trees' (дерево read as collective).",
+    "Tolstoy's shifts of person and voice preserved: II «Сами хозяева, для себя сделаете» (second person, Yelisey's words in narration); IX «так как бы и со мной того же не было» (first person inside narrated thought); XI «Как-то без него сын…» (third person inside Yefim's thought). The historic present is kept where Tolstoy uses it in narration, except in speech tags («говорит» = 'he said').",
+    "Process: drafted and revised by one model in one working context; then a fresh-session subagent audited the full English source-forward and reverse (independence: fresh-session, same model family). It found no hard defects and 22 soft points; 19 were adopted (e.g. the repeated «во всю голову», «кум» consistency, 'out of my pocket' removed, 'That is' removed from the repeated «Божье дело»). This is not an other-model or human verification."
+  ],
+  "result": "PASS"
+}
