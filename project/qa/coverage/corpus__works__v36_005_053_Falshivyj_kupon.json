@@ -1,0 +1,24 @@
+{
+  "batch": "R004",
+  "unit": "R004.02",
+  "source_path": "corpus/works/v36_005_053_Falshivyj_kupon.md",
+  "source_sha256": "bd85c3ffea466e85b88b82db6562aaa1b5fed4602da60673c42e4f823fec4835",
+  "coverage_method": "exhaustive_source_to_target_pass",
+  "every_substantive_source_passage_checked": true,
+  "reverse_target_to_source_scan": true,
+  "known_omissions": [],
+  "known_unsupported_additions": [],
+  "names_numbers_dates_checked": true,
+  "structure_checked": true,
+  "source_suspected": false,
+  "ambiguities_or_notes": [
+    "Audit and retranslation of the christisinourhearts.com English text (version 1.0, 29 September 2026). Every Russian paragraph was aligned with the website paragraphs (through the site's English-Russian parallel edition) and checked source-forward; the website text served as a first draft and was revised wherever it departed from the Russian.",
+    "Mechanical alignment: 49/49 page markers in identical sequence and at the same paragraph positions (44 inside paragraphs, 5 as separate blocks); title, two part headings, 23 + 20 chapter headings; 565/565 source paragraphs mapped one-to-one; footnotes [^1]–[^4] at the same places, with the edition's four translations of Tolstoy's French rendered in the Notes. The website splits the Russian paragraphs into 1,017 display paragraphs (dialogue lines with speaker labels); the repository keeps the Russian paragraphing.",
+    "About 300 English corrections were classed as hard fidelity defects in the revision pass (omissions, additions, wrong meanings, referents and speakers, softened or intensified statements, names). Examples: I ch. II «валить?» was 'Shall we do it?' (Makhin asks whether he should go ahead) and «Как же...» was 'Of course...'; I ch. IX the unquoted «Будь с ними хорош, и они будут хороши» had been made a quotation with a different meaning; I ch. XV the Tsar 'who alone pitied the people and was just' had become one he 'still believed' to be just; I ch. XVI the 'lame, legless tailor' had been softened to one 'who had difficulty walking'; I ch. XXI Turchaninova asks for a visit (свидание) with Tyurin, not to be received by the minister; I ch. XXII and II ch. XIV the French had been translated into the body with 'in French' added; II ch. III Stepan's reasoning on the Gospel (the merciful to paradise, the unmerciful to hell) and both Gospel references had been cut; II ch. VII Makhin's account had lost 'converted the executioner', the reason he remembers, and 'he did not enter Stepan's soul'; II ch. IX the escape scene had been compressed by about a dozen sentences; II ch. XI the telegram scene had turned reported speech into dialogue; II ch. XIV «что дальше, то хуже» had become 'the more direct he became'; II ch. XVI an invented 'how Maria Semyonovna had changed him'.",
+    "Names: Fyodor (not Fedor), Yeropkin(a), the Liventsovs (not Livenzov); Pyotr Nikolaich where Tolstoy writes Николаич and Pyotr Nikolayevich where he writes Николаевич (I ch. IX opening, the telegram).",
+    "Terms held: купон 'coupon'; гимназист 'schoolboy'; становой 'district police officer'; земский начальник 'land captain' (the site had 'zemstvo chief'); урядник 'sergeant'; смотритель 'governor'; царь 'Tsar' and государь 'Sovereign' (the site mixed 'Emperor'); старец 'elder' (not 'old monk'); цыган 'Gypsy' (the site had 'Roma' and 'Romani'; choice for Andrei); Разве можно? 'How can you do such a thing?' in I ch. XXIII and its echo in II ch. I; простить 'forgive' kept apart from помиловать 'pardon'; Отче наш 'the Our Father'.",
+    "Kept as Tolstoy wrote it: historic present in II ch. IX; free indirect speech (I ch. IX, II ch. XIII); Vasily's misspelled letter (II ch. XVII) marked lightly; the French in French; the archimandrite inconsistency (I ch. XVIII, XX).",
+    "Process: eleven same-model subagents revised the chapters source-forward (English and Romanian together) from aligned packets; then four fresh-session subagents audited the English against the Russian, source-forward and reverse (independence: fresh-session, same model family). They found 1 hard defect (земский начальник as 'zemstvo chief', now 'land captain', applied in all three places) and 25 soft points, 24 adopted (one number-style point declined). One reversed sentence order (I ch. IX «Это что?») was corrected by merging two website paragraphs. This is not an other-model or human verification."
+  ],
+  "result": "PASS"
+}

@@ -1,0 +1,16 @@
+{
+  "source_path": "corpus/works/v36_005_053_Falshivyj_kupon.md",
+  "status": "NONSUBSTANTIVE_RESOLVED_BY_INSPECTION",
+  "type": "transcription_typography",
+  "findings": [
+    "Mixed alphabets, read as the obvious Cyrillic or Latin letters (D0009): «зa» with Latin a (I ch. VI, VIII, XI, XVII; II ch. II, IX, XIX); «y нас» with Latin y (II ch. XIV); «A Турчанинова» with Latin A (I ch. XXII); French «раs» typed with Cyrillic р and а (I ch. XXII).",
+    "Letter slips read correctly (D0009): «модод» for молод ('young', I ch. I); «быстрой ловко» for быстро, ловко ('quickly, deftly', I ch. III); «по Евгений Михайлович» for но ('but', I ch. VI); «инструментом сарае» for инструментном ('implement shed', I ch. IX); «о подольскими», «о ним», «о товарищами» for с ('with', I ch. X, XII, XXII); «вою правду» for всю ('the whole truth', I ch. XII); «рассвенет» for рассветет ('it will dawn', I ch. XV); «так ж» read as так же ('so too', I ch. XV); «рукотворенньм» for рукотворенным ('made by hands', II ch. III).",
+    "Punctuation and markup: empty <sup></sup> after «2 1/2» (I ch. I, p. 5); «— А очень просто. Махин взял купон. —» with a dangling dash before the next speech paragraph (I ch. II); comma before capital «А» (I ch. XIII); missing opening dialogue dash at the page break (I ch. XII, p. 20); italic asterisks around «что» (I ch. XVII, p. 26) and around a comma (II ch. I); stray semicolon after «молча» (II ch. III); full stop and comma swapped (II ch. XVI). None changes the meaning; translated as the evident reading.",
+    "Paragraph break inside a sentence at p. 17 (I ch. X): the page-marker block splits «…что у господ свести лошадей / хитро». The translation keeps the source paragraphing and runs the sentence across the break.",
+    "Capitals and hyphens: «Старостиной избой» with a capital С (I ch. XIV), read as the common noun ('the village elder's house'); «Степан-Пелагеюшкин» with a hyphen only once (II ch. IV), translated without it.",
+    "French as printed, kept: «fillete» (standard fillette, I ch. XXII, p. 32) and «Faites le venir» without the hyphen (II ch. XIV). Check against the print; correct only if the printed volume differs.",
+    "Not errors: the colloquial forms Евгенья/Евгенью, итти, аблакат, фатера (with Tolstoy's own gloss квартира), полотенцы, рожество, Вотче (peasant slurring of Отче), and the misspellings in Vasily's letter (мине, исделали, жилею) are deliberate or period forms and are translated as such. Tolstoy's own inconsistency, Misail called archimandrite (I ch. XVIII) before he is made one (I ch. XX), is preserved."
+  ],
+  "disposition": "Retain the audited Russian source and SHA-256 unchanged. None of these readings is ambiguous in a way that changes the English or Romanian, so the unit is not held out of reviewed status. Check the <sup></sup> (p. 5), italic «что» (p. 26), «fillete» (p. 32) and the p. 17 break against the printed volume 36 at the next print-witness pass.",
+  "witness_pending": "https://tolstoy.ru/online/90/36/"
+}

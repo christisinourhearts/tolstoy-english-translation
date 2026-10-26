@@ -333,3 +333,12 @@ The 1847 notebook text *On the Aim of Philosophy* (volume 1, pp. 229–232) was 
 - Website: `two-old-men/index.html` and `two-old-men/romanian.html` rewritten from the reviewed text (backups in `__workshop/two-old-men/`); Romanian dictionary and pronunciation caches rebuilt. Files to upload by FTP: `two-old-men/index.html`, `two-old-men/romanian.html`, `assets/data/romanian-story/two-old-men.js`, `assets/data/romanian-story/pronunciation/two-old-men.js`.
 - Print checks pending (non-blocking): see `project/qa/source_suspected/v25_082_099_Dva_starika.json`.
 - The P-batch NEXT ACTION above is unchanged.
+
+## 2026-10-26 — R004.02: *The Forged Coupon* (audit and retranslation)
+
+- Source: `corpus/works/v36_005_053_Falshivyj_kupon.md` (vol. 36, pp. 5–53, 1880/1904), SHA-256 `bd85c3ff…ec4835`.
+- English: `translations/works/v36_005_053_The_Forged_Coupon.md`; Romanian companion in `tolstoy-romanian-translation` (`v36_005_053_Cuponul_fals.md`).
+- Method: the website English and Romanian were aligned with the 565 Russian paragraphs (through the site's parallel edition), used as first drafts, and revised chapter by chapter against the Russian; terms harmonized; then a fresh-session audit of each language and mechanical validation. 49/49 page markers; footnotes [^1]–[^4] (the edition's translations of Tolstoy's French) translated; coverage PASS; validators 0 errors.
+- Report: `project/qa/reports/R004_FORGED_COUPON_AUDIT.md`; batch file `project/qa/batches/R004.md`. Choices for Andrei are listed in the report (Gypsy/Roma, speaker labels, Romanian «casa poporului»).
+- Website: `forged-coupon/index.html` (reading text and parallel English) and `forged-coupon/romanian.html` rewritten from the reviewed text (backups in `__workshop/forged-coupon/`).
+- The P-batch NEXT ACTION above is unchanged.
